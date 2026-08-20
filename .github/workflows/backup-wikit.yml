@@ -14,7 +14,7 @@ on:
     inputs:
       timeout:
         required: false
-        default: '1m'
+        default: '5h'
 
 permissions:
   contents: write

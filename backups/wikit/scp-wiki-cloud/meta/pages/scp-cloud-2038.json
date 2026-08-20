@@ -1,0 +1,76 @@
+{
+    "name": "scp-cloud-2038",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543676843,
+            "author": 8598968,
+            "stamp": 1777714306,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 马桶人。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543676836,
+            "author": 8598968,
+            "stamp": 1777714281,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543676823,
+            "author": 8598968,
+            "stamp": 1777714178,
+            "flags": "F",
+            "commentary": "已上传文件 “马桶人”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543676817,
+            "author": 8598968,
+            "stamp": 1777714144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543676754,
+            "author": 8598968,
+            "stamp": 1777713907,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11807088,
+            "name": "马桶人",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2038/%E9%A9%AC%E6%A1%B6%E4%BA%BA",
+            "size": "267.76 kB (274185 Bytes)",
+            "size_bytes": 274185,
+            "mime": "image/png",
+            "content": "PNG image data, 757 x 1022, 8-bit/color RGBA, non-interlaced",
+            "author": 8598968,
+            "stamp": 1777714178,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468604740,
+    "rating": 1,
+    "forum_thread": 17835934,
+    "tags": [
+        "原创",
+        "马桶人"
+    ],
+    "title": "Scp Cloud 2038",
+    "sitemap_update": 1777714306000,
+    "votings": [
+        [
+            10486976,
+            true
+        ]
+    ],
+    "is_locked": false
+}

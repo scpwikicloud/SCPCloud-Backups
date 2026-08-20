@@ -1,0 +1,60 @@
+{
+    "name": "scp-cloud-852",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1496305637,
+            "author": 7274437,
+            "stamp": 1665643713,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1496265612,
+            "author": 7274437,
+            "stamp": 1665562407,
+            "flags": "A",
+            "commentary": "已新增标签：kp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1496265599,
+            "author": 7274437,
+            "stamp": 1665562350,
+            "flags": "A",
+            "commentary": "已新增标签：大鲨鱼, 巨型, 打鲨鱼, 打鲨鱼中心, 鲨鱼, 鲨鱼！, 鲨鱼！！。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1496265323,
+            "author": 7274437,
+            "stamp": 1665561152,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1436407815,
+    "rating": 1,
+    "tags": [
+        "kp",
+        "大鲨鱼",
+        "巨型",
+        "打鲨鱼",
+        "打鲨鱼中心",
+        "鲨鱼",
+        "鲨鱼！",
+        "鲨鱼！！"
+    ],
+    "title": "SPC Cloud 852 “大鲨鱼”",
+    "sitemap_update": 1665643713000,
+    "votings": [
+        [
+            7274437,
+            true
+        ]
+    ],
+    "is_locked": false
+}

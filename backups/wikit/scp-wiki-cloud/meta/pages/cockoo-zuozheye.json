@@ -1,0 +1,44 @@
+{
+    "name": "cockoo-zuozheye",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545200495,
+            "author": 9112486,
+            "stamp": 1783960170,
+            "flags": "A",
+            "commentary": "已新增标签：up至上, 作者, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545200494,
+            "author": 9112486,
+            "stamp": 1783960152,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468976415,
+    "rating": 2,
+    "forum_thread": 18324546,
+    "tags": [
+        "up至上",
+        "作者",
+        "原创"
+    ],
+    "title": "Cockoo的迷你世界直播中心",
+    "sitemap_update": 1783960170000,
+    "votings": [
+        [
+            9112486,
+            true
+        ],
+        [
+            10140214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

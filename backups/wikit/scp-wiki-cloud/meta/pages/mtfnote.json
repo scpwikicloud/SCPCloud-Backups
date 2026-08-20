@@ -1,0 +1,251 @@
+{
+    "name": "mtfnote",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1201638759,
+            "author": 5967510,
+            "stamp": 1592046618,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1088013821,
+            "author": 5967510,
+            "stamp": 1589359210,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1087993609,
+            "author": 5967510,
+            "stamp": 1589358873,
+            "flags": "A",
+            "commentary": "已新增标签：mtf, 原创, 指导, 故事, 污染云分环境。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1087989041,
+            "author": 5967510,
+            "stamp": 1589358791,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1087942018,
+            "author": 5967510,
+            "stamp": 1589357984,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1087928921,
+            "author": 5967510,
+            "stamp": 1589357797,
+            "flags": "F",
+            "commentary": "已上传文件 “MTF”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1087925435,
+            "author": 5967510,
+            "stamp": 1589357753,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9069078,
+            "name": "MTF",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/mtfnote/MTF",
+            "size": "21.66 kB (22181 Bytes)",
+            "size_bytes": 22181,
+            "mime": "image/png",
+            "content": "PNG image data, 500 x 500, 8-bit/color RGBA, non-interlaced",
+            "author": 5967510,
+            "stamp": 1589357797,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1038533641,
+    "rating": 40,
+    "forum_thread": 13312580,
+    "tags": [
+        "mtf",
+        "原创",
+        "指导",
+        "故事",
+        "污染云分环境"
+    ],
+    "title": "MTF机动特遣队创作指导",
+    "sitemap_update": 1592046618000,
+    "votings": [
+        [
+            9790354,
+            true
+        ],
+        [
+            9731145,
+            true
+        ],
+        [
+            8305255,
+            true
+        ],
+        [
+            9110060,
+            true
+        ],
+        [
+            9859027,
+            true
+        ],
+        [
+            9650794,
+            true
+        ],
+        [
+            6329904,
+            true
+        ],
+        [
+            9877518,
+            true
+        ],
+        [
+            6449840,
+            true
+        ],
+        [
+            6678040,
+            true
+        ],
+        [
+            9809662,
+            true
+        ],
+        [
+            9556991,
+            true
+        ],
+        [
+            6127045,
+            true
+        ],
+        [
+            5964915,
+            true
+        ],
+        [
+            6326265,
+            true
+        ],
+        [
+            9785619,
+            true
+        ],
+        [
+            10249873,
+            true
+        ],
+        [
+            9869257,
+            true
+        ],
+        [
+            9904887,
+            true
+        ],
+        [
+            8683675,
+            true
+        ],
+        [
+            9880884,
+            true
+        ],
+        [
+            8433366,
+            true
+        ],
+        [
+            6353411,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6996994,
+            true
+        ],
+        [
+            5967510,
+            true
+        ],
+        [
+            8199944,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            7909347,
+            true
+        ],
+        [
+            8382698,
+            true
+        ],
+        [
+            9909183,
+            true
+        ],
+        [
+            6264761,
+            true
+        ],
+        [
+            9770536,
+            true
+        ],
+        [
+            10453329,
+            true
+        ],
+        [
+            8449090,
+            true
+        ],
+        [
+            10286600,
+            true
+        ],
+        [
+            10451297,
+            true
+        ],
+        [
+            6043113,
+            true
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

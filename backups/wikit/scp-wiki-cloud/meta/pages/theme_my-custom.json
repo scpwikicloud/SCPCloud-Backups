@@ -1,0 +1,33 @@
+{
+    "name": "theme:my-custom",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544745261,
+            "author": 9533373,
+            "stamp": 1781924891,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 版式。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544745241,
+            "author": 9533373,
+            "stamp": 1781924811,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468873652,
+    "rating": 0,
+    "tags": [
+        "搬运",
+        "版式"
+    ],
+    "title": "My Custom",
+    "sitemap_update": 1781924891000,
+    "votings": [],
+    "is_locked": false
+}

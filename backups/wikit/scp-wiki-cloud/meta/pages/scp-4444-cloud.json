@@ -1,0 +1,62 @@
+{
+    "name": "scp-4444-cloud",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1073626192,
+            "author": 6329988,
+            "stamp": 1587002365,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073626166,
+            "author": 6329988,
+            "stamp": 1587002295,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073626147,
+            "author": 6329988,
+            "stamp": 1587002264,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073626125,
+            "author": 6329988,
+            "stamp": 1587002181,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024646486,
+    "forum_thread": 13246796,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP－Cloud－4444－肯基基",
+    "sitemap_update": 1587002365000,
+    "votings": [
+        [
+            6225532,
+            true
+        ],
+        [
+            6329988,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

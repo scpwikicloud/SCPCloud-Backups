@@ -1,0 +1,43 @@
+{
+    "name": "scp-cn-4167",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544746805,
+            "author": 10140214,
+            "stamp": 1781931328,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档。 移除标签：留档。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544714801,
+            "author": 10140214,
+            "stamp": 1781788018,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运, 留档, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544714795,
+            "author": 10140214,
+            "stamp": 1781788004,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468866254,
+    "rating": 0,
+    "tags": [
+        "scp",
+        "中分存档",
+        "搬运",
+        "转载"
+    ],
+    "title": "SCP-CN-4167",
+    "sitemap_update": 1781931328000,
+    "votings": [],
+    "is_locked": false
+}

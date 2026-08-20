@@ -1,0 +1,444 @@
+{
+    "name": "scp-cloud-979",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 42,
+            "global_revision": 1540544480,
+            "author": 9929144,
+            "stamp": 1765508154,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1539943134,
+            "author": 9929144,
+            "stamp": 1764207963,
+            "flags": "A",
+            "commentary": "已新增标签：抽像宇宙。"
+        },
+        {
+            "revision": 40,
+            "global_revision": 1539901039,
+            "author": 9929144,
+            "stamp": 1764072449,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1539775515,
+            "author": 9929144,
+            "stamp": 1763699926,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1539757282,
+            "author": 9929144,
+            "stamp": 1763623101,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1539757279,
+            "author": 9929144,
+            "stamp": 1763623079,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1539757265,
+            "author": 9929144,
+            "stamp": 1763622958,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1539716780,
+            "author": 9929144,
+            "stamp": 1763532740,
+            "flags": "A",
+            "commentary": "已新增标签：爱682tv。"
+        },
+        {
+            "revision": 34,
+            "global_revision": 1539713489,
+            "author": 9929144,
+            "stamp": 1763507720,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1539713304,
+            "author": 9929144,
+            "stamp": 1763506682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1539713280,
+            "author": 9929144,
+            "stamp": 1763506498,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1539705965,
+            "author": 9929144,
+            "stamp": 1763467229,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1539705960,
+            "author": 9929144,
+            "stamp": 1763467210,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1539705678,
+            "author": 9929144,
+            "stamp": 1763465647,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1539705665,
+            "author": 9929144,
+            "stamp": 1763465598,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1539705654,
+            "author": 9929144,
+            "stamp": 1763465526,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1539705646,
+            "author": 9929144,
+            "stamp": 1763465489,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1539705127,
+            "author": 9929144,
+            "stamp": 1763462964,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1539705122,
+            "author": 9929144,
+            "stamp": 1763462921,
+            "flags": "F",
+            "commentary": "已上传文件 “塔菲美图”。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1539705081,
+            "author": 9929144,
+            "stamp": 1763462824,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1539705060,
+            "author": 9929144,
+            "stamp": 1763462651,
+            "flags": "A",
+            "commentary": "已新增标签：6820–a, scp–6820–a。"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1539705027,
+            "author": 9929144,
+            "stamp": 1763462614,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1539704635,
+            "author": 9929144,
+            "stamp": 1763461314,
+            "flags": "A",
+            "commentary": "已新增标签：基金会无了？！。 移除标签：基金会解散了！。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1539704630,
+            "author": 9929144,
+            "stamp": 1763461291,
+            "flags": "A",
+            "commentary": "已新增标签：939, scp–939。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1539704615,
+            "author": 9929144,
+            "stamp": 1763461225,
+            "flags": "A",
+            "commentary": "已新增标签：682不是无敌哒！！！。 移除标签：682不是无敌哒！。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1539704603,
+            "author": 9929144,
+            "stamp": 1763461186,
+            "flags": "A",
+            "commentary": "已新增标签：682, 682不是无敌哒！。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1539704586,
+            "author": 9929144,
+            "stamp": 1763461070,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1539704495,
+            "author": 9929144,
+            "stamp": 1763460743,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1539704474,
+            "author": 9929144,
+            "stamp": 1763460628,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539704458,
+            "author": 9929144,
+            "stamp": 1763460558,
+            "flags": "A",
+            "commentary": "移除标签：scp-6820–a。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539704453,
+            "author": 9929144,
+            "stamp": 1763460516,
+            "flags": "A",
+            "commentary": "已新增标签：scp-6820–a, scp–682死了, 基金会解散了！。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539704433,
+            "author": 9929144,
+            "stamp": 1763460297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539704411,
+            "author": 9929144,
+            "stamp": 1763460178,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539704353,
+            "author": 9929144,
+            "stamp": 1763460011,
+            "flags": "A",
+            "commentary": "已新增标签：scp, scp–682, 原创, 恶搞, 永雏塔菲, 糖化, 🍬。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539704347,
+            "author": 9929144,
+            "stamp": 1763459944,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539704345,
+            "author": 9929144,
+            "stamp": 1763459926,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539704339,
+            "author": 9929144,
+            "stamp": 1763459896,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539704334,
+            "author": 9929144,
+            "stamp": 1763459864,
+            "flags": "F",
+            "commentary": "已上传文件 “小塔菲”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539704319,
+            "author": 9929144,
+            "stamp": 1763459768,
+            "flags": "F",
+            "commentary": "已上传文件 “塔菲”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539704309,
+            "author": 9929144,
+            "stamp": 1763459727,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539704303,
+            "author": 9929144,
+            "stamp": 1763459685,
+            "flags": "F",
+            "commentary": "已上传文件 “永雏塔菲”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539704298,
+            "author": 9929144,
+            "stamp": 1763459644,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539704286,
+            "author": 9929144,
+            "stamp": 1763459557,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11685116,
+            "name": "塔菲",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-979/%E5%A1%94%E8%8F%B2",
+            "size": "154.45 kB (158156 Bytes)",
+            "size_bytes": 158156,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1000x1287, components 3",
+            "author": 9929144,
+            "stamp": 1763459768,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11685141,
+            "name": "塔菲美图",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-979/%E5%A1%94%E8%8F%B2%E7%BE%8E%E5%9B%BE",
+            "size": "122.31 kB (125244 Bytes)",
+            "size_bytes": 125244,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image, VP8 encoding, 1192x1788, Scaling: [none]x[none], YUV color, decoders should clamp",
+            "author": 9929144,
+            "stamp": 1763462921,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11685117,
+            "name": "小塔菲",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-979/%E5%B0%8F%E5%A1%94%E8%8F%B2",
+            "size": "136.47 kB (139749 Bytes)",
+            "size_bytes": 139749,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 800x1200, components 3",
+            "author": 9929144,
+            "stamp": 1763459864,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11685114,
+            "name": "永雏塔菲",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-979/%E6%B0%B8%E9%9B%8F%E5%A1%94%E8%8F%B2",
+            "size": "154.45 kB (158156 Bytes)",
+            "size_bytes": 158156,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 1000x1287, components 3",
+            "author": 9929144,
+            "stamp": 1763459685,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1466961958,
+    "rating": -2,
+    "forum_thread": 17452178,
+    "tags": [
+        "682",
+        "6820–a",
+        "682不是无敌哒！！！",
+        "939",
+        "dv至上",
+        "scp",
+        "scp–682",
+        "scp–6820–a",
+        "scp–682死了",
+        "scp–939",
+        "原创",
+        "基金会无了？！",
+        "恶搞",
+        "抽像宇宙",
+        "永雏塔菲",
+        "爱682tv",
+        "糖化",
+        "🍬"
+    ],
+    "title": "Scp–Cloud–979 糖潮",
+    "sitemap_update": 1765508154000,
+    "votings": [
+        [
+            9929144,
+            false
+        ],
+        [
+            7071305,
+            false
+        ],
+        [
+            10295896,
+            false
+        ],
+        [
+            9556133,
+            true
+        ]
+    ],
+    "is_locked": false
+}

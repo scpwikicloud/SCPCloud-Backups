@@ -1,0 +1,39 @@
+{
+    "name": "scp-8424",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545626286,
+            "author": 9533373,
+            "stamp": 1785586667,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545626277,
+            "author": 9533373,
+            "stamp": 1785586647,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469084520,
+    "rating": -1,
+    "tags": [
+        "euclid",
+        "scp",
+        "搬运"
+    ],
+    "title": "Scp 8424 ink",
+    "sitemap_update": 1785586667000,
+    "votings": [
+        [
+            10140214,
+            false
+        ]
+    ],
+    "is_locked": false
+}

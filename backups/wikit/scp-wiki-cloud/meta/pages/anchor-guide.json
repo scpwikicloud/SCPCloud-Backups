@@ -1,0 +1,76 @@
+{
+    "name": "anchor-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1545171228,
+            "author": 9533373,
+            "stamp": 1783837486,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545171098,
+            "author": 9533373,
+            "stamp": 1783837088,
+            "flags": "A",
+            "commentary": "已新增标签：互动性。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545171077,
+            "author": 9533373,
+            "stamp": 1783836966,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545171000,
+            "author": 9533373,
+            "stamp": 1783836639,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545170592,
+            "author": 9533373,
+            "stamp": 1783835008,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 文章。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545170550,
+            "author": 9533373,
+            "stamp": 1783834888,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468969892,
+    "rating": 0,
+    "forum_thread": 18132612,
+    "tags": [
+        "互动性",
+        "搬运",
+        "文章"
+    ],
+    "title": "（搬运）交互式wikidot页面制作指南——锚点篇",
+    "sitemap_update": 1783837486000,
+    "votings": [
+        [
+            9682829,
+            false
+        ],
+        [
+            10227132,
+            true
+        ]
+    ],
+    "is_locked": false
+}

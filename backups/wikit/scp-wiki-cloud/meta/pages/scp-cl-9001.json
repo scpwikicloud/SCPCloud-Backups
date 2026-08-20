@@ -1,0 +1,53 @@
+{
+    "name": "scp-cl-9001",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1308610768,
+            "author": 6603529,
+            "stamp": 1596200656,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 无效化, 行星。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1308608696,
+            "author": 6603529,
+            "stamp": 1596200634,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1258196916,
+    "rating": -2,
+    "forum_thread": 13601643,
+    "tags": [
+        "scp",
+        "原创",
+        "无效化",
+        "行星"
+    ],
+    "title": "SCP-CL-9001",
+    "sitemap_update": 1596200656000,
+    "votings": [
+        [
+            6104332,
+            false
+        ],
+        [
+            6678040,
+            false
+        ],
+        [
+            3061428,
+            false
+        ],
+        [
+            6603529,
+            true
+        ]
+    ],
+    "is_locked": false
+}

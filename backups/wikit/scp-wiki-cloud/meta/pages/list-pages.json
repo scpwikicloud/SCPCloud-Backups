@@ -1,0 +1,40 @@
+{
+    "name": "list-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1073112720,
+            "author": 3740635,
+            "stamp": 1586339097,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1071298406,
+            "author": 3740635,
+            "stamp": 1585818488,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1071295222,
+            "author": 3740635,
+            "stamp": 1585818436,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1022518438,
+    "forum_thread": 13203101,
+    "tags": [
+        "管理"
+    ],
+    "title": "List Pages",
+    "sitemap_update": 1586339097000,
+    "votings": [],
+    "is_locked": false
+}

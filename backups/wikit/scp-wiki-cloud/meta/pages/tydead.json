@@ -1,0 +1,47 @@
+{
+    "name": "tydead",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1203653422,
+            "author": 6324658,
+            "stamp": 1592135935,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1203646152,
+            "author": 6240575,
+            "stamp": 1592104887,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 合著, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1203646146,
+            "author": 6240575,
+            "stamp": 1592104863,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1153804345,
+    "forum_thread": 13430369,
+    "tags": [
+        "原创",
+        "合著",
+        "故事"
+    ],
+    "title": "天夜之死",
+    "sitemap_update": 1592135935000,
+    "votings": [
+        [
+            6126848,
+            true
+        ]
+    ],
+    "is_locked": false
+}

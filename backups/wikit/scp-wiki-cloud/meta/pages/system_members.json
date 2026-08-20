@@ -1,0 +1,96 @@
+{
+    "name": "system:members",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1541339204,
+            "author": 6335947,
+            "stamp": 1768030275,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541339199,
+            "author": 6335947,
+            "stamp": 1768030251,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541339189,
+            "author": 6335947,
+            "stamp": 1768030196,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541339180,
+            "author": 6335947,
+            "stamp": 1768030138,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541339173,
+            "author": 6335947,
+            "stamp": 1768030102,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1537797227,
+            "author": 6335947,
+            "stamp": 1762073579,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1524195489,
+            "author": 6452551,
+            "stamp": 1724649646,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1364825322,
+            "author": 6240794,
+            "stamp": 1619891672,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 835653214,
+            "author": 4704446,
+            "stamp": 1557742149,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 790493184,
+    "tags": [
+        "管理"
+    ],
+    "title": "网站成员",
+    "sitemap_update": 1768030275000,
+    "votings": [
+        [
+            6452551,
+            true
+        ],
+        [
+            6173033,
+            false
+        ]
+    ],
+    "is_locked": false
+}

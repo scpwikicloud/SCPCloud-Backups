@@ -1,0 +1,43 @@
+{
+    "name": "about-ap",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1546064812,
+            "author": 9533373,
+            "stamp": 1786958493,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546064806,
+            "author": 9533373,
+            "stamp": 1786958481,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469182764,
+    "rating": 2,
+    "forum_thread": 18326234,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "AP的道歉视频",
+    "sitemap_update": 1786958493000,
+    "votings": [
+        [
+            8434716,
+            true
+        ],
+        [
+            10335993,
+            true
+        ]
+    ],
+    "is_locked": false
+}

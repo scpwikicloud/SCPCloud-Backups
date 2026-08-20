@@ -1,0 +1,49 @@
+{
+    "name": "scp-cloud-2098",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540050019,
+            "author": 9780183,
+            "stamp": 1764443645,
+            "flags": "A",
+            "commentary": "已新增标签：中国2098。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540050010,
+            "author": 9780183,
+            "stamp": 1764443618,
+            "flags": "A",
+            "commentary": "已新增标签：ai生成, uv, 原创, 原创scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540049711,
+            "author": 9780183,
+            "stamp": 1764442984,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467184547,
+    "rating": 1,
+    "tags": [
+        "ai生成",
+        "uv",
+        "中国2098",
+        "原创",
+        "原创scp"
+    ],
+    "title": "Scp Cloud 2098",
+    "sitemap_update": 1764443645000,
+    "votings": [
+        [
+            8546623,
+            true
+        ]
+    ],
+    "is_locked": false
+}

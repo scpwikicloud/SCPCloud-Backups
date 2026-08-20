@@ -1,0 +1,51 @@
+{
+    "name": "mbg",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1199802903,
+            "author": 6317957,
+            "stamp": 1592003913,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1198223022,
+            "author": 6317957,
+            "stamp": 1591947972,
+            "flags": "A",
+            "commentary": "已新增标签：云分革命部, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1198223012,
+            "author": 6317957,
+            "stamp": 1591947891,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1148406635,
+    "forum_thread": 13426413,
+    "tags": [
+        "云分革命部",
+        "原创",
+        "故事"
+    ],
+    "title": "书店",
+    "sitemap_update": 1592003913000,
+    "votings": [
+        [
+            6962503,
+            true
+        ],
+        [
+            6285237,
+            true
+        ]
+    ],
+    "is_locked": false
+}

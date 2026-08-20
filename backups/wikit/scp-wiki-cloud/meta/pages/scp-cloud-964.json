@@ -1,0 +1,55 @@
+{
+    "name": "scp-cloud-964",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545351746,
+            "author": 10415675,
+            "stamp": 1784563225,
+            "flags": "S",
+            "commentary": "瑪德我忘記加評分組件了"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545242652,
+            "author": 10415675,
+            "stamp": 1784110373,
+            "flags": "A",
+            "commentary": "已新增标签：侏儒, 啊呀骇死我力。 移除标签：啊呀, 骇死我力。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545242646,
+            "author": 10415675,
+            "stamp": 1784110357,
+            "flags": "A",
+            "commentary": "已新增标签：啊呀, 骇死我力。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545242639,
+            "author": 10415675,
+            "stamp": 1784110328,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468985628,
+    "rating": 1,
+    "forum_thread": 18160822,
+    "tags": [
+        "侏儒",
+        "啊呀骇死我力"
+    ],
+    "title": "SCP-Cloud-964 侏儒",
+    "sitemap_update": 1784563225000,
+    "votings": [
+        [
+            10415675,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,68 @@
+{
+    "name": "scp-cloud-119",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1508351206,
+            "author": 8305255,
+            "stamp": 1678200839,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1084496220,
+            "author": 5967510,
+            "stamp": 1588743971,
+            "flags": "A",
+            "commentary": "已新增标签：假面骑士。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084494063,
+            "author": 6329904,
+            "stamp": 1588739560,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084494046,
+            "author": 6329904,
+            "stamp": 1588739516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1084494020,
+            "author": 6329904,
+            "stamp": 1588739442,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1035214449,
+    "rating": -2,
+    "forum_thread": 13293239,
+    "tags": [
+        "scp",
+        "假面骑士",
+        "原创"
+    ],
+    "title": "SCP-Cloud-119 假面骑士零一",
+    "sitemap_update": 1678200839000,
+    "votings": [
+        [
+            9104084,
+            false
+        ],
+        [
+            7789907,
+            false
+        ]
+    ],
+    "is_locked": false
+}

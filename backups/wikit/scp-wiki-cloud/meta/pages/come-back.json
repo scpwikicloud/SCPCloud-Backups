@@ -1,0 +1,43 @@
+{
+    "name": "come-back",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1208845922,
+            "author": 6140401,
+            "stamp": 1592302469,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 需更新。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1208845913,
+            "author": 6140401,
+            "stamp": 1592302451,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1158975991,
+    "forum_thread": 13435132,
+    "tags": [
+        "原创",
+        "故事",
+        "需更新"
+    ],
+    "title": "LQ还活着",
+    "sitemap_update": 1592302469000,
+    "votings": [
+        [
+            6317957,
+            true
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,53 @@
+{
+    "name": "shushu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1396891696,
+            "author": 7892243,
+            "stamp": 1647147977,
+            "flags": "A",
+            "commentary": "已新增标签：补充材料。 移除标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1396825398,
+            "author": 7892243,
+            "stamp": 1647147138,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 水, 终结粪坑的方式, 蒙古的上单, 陈睿。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1396815390,
+            "author": 7892243,
+            "stamp": 1647147072,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1339363529,
+    "tags": [
+        "原创",
+        "水",
+        "终结粪坑的方式",
+        "蒙古的上单",
+        "补充材料",
+        "陈睿"
+    ],
+    "title": "叔叔我呀，最喜欢小朋友的钱了",
+    "sitemap_update": 1647147977000,
+    "votings": [
+        [
+            7892243,
+            false
+        ],
+        [
+            7905777,
+            false
+        ]
+    ],
+    "is_locked": false
+}

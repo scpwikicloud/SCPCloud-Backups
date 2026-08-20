@@ -1,0 +1,116 @@
+{
+    "name": "scp-cloud-678",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1083524075,
+            "author": 6056485,
+            "stamp": 1588293970,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1080683406,
+            "author": 6056485,
+            "stamp": 1588255815,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1080647716,
+            "author": 6056485,
+            "stamp": 1588255249,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1080638921,
+            "author": 6056485,
+            "stamp": 1588255118,
+            "flags": "F",
+            "commentary": "已上传文件 “看看获.JPG”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1080621065,
+            "author": 6056485,
+            "stamp": 1588254837,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 很无聊, 无聊。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1080613995,
+            "author": 6056485,
+            "stamp": 1588254725,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1080575670,
+            "author": 6056485,
+            "stamp": 1588254311,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1080570665,
+            "author": 6056485,
+            "stamp": 1588254236,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9045582,
+            "name": "看看获.JPG",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-678/%E7%9C%8B%E7%9C%8B%E8%8E%B7.JPG",
+            "size": "23.6 kB (24171 Bytes)",
+            "size_bytes": 24171,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6056485,
+            "stamp": 1588255118,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1031374333,
+    "forum_thread": 13282633,
+    "tags": [
+        "scp",
+        "很无聊",
+        "无聊"
+    ],
+    "title": "SCP-Cloud-678 无聊",
+    "sitemap_update": 1588293970000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            6483328,
+            false
+        ],
+        [
+            9665262,
+            false
+        ],
+        [
+            6317957,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

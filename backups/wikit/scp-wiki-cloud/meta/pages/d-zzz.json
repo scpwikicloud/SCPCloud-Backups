@@ -1,0 +1,51 @@
+{
+    "name": "d-zzz",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545308730,
+            "author": 9533373,
+            "stamp": 1784387406,
+            "flags": "A",
+            "commentary": "移除标签：混沌分裂者。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545308729,
+            "author": 9533373,
+            "stamp": 1784387398,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 故事, 混沌分裂者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545308726,
+            "author": 9533373,
+            "stamp": 1784387388,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469000620,
+    "rating": 2,
+    "forum_thread": 18273106,
+    "tags": [
+        "搬运",
+        "故事"
+    ],
+    "title": "D级人员招聘公告",
+    "sitemap_update": 1784387406000,
+    "votings": [
+        [
+            8546623,
+            true
+        ],
+        [
+            10295896,
+            true
+        ]
+    ],
+    "is_locked": false
+}

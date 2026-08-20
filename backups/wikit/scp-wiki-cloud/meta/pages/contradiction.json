@@ -1,0 +1,47 @@
+{
+    "name": "contradiction",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1389070772,
+            "author": 6678040,
+            "stamp": 1645792018,
+            "flags": "A",
+            "commentary": "已新增标签：怎么都不加标签啊（恼）, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1389026844,
+            "author": 5365255,
+            "stamp": 1645538361,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331762142,
+    "rating": 1,
+    "forum_thread": 14529356,
+    "tags": [
+        "怎么都不加标签啊（恼）",
+        "故事"
+    ],
+    "title": "矛盾",
+    "sitemap_update": 1645792018000,
+    "votings": [
+        [
+            7198635,
+            true
+        ],
+        [
+            7903653,
+            true
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

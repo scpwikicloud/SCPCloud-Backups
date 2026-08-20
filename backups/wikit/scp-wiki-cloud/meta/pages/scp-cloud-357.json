@@ -1,0 +1,35 @@
+{
+    "name": "scp-cloud-357",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545662570,
+            "author": 9681108,
+            "stamp": 1785730232,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545660801,
+            "author": 9681108,
+            "stamp": 1785722767,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469090275,
+    "rating": -1,
+    "forum_thread": 18264822,
+    "title": "SCP-CLOUD-357",
+    "sitemap_update": 1785730232000,
+    "votings": [
+        [
+            10335993,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,33 @@
+{
+    "name": "scp-9723",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544861160,
+            "author": 9533373,
+            "stamp": 1782455545,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544861156,
+            "author": 9533373,
+            "stamp": 1782455538,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468907321,
+    "rating": 0,
+    "tags": [
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-9723",
+    "sitemap_update": 1782455545000,
+    "votings": [],
+    "is_locked": false
+}

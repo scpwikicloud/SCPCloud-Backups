@@ -1,0 +1,28 @@
+{
+    "name": "btc",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1075253563,
+            "author": 6184120,
+            "stamp": 1587740779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073217148,
+            "author": 6184120,
+            "stamp": 1586672601,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024294778,
+    "title": "云端彼岸 中心页",
+    "sitemap_update": 1587740779000,
+    "votings": [],
+    "is_locked": false
+}

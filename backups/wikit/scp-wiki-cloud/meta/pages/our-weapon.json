@@ -1,0 +1,67 @@
+{
+    "name": "our-weapon",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1223870433,
+            "author": 6280229,
+            "stamp": 1593920081,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1215028993,
+            "author": 6140401,
+            "stamp": 1592693935,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1215028820,
+            "author": 6140401,
+            "stamp": 1592692964,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1215020957,
+            "author": 6140401,
+            "stamp": 1592658267,
+            "flags": "A",
+            "commentary": "已新增标签：esp, 原创, 待更新, 故事, 补充材料。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1215020920,
+            "author": 6140401,
+            "stamp": 1592658039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1215020917,
+            "author": 6140401,
+            "stamp": 1592658013,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165100601,
+    "forum_thread": 13441964,
+    "tags": [
+        "esp",
+        "原创",
+        "待更新",
+        "故事",
+        "补充材料"
+    ],
+    "sitemap_update": 1593920081000,
+    "votings": [],
+    "is_locked": false
+}

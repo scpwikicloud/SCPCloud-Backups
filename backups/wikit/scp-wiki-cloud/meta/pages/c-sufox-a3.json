@@ -1,0 +1,67 @@
+{
+    "name": "c-sufox-a3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1073447432,
+            "author": 6208650,
+            "stamp": 1586849845,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073447371,
+            "author": 6208650,
+            "stamp": 1586849808,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073447052,
+            "author": 6208650,
+            "stamp": 1586849604,
+            "flags": "F",
+            "commentary": "已上传文件 “timg.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073446994,
+            "author": 6208650,
+            "stamp": 1586849569,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9022871,
+            "name": "timg.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/c-sufox-a3/timg.jpg",
+            "size": "149.54 kB (153124 Bytes)",
+            "size_bytes": 153124,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6208650,
+            "stamp": 1586849604,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1024493759,
+    "forum_thread": 13241627,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Could-1232  “鲯鳅”",
+    "sitemap_update": 1586849845000,
+    "votings": [
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

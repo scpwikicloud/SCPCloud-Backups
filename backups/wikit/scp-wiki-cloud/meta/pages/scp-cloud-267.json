@@ -1,0 +1,54 @@
+{
+    "name": "scp-cloud-267",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1388369627,
+            "author": 7265481,
+            "stamp": 1642981503,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1388369621,
+            "author": 7265481,
+            "stamp": 1642981483,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1388369472,
+            "author": 7265481,
+            "stamp": 1642980514,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388364327,
+            "author": 7265481,
+            "stamp": 1642949290,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331447867,
+    "rating": 1,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-267 折纸",
+    "sitemap_update": 1642981503000,
+    "votings": [
+        [
+            8305255,
+            true
+        ]
+    ],
+    "is_locked": false
+}

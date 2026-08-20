@@ -1,0 +1,81 @@
+{
+    "name": "1-0",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1075240793,
+            "author": 6329988,
+            "stamp": 1587692375,
+            "flags": "A",
+            "commentary": "移除标签： 合著。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075240677,
+            "author": 6329988,
+            "stamp": 1587692052,
+            "flags": "A",
+            "commentary": "已新增标签：云小鬼教科书2.0版本, 合著。 移除标签： 云小鬼教科书1.0版本。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075240655,
+            "author": 6329988,
+            "stamp": 1587691937,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075224781,
+            "author": 6329988,
+            "stamp": 1587634102,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 云小鬼教科书1.0版本, 原创, 故事, 用爱感化云小鬼。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075224757,
+            "author": 6329988,
+            "stamp": 1587633941,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026140671,
+    "forum_thread": 13263518,
+    "tags": [
+        "scp",
+        "云小鬼教科书2.0版本",
+        "原创",
+        "故事",
+        "用爱感化云小鬼"
+    ],
+    "title": "云小鬼教科书2.0",
+    "sitemap_update": 1587692375000,
+    "votings": [
+        [
+            6329904,
+            false
+        ],
+        [
+            6678040,
+            false
+        ],
+        [
+            4142571,
+            false
+        ],
+        [
+            5517267,
+            true
+        ],
+        [
+            5967510,
+            true
+        ]
+    ],
+    "is_locked": false
+}

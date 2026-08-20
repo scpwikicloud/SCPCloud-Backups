@@ -1,0 +1,1656 @@
+{
+    "name": "collab:secure-facilities-locations-cloud",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 165,
+            "global_revision": 1545377052,
+            "author": 5239463,
+            "stamp": 1784676162,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 164,
+            "global_revision": 1545365292,
+            "author": 8305255,
+            "stamp": 1784627215,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 163,
+            "global_revision": 1545185257,
+            "author": 8305255,
+            "stamp": 1783902811,
+            "flags": "S",
+            "commentary": "添加Site-CL-02。"
+        },
+        {
+            "revision": 162,
+            "global_revision": 1545099446,
+            "author": 8305255,
+            "stamp": 1783562178,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 160"
+        },
+        {
+            "revision": 161,
+            "global_revision": 1545089630,
+            "author": 9851960,
+            "stamp": 1783517014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 160,
+            "global_revision": 1544932676,
+            "author": 9851960,
+            "stamp": 1782812297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 159,
+            "global_revision": 1544916545,
+            "author": 8305255,
+            "stamp": 1782724342,
+            "flags": "S",
+            "commentary": "添加Site-CL-24。"
+        },
+        {
+            "revision": 158,
+            "global_revision": 1544915730,
+            "author": 8305255,
+            "stamp": 1782719563,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 157,
+            "global_revision": 1544898999,
+            "author": 8305255,
+            "stamp": 1782637447,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 156,
+            "global_revision": 1544898910,
+            "author": 8305255,
+            "stamp": 1782637142,
+            "flags": "S",
+            "commentary": "添加Site-CL-193。"
+        },
+        {
+            "revision": 155,
+            "global_revision": 1544044229,
+            "author": 5239463,
+            "stamp": 1779306105,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 154,
+            "global_revision": 1543952254,
+            "author": 10208396,
+            "stamp": 1778905510,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 153,
+            "global_revision": 1543952011,
+            "author": 10208396,
+            "stamp": 1778904434,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 152,
+            "global_revision": 1543674225,
+            "author": 8305255,
+            "stamp": 1777705774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 151,
+            "global_revision": 1543602853,
+            "author": 9541601,
+            "stamp": 1777392467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 150,
+            "global_revision": 1543602848,
+            "author": 9541601,
+            "stamp": 1777392422,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 149,
+            "global_revision": 1543516877,
+            "author": 9541601,
+            "stamp": 1776945642,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 148,
+            "global_revision": 1543370723,
+            "author": 4001012,
+            "stamp": 1776352937,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 147,
+            "global_revision": 1543368279,
+            "author": 6335947,
+            "stamp": 1776342591,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 143"
+        },
+        {
+            "revision": 146,
+            "global_revision": 1543368257,
+            "author": 4001012,
+            "stamp": 1776342539,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 145,
+            "global_revision": 1543368145,
+            "author": 4001012,
+            "stamp": 1776342091,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 144,
+            "global_revision": 1543366880,
+            "author": 4001012,
+            "stamp": 1776334980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 143,
+            "global_revision": 1543128105,
+            "author": 9541601,
+            "stamp": 1775372675,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 142,
+            "global_revision": 1543126518,
+            "author": 9541601,
+            "stamp": 1775366832,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 141,
+            "global_revision": 1542993691,
+            "author": 4001012,
+            "stamp": 1774780937,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 140,
+            "global_revision": 1542961803,
+            "author": 10156562,
+            "stamp": 1774667092,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 139,
+            "global_revision": 1542946691,
+            "author": 8305255,
+            "stamp": 1774627754,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 138,
+            "global_revision": 1542838226,
+            "author": 9541601,
+            "stamp": 1774168455,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 137,
+            "global_revision": 1542837809,
+            "author": 9541601,
+            "stamp": 1774166842,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 136,
+            "global_revision": 1542837746,
+            "author": 9541601,
+            "stamp": 1774166634,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 135,
+            "global_revision": 1542123254,
+            "author": 5239463,
+            "stamp": 1771335901,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 134,
+            "global_revision": 1542084909,
+            "author": 8305255,
+            "stamp": 1771163320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 133,
+            "global_revision": 1542065657,
+            "author": 9929144,
+            "stamp": 1771049377,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 132,
+            "global_revision": 1542065645,
+            "author": 9929144,
+            "stamp": 1771049320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 131,
+            "global_revision": 1542065630,
+            "author": 9929144,
+            "stamp": 1771049234,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 130,
+            "global_revision": 1541904932,
+            "author": 5239463,
+            "stamp": 1770730286,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 129,
+            "global_revision": 1540104679,
+            "author": 9874148,
+            "stamp": 1764578033,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 128,
+            "global_revision": 1540023518,
+            "author": 8305255,
+            "stamp": 1764390211,
+            "flags": "F",
+            "commentary": "已删除文件 “Site-CL-69.jpeg”。"
+        },
+        {
+            "revision": 127,
+            "global_revision": 1540023506,
+            "author": 8305255,
+            "stamp": 1764390195,
+            "flags": "F",
+            "commentary": "已删除文件 “Site-CL-69-New.png”。"
+        },
+        {
+            "revision": 126,
+            "global_revision": 1540023494,
+            "author": 8305255,
+            "stamp": 1764390177,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 123"
+        },
+        {
+            "revision": 125,
+            "global_revision": 1540019891,
+            "author": 9869257,
+            "stamp": 1764384648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 124,
+            "global_revision": 1540019814,
+            "author": 9869257,
+            "stamp": 1764384564,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-CL-69-New.png”。"
+        },
+        {
+            "revision": 123,
+            "global_revision": 1540016186,
+            "author": 8305255,
+            "stamp": 1764376709,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 121"
+        },
+        {
+            "revision": 122,
+            "global_revision": 1539998668,
+            "author": 10155847,
+            "stamp": 1764335477,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 121,
+            "global_revision": 1539987403,
+            "author": 9874148,
+            "stamp": 1764309109,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 120,
+            "global_revision": 1539855432,
+            "author": 8305255,
+            "stamp": 1763914327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 119,
+            "global_revision": 1539842116,
+            "author": 8305255,
+            "stamp": 1763886711,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 118,
+            "global_revision": 1539842102,
+            "author": 8305255,
+            "stamp": 1763886684,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-Cloud-108.png”。"
+        },
+        {
+            "revision": 117,
+            "global_revision": 1539841871,
+            "author": 8305255,
+            "stamp": 1763886167,
+            "flags": "S",
+            "commentary": "添加Site-CL-108。"
+        },
+        {
+            "revision": 116,
+            "global_revision": 1539833259,
+            "author": 9869257,
+            "stamp": 1763866740,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 115,
+            "global_revision": 1539794333,
+            "author": 8305255,
+            "stamp": 1763775968,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 114,
+            "global_revision": 1539756733,
+            "author": 9874148,
+            "stamp": 1763618529,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 113,
+            "global_revision": 1539756693,
+            "author": 9874148,
+            "stamp": 1763618139,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 112,
+            "global_revision": 1539670623,
+            "author": 9874148,
+            "stamp": 1763371614,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 111,
+            "global_revision": 1539534625,
+            "author": 9874148,
+            "stamp": 1763266611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 110,
+            "global_revision": 1539506774,
+            "author": 9874148,
+            "stamp": 1763211994,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 109,
+            "global_revision": 1539506504,
+            "author": 9869257,
+            "stamp": 1763211534,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 108,
+            "global_revision": 1539495945,
+            "author": 8305255,
+            "stamp": 1763192968,
+            "flags": "F",
+            "commentary": "已删除文件 “Site-Cloud-69.jpeg”。"
+        },
+        {
+            "revision": 107,
+            "global_revision": 1539486537,
+            "author": 9869257,
+            "stamp": 1763173252,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-Cloud-69.jpeg”。"
+        },
+        {
+            "revision": 106,
+            "global_revision": 1539486494,
+            "author": 9869257,
+            "stamp": 1763173112,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-CL-69.jpeg”。"
+        },
+        {
+            "revision": 105,
+            "global_revision": 1539464659,
+            "author": 8305255,
+            "stamp": 1763127710,
+            "flags": "F",
+            "commentary": "已删除文件 “Site-CL-69-test.jpeg”。"
+        },
+        {
+            "revision": 104,
+            "global_revision": 1539464645,
+            "author": 8305255,
+            "stamp": 1763127696,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 103,
+            "global_revision": 1539464613,
+            "author": 8305255,
+            "stamp": 1763127643,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-Cloud-69.png”。"
+        },
+        {
+            "revision": 102,
+            "global_revision": 1539464014,
+            "author": 8305255,
+            "stamp": 1763126794,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 101,
+            "global_revision": 1539463836,
+            "author": 9869257,
+            "stamp": 1763126496,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 100,
+            "global_revision": 1539462593,
+            "author": 9869257,
+            "stamp": 1763124393,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 99,
+            "global_revision": 1539462544,
+            "author": 9869257,
+            "stamp": 1763124297,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-CL-69-test.jpeg”。"
+        },
+        {
+            "revision": 98,
+            "global_revision": 1539462390,
+            "author": 9869257,
+            "stamp": 1763124071,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 97,
+            "global_revision": 1539460682,
+            "author": 9874148,
+            "stamp": 1763121327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 96,
+            "global_revision": 1539458942,
+            "author": 8305255,
+            "stamp": 1763117927,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 95,
+            "global_revision": 1539458889,
+            "author": 8305255,
+            "stamp": 1763117821,
+            "flags": "F",
+            "commentary": "已删除文件 “无标题93_20251112172828.png”。"
+        },
+        {
+            "revision": 94,
+            "global_revision": 1539458883,
+            "author": 8305255,
+            "stamp": 1763117815,
+            "flags": "F",
+            "commentary": "文件 “Area-Cloud-59.pmg” 已重新命名为 “Area-Cloud-59.png”。"
+        },
+        {
+            "revision": 93,
+            "global_revision": 1539458863,
+            "author": 8305255,
+            "stamp": 1763117782,
+            "flags": "F",
+            "commentary": "已删除文件 “Image_1762597115933.jpg”。"
+        },
+        {
+            "revision": 92,
+            "global_revision": 1539458857,
+            "author": 8305255,
+            "stamp": 1763117764,
+            "flags": "F",
+            "commentary": "已删除文件 “AREA-CL-91”。"
+        },
+        {
+            "revision": 91,
+            "global_revision": 1539458851,
+            "author": 8305255,
+            "stamp": 1763117757,
+            "flags": "F",
+            "commentary": "文件 “Area-CL-59.png” 已重新命名为 “Area-Cloud-59.pmg”。"
+        },
+        {
+            "revision": 90,
+            "global_revision": 1539458842,
+            "author": 8305255,
+            "stamp": 1763117737,
+            "flags": "F",
+            "commentary": "文件 “Area-CL-91.png” 已重新命名为 “Area-Cloud-91.png”。"
+        },
+        {
+            "revision": 89,
+            "global_revision": 1539458830,
+            "author": 8305255,
+            "stamp": 1763117714,
+            "flags": "F",
+            "commentary": "文件 “AREA-CL-91-” 已重新命名为 “Area-CL-91.png”。"
+        },
+        {
+            "revision": 88,
+            "global_revision": 1539458820,
+            "author": 8305255,
+            "stamp": 1763117699,
+            "flags": "F",
+            "commentary": "已删除文件 “AREA CL 91”。"
+        },
+        {
+            "revision": 87,
+            "global_revision": 1539458786,
+            "author": 8305255,
+            "stamp": 1763117633,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 86,
+            "global_revision": 1539458774,
+            "author": 8305255,
+            "stamp": 1763117597,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-Cloud-29.png”。"
+        },
+        {
+            "revision": 85,
+            "global_revision": 1539458636,
+            "author": 8305255,
+            "stamp": 1763117312,
+            "flags": "S",
+            "commentary": "添加Site-CL-29；调整Area-CL-59的顺序并撤掉其未发布的站点页链接"
+        },
+        {
+            "revision": 84,
+            "global_revision": 1539450895,
+            "author": 9874148,
+            "stamp": 1763098896,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 83,
+            "global_revision": 1539450877,
+            "author": 9874148,
+            "stamp": 1763098846,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 82,
+            "global_revision": 1539440597,
+            "author": 9869257,
+            "stamp": 1763085917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 81,
+            "global_revision": 1539369596,
+            "author": 9874148,
+            "stamp": 1763035780,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 80,
+            "global_revision": 1539369568,
+            "author": 9874148,
+            "stamp": 1763035685,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 79,
+            "global_revision": 1539369513,
+            "author": 9874148,
+            "stamp": 1763035534,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 78,
+            "global_revision": 1539369484,
+            "author": 9874148,
+            "stamp": 1763035455,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 77,
+            "global_revision": 1539369397,
+            "author": 9874148,
+            "stamp": 1763035256,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 76,
+            "global_revision": 1539361813,
+            "author": 9874148,
+            "stamp": 1763014595,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 75,
+            "global_revision": 1539361767,
+            "author": 9874148,
+            "stamp": 1763014480,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 74,
+            "global_revision": 1539361742,
+            "author": 9874148,
+            "stamp": 1763014401,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 73,
+            "global_revision": 1539340449,
+            "author": 9874148,
+            "stamp": 1762954163,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 72,
+            "global_revision": 1539340384,
+            "author": 9874148,
+            "stamp": 1762953935,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 71,
+            "global_revision": 1539340274,
+            "author": 9874148,
+            "stamp": 1762953602,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 70,
+            "global_revision": 1539340176,
+            "author": 9874148,
+            "stamp": 1762953340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 69,
+            "global_revision": 1539340146,
+            "author": 9874148,
+            "stamp": 1762953268,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 68,
+            "global_revision": 1539337698,
+            "author": 9874148,
+            "stamp": 1762947474,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 67,
+            "global_revision": 1539337579,
+            "author": 9869257,
+            "stamp": 1762947173,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 66,
+            "global_revision": 1539337544,
+            "author": 9874148,
+            "stamp": 1762947064,
+            "flags": "F",
+            "commentary": "已上传文件 “Area-CL-59.png”。"
+        },
+        {
+            "revision": 65,
+            "global_revision": 1539337450,
+            "author": 9874148,
+            "stamp": 1762946783,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 64,
+            "global_revision": 1539337300,
+            "author": 9874148,
+            "stamp": 1762946378,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 63,
+            "global_revision": 1539337235,
+            "author": 9874148,
+            "stamp": 1762946275,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 62,
+            "global_revision": 1539337194,
+            "author": 9874148,
+            "stamp": 1762946166,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 61,
+            "global_revision": 1539337168,
+            "author": 9874148,
+            "stamp": 1762946093,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 60,
+            "global_revision": 1539336551,
+            "author": 9874148,
+            "stamp": 1762944525,
+            "flags": "F",
+            "commentary": "已上传文件 “无标题93_20251112172828.png”。"
+        },
+        {
+            "revision": 59,
+            "global_revision": 1539158724,
+            "author": 9313151,
+            "stamp": 1762659025,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 58,
+            "global_revision": 1539158263,
+            "author": 9554304,
+            "stamp": 1762657194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 57,
+            "global_revision": 1539158188,
+            "author": 9313151,
+            "stamp": 1762656703,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 56,
+            "global_revision": 1539158152,
+            "author": 9554304,
+            "stamp": 1762656464,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 55,
+            "global_revision": 1539157775,
+            "author": 9313151,
+            "stamp": 1762654571,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 54,
+            "global_revision": 1539157698,
+            "author": 9554304,
+            "stamp": 1762654189,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 53,
+            "global_revision": 1539149641,
+            "author": 9313151,
+            "stamp": 1762610351,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1539149526,
+            "author": 9313151,
+            "stamp": 1762609891,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1539149166,
+            "author": 9313151,
+            "stamp": 1762609498,
+            "flags": "F",
+            "commentary": "已上传文件 “   AREA-CL-91-   ”。"
+        },
+        {
+            "revision": 50,
+            "global_revision": 1539148177,
+            "author": 9554304,
+            "stamp": 1762607156,
+            "flags": "F",
+            "commentary": "已上传文件 “AREA CL 91”。"
+        },
+        {
+            "revision": 49,
+            "global_revision": 1539147467,
+            "author": 9554304,
+            "stamp": 1762605115,
+            "flags": "F",
+            "commentary": "已上传文件 “AREA-CL-91”。"
+        },
+        {
+            "revision": 48,
+            "global_revision": 1539145124,
+            "author": 9554304,
+            "stamp": 1762598791,
+            "flags": "F",
+            "commentary": "已上传文件 “Image_1762597115933.jpg”。"
+        },
+        {
+            "revision": 47,
+            "global_revision": 1539124934,
+            "author": 9869257,
+            "stamp": 1762516633,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 44"
+        },
+        {
+            "revision": 46,
+            "global_revision": 1539124925,
+            "author": 9869257,
+            "stamp": 1762516608,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1539124815,
+            "author": 9869257,
+            "stamp": 1762516140,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1537799783,
+            "author": 6335947,
+            "stamp": 1762073993,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 管理。 移除标签：原创, 指导。"
+        },
+        {
+            "revision": 43,
+            "global_revision": 1533070821,
+            "author": 8305255,
+            "stamp": 1760713859,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1533064990,
+            "author": 8305255,
+            "stamp": 1760689171,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-Cloud-04.png”。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1532772656,
+            "author": 8191614,
+            "stamp": 1759801073,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1532707975,
+            "author": 8305255,
+            "stamp": 1759733735,
+            "flags": "S",
+            "commentary": "添加Site-CL-04"
+        },
+        {
+            "revision": 39,
+            "global_revision": 1532680895,
+            "author": 8305255,
+            "stamp": 1759641048,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1532620703,
+            "author": 9110060,
+            "stamp": 1759482436,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1532608242,
+            "author": 9110060,
+            "stamp": 1759426548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1532571158,
+            "author": 8305255,
+            "stamp": 1759285983,
+            "flags": "S",
+            "commentary": "添加Site-CL-302。"
+        },
+        {
+            "revision": 35,
+            "global_revision": 1532381889,
+            "author": 8305255,
+            "stamp": 1758351142,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1532265893,
+            "author": 8305255,
+            "stamp": 1757752312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1532257468,
+            "author": 9650794,
+            "stamp": 1757719348,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1532247230,
+            "author": 8305255,
+            "stamp": 1757674576,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1532247175,
+            "author": 8305255,
+            "stamp": 1757674364,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1532246992,
+            "author": 8305255,
+            "stamp": 1757673657,
+            "flags": "S",
+            "commentary": "将Site-CL-25外部徽标替换为当前样式以保持风格一致；其修改编辑自原徽标"
+        },
+        {
+            "revision": 29,
+            "global_revision": 1532246928,
+            "author": 8305255,
+            "stamp": 1757673540,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-Cloud-25.png”。"
+        },
+        {
+            "revision": 28,
+            "global_revision": 1532217355,
+            "author": 6335947,
+            "stamp": 1757490766,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 25"
+        },
+        {
+            "revision": 27,
+            "global_revision": 1532217349,
+            "author": 6335947,
+            "stamp": 1757490743,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1532216144,
+            "author": 6335947,
+            "stamp": 1757484772,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"secure-facilities-locations-cloud\" 至 \"collab:secure-facilities-locations-cloud\"."
+        },
+        {
+            "revision": 25,
+            "global_revision": 1531836664,
+            "author": 8305255,
+            "stamp": 1756455200,
+            "flags": "S",
+            "commentary": "添加Site-CL-25。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1530953819,
+            "author": 8305255,
+            "stamp": 1752312443,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1527727360,
+            "author": 8305255,
+            "stamp": 1739240987,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 指导。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1525405718,
+            "author": 9444831,
+            "stamp": 1729675092,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 15"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1525402929,
+            "author": 9444632,
+            "stamp": 1729660612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1525339565,
+            "author": 7646601,
+            "stamp": 1729341210,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 15"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1525338706,
+            "author": 7646601,
+            "stamp": 1729337040,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1525337269,
+            "author": 7646601,
+            "stamp": 1729330078,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 0"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1525337229,
+            "author": 7646601,
+            "stamp": 1729329810,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1525337227,
+            "author": 7646601,
+            "stamp": 1729329798,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1524522796,
+            "author": 7144335,
+            "stamp": 1726050583,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1523979488,
+            "author": 8305255,
+            "stamp": 1724073194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1523979483,
+            "author": 8305255,
+            "stamp": 1724073159,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-Cloud-00.png”。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1523910353,
+            "author": 8305255,
+            "stamp": 1723968431,
+            "flags": "S",
+            "commentary": "堂堂更新"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1523910321,
+            "author": 8305255,
+            "stamp": 1723968291,
+            "flags": "F",
+            "commentary": "已上传文件 “Area-Cloud-51.png”。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1523909806,
+            "author": 8305255,
+            "stamp": 1723965942,
+            "flags": "F",
+            "commentary": "已上传文件 “Area-temple.png”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1523909753,
+            "author": 8305255,
+            "stamp": 1723965685,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-Cloud-90.png”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1523909748,
+            "author": 8305255,
+            "stamp": 1723965656,
+            "flags": "F",
+            "commentary": "已上传文件 “Site-temple.png”。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1513866224,
+            "author": 7525168,
+            "stamp": 1694341249,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1513865252,
+            "author": 7525168,
+            "stamp": 1694337507,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1513827998,
+            "author": 7525168,
+            "stamp": 1694240980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513726414,
+            "author": 7525168,
+            "stamp": 1693915100,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1508273492,
+            "author": 8305255,
+            "stamp": 1677855355,
+            "flags": "S",
+            "commentary": "添加了Facility-Cloud-90"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1362071365,
+            "author": 6140401,
+            "stamp": 1617708646,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362052188,
+            "author": 6240575,
+            "stamp": 1617611672,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362052087,
+            "author": 6240575,
+            "stamp": 1617611297,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11160104,
+            "name": "Area-Cloud-51.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Area-Cloud-51.png",
+            "size": "1.47 MB (1536173 Bytes)",
+            "size_bytes": 1536173,
+            "mime": "image/png",
+            "content": "PNG image data, 3002 x 2997, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1723968291,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11676189,
+            "name": "Area-Cloud-59.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Area-Cloud-59.png",
+            "size": "217.32 kB (222534 Bytes)",
+            "size_bytes": 222534,
+            "mime": "image/png",
+            "content": "PNG image data, 1071 x 1069, 8-bit/color RGBA, non-interlaced",
+            "author": 9874148,
+            "stamp": 1762947064,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11671217,
+            "name": "Area-Cloud-91.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Area-Cloud-91.png",
+            "size": "454.45 kB (465354 Bytes)",
+            "size_bytes": 465354,
+            "mime": "image/png",
+            "content": "PNG image data, 1078 x 1074, 8-bit/color RGBA, non-interlaced",
+            "author": 9313151,
+            "stamp": 1762609498,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11160074,
+            "name": "Area-temple.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Area-temple.png",
+            "size": "175.21 kB (179420 Bytes)",
+            "size_bytes": 179420,
+            "mime": "image/png",
+            "content": "PNG image data, 1071 x 1069, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1723965942,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11162819,
+            "name": "Site-Cloud-00.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Site-Cloud-00.png",
+            "size": "748.8 kB (766767 Bytes)",
+            "size_bytes": 766767,
+            "mime": "image/png",
+            "content": "PNG image data, 2080 x 2080, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1724073159,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11494977,
+            "name": "Site-Cloud-04.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Site-Cloud-04.png",
+            "size": "971.1 kB (994403 Bytes)",
+            "size_bytes": 994403,
+            "mime": "image/png",
+            "content": "PNG image data, 1548 x 1568, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1760689171,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11688162,
+            "name": "Site-Cloud-108.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Site-Cloud-108.png",
+            "size": "301 kB (308225 Bytes)",
+            "size_bytes": 308225,
+            "mime": "image/png",
+            "content": "PNG image data, 1071 x 1069, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1763886684,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11463320,
+            "name": "Site-Cloud-25.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Site-Cloud-25.png",
+            "size": "478.02 kB (489492 Bytes)",
+            "size_bytes": 489492,
+            "mime": "image/png",
+            "content": "PNG image data, 1071 x 1069, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1757673540,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11679579,
+            "name": "Site-Cloud-29.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Site-Cloud-29.png",
+            "size": "1.39 MB (1461412 Bytes)",
+            "size_bytes": 1461412,
+            "mime": "image/png",
+            "content": "PNG image data, 2048 x 2048, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1763117597,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11679639,
+            "name": "Site-Cloud-69.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Site-Cloud-69.png",
+            "size": "293.43 kB (300471 Bytes)",
+            "size_bytes": 300471,
+            "mime": "image/png",
+            "content": "PNG image data, 790 x 800, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1763127643,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11160073,
+            "name": "Site-Cloud-90.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Site-Cloud-90.png",
+            "size": "300.07 kB (307269 Bytes)",
+            "size_bytes": 307269,
+            "mime": "image/png",
+            "content": "PNG image data, 1306 x 1216, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1723965685,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11160072,
+            "name": "Site-temple.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:secure-facilities-locations-cloud/Site-temple.png",
+            "size": "196.6 kB (201321 Bytes)",
+            "size_bytes": 201321,
+            "mime": "image/png",
+            "content": "PNG image data, 1071 x 1069, 8-bit/color RGBA, non-interlaced",
+            "author": 8305255,
+            "stamp": 1723965656,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1308478438,
+    "rating": 35,
+    "forum_thread": 14177885,
+    "tags": [
+        "中心",
+        "管理"
+    ],
+    "title": "安保设施地点",
+    "sitemap_update": 1784676162000,
+    "votings": [
+        [
+            9731145,
+            true
+        ],
+        [
+            8305255,
+            true
+        ],
+        [
+            6140401,
+            true
+        ],
+        [
+            9110060,
+            true
+        ],
+        [
+            9650794,
+            true
+        ],
+        [
+            9320190,
+            true
+        ],
+        [
+            9743391,
+            true
+        ],
+        [
+            9851960,
+            true
+        ],
+        [
+            9556991,
+            true
+        ],
+        [
+            10325842,
+            true
+        ],
+        [
+            9792384,
+            true
+        ],
+        [
+            9785619,
+            true
+        ],
+        [
+            7047022,
+            true
+        ],
+        [
+            4694604,
+            true
+        ],
+        [
+            8426220,
+            true
+        ],
+        [
+            9869257,
+            true
+        ],
+        [
+            9764135,
+            true
+        ],
+        [
+            10339784,
+            true
+        ],
+        [
+            8546623,
+            true
+        ],
+        [
+            7952603,
+            true
+        ],
+        [
+            9184668,
+            true
+        ],
+        [
+            9772907,
+            true
+        ],
+        [
+            6317957,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            8191614,
+            true
+        ],
+        [
+            7071305,
+            true
+        ],
+        [
+            8893555,
+            true
+        ],
+        [
+            9534743,
+            true
+        ],
+        [
+            9562327,
+            true
+        ],
+        [
+            8198452,
+            true
+        ],
+        [
+            9841404,
+            true
+        ],
+        [
+            8109382,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9433599,
+            true
+        ],
+        [
+            10208396,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            9743230,
+            true
+        ],
+        [
+            7144335,
+            false
+        ],
+        [
+            7144335,
+            false
+        ],
+        [
+            7525168,
+            true
+        ],
+        [
+            10155847,
+            false
+        ]
+    ],
+    "is_locked": false
+}

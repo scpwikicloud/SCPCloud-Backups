@@ -1,0 +1,117 @@
+{
+    "name": "acg-is-cake",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1544822750,
+            "author": 9846641,
+            "stamp": 1782263766,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搞笑, 故事。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544822739,
+            "author": 9846641,
+            "stamp": 1782263654,
+            "flags": "F",
+            "commentary": "已上传文件 “ais”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544822737,
+            "author": 9846641,
+            "stamp": 1782263640,
+            "flags": "F",
+            "commentary": "已删除文件 “ais”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544822696,
+            "author": 9846641,
+            "stamp": 1782263595,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544822686,
+            "author": 9846641,
+            "stamp": 1782263559,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544822608,
+            "author": 9846641,
+            "stamp": 1782263065,
+            "flags": "F",
+            "commentary": "已上传文件 “cake”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544822606,
+            "author": 9846641,
+            "stamp": 1782263045,
+            "flags": "F",
+            "commentary": "已上传文件 “ais”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544822600,
+            "author": 9846641,
+            "stamp": 1782263019,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11845183,
+            "name": "ais",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/acg-is-cake/ais",
+            "size": "146.61 kB (150124 Bytes)",
+            "size_bytes": 150124,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1024x806, components 3",
+            "author": 9846641,
+            "stamp": 1782263654,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11845180,
+            "name": "cake",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/acg-is-cake/cake",
+            "size": "3.94 MB (4134912 Bytes)",
+            "size_bytes": 4134912,
+            "mime": "image/png",
+            "content": "PNG image data, 2048 x 2048, 8-bit/color RGB, non-interlaced",
+            "author": 9846641,
+            "stamp": 1782263066,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468898522,
+    "rating": -2,
+    "forum_thread": 18054957,
+    "tags": [
+        "dv至上",
+        "搞笑",
+        "故事"
+    ],
+    "title": "ACG-CAT是一块香香软软的小蛋糕",
+    "sitemap_update": 1782263766000,
+    "votings": [
+        [
+            9786309,
+            false
+        ],
+        [
+            9846641,
+            false
+        ]
+    ],
+    "is_locked": false
+}

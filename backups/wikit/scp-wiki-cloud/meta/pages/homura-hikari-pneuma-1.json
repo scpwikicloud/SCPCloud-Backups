@@ -1,0 +1,78 @@
+{
+    "name": "homura-hikari-pneuma-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545934598,
+            "author": 10504888,
+            "stamp": 1786601448,
+            "flags": "F",
+            "commentary": "已上传文件 “投影序数.docx”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545852963,
+            "author": 10504888,
+            "stamp": 1786355519,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545852933,
+            "author": 10504888,
+            "stamp": 1786355417,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20260809_203915.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545852918,
+            "author": 10504888,
+            "stamp": 1786355362,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11880062,
+            "name": "IMG_20260809_203915.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/homura-hikari-pneuma-1/IMG_20260809_203915.jpg",
+            "size": "308.23 kB (315631 Bytes)",
+            "size_bytes": 315631,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2026:08:09 20:39:15, width=0], baseline, precision 8, 1096x1576, components 3",
+            "author": 10504888,
+            "stamp": 1786355417,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11882350,
+            "name": "投影序数.docx",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/homura-hikari-pneuma-1/%E6%8A%95%E5%BD%B1%E5%BA%8F%E6%95%B0.docx",
+            "size": "1.62 MB (1696252 Bytes)",
+            "size_bytes": 1696252,
+            "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "content": "No description, unavailable due to fixed file mime type.",
+            "author": 10504888,
+            "stamp": 1786601449,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469129856,
+    "title": "Homura Hikari Pneuma 1",
+    "sitemap_update": 1786601448000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

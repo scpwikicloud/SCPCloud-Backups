@@ -1,0 +1,67 @@
+{
+    "name": "scp-xxxx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1075195197,
+            "author": 6114202,
+            "stamp": 1587536764,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075195018,
+            "author": 6114202,
+            "stamp": 1587536193,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075194962,
+            "author": 6114202,
+            "stamp": 1587536128,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075194960,
+            "author": 6114202,
+            "stamp": 1587536120,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026126832,
+    "rating": 5,
+    "forum_thread": 17454762,
+    "title": "scp-xxxx",
+    "sitemap_update": 1587536764000,
+    "votings": [
+        [
+            5195483,
+            true
+        ],
+        [
+            6114202,
+            true
+        ],
+        [
+            4761754,
+            true
+        ],
+        [
+            6313847,
+            true
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

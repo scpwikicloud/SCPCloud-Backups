@@ -1,0 +1,70 @@
+{
+    "name": "scp-cn-4974",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544703247,
+            "author": 8305255,
+            "stamp": 1781741374,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"quyu\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544703246,
+            "author": 8305255,
+            "stamp": 1781741361,
+            "flags": "A",
+            "commentary": "已新增标签：apollyon, dv至上, scp, 搬运。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544703242,
+            "author": 8305255,
+            "stamp": 1781741328,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544703240,
+            "author": 8305255,
+            "stamp": 1781741311,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468863879,
+    "parent": "quyu",
+    "rating": 0,
+    "forum_thread": 18030034,
+    "tags": [
+        "apollyon",
+        "dv至上",
+        "scp",
+        "搬运"
+    ],
+    "title": "（搬运）SCP-CN-4974：黢淤",
+    "sitemap_update": 1781741374000,
+    "votings": [
+        [
+            8683675,
+            false
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            10349385,
+            false
+        ],
+        [
+            9767674,
+            true
+        ]
+    ],
+    "is_locked": false
+}

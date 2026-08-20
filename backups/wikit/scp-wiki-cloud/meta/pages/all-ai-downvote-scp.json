@@ -1,0 +1,268 @@
+{
+    "name": "all-ai-downvote-scp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 22,
+            "global_revision": 1542035123,
+            "author": 5239463,
+            "stamp": 1770915582,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1542035068,
+            "author": 5239463,
+            "stamp": 1770915287,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1542035015,
+            "author": 5239463,
+            "stamp": 1770915014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1541372202,
+            "author": 5239463,
+            "stamp": 1768231547,
+            "flags": "A",
+            "commentary": "已新增标签：site-cl-203。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1540078564,
+            "author": 5239463,
+            "stamp": 1764502472,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1540078396,
+            "author": 5239463,
+            "stamp": 1764502152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1540058228,
+            "author": 5239463,
+            "stamp": 1764463948,
+            "flags": "A",
+            "commentary": "已新增标签：ai生成。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1539852030,
+            "author": 5239463,
+            "stamp": 1763907418,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1539851930,
+            "author": 5239463,
+            "stamp": 1763907190,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539851829,
+            "author": 5239463,
+            "stamp": 1763906974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539851701,
+            "author": 5239463,
+            "stamp": 1763906712,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539850608,
+            "author": 5239463,
+            "stamp": 1763904607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539850125,
+            "author": 5239463,
+            "stamp": 1763903526,
+            "flags": "A",
+            "commentary": "已新增标签：grok, minimax, perplexity, 文心一言, 智谱清言, 通义千问。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539850058,
+            "author": 5239463,
+            "stamp": 1763903386,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539849938,
+            "author": 5239463,
+            "stamp": 1763903159,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539849664,
+            "author": 5239463,
+            "stamp": 1763902505,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539849386,
+            "author": 5239463,
+            "stamp": 1763901882,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539847625,
+            "author": 5239463,
+            "stamp": 1763897659,
+            "flags": "A",
+            "commentary": "已新增标签：gemini, 原创, 腾讯元宝。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539847524,
+            "author": 5239463,
+            "stamp": 1763897448,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539846603,
+            "author": 5239463,
+            "stamp": 1763895685,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539846531,
+            "author": 5239463,
+            "stamp": 1763895543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539846178,
+            "author": 5239463,
+            "stamp": 1763894755,
+            "flags": "A",
+            "commentary": "已新增标签：ai, chatgpt, deepseek, dv, dv至上, kimi, 故事, 豆包。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539846162,
+            "author": 5239463,
+            "stamp": 1763894713,
+            "flags": "N",
+            "commentary": "煮个饭，一会儿继续写"
+        }
+    ],
+    "files": [],
+    "page_id": 1467052541,
+    "rating": -10,
+    "forum_thread": 17456955,
+    "tags": [
+        "ai",
+        "ai生成",
+        "chatgpt",
+        "deepseek",
+        "dv",
+        "dv至上",
+        "gemini",
+        "grok",
+        "kimi",
+        "minimax",
+        "perplexity",
+        "site-cl-203",
+        "原创",
+        "故事",
+        "文心一言",
+        "智谱清言",
+        "腾讯元宝",
+        "豆包",
+        "通义千问"
+    ],
+    "title": "让AI们去编一些“被down爆”的艾斯蛇皮项目",
+    "sitemap_update": 1770915582000,
+    "votings": [
+        [
+            10149879,
+            false
+        ],
+        [
+            8193741,
+            false
+        ],
+        [
+            9746831,
+            false
+        ],
+        [
+            9785619,
+            false
+        ],
+        [
+            8178262,
+            false
+        ],
+        [
+            9854444,
+            false
+        ],
+        [
+            5239463,
+            false
+        ],
+        [
+            9843915,
+            false
+        ],
+        [
+            9843992,
+            false
+        ],
+        [
+            10324948,
+            true
+        ],
+        [
+            10156583,
+            false
+        ],
+        [
+            9091896,
+            false
+        ]
+    ],
+    "is_locked": false
+}

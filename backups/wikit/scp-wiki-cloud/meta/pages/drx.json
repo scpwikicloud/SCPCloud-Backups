@@ -1,0 +1,63 @@
+{
+    "name": "drx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545308808,
+            "author": 9533373,
+            "stamp": 1784387665,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545308806,
+            "author": 9533373,
+            "stamp": 1784387657,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469000630,
+    "rating": -7,
+    "forum_thread": 18176868,
+    "tags": [
+        "搬运",
+        "故事"
+    ],
+    "title": "Drx",
+    "sitemap_update": 1784387665000,
+    "votings": [
+        [
+            10280217,
+            false
+        ],
+        [
+            8683675,
+            false
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            10297811,
+            false
+        ],
+        [
+            9851562,
+            false
+        ],
+        [
+            8366274,
+            false
+        ],
+        [
+            9189284,
+            false
+        ]
+    ],
+    "is_locked": false
+}

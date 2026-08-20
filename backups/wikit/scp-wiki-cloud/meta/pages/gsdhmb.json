@@ -1,0 +1,42 @@
+{
+    "name": "gsdhmb",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1214978878,
+            "author": 6240575,
+            "stamp": 1592480945,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1214978876,
+            "author": 6240575,
+            "stamp": 1592480921,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165084040,
+    "forum_thread": 13437410,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "天秀自述：夜袭黑曼巴",
+    "sitemap_update": 1592480945000,
+    "votings": [
+        [
+            6264761,
+            false
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

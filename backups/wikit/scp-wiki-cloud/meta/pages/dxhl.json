@@ -1,0 +1,71 @@
+{
+    "name": "dxhl",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1512232236,
+            "author": 8516874,
+            "stamp": 1689320464,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1512232219,
+            "author": 8516874,
+            "stamp": 1689320395,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1512232139,
+            "author": 8516874,
+            "stamp": 1689320158,
+            "flags": "A",
+            "commentary": "已新增标签：必须down爆, 至高神性。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1512232123,
+            "author": 8516874,
+            "stamp": 1689320087,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512232093,
+            "author": 8516874,
+            "stamp": 1689319938,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449022013,
+    "forum_thread": 16161220,
+    "tags": [
+        "必须down爆",
+        "故事",
+        "至高神性"
+    ],
+    "title": "大仙婚礼",
+    "sitemap_update": 1689320464000,
+    "votings": [
+        [
+            8713866,
+            true
+        ],
+        [
+            8011011,
+            true
+        ],
+        [
+            8648337,
+            true
+        ]
+    ],
+    "is_locked": false
+}

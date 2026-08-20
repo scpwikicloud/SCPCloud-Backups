@@ -1,0 +1,77 @@
+{
+    "name": "guru2nt",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1219016136,
+            "author": 6269192,
+            "stamp": 1593862675,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1217750708,
+            "author": 6269192,
+            "stamp": 1593778913,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1217750680,
+            "author": 6269192,
+            "stamp": 1593778696,
+            "flags": "A",
+            "commentary": "已新增标签：因为想上主页就加了scp标签, 因为想上主页就加了故事标签。 移除标签：因为向上主页就加了scp标签, 因为向上主页就加了故事标签。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1217750670,
+            "author": 6269192,
+            "stamp": 1593778659,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 因为向上主页就加了scp标签, 因为向上主页就加了故事标签, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1217750660,
+            "author": 6269192,
+            "stamp": 1593778606,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1167668007,
+    "forum_thread": 13485028,
+    "tags": [
+        "scp",
+        "原创",
+        "因为想上主页就加了scp标签",
+        "因为想上主页就加了故事标签",
+        "故事"
+    ],
+    "title": "公告",
+    "sitemap_update": 1593862675000,
+    "votings": [
+        [
+            5723547,
+            true
+        ],
+        [
+            6222558,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6212503,
+            true
+        ]
+    ],
+    "is_locked": false
+}

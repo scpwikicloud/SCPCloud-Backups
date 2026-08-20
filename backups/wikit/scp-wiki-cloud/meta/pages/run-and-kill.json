@@ -1,0 +1,62 @@
+{
+    "name": "run-and-kill",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1267661226,
+            "author": 2995593,
+            "stamp": 1595433508,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1267641444,
+            "author": 2995593,
+            "stamp": 1595433237,
+            "flags": "A",
+            "commentary": "已新增标签：叙事层, 角色扮演。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1267638996,
+            "author": 2995593,
+            "stamp": 1595433216,
+            "flags": "A",
+            "commentary": "已新增标签：交互式基金会元素大逃杀, 原创, 待更新。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1267618228,
+            "author": 2995593,
+            "stamp": 1595433011,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1217318777,
+    "forum_thread": 13574319,
+    "tags": [
+        "交互式基金会元素大逃杀",
+        "原创",
+        "叙事层",
+        "待更新",
+        "故事",
+        "角色扮演"
+    ],
+    "title": "SCP中分决杀乱斗生存赛前瞻",
+    "sitemap_update": 1595433508000,
+    "votings": [
+        [
+            6222558,
+            true
+        ],
+        [
+            5594111,
+            true
+        ]
+    ],
+    "is_locked": false
+}

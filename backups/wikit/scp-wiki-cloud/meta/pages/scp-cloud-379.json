@@ -1,0 +1,42 @@
+{
+    "name": "scp-cloud-379",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545813012,
+            "author": 10335993,
+            "stamp": 1786244219,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv至上, 云国, 医疗性, 原创, 药品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545812999,
+            "author": 10335993,
+            "stamp": 1786244178,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469122696,
+    "rating": 1,
+    "tags": [
+        "scp",
+        "uv至上",
+        "云国",
+        "医疗性",
+        "原创",
+        "药品"
+    ],
+    "title": "SCP-Cloud-379",
+    "sitemap_update": 1786244219000,
+    "votings": [
+        [
+            10450212,
+            true
+        ]
+    ],
+    "is_locked": false
+}

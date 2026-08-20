@@ -1,0 +1,50 @@
+{
+    "name": "scp-cloud-380",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541533474,
+            "author": 9885757,
+            "stamp": 1769086309,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540236234,
+            "author": 9885757,
+            "stamp": 1764870352,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540084132,
+            "author": 9885757,
+            "stamp": 1764514560,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467207091,
+    "rating": 1,
+    "title": "Scp Cloud 380 -面向世界编程语言",
+    "sitemap_update": 1769086309000,
+    "votings": [
+        [
+            9780183,
+            false
+        ],
+        [
+            10335993,
+            true
+        ],
+        [
+            9885757,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,138 @@
+{
+    "name": "scp-cloud-822",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1544549156,
+            "author": 7071305,
+            "stamp": 1781060419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1544549141,
+            "author": 7071305,
+            "stamp": 1781060375,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532378239,
+            "author": 7071305,
+            "stamp": 1758338936,
+            "flags": "A",
+            "commentary": "已新增标签：需更新。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525053660,
+            "author": 7071305,
+            "stamp": 1728188928,
+            "flags": "A",
+            "commentary": "已新增标签：概念。 移除标签：精神影响。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525053647,
+            "author": 7071305,
+            "stamp": 1728188804,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525053604,
+            "author": 7071305,
+            "stamp": 1728188700,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525053600,
+            "author": 7071305,
+            "stamp": 1728188651,
+            "flags": "A",
+            "commentary": "已新增标签：强迫性。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525053534,
+            "author": 7071305,
+            "stamp": 1728188270,
+            "flags": "A",
+            "commentary": "已新增标签：精神影响。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525053527,
+            "author": 7071305,
+            "stamp": 1728188212,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525053487,
+            "author": 7071305,
+            "stamp": 1728187835,
+            "flags": "A",
+            "commentary": "已新增标签：k级情景, safe, uv至上, 历史性, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525053474,
+            "author": 7071305,
+            "stamp": 1728187751,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457013547,
+    "rating": -2,
+    "forum_thread": 16983543,
+    "tags": [
+        "k级情景",
+        "safe",
+        "scp",
+        "uv至上",
+        "历史性",
+        "原创",
+        "强迫性",
+        "概念",
+        "需更新"
+    ],
+    "title": "SCP-Cloud-822 我觉得你才是那个愚蠢至极的玩意儿",
+    "sitemap_update": 1781060419000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            9854410,
+            false
+        ],
+        [
+            8979477,
+            false
+        ],
+        [
+            9375252,
+            false
+        ],
+        [
+            6745213,
+            true
+        ],
+        [
+            9556133,
+            true
+        ]
+    ],
+    "is_locked": false
+}

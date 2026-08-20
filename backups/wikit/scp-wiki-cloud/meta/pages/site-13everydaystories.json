@@ -1,0 +1,71 @@
+{
+    "name": "site-13everydaystories",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1358587443,
+            "author": 6184120,
+            "stamp": 1608484245,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1358587436,
+            "author": 6184120,
+            "stamp": 1608484217,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1306288126,
+    "rating": -7,
+    "forum_thread": 13952671,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "site-13的日常（1",
+    "sitemap_update": 1608484245000,
+    "votings": [
+        [
+            6444453,
+            false
+        ],
+        [
+            8305255,
+            false
+        ],
+        [
+            6780414,
+            false
+        ],
+        [
+            6371490,
+            false
+        ],
+        [
+            6351354,
+            true
+        ],
+        [
+            6317957,
+            false
+        ],
+        [
+            6432947,
+            false
+        ],
+        [
+            6190503,
+            false
+        ],
+        [
+            6833642,
+            false
+        ]
+    ],
+    "is_locked": false
+}

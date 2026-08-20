@@ -1,0 +1,56 @@
+{
+    "name": "scp-cloud-2316",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545625177,
+            "author": 10335993,
+            "stamp": 1785584222,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545624702,
+            "author": 10335993,
+            "stamp": 1785582893,
+            "flags": "A",
+            "commentary": "已新增标签：奇术, 强迫性, 认知危害。 移除标签：极。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545624669,
+            "author": 10335993,
+            "stamp": 1785582791,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp, 原创, 极, 灵体。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545624626,
+            "author": 10335993,
+            "stamp": 1785582681,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469084365,
+    "rating": 0,
+    "forum_thread": 18325739,
+    "tags": [
+        "keter",
+        "scp",
+        "uv至上",
+        "原创",
+        "奇术",
+        "强迫性",
+        "灵体",
+        "认知危害"
+    ],
+    "title": "SCP-CLOUD-2316",
+    "sitemap_update": 1785584222000,
+    "votings": [],
+    "is_locked": false
+}

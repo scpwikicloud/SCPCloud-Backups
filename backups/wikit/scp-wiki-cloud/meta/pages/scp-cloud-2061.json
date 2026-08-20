@@ -1,0 +1,107 @@
+{
+    "name": "scp-cloud-2061",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1543773995,
+            "author": 7952603,
+            "stamp": 1778118797,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543773955,
+            "author": 7952603,
+            "stamp": 1778118434,
+            "flags": "A",
+            "commentary": "已新增标签：site-cl-522。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543773842,
+            "author": 7952603,
+            "stamp": 1778117523,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：故事。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543749155,
+            "author": 7952603,
+            "stamp": 1777985447,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543748844,
+            "author": 7952603,
+            "stamp": 1777985109,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543667604,
+            "author": 7952603,
+            "stamp": 1777688505,
+            "flags": "A",
+            "commentary": "已新增标签：传奇下叙救上叙, 元元叙事, 叙事层, 概念, 温情, 牺牲。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543667436,
+            "author": 7952603,
+            "stamp": 1777687891,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543667426,
+            "author": 7952603,
+            "stamp": 1777687856,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468600671,
+    "rating": 4,
+    "forum_thread": 17833547,
+    "tags": [
+        "scp",
+        "site-cl-522",
+        "uv至上",
+        "传奇下叙救上叙",
+        "元元叙事",
+        "原创",
+        "叙事层",
+        "概念",
+        "温情",
+        "牺牲"
+    ],
+    "title": "Scp Cloud 2061 见",
+    "sitemap_update": 1778118797000,
+    "votings": [
+        [
+            7952603,
+            true
+        ],
+        [
+            10155897,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            9866809,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,40 @@
+{
+    "name": "1gxyj",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1297615296,
+            "author": 6347429,
+            "stamp": 1595930502,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1280729594,
+            "author": 6317957,
+            "stamp": 1595663570,
+            "flags": "A",
+            "commentary": "已新增标签：建议, 需更新…。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1280727030,
+            "author": 6317957,
+            "stamp": 1595663520,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1230395722,
+    "tags": [
+        "建议",
+        "需更新…"
+    ],
+    "title": "一个小建议",
+    "sitemap_update": 1595930502000,
+    "votings": [],
+    "is_locked": false
+}

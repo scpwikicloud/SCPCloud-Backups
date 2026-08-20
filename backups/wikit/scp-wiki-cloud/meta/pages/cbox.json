@@ -1,0 +1,85 @@
+{
+    "name": "cbox",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1537796277,
+            "author": 6335947,
+            "stamp": 1762073434,
+            "flags": "A",
+            "commentary": "已新增标签：基础。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537244954,
+            "author": 6335947,
+            "stamp": 1761986940,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532614712,
+            "author": 6335947,
+            "stamp": 1759459202,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460481594,
+    "forum_thread": 17286538,
+    "tags": [
+        "基础"
+    ],
+    "title": "聊天室",
+    "sitemap_update": 1762073434000,
+    "votings": [
+        [
+            10328463,
+            true
+        ],
+        [
+            9731169,
+            true
+        ],
+        [
+            8546623,
+            true
+        ],
+        [
+            9873610,
+            true
+        ],
+        [
+            8893555,
+            true
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            8824993,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            9877906,
+            true
+        ],
+        [
+            9873701,
+            true
+        ],
+        [
+            9723482,
+            true
+        ]
+    ],
+    "is_locked": true
+}

@@ -1,0 +1,60 @@
+{
+    "name": "scp-cn-4228",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1544746816,
+            "author": 10140214,
+            "stamp": 1781931387,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档。 移除标签：留档。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543668822,
+            "author": 6452551,
+            "stamp": 1777691830,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543496639,
+            "author": 10140214,
+            "stamp": 1776866731,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543496504,
+            "author": 10140214,
+            "stamp": 1776866292,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运, 留档, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543496498,
+            "author": 10140214,
+            "stamp": 1776866270,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468549123,
+    "rating": 0,
+    "tags": [
+        "dscp",
+        "scp",
+        "中分存档",
+        "搬运",
+        "转载"
+    ],
+    "title": "SCP-CN-4228",
+    "sitemap_update": 1781931387000,
+    "votings": [],
+    "is_locked": false
+}

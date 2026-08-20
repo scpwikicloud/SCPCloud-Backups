@@ -1,0 +1,46 @@
+{
+    "name": "scp-cloud-381",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545816193,
+            "author": 10335993,
+            "stamp": 1786254442,
+            "flags": "A",
+            "commentary": "已新增标签：o5-cl, scp, uv至上, 原创, 记忆, 食物。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545816185,
+            "author": 10335993,
+            "stamp": 1786254386,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469123299,
+    "rating": 0,
+    "tags": [
+        "o5-cl",
+        "scp",
+        "uv至上",
+        "原创",
+        "记忆",
+        "食物"
+    ],
+    "title": "SCP-CLOUD-381",
+    "sitemap_update": 1786254442000,
+    "votings": [
+        [
+            10325107,
+            false
+        ],
+        [
+            10450212,
+            true
+        ]
+    ],
+    "is_locked": false
+}

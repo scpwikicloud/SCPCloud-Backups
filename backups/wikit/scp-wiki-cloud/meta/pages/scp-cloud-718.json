@@ -1,0 +1,74 @@
+{
+    "name": "scp-cloud-718",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532797920,
+            "author": 9859827,
+            "stamp": 1759838685,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532425499,
+            "author": 9859827,
+            "stamp": 1758549125,
+            "flags": "A",
+            "commentary": "已新增标签：unnnnnnnnnnnsafe。 移除标签：safe。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532425495,
+            "author": 9859827,
+            "stamp": 1758549113,
+            "flags": "A",
+            "commentary": "已新增标签：awmc, safe, scp, 傻逼物体, 原创, 舞萌dx, 贵州, 遵义。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532425472,
+            "author": 9859827,
+            "stamp": 1758548978,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460431650,
+    "rating": -2,
+    "forum_thread": 17254430,
+    "tags": [
+        "awmc",
+        "dv至上",
+        "scp",
+        "unnnnnnnnnnnsafe",
+        "傻逼物体",
+        "原创",
+        "舞萌dx",
+        "贵州",
+        "遵义"
+    ],
+    "title": "SCP-Cloud-718",
+    "sitemap_update": 1759838685000,
+    "votings": [
+        [
+            10486543,
+            false
+        ],
+        [
+            9451809,
+            true
+        ],
+        [
+            8576655,
+            false
+        ],
+        [
+            10453329,
+            false
+        ]
+    ],
+    "is_locked": false
+}

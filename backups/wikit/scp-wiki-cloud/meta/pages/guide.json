@@ -1,0 +1,63 @@
+{
+    "name": "guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1084386286,
+            "author": 6140401,
+            "stamp": 1588550538,
+            "flags": "A",
+            "commentary": "已新增标签：esp协会。 移除标签： esp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084238269,
+            "author": 6140401,
+            "stamp": 1588401904,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1080123802,
+            "author": 6175807,
+            "stamp": 1588247920,
+            "flags": "A",
+            "commentary": "已新增标签：esp, 原创, 民间指导。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1080119844,
+            "author": 6175807,
+            "stamp": 1588247890,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1030925084,
+    "rating": 3,
+    "tags": [
+        "esp协会",
+        "原创",
+        "民间指导"
+    ],
+    "title": "协会模板（超级修改版）",
+    "sitemap_update": 1588550538000,
+    "votings": [
+        [
+            6140401,
+            true
+        ],
+        [
+            6155934,
+            true
+        ],
+        [
+            6264761,
+            true
+        ]
+    ],
+    "is_locked": false
+}

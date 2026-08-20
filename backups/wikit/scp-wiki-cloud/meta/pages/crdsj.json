@@ -1,0 +1,45 @@
+{
+    "name": "crdsj",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1311447529,
+            "author": 6317957,
+            "stamp": 1597733790,
+            "flags": "A",
+            "commentary": "已新增标签：crd频道, 中心页。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311447307,
+            "author": 6317957,
+            "stamp": 1597732918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311447255,
+            "author": 6317957,
+            "stamp": 1597732736,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260826591,
+    "tags": [
+        "crd频道",
+        "中心页"
+    ],
+    "title": "CRD书城",
+    "sitemap_update": 1597733790000,
+    "votings": [
+        [
+            6351354,
+            false
+        ]
+    ],
+    "is_locked": false
+}

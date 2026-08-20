@@ -1,0 +1,44 @@
+{
+    "name": "quotation",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1050617312,
+            "author": 6173033,
+            "stamp": 1584319808,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 猎妈人, 语录, 邮筒。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1050617284,
+            "author": 6173033,
+            "stamp": 1584319760,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1002096805,
+    "forum_thread": 13152962,
+    "tags": [
+        "scp",
+        "猎妈人",
+        "语录",
+        "邮筒"
+    ],
+    "title": "Quotation",
+    "sitemap_update": 1584319808000,
+    "votings": [
+        [
+            6155697,
+            true
+        ],
+        [
+            6173033,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,121 @@
+{
+    "name": "scp-cloud-417-light",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1436051124,
+            "author": 7938578,
+            "stamp": 1647673453,
+            "flags": "A",
+            "commentary": "已新增标签：d-9417, scp（x）d级人员yyds（√）。 移除标签：scp（x）d级人员yyds（√）d-9417。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1436051118,
+            "author": 7938578,
+            "stamp": 1647673429,
+            "flags": "A",
+            "commentary": "已新增标签：scp（x）d级人员yyds（√）d-9417, up基金会, 原创, 故事。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1436050984,
+            "author": 7938578,
+            "stamp": 1647673040,
+            "flags": "S",
+            "commentary": "新增故事1片段"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1436047061,
+            "author": 7938578,
+            "stamp": 1647659873,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1436047049,
+            "author": 7938578,
+            "stamp": 1647659825,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1436046980,
+            "author": 7938578,
+            "stamp": 1647659664,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1436046126,
+            "author": 7938578,
+            "stamp": 1647656562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1436046091,
+            "author": 7938578,
+            "stamp": 1647656420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1436046087,
+            "author": 7938578,
+            "stamp": 1647656401,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1436046082,
+            "author": 7938578,
+            "stamp": 1647656363,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1378523240,
+    "forum_thread": 15009541,
+    "tags": [
+        "d-9417",
+        "scp（x）d级人员yyds（√）",
+        "up基金会",
+        "原创",
+        "故事"
+    ],
+    "title": "SCP Cloud 417 “黑夜中的light” （故事系列页）",
+    "sitemap_update": 1647673453000,
+    "votings": [
+        [
+            6285604,
+            false
+        ],
+        [
+            7919789,
+            false
+        ],
+        [
+            7508779,
+            true
+        ],
+        [
+            8198452,
+            false
+        ],
+        [
+            6228833,
+            false
+        ]
+    ],
+    "is_locked": false
+}

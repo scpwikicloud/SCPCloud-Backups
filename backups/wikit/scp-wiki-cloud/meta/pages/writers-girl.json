@@ -1,0 +1,50 @@
+{
+    "name": "writers-girl",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1311273183,
+            "author": 6382461,
+            "stamp": 1597050650,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311273177,
+            "author": 6382461,
+            "stamp": 1597050621,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260744600,
+    "forum_thread": 13633891,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "变女记",
+    "sitemap_update": 1597050650000,
+    "votings": [
+        [
+            6678040,
+            false
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            5992128,
+            true
+        ]
+    ],
+    "is_locked": false
+}

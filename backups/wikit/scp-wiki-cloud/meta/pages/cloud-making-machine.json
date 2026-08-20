@@ -1,0 +1,96 @@
+{
+    "name": "cloud-making-machine",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1311338750,
+            "author": 6158388,
+            "stamp": 1597253908,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1311338719,
+            "author": 6158388,
+            "stamp": 1597253706,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311338713,
+            "author": 6158388,
+            "stamp": 1597253678,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311338674,
+            "author": 6158388,
+            "stamp": 1597253515,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260782022,
+    "rating": -7,
+    "forum_thread": 13637979,
+    "tags": [
+        "scp",
+        "原创",
+        "精神影响"
+    ],
+    "title": "造云机器",
+    "sitemap_update": 1597253908000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            6979631,
+            false
+        ],
+        [
+            6077090,
+            false
+        ],
+        [
+            8333186,
+            true
+        ],
+        [
+            6264210,
+            false
+        ],
+        [
+            6329390,
+            false
+        ],
+        [
+            5594111,
+            false
+        ],
+        [
+            6432694,
+            true
+        ],
+        [
+            6285237,
+            false
+        ],
+        [
+            5475841,
+            false
+        ],
+        [
+            6382461,
+            false
+        ]
+    ],
+    "is_locked": false
+}

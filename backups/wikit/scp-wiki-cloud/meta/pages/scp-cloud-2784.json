@@ -1,0 +1,73 @@
+{
+    "name": "scp-cloud-2784",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1545592159,
+            "author": 9863989,
+            "stamp": 1785456053,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545592154,
+            "author": 9863989,
+            "stamp": 1785456006,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545549183,
+            "author": 9863989,
+            "stamp": 1785358028,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545527996,
+            "author": 9863989,
+            "stamp": 1785272010,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545527929,
+            "author": 9863989,
+            "stamp": 1785271208,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469067228,
+    "rating": 3,
+    "forum_thread": 18230001,
+    "tags": [
+        "safe",
+        "scp",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-2784 战争引擎",
+    "sitemap_update": 1785456053000,
+    "votings": [
+        [
+            8546623,
+            true
+        ],
+        [
+            10264176,
+            true
+        ],
+        [
+            10335993,
+            true
+        ]
+    ],
+    "is_locked": false
+}

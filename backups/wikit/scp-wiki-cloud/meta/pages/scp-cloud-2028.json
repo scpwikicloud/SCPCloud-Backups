@@ -1,0 +1,129 @@
+{
+    "name": "scp-cloud-2028",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1545814395,
+            "author": 10157706,
+            "stamp": 1786248541,
+            "flags": "A",
+            "commentary": "已新增标签：神风大帝。 移除标签：神风。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545814391,
+            "author": 10157706,
+            "stamp": 1786248520,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545814332,
+            "author": 10157706,
+            "stamp": 1786248326,
+            "flags": "A",
+            "commentary": "已新增标签：神风。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542296277,
+            "author": 10157706,
+            "stamp": 1772010844,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542276972,
+            "author": 10157706,
+            "stamp": 1771937999,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542276875,
+            "author": 10157706,
+            "stamp": 1771937766,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542276862,
+            "author": 10157706,
+            "stamp": 1771937742,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542276803,
+            "author": 10157706,
+            "stamp": 1771937613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542276789,
+            "author": 10157706,
+            "stamp": 1771937546,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468170725,
+    "rating": 9,
+    "forum_thread": 17593866,
+    "tags": [
+        "scp",
+        "uv",
+        "原创",
+        "神风大帝"
+    ],
+    "title": "SCP-CLOUD-2028  锥形子弹",
+    "sitemap_update": 1786248541000,
+    "votings": [
+        [
+            10157706,
+            true
+        ],
+        [
+            10262742,
+            true
+        ],
+        [
+            10224512,
+            true
+        ],
+        [
+            10243250,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            10280952,
+            true
+        ],
+        [
+            9851562,
+            true
+        ],
+        [
+            9863989,
+            true
+        ],
+        [
+            9491856,
+            true
+        ]
+    ],
+    "is_locked": false
+}

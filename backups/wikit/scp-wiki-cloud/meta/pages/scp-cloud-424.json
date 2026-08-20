@@ -1,0 +1,107 @@
+{
+    "name": "scp-cloud-424",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544916465,
+            "author": 8305255,
+            "stamp": 1782723686,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544916456,
+            "author": 8305255,
+            "stamp": 1782723662,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544916385,
+            "author": 8305255,
+            "stamp": 1782723456,
+            "flags": "F",
+            "commentary": "已上传文件 “SCP-CL-424-2.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544916382,
+            "author": 8305255,
+            "stamp": 1782723433,
+            "flags": "F",
+            "commentary": "已上传文件 “SCP-CL-424-1.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544916333,
+            "author": 8305255,
+            "stamp": 1782723322,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp, site-cl-24, uv至上, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544916322,
+            "author": 8305255,
+            "stamp": 1782723268,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11848866,
+            "name": "SCP-CL-424-1.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-424/SCP-CL-424-1.jpg",
+            "size": "62.2 kB (63690 Bytes)",
+            "size_bytes": 63690,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 835x679, components 3",
+            "author": 8305255,
+            "stamp": 1782723433,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11848867,
+            "name": "SCP-CL-424-2.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-424/SCP-CL-424-2.jpg",
+            "size": "71.87 kB (73596 Bytes)",
+            "size_bytes": 73596,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 928x765, components 3",
+            "author": 8305255,
+            "stamp": 1782723456,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468919059,
+    "rating": 3,
+    "forum_thread": 18071767,
+    "tags": [
+        "safe",
+        "scp",
+        "site-cl-24",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-424",
+    "sitemap_update": 1782723686000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            9851960,
+            true
+        ],
+        [
+            9929144,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,115 @@
+{
+    "name": "y",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1508260479,
+            "author": 8432621,
+            "stamp": 1677780421,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1508260470,
+            "author": 8432621,
+            "stamp": 1677780333,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1508260452,
+            "author": 8432621,
+            "stamp": 1677780172,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1508260408,
+            "author": 8432621,
+            "stamp": 1677779895,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1508260399,
+            "author": 8432621,
+            "stamp": 1677779820,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1508172347,
+            "author": 6452551,
+            "stamp": 1677651880,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1508172344,
+            "author": 6452551,
+            "stamp": 1677651850,
+            "flags": "M",
+            "commentary": "父页面设置为: \"the-free\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1508171985,
+            "author": 8432621,
+            "stamp": 1677649319,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1508168232,
+            "author": 6452551,
+            "stamp": 1677627418,
+            "flags": "A",
+            "commentary": "移除标签：中心。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508167794,
+            "author": 6452551,
+            "stamp": 1677624262,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 原创, 自由报社。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508164609,
+            "author": 8432621,
+            "stamp": 1677603692,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446478740,
+    "parent": "the-free",
+    "forum_thread": 15705455,
+    "tags": [
+        "原创",
+        "自由报社"
+    ],
+    "title": "《崇尚的终末：我们不敢去改变》————致夜中衰亡的红巨星",
+    "sitemap_update": 1677780421000,
+    "votings": [
+        [
+            6452551,
+            true
+        ],
+        [
+            8432621,
+            true
+        ]
+    ],
+    "is_locked": false
+}

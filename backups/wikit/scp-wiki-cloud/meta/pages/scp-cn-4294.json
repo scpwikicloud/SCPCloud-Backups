@@ -1,0 +1,34 @@
+{
+    "name": "scp-cn-4294",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544714137,
+            "author": 9533373,
+            "stamp": 1781785438,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运, 无效化。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544714131,
+            "author": 9533373,
+            "stamp": 1781785419,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468866133,
+    "rating": 0,
+    "tags": [
+        "scp",
+        "搬运",
+        "无效化"
+    ],
+    "title": "SCP-CN-4294",
+    "sitemap_update": 1781785438000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,71 @@
+{
+    "name": "kojj",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1388816689,
+            "author": 6317957,
+            "stamp": 1644730113,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1388320828,
+            "author": 6317957,
+            "stamp": 1642729151,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1388310764,
+            "author": 6317957,
+            "stamp": 1642666549,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388310756,
+            "author": 6317957,
+            "stamp": 1642666508,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331424082,
+    "rating": 5,
+    "forum_thread": 14471957,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "赴死 前行",
+    "sitemap_update": 1644730113000,
+    "votings": [
+        [
+            6571205,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            5967510,
+            true
+        ],
+        [
+            6190503,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

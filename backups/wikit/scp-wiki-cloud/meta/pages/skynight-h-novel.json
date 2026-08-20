@@ -1,0 +1,118 @@
+{
+    "name": "skynight-h-novel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1509316560,
+            "author": 6410237,
+            "stamp": 1680887871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1198163679,
+            "author": 6204559,
+            "stamp": 1591713771,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1198160246,
+            "author": 6322040,
+            "stamp": 1591702491,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1198160051,
+            "author": 6410237,
+            "stamp": 1591701570,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1148380789,
+    "rating": 15,
+    "forum_thread": 13417311,
+    "tags": [
+        "故事"
+    ],
+    "title": "天夜の吻",
+    "sitemap_update": 1680887871000,
+    "votings": [
+        [
+            6222290,
+            true
+        ],
+        [
+            6351354,
+            true
+        ],
+        [
+            4761754,
+            true
+        ],
+        [
+            6324658,
+            true
+        ],
+        [
+            6480202,
+            true
+        ],
+        [
+            6527580,
+            false
+        ],
+        [
+            6126848,
+            true
+        ],
+        [
+            6528038,
+            true
+        ],
+        [
+            6126600,
+            true
+        ],
+        [
+            6212503,
+            true
+        ],
+        [
+            6289129,
+            true
+        ],
+        [
+            6264761,
+            true
+        ],
+        [
+            5704647,
+            true
+        ],
+        [
+            6043113,
+            true
+        ],
+        [
+            6240575,
+            true
+        ],
+        [
+            6286770,
+            true
+        ],
+        [
+            6204559,
+            true
+        ]
+    ],
+    "is_locked": false
+}

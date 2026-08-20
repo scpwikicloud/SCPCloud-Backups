@@ -1,0 +1,40 @@
+{
+    "name": "scp-cloud-419",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1546082418,
+            "author": 10335993,
+            "stamp": 1787017344,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, uv至上, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546082387,
+            "author": 10335993,
+            "stamp": 1787017247,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469186459,
+    "rating": 1,
+    "tags": [
+        "euclid",
+        "scp",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-419",
+    "sitemap_update": 1787017344000,
+    "votings": [
+        [
+            10450212,
+            true
+        ]
+    ],
+    "is_locked": false
+}

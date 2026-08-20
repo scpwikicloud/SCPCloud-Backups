@@ -1,0 +1,119 @@
+{
+    "name": "huanmeng-chat",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1496334347,
+            "author": 7892243,
+            "stamp": 1665750067,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1496330904,
+            "author": 7892243,
+            "stamp": 1665737226,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1496330839,
+            "author": 7892243,
+            "stamp": 1665736987,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1496330835,
+            "author": 7892243,
+            "stamp": 1665736964,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1496330826,
+            "author": 7892243,
+            "stamp": 1665736943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1496328633,
+            "author": 7892243,
+            "stamp": 1665729815,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1496328587,
+            "author": 7892243,
+            "stamp": 1665729741,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1496328584,
+            "author": 7892243,
+            "stamp": 1665729721,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1496328577,
+            "author": 7892243,
+            "stamp": 1665729669,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 聊天。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1496328571,
+            "author": 7892243,
+            "stamp": 1665729643,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1496328540,
+            "author": 7892243,
+            "stamp": 1665729617,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1436450232,
+    "forum_thread": 15402000,
+    "tags": [
+        "原创",
+        "故事",
+        "聊天"
+    ],
+    "title": "聊天室",
+    "sitemap_update": 1665750067000,
+    "votings": [
+        [
+            7146864,
+            true
+        ],
+        [
+            7849061,
+            false
+        ],
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

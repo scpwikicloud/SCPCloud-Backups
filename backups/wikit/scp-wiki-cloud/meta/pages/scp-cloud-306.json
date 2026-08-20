@@ -1,0 +1,248 @@
+{
+    "name": "scp-cloud-306",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 20,
+            "global_revision": 1540908295,
+            "author": 9874148,
+            "stamp": 1766474350,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1540908181,
+            "author": 9874148,
+            "stamp": 1766474223,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1540908142,
+            "author": 9874148,
+            "stamp": 1766474158,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1539987632,
+            "author": 9874148,
+            "stamp": 1764309662,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1539987290,
+            "author": 9874148,
+            "stamp": 1764308895,
+            "flags": "A",
+            "commentary": "已新增标签：area-cl-59。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1539987040,
+            "author": 9874148,
+            "stamp": 1764308317,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1539986953,
+            "author": 9874148,
+            "stamp": 1764308191,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539986936,
+            "author": 9874148,
+            "stamp": 1764308144,
+            "flags": "F",
+            "commentary": "文件 “IMG_20251128_133437.png” 已重新命名为 “SCP-CLOUD-306.2.png”。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539986923,
+            "author": 9874148,
+            "stamp": 1764308114,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251128_133437.png”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539986916,
+            "author": 9874148,
+            "stamp": 1764308099,
+            "flags": "F",
+            "commentary": "已删除文件 “SCP-CLOUD-306.2.png”。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539986893,
+            "author": 9874148,
+            "stamp": 1764308038,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539986861,
+            "author": 9874148,
+            "stamp": 1764307965,
+            "flags": "F",
+            "commentary": "文件 “IMG_20251128_132248.png” 已重新命名为 “SCP-CLOUD-306.1.png”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539986848,
+            "author": 9874148,
+            "stamp": 1764307942,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251128_132248.png”。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539986836,
+            "author": 9874148,
+            "stamp": 1764307918,
+            "flags": "F",
+            "commentary": "文件 “IMG_20251128_132203.png” 已重新命名为 “SCP-CLOUD-306.png”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539986830,
+            "author": 9874148,
+            "stamp": 1764307899,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251128_132203.png”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539986826,
+            "author": 9874148,
+            "stamp": 1764307878,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539986816,
+            "author": 9874148,
+            "stamp": 1764307849,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539986747,
+            "author": 9874148,
+            "stamp": 1764307756,
+            "flags": "F",
+            "commentary": "文件 “IMG_20251127_230657.png” 已重新命名为 “SCP-CLOUD-306.2.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539986730,
+            "author": 9874148,
+            "stamp": 1764307725,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251127_230657.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539986661,
+            "author": 9874148,
+            "stamp": 1764307565,
+            "flags": "A",
+            "commentary": "已新增标签：dv, scp, 原创, 无效化, 极端仇女思想。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539986543,
+            "author": 9874148,
+            "stamp": 1764307287,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11691369,
+            "name": "SCP-CLOUD-306.1.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-306/SCP-CLOUD-306.1.png",
+            "size": "204.68 kB (209590 Bytes)",
+            "size_bytes": 209590,
+            "mime": "image/png",
+            "content": "PNG image data, 716 x 680, 8-bit/color RGBA, non-interlaced",
+            "author": 9874148,
+            "stamp": 1764307942,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11691370,
+            "name": "SCP-CLOUD-306.2.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-306/SCP-CLOUD-306.2.png",
+            "size": "229.97 kB (235487 Bytes)",
+            "size_bytes": 235487,
+            "mime": "image/png",
+            "content": "PNG image data, 716 x 832, 8-bit/color RGBA, non-interlaced",
+            "author": 9874148,
+            "stamp": 1764308114,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11691368,
+            "name": "SCP-CLOUD-306.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-306/SCP-CLOUD-306.png",
+            "size": "49.69 kB (50883 Bytes)",
+            "size_bytes": 50883,
+            "mime": "image/png",
+            "content": "PNG image data, 716 x 240, 8-bit/color RGBA, non-interlaced",
+            "author": 9874148,
+            "stamp": 1764307899,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467142086,
+    "rating": -1,
+    "forum_thread": 17462055,
+    "tags": [
+        "area-cl-59",
+        "dv",
+        "scp",
+        "原创",
+        "无效化",
+        "极端仇女思想"
+    ],
+    "title": "Scp Cloud 306 极端仇女思维",
+    "sitemap_update": 1766474350000,
+    "votings": [
+        [
+            10179253,
+            true
+        ],
+        [
+            9873056,
+            false
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            8795379,
+            false
+        ],
+        [
+            9109706,
+            false
+        ]
+    ],
+    "is_locked": false
+}

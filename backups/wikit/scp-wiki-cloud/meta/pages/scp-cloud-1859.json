@@ -1,0 +1,46 @@
+{
+    "name": "scp-cloud-1859",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545492461,
+            "author": 10335993,
+            "stamp": 1785139344,
+            "flags": "A",
+            "commentary": "已新增标签：ai辅助, 原创？, 国家, 政治实体, 机密分级, 认知偏差。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545492408,
+            "author": 10335993,
+            "stamp": 1785139249,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469055336,
+    "rating": 2,
+    "tags": [
+        "ai辅助",
+        "原创？",
+        "国家",
+        "政治实体",
+        "机密分级",
+        "认知偏差"
+    ],
+    "title": "SCP-Cloud-1859",
+    "sitemap_update": 1785139344000,
+    "votings": [
+        [
+            10335993,
+            true
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

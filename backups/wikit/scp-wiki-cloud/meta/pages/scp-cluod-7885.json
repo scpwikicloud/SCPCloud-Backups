@@ -1,0 +1,113 @@
+{
+    "name": "scp-cluod-7885",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1311254008,
+            "author": 6329390,
+            "stamp": 1596964745,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1311254006,
+            "author": 6329390,
+            "stamp": 1596964730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1311254004,
+            "author": 6329390,
+            "stamp": 1596964705,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1311254001,
+            "author": 6329390,
+            "stamp": 1596964690,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1311091796,
+            "author": 6427047,
+            "stamp": 1596512021,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1311091746,
+            "author": 6427047,
+            "stamp": 1596511837,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 模因, 猫, 现实扭曲。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1311091726,
+            "author": 6427047,
+            "stamp": 1596511793,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311091700,
+            "author": 6427047,
+            "stamp": 1596511667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311091689,
+            "author": 6427047,
+            "stamp": 1596511596,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260633295,
+    "rating": -3,
+    "tags": [
+        "scp",
+        "原创",
+        "模因",
+        "猫",
+        "现实扭曲"
+    ],
+    "title": "SCP-Cluod-7885",
+    "sitemap_update": 1596964745000,
+    "votings": [
+        [
+            6222558,
+            false
+        ],
+        [
+            6317957,
+            false
+        ],
+        [
+            6279199,
+            true
+        ],
+        [
+            6724321,
+            false
+        ],
+        [
+            6603529,
+            false
+        ]
+    ],
+    "is_locked": false
+}

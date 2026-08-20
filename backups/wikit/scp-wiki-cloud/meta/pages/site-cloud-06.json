@@ -1,0 +1,53 @@
+{
+    "name": "site-cloud-06",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1362071422,
+            "author": 6140401,
+            "stamp": 1617708787,
+            "flags": "A",
+            "commentary": "已新增标签：再版重发, 原创, 合作, 站点。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362071384,
+            "author": 6140401,
+            "stamp": 1617708770,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362071382,
+            "author": 6140401,
+            "stamp": 1617708756,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308485082,
+    "rating": 2,
+    "forum_thread": 14042350,
+    "tags": [
+        "再版重发",
+        "原创",
+        "合作",
+        "站点"
+    ],
+    "title": "Site-Cloud-06",
+    "sitemap_update": 1617708787000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            7905777,
+            true
+        ]
+    ],
+    "is_locked": false
+}

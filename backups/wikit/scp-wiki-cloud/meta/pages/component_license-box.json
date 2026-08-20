@@ -1,0 +1,32 @@
+{
+    "name": "component:license-box",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545789327,
+            "author": 10364668,
+            "stamp": 1786171608,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 英文主站。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545789299,
+            "author": 10364668,
+            "stamp": 1786171560,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469119538,
+    "tags": [
+        "搬运",
+        "英文主站"
+    ],
+    "title": "License Box",
+    "sitemap_update": 1786171608000,
+    "votings": [],
+    "is_locked": false
+}

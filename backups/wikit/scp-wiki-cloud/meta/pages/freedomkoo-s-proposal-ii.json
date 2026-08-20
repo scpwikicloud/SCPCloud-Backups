@@ -1,0 +1,101 @@
+{
+    "name": "freedomkoo-s-proposal-ii",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1543669977,
+            "author": 6452551,
+            "stamp": 1777694161,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543285717,
+            "author": 9533373,
+            "stamp": 1775913536,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543101852,
+            "author": 9533373,
+            "stamp": 1775273002,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543101845,
+            "author": 9533373,
+            "stamp": 1775272967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543101644,
+            "author": 9533373,
+            "stamp": 1775272272,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542482561,
+            "author": 9533373,
+            "stamp": 1772888344,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 搬运。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542482546,
+            "author": 9533373,
+            "stamp": 1772888312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542482518,
+            "author": 9533373,
+            "stamp": 1772888221,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468222632,
+    "rating": 2,
+    "forum_thread": 18027090,
+    "tags": [
+        "dscp",
+        "scp",
+        "中分存档",
+        "搬运"
+    ],
+    "title": "（补档）Freedom Koo的提案II",
+    "sitemap_update": 1777694161000,
+    "votings": [
+        [
+            9331062,
+            false
+        ],
+        [
+            8738413,
+            true
+        ],
+        [
+            9552436,
+            true
+        ],
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

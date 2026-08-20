@@ -1,0 +1,91 @@
+{
+    "name": "qwr",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1545186165,
+            "author": 5605262,
+            "stamp": 1783908246,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545186154,
+            "author": 5605262,
+            "stamp": 1783908158,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545186145,
+            "author": 5605262,
+            "stamp": 1783908123,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545186117,
+            "author": 5605262,
+            "stamp": 1783907997,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545186110,
+            "author": 5605262,
+            "stamp": 1783907969,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545186091,
+            "author": 5605262,
+            "stamp": 1783907885,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545186079,
+            "author": 5605262,
+            "stamp": 1783907837,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468972970,
+    "rating": -4,
+    "tags": [
+        "dv至上",
+        "原创",
+        "故事"
+    ],
+    "title": "诺克斯十诫，但是SCP基金会云国分部写作指导(并没有什么用)版",
+    "sitemap_update": 1783908246000,
+    "votings": [
+        [
+            5605262,
+            false
+        ],
+        [
+            10280952,
+            false
+        ],
+        [
+            9786309,
+            false
+        ],
+        [
+            5897215,
+            false
+        ]
+    ],
+    "is_locked": false
+}

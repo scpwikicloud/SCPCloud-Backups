@@ -1,0 +1,52 @@
+{
+    "name": "component:_template",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1362167528,
+            "author": 4725766,
+            "stamp": 1618071313,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1362164166,
+            "author": 4725766,
+            "stamp": 1618060664,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1362164163,
+            "author": 4725766,
+            "stamp": 1618060656,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:_theme\" 至 \"component:_template\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362164153,
+            "author": 4725766,
+            "stamp": 1618060619,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362164079,
+            "author": 4725766,
+            "stamp": 1618060405,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308531898,
+    "title": "_template",
+    "sitemap_update": 1618071313000,
+    "votings": [],
+    "is_locked": false
+}

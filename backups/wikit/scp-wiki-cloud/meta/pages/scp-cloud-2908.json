@@ -1,0 +1,109 @@
+{
+    "name": "scp-cloud-2908",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1545897426,
+            "author": 4001012,
+            "stamp": 1786472011,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545881336,
+            "author": 4001012,
+            "stamp": 1786430630,
+            "flags": "A",
+            "commentary": "已新增标签：uv。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545881081,
+            "author": 4001012,
+            "stamp": 1786430110,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp, 医学性, 原创, 液体, 自我修复。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545881012,
+            "author": 4001012,
+            "stamp": 1786429999,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545880951,
+            "author": 4001012,
+            "stamp": 1786429878,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545880944,
+            "author": 4001012,
+            "stamp": 1786429844,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545880932,
+            "author": 4001012,
+            "stamp": 1786429811,
+            "flags": "F",
+            "commentary": "已上传文件 “SCP-Cloud-2908”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545880923,
+            "author": 4001012,
+            "stamp": 1786429770,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11880759,
+            "name": "SCP-Cloud-2908",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2908/SCP-Cloud-2908",
+            "size": "1.56 MB (1637313 Bytes)",
+            "size_bytes": 1637313,
+            "mime": "image/png",
+            "content": "PNG image data, 898 x 917, 8-bit/color RGB, non-interlaced",
+            "author": 4001012,
+            "stamp": 1786429811,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469134779,
+    "rating": 2,
+    "forum_thread": 18302553,
+    "tags": [
+        "safe",
+        "scp",
+        "uv",
+        "医学性",
+        "原创",
+        "液体",
+        "自我修复"
+    ],
+    "title": "SCP-Cloud-2908",
+    "sitemap_update": 1786472011000,
+    "votings": [
+        [
+            10335993,
+            true
+        ],
+        [
+            10295896,
+            true
+        ]
+    ],
+    "is_locked": false
+}

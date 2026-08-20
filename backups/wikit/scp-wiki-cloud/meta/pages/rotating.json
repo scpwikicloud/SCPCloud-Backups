@@ -1,0 +1,70 @@
+{
+    "name": "rotating",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1496975235,
+            "author": 8317416,
+            "stamp": 1666943025,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1496975207,
+            "author": 8317416,
+            "stamp": 1666942830,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1496975204,
+            "author": 8317416,
+            "stamp": 1666942803,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1496901970,
+            "author": 8317416,
+            "stamp": 1666711305,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1496901924,
+            "author": 8317416,
+            "stamp": 1666711284,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1436891408,
+    "forum_thread": 15346966,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "图片旋转",
+    "sitemap_update": 1666943025000,
+    "votings": [
+        [
+            8317416,
+            true
+        ],
+        [
+            8333186,
+            true
+        ],
+        [
+            8437582,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,41 @@
+{
+    "name": "series-archive-cloud",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1508344658,
+            "author": 6452551,
+            "stamp": 1678169005,
+            "flags": "M",
+            "commentary": "父页面设置为: \"foundation-tales-cloud\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508344648,
+            "author": 6452551,
+            "stamp": 1678168901,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508344620,
+            "author": 6452551,
+            "stamp": 1678168598,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446588852,
+    "parent": "foundation-tales-cloud-old",
+    "tags": [
+        "中心",
+        "原创"
+    ],
+    "title": "云国分部故事系列",
+    "sitemap_update": 1678169005000,
+    "votings": [],
+    "is_locked": false
+}

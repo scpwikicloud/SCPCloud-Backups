@@ -1,0 +1,88 @@
+{
+    "name": "scp-233-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1387293902,
+            "author": 6444453,
+            "stamp": 1638636074,
+            "flags": "S",
+            "commentary": "根据最近的对局情况，我们发现机制特殊的SCP-233-XY在全分段的胜率有些过高了。因此我们微调了其属性，希望能达成更加公平的对局。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1360111448,
+            "author": 6444453,
+            "stamp": 1614357016,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1359097025,
+            "author": 6703750,
+            "stamp": 1610542774,
+            "flags": "A",
+            "commentary": "移除标签：没完事呢。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1359096993,
+            "author": 6703750,
+            "stamp": 1610542755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1359096922,
+            "author": 6703750,
+            "stamp": 1610542595,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1359096815,
+            "author": 6703750,
+            "stamp": 1610542385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1359086309,
+            "author": 6703750,
+            "stamp": 1610532716,
+            "flags": "A",
+            "commentary": "已新增标签：没完事呢。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1359086276,
+            "author": 6703750,
+            "stamp": 1610532692,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1306508317,
+    "rating": 1,
+    "forum_thread": 13980611,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "英雄图鉴"
+    ],
+    "title": "SCP-233-YX",
+    "sitemap_update": 1638636074000,
+    "votings": [
+        [
+            4864173,
+            true
+        ]
+    ],
+    "is_locked": false
+}

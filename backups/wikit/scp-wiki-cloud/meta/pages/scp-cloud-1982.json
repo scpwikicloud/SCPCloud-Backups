@@ -1,0 +1,50 @@
+{
+    "name": "scp-cloud-1982",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545471047,
+            "author": 10335993,
+            "stamp": 1785045388,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 载具。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545469695,
+            "author": 10335993,
+            "stamp": 1785040030,
+            "flags": "A",
+            "commentary": "已新增标签：机密分级。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545469551,
+            "author": 10335993,
+            "stamp": 1785039504,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545469443,
+            "author": 10335993,
+            "stamp": 1785039333,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469050337,
+    "rating": 0,
+    "tags": [
+        "原创",
+        "机密分级",
+        "载具"
+    ],
+    "title": "SCP-Cloud-1982",
+    "sitemap_update": 1785045388000,
+    "votings": [],
+    "is_locked": false
+}

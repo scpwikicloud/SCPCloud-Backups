@@ -1,0 +1,57 @@
+{
+    "name": "heritage-entry2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1073466109,
+            "author": 4259571,
+            "stamp": 1586864612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1073466092,
+            "author": 4259571,
+            "stamp": 1586864538,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073465178,
+            "author": 4259571,
+            "stamp": 1586863805,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073464984,
+            "author": 4259571,
+            "stamp": 1586863659,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073464586,
+            "author": 4259571,
+            "stamp": 1586863266,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024509030,
+    "title": "SCP-Cloud-089 传承条目(伪)",
+    "sitemap_update": 1586864612000,
+    "votings": [
+        [
+            6818166,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,114 @@
+{
+    "name": "most-recently-created-translated",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1461545689,
+            "author": 7501293,
+            "stamp": 1654254100,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 6"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1461423278,
+            "author": 8017462,
+            "stamp": 1654094461,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1356804878,
+            "author": 6323470,
+            "stamp": 1602911784,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1356804805,
+            "author": 6323470,
+            "stamp": 1602911420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1050971469,
+            "author": 5842934,
+            "stamp": 1585127766,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1050933453,
+            "author": 5188523,
+            "stamp": 1585034258,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1050933437,
+            "author": 5188523,
+            "stamp": 1585034229,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1050933419,
+            "author": 5188523,
+            "stamp": 1585034181,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1050933375,
+            "author": 5188523,
+            "stamp": 1585034096,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1002295095,
+    "forum_thread": 13584629,
+    "title": "最近新增的原创SCP页面",
+    "sitemap_update": 1654254100000,
+    "votings": [
+        [
+            6317957,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6195264,
+            true
+        ],
+        [
+            6724321,
+            false
+        ],
+        [
+            6347429,
+            false
+        ],
+        [
+            6286770,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

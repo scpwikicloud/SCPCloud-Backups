@@ -1,0 +1,101 @@
+{
+    "name": "johnmorse",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1545933638,
+            "author": 8546623,
+            "stamp": 1786598231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545596809,
+            "author": 8546623,
+            "stamp": 1785470171,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545292558,
+            "author": 8546623,
+            "stamp": 1784340112,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545292539,
+            "author": 8546623,
+            "stamp": 1784339989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545292512,
+            "author": 8546623,
+            "stamp": 1784339908,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545292085,
+            "author": 8546623,
+            "stamp": 1784339039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545281130,
+            "author": 8305255,
+            "stamp": 1784283076,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545259869,
+            "author": 8546623,
+            "stamp": 1784187096,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545259785,
+            "author": 8546623,
+            "stamp": 1784186809,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468989142,
+    "forum_thread": 18163990,
+    "tags": [
+        "作者"
+    ],
+    "title": "JohnMorse的作者页？",
+    "sitemap_update": 1786598231000,
+    "votings": [
+        [
+            8546623,
+            true
+        ],
+        [
+            10295896,
+            true
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

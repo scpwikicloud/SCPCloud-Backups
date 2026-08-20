@@ -1,0 +1,65 @@
+{
+    "name": "scp-95764-third",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545490702,
+            "author": 9533373,
+            "stamp": 1785132654,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545490697,
+            "author": 9533373,
+            "stamp": 1785132620,
+            "flags": "A",
+            "commentary": "已新增标签：en, scp, 机密分级。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545490691,
+            "author": 9533373,
+            "stamp": 1785132594,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545490688,
+            "author": 9533373,
+            "stamp": 1785132582,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469054829,
+    "rating": -3,
+    "forum_thread": 18217112,
+    "tags": [
+        "en",
+        "scp",
+        "搬运",
+        "机密分级"
+    ],
+    "title": "Scp 95764，但是第三关",
+    "sitemap_update": 1785132654000,
+    "votings": [
+        [
+            8096414,
+            false
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            9682829,
+            false
+        ]
+    ],
+    "is_locked": false
+}

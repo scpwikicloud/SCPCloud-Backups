@@ -1,0 +1,48 @@
+{
+    "name": "only-kyin-center",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545090970,
+            "author": 9324809,
+            "stamp": 1783520780,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545069641,
+            "author": 9324809,
+            "stamp": 1783431436,
+            "flags": "A",
+            "commentary": "已新增标签：禁止评分。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545069630,
+            "author": 9324809,
+            "stamp": 1783431411,
+            "flags": "A",
+            "commentary": "已新增标签：专属。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545069626,
+            "author": 9324809,
+            "stamp": 1783431393,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468951667,
+    "tags": [
+        "专属",
+        "禁止评分"
+    ],
+    "title": "Only Kyin设定-中心页",
+    "sitemap_update": 1783520780000,
+    "votings": [],
+    "is_locked": false
+}

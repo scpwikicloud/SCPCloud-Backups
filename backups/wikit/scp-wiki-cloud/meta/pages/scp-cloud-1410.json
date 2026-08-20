@@ -1,0 +1,99 @@
+{
+    "name": "scp-cloud-1410",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1533109905,
+            "author": 9774539,
+            "stamp": 1760882780,
+            "flags": "A",
+            "commentary": "移除标签：2025整活大赛。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532711199,
+            "author": 9774539,
+            "stamp": 1759745551,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532709411,
+            "author": 9774539,
+            "stamp": 1759739025,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532709392,
+            "author": 9774539,
+            "stamp": 1759738955,
+            "flags": "A",
+            "commentary": "已新增标签：dv。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532709383,
+            "author": 9774539,
+            "stamp": 1759738923,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, euclid, scp, 万能青年旅店, 万青, 乌云典当记, 原创, 啊呀，骇死我力, 在这颗行星所有的酒馆, 相思了。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532709367,
+            "author": 9774539,
+            "stamp": 1759738843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532709347,
+            "author": 9774539,
+            "stamp": 1759738713,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460504551,
+    "rating": 0,
+    "forum_thread": 17309437,
+    "tags": [
+        "dv",
+        "euclid",
+        "scp",
+        "万能青年旅店",
+        "万青",
+        "乌云典当记",
+        "原创",
+        "啊呀，骇死我力",
+        "在这颗行星所有的酒馆",
+        "相思了"
+    ],
+    "title": "SCP-Cloud-1410-在这颗行星所有的酒馆",
+    "sitemap_update": 1760882780000,
+    "votings": [
+        [
+            9850438,
+            false
+        ],
+        [
+            9774539,
+            false
+        ],
+        [
+            8702601,
+            true
+        ],
+        [
+            10415675,
+            true
+        ]
+    ],
+    "is_locked": false
+}

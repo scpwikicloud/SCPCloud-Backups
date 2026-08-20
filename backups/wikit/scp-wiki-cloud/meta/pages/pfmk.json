@@ -1,0 +1,101 @@
+{
+    "name": "pfmk",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545654865,
+            "author": 10264176,
+            "stamp": 1785691201,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545654715,
+            "author": 10264176,
+            "stamp": 1785690297,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 故事, 评分模块。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545654706,
+            "author": 10264176,
+            "stamp": 1785690261,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469089023,
+    "rating": -10,
+    "forum_thread": 18266677,
+    "tags": [
+        "dv至上",
+        "原创",
+        "故事",
+        "评分模块"
+    ],
+    "title": "评分模块",
+    "sitemap_update": 1785691201000,
+    "votings": [
+        [
+            10486976,
+            false
+        ],
+        [
+            10157706,
+            false
+        ],
+        [
+            10200128,
+            false
+        ],
+        [
+            10164640,
+            false
+        ],
+        [
+            8096414,
+            false
+        ],
+        [
+            10264176,
+            false
+        ],
+        [
+            9701445,
+            false
+        ],
+        [
+            10297811,
+            false
+        ],
+        [
+            8287166,
+            false
+        ],
+        [
+            9809083,
+            true
+        ],
+        [
+            9534743,
+            false
+        ],
+        [
+            9524086,
+            true
+        ],
+        [
+            9770536,
+            false
+        ],
+        [
+            10295896,
+            false
+        ]
+    ],
+    "is_locked": false
+}

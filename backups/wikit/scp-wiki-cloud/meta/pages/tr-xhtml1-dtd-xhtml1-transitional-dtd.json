@@ -1,0 +1,45 @@
+{
+    "name": "tr-xhtml1-dtd-xhtml1-transitional-dtd",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1311160997,
+            "author": 6173033,
+            "stamp": 1596806055,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311160989,
+            "author": 6173033,
+            "stamp": 1596806039,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311160984,
+            "author": 6173033,
+            "stamp": 1596806006,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260666958,
+    "forum_thread": 13628555,
+    "tags": [
+        "故事"
+    ],
+    "title": "如何在10秒钟内把HTML学废（1）",
+    "sitemap_update": 1596806055000,
+    "votings": [
+        [
+            6222558,
+            false
+        ]
+    ],
+    "is_locked": false
+}

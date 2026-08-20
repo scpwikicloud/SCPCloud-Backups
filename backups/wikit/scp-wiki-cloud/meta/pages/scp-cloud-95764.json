@@ -1,0 +1,80 @@
+{
+    "name": "scp-cloud-95764",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545978171,
+            "author": 10140214,
+            "stamp": 1786713253,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545524620,
+            "author": 10140214,
+            "stamp": 1785254464,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545524598,
+            "author": 10140214,
+            "stamp": 1785254330,
+            "flags": "A",
+            "commentary": "已新增标签：区, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545524581,
+            "author": 10140214,
+            "stamp": 1785254286,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469066347,
+    "rating": 5,
+    "forum_thread": 18225962,
+    "tags": [
+        "区",
+        "原创",
+        "故事"
+    ],
+    "title": "Scp Cloud 95764",
+    "sitemap_update": 1786713253000,
+    "votings": [
+        [
+            10486976,
+            true
+        ],
+        [
+            9533373,
+            false
+        ],
+        [
+            8683675,
+            true
+        ],
+        [
+            10297811,
+            true
+        ],
+        [
+            8366274,
+            true
+        ],
+        [
+            9863989,
+            true
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

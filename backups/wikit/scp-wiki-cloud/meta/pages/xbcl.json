@@ -1,0 +1,61 @@
+{
+    "name": "xbcl",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545798310,
+            "author": 5605262,
+            "stamp": 1786199987,
+            "flags": "A",
+            "commentary": "移除标签：uv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545798291,
+            "author": 5605262,
+            "stamp": 1786199939,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 原创, 发癫, 故事, 水文。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545798271,
+            "author": 5605262,
+            "stamp": 1786199894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545798245,
+            "author": 5605262,
+            "stamp": 1786199828,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469120897,
+    "rating": 0,
+    "forum_thread": 18289285,
+    "tags": [
+        "原创",
+        "发癫",
+        "故事",
+        "水文"
+    ],
+    "title": "写不出来(三天憋出一千两百字)",
+    "sitemap_update": 1786199987000,
+    "votings": [
+        [
+            5605262,
+            false
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,58 @@
+{
+    "name": "scp-cn-4347",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545473035,
+            "author": 7465847,
+            "stamp": 1785053963,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20260726161907.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545473019,
+            "author": 7465847,
+            "stamp": 1785053911,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp, 中分存档, 山城, 搬运, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545472999,
+            "author": 7465847,
+            "stamp": 1785053855,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11868592,
+            "name": "QQ图片20260726161907.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-4347/QQ%E5%9B%BE%E7%89%8720260726161907.png",
+            "size": "325.46 kB (333271 Bytes)",
+            "size_bytes": 333271,
+            "mime": "image/png",
+            "content": "PNG image data, 1110 x 2066, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1785053963,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469051374,
+    "forum_thread": 18212855,
+    "tags": [
+        "keter",
+        "scp",
+        "中分存档",
+        "山城",
+        "搬运",
+        "转载"
+    ],
+    "title": "SCP-CN-4347",
+    "sitemap_update": 1785053963000,
+    "votings": [],
+    "is_locked": false
+}

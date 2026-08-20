@@ -1,0 +1,58 @@
+{
+    "name": "scp-cloud-369",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1508637388,
+            "author": 7274437,
+            "stamp": 1679157055,
+            "flags": "A",
+            "commentary": "已新增标签：bright博士, euclid, scp, 精神影响, 记忆影响, 饰品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508637384,
+            "author": 7274437,
+            "stamp": 1679157007,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508637379,
+            "author": 7274437,
+            "stamp": 1679156984,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446758305,
+    "rating": 3,
+    "tags": [
+        "bright博士",
+        "euclid",
+        "scp",
+        "精神影响",
+        "记忆影响",
+        "饰品"
+    ],
+    "title": "SCP-Cloud-369",
+    "sitemap_update": 1679157055000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            9899937,
+            true
+        ],
+        [
+            10335993,
+            true
+        ]
+    ],
+    "is_locked": false
+}

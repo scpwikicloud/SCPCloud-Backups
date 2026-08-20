@@ -1,0 +1,41 @@
+{
+    "name": "scp-cloud-341",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545475998,
+            "author": 10335993,
+            "stamp": 1785064868,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545475987,
+            "author": 10335993,
+            "stamp": 1785064793,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545475959,
+            "author": 10335993,
+            "stamp": 1785064656,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469051935,
+    "rating": 0,
+    "tags": [
+        "euclid",
+        "原创"
+    ],
+    "title": "SCP-Cloud-341",
+    "sitemap_update": 1785064868000,
+    "votings": [],
+    "is_locked": false
+}

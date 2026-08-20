@@ -1,0 +1,64 @@
+{
+    "name": "stone",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544845754,
+            "author": 10243431,
+            "stamp": 1782384369,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544845715,
+            "author": 10243431,
+            "stamp": 1782384163,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544845699,
+            "author": 10243431,
+            "stamp": 1782384035,
+            "flags": "A",
+            "commentary": "已新增标签：514, dv至上, 何意味, 哦对了, 棍母, 点击输入文本, 石头。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544845690,
+            "author": 10243431,
+            "stamp": 1782383986,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468904132,
+    "forum_thread": 18061541,
+    "tags": [
+        "514",
+        "dv至上",
+        "何意味",
+        "哦对了",
+        "故事",
+        "棍母",
+        "点击输入文本",
+        "石头"
+    ],
+    "title": "石头。",
+    "sitemap_update": 1782384369000,
+    "votings": [
+        [
+            10243431,
+            false
+        ],
+        [
+            10252500,
+            false
+        ]
+    ],
+    "is_locked": false
+}

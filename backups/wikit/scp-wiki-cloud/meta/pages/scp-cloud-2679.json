@@ -1,0 +1,75 @@
+{
+    "name": "scp-cloud-2679",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1545708736,
+            "author": 10380591,
+            "stamp": 1785912092,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545708656,
+            "author": 10380591,
+            "stamp": 1785911923,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 模因, 胡言乱语。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545708628,
+            "author": 10380591,
+            "stamp": 1785911874,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：*scp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545708616,
+            "author": 10380591,
+            "stamp": 1785911839,
+            "flags": "A",
+            "commentary": "已新增标签：*scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545708605,
+            "author": 10380591,
+            "stamp": 1785911821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545708517,
+            "author": 10380591,
+            "stamp": 1785911640,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469100191,
+    "tags": [
+        "scp",
+        "原创",
+        "模因",
+        "胡言乱语"
+    ],
+    "title": "SCP-CLOUD-2679",
+    "sitemap_update": 1785912092000,
+    "votings": [
+        [
+            10335993,
+            false
+        ],
+        [
+            10380591,
+            true
+        ]
+    ],
+    "is_locked": false
+}

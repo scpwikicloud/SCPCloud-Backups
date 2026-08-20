@@ -1,0 +1,54 @@
+{
+    "name": "xy-skynight-ye-novel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1318431526,
+            "author": 6678040,
+            "stamp": 1598235662,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1312515961,
+            "author": 6351354,
+            "stamp": 1598089126,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311407136,
+            "author": 6410237,
+            "stamp": 1597562180,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260810278,
+    "rating": 1,
+    "forum_thread": 13645530,
+    "tags": [
+        "故事"
+    ],
+    "title": "交互感情",
+    "sitemap_update": 1598235662000,
+    "votings": [
+        [
+            6678040,
+            true
+        ],
+        [
+            6351354,
+            true
+        ],
+        [
+            6527580,
+            false
+        ]
+    ],
+    "is_locked": false
+}

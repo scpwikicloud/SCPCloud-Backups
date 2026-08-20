@@ -1,0 +1,120 @@
+{
+    "name": "scp-cloud-2770",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1545082971,
+            "author": 10451297,
+            "stamp": 1783492332,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545082520,
+            "author": 10451297,
+            "stamp": 1783489830,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545078009,
+            "author": 10451297,
+            "stamp": 1783475878,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545078006,
+            "author": 10451297,
+            "stamp": 1783475854,
+            "flags": "F",
+            "commentary": "已上传文件 “1783462975496.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545078005,
+            "author": 10451297,
+            "stamp": 1783475838,
+            "flags": "F",
+            "commentary": "已上传文件 “1783463130411.jpeg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545078004,
+            "author": 10451297,
+            "stamp": 1783475826,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_20260708_062216_tv.danmaku.bili_edit_361395782006311.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545077999,
+            "author": 10451297,
+            "stamp": 1783475805,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11854831,
+            "name": "1783462975496.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2770/1783462975496.png",
+            "size": "4.34 MB (4551404 Bytes)",
+            "size_bytes": 4551404,
+            "mime": "image/png",
+            "content": "PNG image data, 2900 x 5308, 8-bit/color RGBA, non-interlaced",
+            "author": 10451297,
+            "stamp": 1783475854,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11854830,
+            "name": "1783463130411.jpeg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2770/1783463130411.jpeg",
+            "size": "234.41 kB (240035 Bytes)",
+            "size_bytes": 240035,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1080x1080, components 3",
+            "author": 10451297,
+            "stamp": 1783475838,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11854829,
+            "name": "Screenshot_20260708_062216_tv.danmaku.bili_edit_361395782006311.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2770/Screenshot_20260708_062216_tv.danmaku.bili_edit_361395782006311.jpg",
+            "size": "31.6 kB (32354 Bytes)",
+            "size_bytes": 32354,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 265x337, components 3",
+            "author": 10451297,
+            "stamp": 1783475826,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468953028,
+    "rating": -2,
+    "forum_thread": 18102950,
+    "tags": [
+        "dv至上",
+        "scp"
+    ],
+    "title": "SCP-CLOUD-2770",
+    "sitemap_update": 1783492332000,
+    "votings": [
+        [
+            10280952,
+            false
+        ],
+        [
+            10451297,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,74 @@
+{
+    "name": "victim",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1084386233,
+            "author": 6140401,
+            "stamp": 1588550324,
+            "flags": "A",
+            "commentary": "已新增标签：esp协会。 移除标签： esp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1071776720,
+            "author": 6140401,
+            "stamp": 1585829581,
+            "flags": "A",
+            "commentary": "已新增标签：esp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1071308747,
+            "author": 5842934,
+            "stamp": 1585818647,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1070544893,
+            "author": 6175807,
+            "stamp": 1585802099,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1021771043,
+    "forum_thread": 13205481,
+    "tags": [
+        "esp协会",
+        "故事"
+    ],
+    "title": "一场有预谋的，刺杀！",
+    "sitemap_update": 1588550324000,
+    "votings": [
+        [
+            6140401,
+            true
+        ],
+        [
+            6323074,
+            true
+        ],
+        [
+            5573597,
+            false
+        ],
+        [
+            6150792,
+            true
+        ],
+        [
+            6159447,
+            true
+        ],
+        [
+            6155697,
+            false
+        ]
+    ],
+    "is_locked": false
+}

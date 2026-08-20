@@ -1,0 +1,95 @@
+{
+    "name": "acg-cat",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544792119,
+            "author": 9846641,
+            "stamp": 1782102577,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544277978,
+            "author": 9846641,
+            "stamp": 1780041041,
+            "flags": "F",
+            "commentary": "已上传文件 “ACG”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544086715,
+            "author": 9846641,
+            "stamp": 1779532656,
+            "flags": "A",
+            "commentary": "已新增标签：搞笑。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544086701,
+            "author": 9846641,
+            "stamp": 1779532521,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544086632,
+            "author": 9846641,
+            "stamp": 1779532182,
+            "flags": "F",
+            "commentary": "已上传文件 “A”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544086624,
+            "author": 9846641,
+            "stamp": 1779532151,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11823580,
+            "name": "A",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/acg-cat/A",
+            "size": "131.54 kB (134700 Bytes)",
+            "size_bytes": 134700,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 966x975, components 3",
+            "author": 9846641,
+            "stamp": 1779532182,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11827158,
+            "name": "ACG",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/acg-cat/ACG",
+            "size": "228.15 kB (233621 Bytes)",
+            "size_bytes": 233621,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1152x1258, components 3",
+            "author": 9846641,
+            "stamp": 1780041041,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468700928,
+    "forum_thread": 17965836,
+    "tags": [
+        "dv至上",
+        "搞笑"
+    ],
+    "title": "哇！A管",
+    "sitemap_update": 1782102577000,
+    "votings": [
+        [
+            9846641,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,34 @@
+{
+    "name": "old:scp-cn-234",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545607885,
+            "author": 10140214,
+            "stamp": 1785509324,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545607868,
+            "author": 10140214,
+            "stamp": 1785509244,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469081338,
+    "rating": 0,
+    "forum_thread": 18244178,
+    "tags": [
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-CN-234",
+    "sitemap_update": 1785509324000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,55 @@
+{
+    "name": "qtai",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545277438,
+            "author": 9533373,
+            "stamp": 1784266650,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545277432,
+            "author": 9533373,
+            "stamp": 1784266637,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 文章。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545277429,
+            "author": 9533373,
+            "stamp": 1784266626,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468992675,
+    "rating": -3,
+    "forum_thread": 18160624,
+    "tags": [
+        "搬运",
+        "文章"
+    ],
+    "title": "浅谈AI",
+    "sitemap_update": 1784266650000,
+    "votings": [
+        [
+            10280217,
+            false
+        ],
+        [
+            8683675,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

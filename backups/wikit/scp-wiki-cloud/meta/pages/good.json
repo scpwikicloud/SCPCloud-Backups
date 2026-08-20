@@ -1,0 +1,79 @@
+{
+    "name": "good",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1214978903,
+            "author": 6126600,
+            "stamp": 1592481085,
+            "flags": "A",
+            "commentary": "移除标签：兔子是世界主宰。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1214978477,
+            "author": 6126600,
+            "stamp": 1592479385,
+            "flags": "A",
+            "commentary": "已新增标签：兔子是世界主宰, 郭暮夜给爷爬。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1214880714,
+            "author": 6204559,
+            "stamp": 1592473481,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1212246053,
+            "author": 6313542,
+            "stamp": 1592397648,
+            "flags": "A",
+            "commentary": "已新增标签：林诺死了。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1212245969,
+            "author": 6313542,
+            "stamp": 1592397325,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1162362446,
+    "forum_thread": 13436284,
+    "tags": [
+        "故事",
+        "林诺死了",
+        "郭暮夜给爷爬"
+    ],
+    "title": "林诺之死",
+    "sitemap_update": 1592481085000,
+    "votings": [
+        [
+            6979631,
+            true
+        ],
+        [
+            6127045,
+            false
+        ],
+        [
+            6410237,
+            true
+        ],
+        [
+            6264761,
+            false
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,102 @@
+{
+    "name": "scp-cloud-6324",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1079739162,
+            "author": 6139213,
+            "stamp": 1588242731,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1079731084,
+            "author": 6139213,
+            "stamp": 1588242605,
+            "flags": "A",
+            "commentary": "已新增标签：新人, 模因。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1079728789,
+            "author": 6139213,
+            "stamp": 1588242568,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1079722087,
+            "author": 6139213,
+            "stamp": 1588242471,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1030528628,
+    "rating": -6,
+    "forum_thread": 13280368,
+    "tags": [
+        "scp",
+        "原创",
+        "新人",
+        "模因",
+        "精神影响"
+    ],
+    "title": "SCP-Cloud-6324 抽🐘话 孙哥拯救世界？",
+    "sitemap_update": 1588242731000,
+    "votings": [
+        [
+            6104332,
+            false
+        ],
+        [
+            6323074,
+            true
+        ],
+        [
+            6139213,
+            false
+        ],
+        [
+            6173149,
+            false
+        ],
+        [
+            6126600,
+            false
+        ],
+        [
+            6212503,
+            true
+        ],
+        [
+            6724831,
+            true
+        ],
+        [
+            5721026,
+            false
+        ],
+        [
+            6369458,
+            false
+        ],
+        [
+            6204559,
+            false
+        ],
+        [
+            6286770,
+            false
+        ],
+        [
+            6088403,
+            false
+        ]
+    ],
+    "is_locked": false
+}

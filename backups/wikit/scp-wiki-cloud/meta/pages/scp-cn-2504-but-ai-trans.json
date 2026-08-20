@@ -1,0 +1,59 @@
+{
+    "name": "scp-cn-2504-but-ai-trans",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1546147576,
+            "author": 10299126,
+            "stamp": 1787241179,
+            "flags": "A",
+            "commentary": "已新增标签：int赤到史了。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546147517,
+            "author": 10299126,
+            "stamp": 1787241044,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546147488,
+            "author": 10299126,
+            "stamp": 1787240984,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546147475,
+            "author": 10299126,
+            "stamp": 1787240949,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469200501,
+    "rating": -2,
+    "forum_thread": 18328355,
+    "tags": [
+        "int赤到史了",
+        "搬运"
+    ],
+    "title": "SCP-CN-2504，但AI翻譯",
+    "sitemap_update": 1787241179000,
+    "votings": [
+        [
+            10299126,
+            false
+        ],
+        [
+            5897215,
+            false
+        ]
+    ],
+    "is_locked": false
+}

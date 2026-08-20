@@ -1,0 +1,353 @@
+{
+    "name": "help-gears",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1545031212,
+            "author": 9701202,
+            "stamp": 1783262075,
+            "flags": "S",
+            "commentary": "添加脚注"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1545031196,
+            "author": 9701202,
+            "stamp": 1783261996,
+            "flags": "S",
+            "commentary": "原文内容增加，同时更新筹款数字"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1544963094,
+            "author": 9701202,
+            "stamp": 1782967207,
+            "flags": "S",
+            "commentary": "错字修改"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1544963057,
+            "author": 9701202,
+            "stamp": 1782967068,
+            "flags": "S",
+            "commentary": "原文内容增加，同时更新筹款数字"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543045981,
+            "author": 9701202,
+            "stamp": 1775019230,
+            "flags": "S",
+            "commentary": "原文内容增加，同时更新筹款数字"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1542766714,
+            "author": 9701202,
+            "stamp": 1773820776,
+            "flags": "S",
+            "commentary": "原文内容增加，同时更新筹款数字"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1542576093,
+            "author": 9701202,
+            "stamp": 1773129849,
+            "flags": "S",
+            "commentary": "原文内容增加"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542315765,
+            "author": 9701202,
+            "stamp": 1772109334,
+            "flags": "S",
+            "commentary": "原文内容增加，同时更新筹款数字"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542171131,
+            "author": 9701202,
+            "stamp": 1771580652,
+            "flags": "S",
+            "commentary": "原文内容增加，同时更新筹款数字"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542134738,
+            "author": 9701202,
+            "stamp": 1771396758,
+            "flags": "S",
+            "commentary": "原文内容增加，同时更新筹集数字和预定目标"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541850349,
+            "author": 9701202,
+            "stamp": 1770572001,
+            "flags": "S",
+            "commentary": "Gears在2月8日更新了笔记，添加新翻译"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541850309,
+            "author": 9701202,
+            "stamp": 1770571611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541804747,
+            "author": 9701202,
+            "stamp": 1770354805,
+            "flags": "S",
+            "commentary": "捐款页面捐款数字发生变化"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541493167,
+            "author": 9701202,
+            "stamp": 1768882890,
+            "flags": "A",
+            "commentary": "已新增标签：drgears。 移除标签：dr, gears。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541492974,
+            "author": 9701202,
+            "stamp": 1768882129,
+            "flags": "A",
+            "commentary": "已新增标签：dr, gears, 捐款, 搬运, 翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541492966,
+            "author": 9701202,
+            "stamp": 1768882092,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541492941,
+            "author": 9701202,
+            "stamp": 1768881987,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468026971,
+    "rating": 45,
+    "forum_thread": 17567534,
+    "tags": [
+        "drgears",
+        "捐款",
+        "搬运",
+        "翻译"
+    ],
+    "title": "请帮帮Gears博士",
+    "sitemap_update": 1783262075000,
+    "votings": [
+        [
+            9731145,
+            true
+        ],
+        [
+            9883023,
+            true
+        ],
+        [
+            5435392,
+            true
+        ],
+        [
+            9800125,
+            true
+        ],
+        [
+            10149154,
+            true
+        ],
+        [
+            9131449,
+            true
+        ],
+        [
+            9323975,
+            true
+        ],
+        [
+            9655412,
+            true
+        ],
+        [
+            7502623,
+            true
+        ],
+        [
+            7047022,
+            true
+        ],
+        [
+            8178262,
+            true
+        ],
+        [
+            8274616,
+            true
+        ],
+        [
+            6344387,
+            true
+        ],
+        [
+            9656150,
+            true
+        ],
+        [
+            9507429,
+            true
+        ],
+        [
+            9871615,
+            true
+        ],
+        [
+            10179253,
+            true
+        ],
+        [
+            10205753,
+            true
+        ],
+        [
+            4726378,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            8241942,
+            true
+        ],
+        [
+            10127469,
+            true
+        ],
+        [
+            6132987,
+            true
+        ],
+        [
+            9019326,
+            true
+        ],
+        [
+            9701445,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            3221203,
+            true
+        ],
+        [
+            9906554,
+            true
+        ],
+        [
+            8241278,
+            true
+        ],
+        [
+            9873056,
+            true
+        ],
+        [
+            8560561,
+            true
+        ],
+        [
+            10156562,
+            true
+        ],
+        [
+            9701202,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9812583,
+            true
+        ],
+        [
+            8393776,
+            true
+        ],
+        [
+            6745213,
+            true
+        ],
+        [
+            9830525,
+            true
+        ],
+        [
+            9769479,
+            true
+        ],
+        [
+            9936598,
+            true
+        ],
+        [
+            9745754,
+            true
+        ],
+        [
+            5897215,
+            true
+        ],
+        [
+            9877529,
+            true
+        ],
+        [
+            9869350,
+            true
+        ],
+        [
+            9425241,
+            true
+        ],
+        [
+            9340285,
+            true
+        ],
+        [
+            7009447,
+            true
+        ],
+        [
+            10333117,
+            false
+        ],
+        [
+            10396820,
+            false
+        ]
+    ],
+    "is_locked": false
+}

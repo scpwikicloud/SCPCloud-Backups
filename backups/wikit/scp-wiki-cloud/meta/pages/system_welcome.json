@@ -1,0 +1,28 @@
+{
+    "name": "system:welcome",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1364974879,
+            "author": 5498218,
+            "stamp": 1620485478,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 835653215,
+            "author": 4704446,
+            "stamp": 1557742149,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 790493185,
+    "title": "Welcome to your New Site!",
+    "sitemap_update": 1620485478000,
+    "votings": [],
+    "is_locked": false
+}

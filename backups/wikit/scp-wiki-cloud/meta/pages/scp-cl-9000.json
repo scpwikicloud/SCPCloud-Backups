@@ -1,0 +1,73 @@
+{
+    "name": "scp-cl-9000",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1287245200,
+            "author": 6603529,
+            "stamp": 1595771084,
+            "flags": "A",
+            "commentary": "已新增标签：euclid。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1287243656,
+            "author": 6603529,
+            "stamp": 1595771060,
+            "flags": "A",
+            "commentary": "已新增标签：meta, scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1287225181,
+            "author": 6603529,
+            "stamp": 1595770566,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1287208673,
+            "author": 6603529,
+            "stamp": 1595770404,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1236862717,
+    "rating": 3,
+    "forum_thread": 13586251,
+    "tags": [
+        "euclid",
+        "meta",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CL-9000",
+    "sitemap_update": 1595771084000,
+    "votings": [
+        [
+            6678040,
+            false
+        ],
+        [
+            6401471,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            5480202,
+            true
+        ],
+        [
+            6603529,
+            true
+        ]
+    ],
+    "is_locked": false
+}

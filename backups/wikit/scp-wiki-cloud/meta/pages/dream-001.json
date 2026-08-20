@@ -1,0 +1,51 @@
+{
+    "name": "dream-001",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1513337802,
+            "author": 8333186,
+            "stamp": 1693133829,
+            "flags": "A",
+            "commentary": "已新增标签：鸟类。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513337797,
+            "author": 8333186,
+            "stamp": 1693133809,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 人型生物, 原创, 敌意。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513337790,
+            "author": 8333186,
+            "stamp": 1693133774,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513337785,
+            "author": 8333186,
+            "stamp": 1693133740,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449573384,
+    "tags": [
+        "scp",
+        "人型生物",
+        "原创",
+        "敌意",
+        "鸟类"
+    ],
+    "title": "E-Deram的提案",
+    "sitemap_update": 1693133829000,
+    "votings": [],
+    "is_locked": false
+}

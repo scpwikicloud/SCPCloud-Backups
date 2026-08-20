@@ -1,0 +1,93 @@
+{
+    "name": "47-578",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1546145842,
+            "author": 9470121,
+            "stamp": 1787237341,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532591532,
+            "author": 9470121,
+            "stamp": 1759367751,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532577268,
+            "author": 9470121,
+            "stamp": 1759308146,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532577206,
+            "author": 9470121,
+            "stamp": 1759308051,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, dv。 移除标签：dv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532577165,
+            "author": 9470121,
+            "stamp": 1759307864,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532577119,
+            "author": 9470121,
+            "stamp": 1759307787,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460472675,
+    "rating": -2,
+    "forum_thread": 17279187,
+    "tags": [
+        "2025整活大赛",
+        "dv",
+        "原创",
+        "故事"
+    ],
+    "title": "点击输入文字",
+    "sitemap_update": 1787237341000,
+    "votings": [
+        [
+            9321285,
+            false
+        ],
+        [
+            9512973,
+            true
+        ],
+        [
+            9556346,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9672430,
+            true
+        ],
+        [
+            9496441,
+            false
+        ]
+    ],
+    "is_locked": false
+}

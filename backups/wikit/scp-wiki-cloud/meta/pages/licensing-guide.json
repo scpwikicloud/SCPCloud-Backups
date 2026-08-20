@@ -1,0 +1,32 @@
+{
+    "name": "licensing-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545789582,
+            "author": 10364668,
+            "stamp": 1786172524,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 英文主站。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545789556,
+            "author": 10364668,
+            "stamp": 1786172381,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469119592,
+    "tags": [
+        "搬运",
+        "英文主站"
+    ],
+    "title": "Licensing Guide",
+    "sitemap_update": 1786172524000,
+    "votings": [],
+    "is_locked": false
+}

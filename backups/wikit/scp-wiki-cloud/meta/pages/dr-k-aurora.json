@@ -1,0 +1,47 @@
+{
+    "name": "dr-k-aurora",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1515182473,
+            "author": 8746675,
+            "stamp": 1697799687,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1515182466,
+            "author": 8746675,
+            "stamp": 1697799667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1515182461,
+            "author": 8746675,
+            "stamp": 1697799645,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515182437,
+            "author": 8746675,
+            "stamp": 1697799491,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1450848688,
+    "tags": [
+        "作者"
+    ],
+    "title": "Dr.Aurora的作者页",
+    "sitemap_update": 1697799687000,
+    "votings": [],
+    "is_locked": false
+}

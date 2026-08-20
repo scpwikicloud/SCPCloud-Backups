@@ -1,0 +1,129 @@
+{
+    "name": "scp-cloud-2066",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1545298939,
+            "author": 8546623,
+            "stamp": 1784365201,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1545298919,
+            "author": 8546623,
+            "stamp": 1784365144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1545298913,
+            "author": 8546623,
+            "stamp": 1784365115,
+            "flags": "F",
+            "commentary": "已上传文件 “andy.jpg”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545298904,
+            "author": 8546623,
+            "stamp": 1784365085,
+            "flags": "F",
+            "commentary": "已删除文件 “2066”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545292794,
+            "author": 8546623,
+            "stamp": 1784341327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545292670,
+            "author": 8546623,
+            "stamp": 1784340660,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545292665,
+            "author": 8546623,
+            "stamp": 1784340608,
+            "flags": "F",
+            "commentary": "文件 “微信图片_20260717210504_31_35.png” 已重新命名为 “2066”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545292645,
+            "author": 8546623,
+            "stamp": 1784340472,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545292632,
+            "author": 8546623,
+            "stamp": 1784340437,
+            "flags": "F",
+            "commentary": "已上传文件 “微信图片_20260717210504_31_35.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545292613,
+            "author": 8546623,
+            "stamp": 1784340380,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11861997,
+            "name": "andy.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2066/andy.jpg",
+            "size": "663.94 kB (679870 Bytes)",
+            "size_bytes": 679870,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , bps=8, width=0], baseline, precision 8, 1026x942, components 3",
+            "author": 8546623,
+            "stamp": 1784365115,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468995480,
+    "rating": 4,
+    "forum_thread": 18197202,
+    "tags": [
+        "scp",
+        "uv",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-2066",
+    "sitemap_update": 1784365201000,
+    "votings": [
+        [
+            8546623,
+            true
+        ],
+        [
+            10280952,
+            true
+        ],
+        [
+            10295896,
+            true
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

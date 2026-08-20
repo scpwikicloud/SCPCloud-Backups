@@ -1,0 +1,127 @@
+{
+    "name": "scp-cloud-052",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1508351069,
+            "author": 8305255,
+            "stamp": 1678200273,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1362090695,
+            "author": 5498218,
+            "stamp": 1617803734,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 6"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1217744254,
+            "author": 6280229,
+            "stamp": 1593757427,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1214997485,
+            "author": 6498153,
+            "stamp": 1592560311,
+            "flags": "A",
+            "commentary": "已新增标签：这个是正经标签（确信）。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1214996337,
+            "author": 6498153,
+            "stamp": 1592556059,
+            "flags": "A",
+            "commentary": "已新增标签：菜鸟屑作, 辣鸡东西。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1214979660,
+            "author": 6498153,
+            "stamp": 1592484175,
+            "flags": "A",
+            "commentary": "移除标签：我是大帅比。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1214860297,
+            "author": 6498153,
+            "stamp": 1592472543,
+            "flags": "A",
+            "commentary": "已新增标签：奇奇怪怪, 我是大帅比。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1214796757,
+            "author": 5967510,
+            "stamp": 1592470983,
+            "flags": "A",
+            "commentary": "移除标签：我是大帅比。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1214741405,
+            "author": 6498153,
+            "stamp": 1592469761,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 众神俱乐部, 原创, 懒, 我是大帅比, 来点奇怪的标签, 现实扭曲。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1214692517,
+            "author": 6498153,
+            "stamp": 1592468985,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1164799339,
+    "rating": -3,
+    "forum_thread": 13437454,
+    "tags": [
+        "scp",
+        "众神俱乐部",
+        "原创",
+        "奇奇怪怪",
+        "懒",
+        "来点奇怪的标签",
+        "现实扭曲",
+        "菜鸟屑作",
+        "辣鸡东西",
+        "这个是正经标签（确信）"
+    ],
+    "title": "SCP-Cloud-052 现实扭曲外骨骼",
+    "sitemap_update": 1678200273000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            6127045,
+            false
+        ],
+        [
+            9110822,
+            true
+        ],
+        [
+            5594111,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,82 @@
+{
+    "name": "anti-meme",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1545882221,
+            "author": 10364668,
+            "stamp": 1786433517,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545818368,
+            "author": 10364668,
+            "stamp": 1786262132,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545814959,
+            "author": 10364668,
+            "stamp": 1786250590,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545804191,
+            "author": 10364668,
+            "stamp": 1786212938,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:scp-cloud-001\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545803624,
+            "author": 10364668,
+            "stamp": 1786211733,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, scp, 原创, 逆模因。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545803603,
+            "author": 10364668,
+            "stamp": 1786211700,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469121524,
+    "parent": "collab:scp-cloud-001",
+    "rating": 3,
+    "forum_thread": 18288786,
+    "tags": [
+        "001提案",
+        "scp",
+        "原创",
+        "逆模因"
+    ],
+    "title": "AntiMeme的提案",
+    "sitemap_update": 1786433517000,
+    "votings": [
+        [
+            8546623,
+            true
+        ],
+        [
+            10295896,
+            true
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

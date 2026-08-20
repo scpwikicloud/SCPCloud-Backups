@@ -1,0 +1,107 @@
+{
+    "name": "scp-cloud-484",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1545657657,
+            "author": 9681108,
+            "stamp": 1785705311,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545657632,
+            "author": 9681108,
+            "stamp": 1785705121,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545657617,
+            "author": 9681108,
+            "stamp": 1785705021,
+            "flags": "F",
+            "commentary": "已上传文件 “SCP-CLOUD-484收容标签”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545657567,
+            "author": 9681108,
+            "stamp": 1785704567,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545657548,
+            "author": 9681108,
+            "stamp": 1785704338,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545657529,
+            "author": 9681108,
+            "stamp": 1785704201,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 引起我不适了, 引起我舒适了, 病毒, 真菌, 繁殖, 美食, 胃口, 鸡米花肉。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545657457,
+            "author": 9681108,
+            "stamp": 1785703626,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11874066,
+            "name": "SCP-CLOUD-484收容标签",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-484/SCP-CLOUD-484%E6%94%B6%E5%AE%B9%E6%A0%87%E7%AD%BE",
+            "size": "516.26 kB (528649 Bytes)",
+            "size_bytes": 528649,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1023x1031, components 3",
+            "author": 9681108,
+            "stamp": 1785705021,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469089641,
+    "rating": 3,
+    "tags": [
+        "scp",
+        "原创",
+        "引起我不适了",
+        "引起我舒适了",
+        "病毒",
+        "真菌",
+        "繁殖",
+        "美食",
+        "胃口",
+        "鸡米花肉"
+    ],
+    "title": "SCP-CLOUD-484",
+    "sitemap_update": 1785705311000,
+    "votings": [
+        [
+            8546623,
+            true
+        ],
+        [
+            10335993,
+            true
+        ],
+        [
+            9681108,
+            true
+        ]
+    ],
+    "is_locked": false
+}

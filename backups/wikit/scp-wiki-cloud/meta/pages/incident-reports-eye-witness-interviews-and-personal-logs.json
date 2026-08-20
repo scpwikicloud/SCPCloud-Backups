@@ -1,0 +1,31 @@
+{
+    "name": "incident-reports-eye-witness-interviews-and-personal-logs",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1508343911,
+            "author": 6452551,
+            "stamp": 1678163144,
+            "flags": "A",
+            "commentary": "已新增标签：中心。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508343905,
+            "author": 6452551,
+            "stamp": 1678163067,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446588632,
+    "tags": [
+        "中心"
+    ],
+    "title": "事故记录，目击证人采访，以及个人记录",
+    "sitemap_update": 1678163144000,
+    "votings": [],
+    "is_locked": false
+}

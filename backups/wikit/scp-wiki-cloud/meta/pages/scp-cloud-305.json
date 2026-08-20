@@ -1,0 +1,91 @@
+{
+    "name": "scp-cloud-305",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1532842576,
+            "author": 9650794,
+            "stamp": 1759889755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532842570,
+            "author": 9650794,
+            "stamp": 1759889723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532720320,
+            "author": 9650794,
+            "stamp": 1759756225,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：s c p。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532720279,
+            "author": 9650794,
+            "stamp": 1759756193,
+            "flags": "A",
+            "commentary": "已新增标签：s c p。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532695912,
+            "author": 9650794,
+            "stamp": 1759710331,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532695902,
+            "author": 9650794,
+            "stamp": 1759710268,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532695898,
+            "author": 9650794,
+            "stamp": 1759710236,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532695748,
+            "author": 9650794,
+            "stamp": 1759710028,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460495645,
+    "forum_thread": 18159972,
+    "tags": [
+        "2025整活大赛",
+        "dv至上",
+        "scp"
+    ],
+    "title": "SCP- CLOUD-305",
+    "sitemap_update": 1759889755000,
+    "votings": [
+        [
+            9792384,
+            true
+        ],
+        [
+            9888929,
+            false
+        ]
+    ],
+    "is_locked": false
+}

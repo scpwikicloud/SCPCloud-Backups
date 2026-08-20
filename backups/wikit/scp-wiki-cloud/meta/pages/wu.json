@@ -1,0 +1,55 @@
+{
+    "name": "wu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1048327983,
+            "author": 4888797,
+            "stamp": 1583997901,
+            "flags": "A",
+            "commentary": "已新增标签：文言文。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1048327943,
+            "author": 4888797,
+            "stamp": 1583997779,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1048327864,
+            "author": 4888797,
+            "stamp": 1583997650,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 999870646,
+    "forum_thread": 13148432,
+    "tags": [
+        "原创",
+        "故事",
+        "文言文"
+    ],
+    "title": "无题",
+    "sitemap_update": 1583997901000,
+    "votings": [
+        [
+            5706474,
+            true
+        ],
+        [
+            6155697,
+            true
+        ],
+        [
+            3264570,
+            true
+        ]
+    ],
+    "is_locked": false
+}

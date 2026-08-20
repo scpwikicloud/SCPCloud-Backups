@@ -1,0 +1,38 @@
+{
+    "name": "scp-could-563",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1460761645,
+            "author": 6120541,
+            "stamp": 1651470371,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1460761617,
+            "author": 6120541,
+            "stamp": 1651470238,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1402732713,
+    "rating": -2,
+    "title": "SCP-COULD-563",
+    "sitemap_update": 1651470371000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            7508779,
+            false
+        ]
+    ],
+    "is_locked": false
+}

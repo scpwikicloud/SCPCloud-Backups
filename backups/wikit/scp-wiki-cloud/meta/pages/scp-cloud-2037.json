@@ -1,0 +1,58 @@
+{
+    "name": "scp-cloud-2037",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545881369,
+            "author": 9734672,
+            "stamp": 1786430782,
+            "flags": "A",
+            "commentary": "已新增标签：ai创。 移除标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545881353,
+            "author": 9734672,
+            "stamp": 1786430681,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 镜子。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545835664,
+            "author": 9734672,
+            "stamp": 1786303407,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545835587,
+            "author": 9734672,
+            "stamp": 1786303196,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469127272,
+    "forum_thread": 18295383,
+    "tags": [
+        "ai创",
+        "镜子"
+    ],
+    "title": "豆包豆包，帮我生成一篇scp文档🤓👆",
+    "sitemap_update": 1786430782000,
+    "votings": [
+        [
+            9859827,
+            true
+        ],
+        [
+            10140214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

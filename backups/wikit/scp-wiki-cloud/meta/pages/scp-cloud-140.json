@@ -1,0 +1,101 @@
+{
+    "name": "scp-cloud-140",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1507052791,
+            "author": 8333186,
+            "stamp": 1674972695,
+            "flags": "A",
+            "commentary": "已新增标签：scp, sif协会, 原创, 新生协议。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1507052723,
+            "author": 8333186,
+            "stamp": 1674972646,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1507052713,
+            "author": 8333186,
+            "stamp": 1674972574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1507052389,
+            "author": 8333186,
+            "stamp": 1674972042,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1507052218,
+            "author": 8333186,
+            "stamp": 1674971516,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1507052173,
+            "author": 8333186,
+            "stamp": 1674971462,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1507052077,
+            "author": 8333186,
+            "stamp": 1674971233,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1507052030,
+            "author": 8333186,
+            "stamp": 1674971174,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1445790604,
+    "rating": 2,
+    "forum_thread": 15584640,
+    "tags": [
+        "scp",
+        "sif协会",
+        "原创",
+        "新生协议"
+    ],
+    "title": "SCP-Cloud-140",
+    "sitemap_update": 1674972695000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            8333186,
+            true
+        ],
+        [
+            8128287,
+            true
+        ],
+        [
+            9007460,
+            true
+        ]
+    ],
+    "is_locked": false
+}

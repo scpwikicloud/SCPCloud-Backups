@@ -1,0 +1,96 @@
+{
+    "name": "scp-cloud-470",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1545076527,
+            "author": 10451297,
+            "stamp": 1783466881,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545076419,
+            "author": 10451297,
+            "stamp": 1783466103,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545076400,
+            "author": 10451297,
+            "stamp": 1783465996,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545076350,
+            "author": 10451297,
+            "stamp": 1783465709,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545076341,
+            "author": 10451297,
+            "stamp": 1783465646,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545076335,
+            "author": 10451297,
+            "stamp": 1783465614,
+            "flags": "F",
+            "commentary": "已上传文件 “1783423332584.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545076332,
+            "author": 10451297,
+            "stamp": 1783465592,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11854761,
+            "name": "1783423332584.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-470/1783423332584.png",
+            "size": "1.9 MB (1990192 Bytes)",
+            "size_bytes": 1990192,
+            "mime": "image/png",
+            "content": "PNG image data, 900 x 1200, 8-bit/color RGB, non-interlaced",
+            "author": 10451297,
+            "stamp": 1783465614,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468952764,
+    "rating": -2,
+    "forum_thread": 18101930,
+    "tags": [
+        "dv至上",
+        "scp"
+    ],
+    "title": "SCP-CLOUD-470",
+    "sitemap_update": 1783466881000,
+    "votings": [
+        [
+            8546623,
+            false
+        ],
+        [
+            10451297,
+            false
+        ]
+    ],
+    "is_locked": false
+}

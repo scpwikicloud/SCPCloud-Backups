@@ -1,0 +1,100 @@
+{
+    "name": "scp-cloud-2747",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545332390,
+            "author": 10295896,
+            "stamp": 1784473250,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545110648,
+            "author": 10295896,
+            "stamp": 1783608858,
+            "flags": "F",
+            "commentary": "已上传文件 “七角是原神”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545110636,
+            "author": 10295896,
+            "stamp": 1783608817,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp, 反叙事, 整活, 玩梗, 超行上学。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545110626,
+            "author": 10295896,
+            "stamp": 1783608763,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11855919,
+            "name": "七角是原神",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2747/%E4%B8%83%E8%A7%92%E6%98%AF%E5%8E%9F%E7%A5%9E",
+            "size": "161.24 kB (165110 Bytes)",
+            "size_bytes": 165110,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , width=584], baseline, precision 8, 584x715, components 3",
+            "author": 10295896,
+            "stamp": 1783608858,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468960009,
+    "rating": 8,
+    "forum_thread": 18159772,
+    "tags": [
+        "dv至上",
+        "scp",
+        "反叙事",
+        "整活",
+        "玩梗",
+        "超行上学"
+    ],
+    "title": "Scp Cloud 2747",
+    "sitemap_update": 1784473250000,
+    "votings": [
+        [
+            9835992,
+            true
+        ],
+        [
+            10456455,
+            true
+        ],
+        [
+            8546623,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            8434716,
+            true
+        ],
+        [
+            10191883,
+            true
+        ],
+        [
+            10295896,
+            true
+        ],
+        [
+            10451297,
+            true
+        ]
+    ],
+    "is_locked": false
+}

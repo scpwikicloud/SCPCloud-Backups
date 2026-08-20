@@ -1,0 +1,44 @@
+{
+    "name": "scp-cloud-825",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544609888,
+            "author": 10197917,
+            "stamp": 1781334070,
+            "flags": "A",
+            "commentary": "已新增标签：dr.j, dv至上, euclid, scp, uap, 人形, 原创, 现实扭曲者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544609882,
+            "author": 10197917,
+            "stamp": 1781334054,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468844600,
+    "rating": -1,
+    "tags": [
+        "dr.j",
+        "dv至上",
+        "euclid",
+        "scp",
+        "uap",
+        "人形",
+        "原创",
+        "现实扭曲者"
+    ],
+    "title": "SCP-Cloud-825",
+    "sitemap_update": 1781334070000,
+    "votings": [
+        [
+            10197917,
+            false
+        ]
+    ],
+    "is_locked": false
+}

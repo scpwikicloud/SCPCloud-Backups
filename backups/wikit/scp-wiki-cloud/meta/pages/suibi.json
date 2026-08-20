@@ -1,0 +1,43 @@
+{
+    "name": "suibi",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544989633,
+            "author": 10197917,
+            "stamp": 1783088847,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544989585,
+            "author": 10197917,
+            "stamp": 1783088744,
+            "flags": "A",
+            "commentary": "已新增标签：dr.cmj, dr.j, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544989523,
+            "author": 10197917,
+            "stamp": 1783088577,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468935128,
+    "rating": 0,
+    "tags": [
+        "dr.cmj",
+        "dr.j",
+        "原创",
+        "故事"
+    ],
+    "title": "一点随笔",
+    "sitemap_update": 1783088847000,
+    "votings": [],
+    "is_locked": false
+}

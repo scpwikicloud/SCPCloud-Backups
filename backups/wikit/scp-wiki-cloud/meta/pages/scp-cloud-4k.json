@@ -1,0 +1,124 @@
+{
+    "name": "scp-cloud-4k",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543668613,
+            "author": 6452551,
+            "stamp": 1777691362,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540103967,
+            "author": 6242113,
+            "stamp": 1764573677,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。 移除标签：dv至上, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540103964,
+            "author": 6242113,
+            "stamp": 1764573659,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540103762,
+            "author": 6242113,
+            "stamp": 1764572539,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540103757,
+            "author": 6242113,
+            "stamp": 1764572519,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467218958,
+    "rating": -16,
+    "forum_thread": 17467449,
+    "tags": [
+        "dscp",
+        "搬运",
+        "故事"
+    ],
+    "title": "SCP-CN-4000：长猫的宿命",
+    "sitemap_update": 1777691362000,
+    "votings": [
+        [
+            9533373,
+            false
+        ],
+        [
+            9112486,
+            false
+        ],
+        [
+            9314093,
+            false
+        ],
+        [
+            5111878,
+            false
+        ],
+        [
+            9701672,
+            false
+        ],
+        [
+            10107583,
+            false
+        ],
+        [
+            10063811,
+            false
+        ],
+        [
+            10127899,
+            false
+        ],
+        [
+            8241278,
+            false
+        ],
+        [
+            8426358,
+            false
+        ],
+        [
+            9581327,
+            false
+        ],
+        [
+            6745213,
+            false
+        ],
+        [
+            9769479,
+            false
+        ],
+        [
+            9894670,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

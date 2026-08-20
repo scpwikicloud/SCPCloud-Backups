@@ -1,0 +1,144 @@
+{
+    "name": "crd-9",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1357272053,
+            "author": 6317957,
+            "stamp": 1604069259,
+            "flags": "F",
+            "commentary": "已上传文件 “CR”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1311447142,
+            "author": 6317957,
+            "stamp": 1597732345,
+            "flags": "F",
+            "commentary": "已上传文件 “LG”。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1211702423,
+            "author": 6317957,
+            "stamp": 1592379549,
+            "flags": "A",
+            "commentary": "已新增标签：crd频道。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1208846377,
+            "author": 6317957,
+            "stamp": 1592304292,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1208845784,
+            "author": 6317957,
+            "stamp": 1592301859,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1208845576,
+            "author": 6317957,
+            "stamp": 1592301102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1206354533,
+            "author": 6317957,
+            "stamp": 1592221419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1205412425,
+            "author": 6317957,
+            "stamp": 1592199102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1205408568,
+            "author": 6317957,
+            "stamp": 1592198900,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1205373015,
+            "author": 6317957,
+            "stamp": 1592198467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1205000169,
+            "author": 6317957,
+            "stamp": 1592189929,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1204969347,
+            "author": 6317957,
+            "stamp": 1592189001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1204903309,
+            "author": 6317957,
+            "stamp": 1592187548,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9420061,
+            "name": "CR",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/crd-9/CR",
+            "size": "53.15 kB (54425 Bytes)",
+            "size_bytes": 54425,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6317957,
+            "stamp": 1604069259,
+            "internal_version": 1
+        },
+        {
+            "file_id": 9311864,
+            "name": "LG",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/crd-9/LG",
+            "size": "126.09 kB (129112 Bytes)",
+            "size_bytes": 129112,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, EXIF standard",
+            "author": 6317957,
+            "stamp": 1597732345,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1155049057,
+    "tags": [
+        "crd频道"
+    ],
+    "title": "CRD频道",
+    "sitemap_update": 1604069259000,
+    "votings": [],
+    "is_locked": false
+}

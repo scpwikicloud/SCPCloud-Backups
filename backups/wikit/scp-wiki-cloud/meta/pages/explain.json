@@ -1,0 +1,127 @@
+{
+    "name": "explain",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1508489882,
+            "author": 8049583,
+            "stamp": 1678541499,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1508489873,
+            "author": 8049583,
+            "stamp": 1678541473,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1508489835,
+            "author": 8049583,
+            "stamp": 1678541337,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1508489828,
+            "author": 8049583,
+            "stamp": 1678541318,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1508483344,
+            "author": 8049583,
+            "stamp": 1678517098,
+            "flags": "A",
+            "commentary": "已新增标签：中心。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1508483247,
+            "author": 8049583,
+            "stamp": 1678516848,
+            "flags": "A",
+            "commentary": "移除标签：艺术作品。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1508483225,
+            "author": 8049583,
+            "stamp": 1678516741,
+            "flags": "A",
+            "commentary": "已新增标签：营销式解密。 移除标签：营销号, 解密。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1508483221,
+            "author": 8049583,
+            "stamp": 1678516730,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1508483217,
+            "author": 8049583,
+            "stamp": 1678516713,
+            "flags": "A",
+            "commentary": "已新增标签：营销号。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1508483201,
+            "author": 8049583,
+            "stamp": 1678516684,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1508483200,
+            "author": 8049583,
+            "stamp": 1678516671,
+            "flags": "A",
+            "commentary": "移除标签：营销号。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508483198,
+            "author": 8049583,
+            "stamp": 1678516656,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 艺术作品, 营销号, 解密。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508483191,
+            "author": 8049583,
+            "stamp": 1678516624,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446687640,
+    "forum_thread": 15730439,
+    "tags": [
+        "中心",
+        "故事",
+        "营销式解密"
+    ],
+    "title": "营销式解密中心页",
+    "sitemap_update": 1678541499000,
+    "votings": [
+        [
+            8049583,
+            false
+        ]
+    ],
+    "is_locked": false
+}

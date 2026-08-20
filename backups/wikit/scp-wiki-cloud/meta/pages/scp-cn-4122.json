@@ -1,0 +1,55 @@
+{
+    "name": "scp-cn-4122",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544796071,
+            "author": 7465847,
+            "stamp": 1782124728,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20260622183829.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544796058,
+            "author": 7465847,
+            "stamp": 1782124683,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 搬运, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544796052,
+            "author": 7465847,
+            "stamp": 1782124655,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11844113,
+            "name": "QQ图片20260622183829.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-4122/QQ%E5%9B%BE%E7%89%8720260622183829.png",
+            "size": "339.7 kB (347857 Bytes)",
+            "size_bytes": 347857,
+            "mime": "image/png",
+            "content": "PNG image data, 1170 x 2259, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1782124728,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468892566,
+    "forum_thread": 18046940,
+    "tags": [
+        "中分存档",
+        "搬运",
+        "转载"
+    ],
+    "title": "SCP-CN-4122",
+    "sitemap_update": 1782124728000,
+    "votings": [],
+    "is_locked": false
+}

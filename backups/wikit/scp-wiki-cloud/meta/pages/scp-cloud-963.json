@@ -1,0 +1,79 @@
+{
+    "name": "scp-cloud-963",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1544969593,
+            "author": 5605262,
+            "stamp": 1782995252,
+            "flags": "A",
+            "commentary": "已新增标签：site-cl-24。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544968864,
+            "author": 5605262,
+            "stamp": 1782992470,
+            "flags": "A",
+            "commentary": "已新增标签：牢大。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544968855,
+            "author": 5605262,
+            "stamp": 1782992435,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv至上, 地狱笑话。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544968837,
+            "author": 5605262,
+            "stamp": 1782992369,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544968830,
+            "author": 5605262,
+            "stamp": 1782992320,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468931246,
+    "rating": 4,
+    "forum_thread": 18074026,
+    "tags": [
+        "scp",
+        "site-cl-24",
+        "uv至上",
+        "原创",
+        "地狱笑话",
+        "牢大"
+    ],
+    "title": "SCP-Cloud-963",
+    "sitemap_update": 1782995252000,
+    "votings": [
+        [
+            5605262,
+            true
+        ],
+        [
+            9851960,
+            true
+        ],
+        [
+            4001012,
+            true
+        ],
+        [
+            9786309,
+            true
+        ]
+    ],
+    "is_locked": false
+}

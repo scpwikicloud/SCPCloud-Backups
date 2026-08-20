@@ -1,0 +1,39 @@
+{
+    "name": "slice",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544985803,
+            "author": 9533373,
+            "stamp": 1783071700,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 故事, 混沌分裂者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544985796,
+            "author": 9533373,
+            "stamp": 1783071675,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468934448,
+    "rating": 1,
+    "tags": [
+        "搬运",
+        "故事",
+        "混沌分裂者"
+    ],
+    "title": "混馄考古队故事（又名万物归于馄饨）",
+    "sitemap_update": 1783071700000,
+    "votings": [
+        [
+            10155897,
+            true
+        ]
+    ],
+    "is_locked": false
+}

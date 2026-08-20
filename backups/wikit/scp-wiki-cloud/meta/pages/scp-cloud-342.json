@@ -1,0 +1,46 @@
+{
+    "name": "scp-cloud-342",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545617150,
+            "author": 10335993,
+            "stamp": 1785558226,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545476607,
+            "author": 10335993,
+            "stamp": 1785067441,
+            "flags": "A",
+            "commentary": "已新增标签：safe, 体育, 占卜, 原创, 现实扭曲, 预测性。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545476584,
+            "author": 10335993,
+            "stamp": 1785067311,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469052098,
+    "rating": 0,
+    "tags": [
+        "safe",
+        "scp",
+        "体育",
+        "占卜",
+        "原创",
+        "现实扭曲",
+        "预测性"
+    ],
+    "title": "SCP-Cloud-342",
+    "sitemap_update": 1785558226000,
+    "votings": [],
+    "is_locked": false
+}

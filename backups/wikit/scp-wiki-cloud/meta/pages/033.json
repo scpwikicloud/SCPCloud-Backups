@@ -1,0 +1,54 @@
+{
+    "name": "033",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1214880710,
+            "author": 6204559,
+            "stamp": 1592473464,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1214247834,
+            "author": 6317957,
+            "stamp": 1592455227,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1213735307,
+            "author": 6317957,
+            "stamp": 1592443666,
+            "flags": "A",
+            "commentary": "已新增标签：黑曼巴永存。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1213735188,
+            "author": 6317957,
+            "stamp": 1592443576,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1163844808,
+    "forum_thread": 13437003,
+    "tags": [
+        "故事",
+        "黑曼巴永存"
+    ],
+    "title": "黑曼巴:033号第一人称叙事",
+    "sitemap_update": 1592473464000,
+    "votings": [
+        [
+            6140401,
+            false
+        ]
+    ],
+    "is_locked": false
+}

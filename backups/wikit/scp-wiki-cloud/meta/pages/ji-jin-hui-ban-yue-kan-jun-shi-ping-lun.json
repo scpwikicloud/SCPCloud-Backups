@@ -1,0 +1,70 @@
+{
+    "name": "ji-jin-hui-ban-yue-kan-jun-shi-ping-lun",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543669340,
+            "author": 6452551,
+            "stamp": 1777692983,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543513507,
+            "author": 7465847,
+            "stamp": 1776934954,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20260423170210.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543513492,
+            "author": 7465847,
+            "stamp": 1776934899,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 搬运, 故事, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543513484,
+            "author": 7465847,
+            "stamp": 1776934871,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11800543,
+            "name": "QQ图片20260423170210.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/ji-jin-hui-ban-yue-kan-jun-shi-ping-lun/QQ%E5%9B%BE%E7%89%8720260423170210.png",
+            "size": "492.1 kB (503909 Bytes)",
+            "size_bytes": 503909,
+            "mime": "image/png",
+            "content": "PNG image data, 1371 x 2537, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1776934954,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468558517,
+    "forum_thread": 17786505,
+    "tags": [
+        "dscp",
+        "中分存档",
+        "搬运",
+        "故事",
+        "转载"
+    ],
+    "title": "《基金会半月刊：军事评论》——基金会外勤特工城市行动面临的挑战",
+    "sitemap_update": 1777692983000,
+    "votings": [
+        [
+            9701445,
+            true
+        ]
+    ],
+    "is_locked": false
+}

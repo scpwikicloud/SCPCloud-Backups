@@ -1,0 +1,88 @@
+{
+    "name": "langrensha",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1084386431,
+            "author": 6140401,
+            "stamp": 1588551256,
+            "flags": "A",
+            "commentary": "已新增标签：esp协会。 移除标签： esp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1078442334,
+            "author": 6140401,
+            "stamp": 1588223964,
+            "flags": "A",
+            "commentary": "已新增标签：esp, site-cn-cl-41, 原创, 故事, 暂时扣工资, 机动特遣队。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1078417327,
+            "author": 6140401,
+            "stamp": 1588223597,
+            "flags": "F",
+            "commentary": "已上传文件 “狼人杀”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1078415259,
+            "author": 6140401,
+            "stamp": 1588223567,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9044640,
+            "name": "狼人杀",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/langrensha/%E7%8B%BC%E4%BA%BA%E6%9D%80",
+            "size": "147.74 kB (151283 Bytes)",
+            "size_bytes": 151283,
+            "mime": "image/png",
+            "content": "PNG image data, 1071 x 1201, 8-bit/color RGBA, non-interlaced",
+            "author": 6140401,
+            "stamp": 1588223598,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1029225966,
+    "rating": 5,
+    "forum_thread": 13279657,
+    "tags": [
+        "esp协会",
+        "site-cn-cl-41",
+        "原创",
+        "故事",
+        "暂时扣工资",
+        "机动特遣队"
+    ],
+    "title": "狼人杀机动部队详细页面",
+    "sitemap_update": 1588551256000,
+    "votings": [
+        [
+            6323074,
+            true
+        ],
+        [
+            6317957,
+            true
+        ],
+        [
+            6126600,
+            true
+        ],
+        [
+            5721026,
+            true
+        ],
+        [
+            6377362,
+            true
+        ]
+    ],
+    "is_locked": false
+}

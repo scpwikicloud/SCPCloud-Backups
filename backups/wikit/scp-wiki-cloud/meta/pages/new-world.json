@@ -1,0 +1,119 @@
+{
+    "name": "new-world",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1033835518,
+            "author": 4761736,
+            "stamp": 1578730577,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1033833939,
+            "author": 4761736,
+            "stamp": 1578723671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033832767,
+            "author": 4761736,
+            "stamp": 1578718795,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033815130,
+            "author": 4761736,
+            "stamp": 1578695667,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033809749,
+            "author": 4761736,
+            "stamp": 1578673508,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033809740,
+            "author": 4761736,
+            "stamp": 1578673442,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033809649,
+            "author": 4761736,
+            "stamp": 1578672878,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986119688,
+    "rating": -7,
+    "forum_thread": 12921571,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "前往沐光国",
+    "sitemap_update": 1578730577000,
+    "votings": [
+        [
+            5325378,
+            false
+        ],
+        [
+            5190582,
+            false
+        ],
+        [
+            4764494,
+            false
+        ],
+        [
+            5597899,
+            true
+        ],
+        [
+            4725766,
+            false
+        ],
+        [
+            4780930,
+            true
+        ],
+        [
+            5663983,
+            false
+        ],
+        [
+            6038040,
+            false
+        ],
+        [
+            4955251,
+            false
+        ],
+        [
+            4761736,
+            false
+        ],
+        [
+            6133858,
+            false
+        ]
+    ],
+    "is_locked": false
+}

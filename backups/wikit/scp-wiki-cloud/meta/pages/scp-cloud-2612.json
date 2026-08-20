@@ -1,0 +1,115 @@
+{
+    "name": "scp-cloud-2612",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1545925469,
+            "author": 9863989,
+            "stamp": 1786562722,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1545696896,
+            "author": 9863989,
+            "stamp": 1785857517,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1545696754,
+            "author": 9863989,
+            "stamp": 1785857031,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1545696740,
+            "author": 9863989,
+            "stamp": 1785856982,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1545696720,
+            "author": 9863989,
+            "stamp": 1785856898,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545696718,
+            "author": 9863989,
+            "stamp": 1785856867,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545696683,
+            "author": 9863989,
+            "stamp": 1785856725,
+            "flags": "F",
+            "commentary": "已上传文件 “SCP-CLOUD-2612”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545696665,
+            "author": 9863989,
+            "stamp": 1785856654,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11875684,
+            "name": "SCP-CLOUD-2612",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2612/SCP-CLOUD-2612",
+            "size": "5.27 MB (5523999 Bytes)",
+            "size_bytes": 5523999,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 2448x3264, components 3",
+            "author": 9863989,
+            "stamp": 1785856725,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469097725,
+    "rating": 5,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-2612 临界点",
+    "sitemap_update": 1786562722000,
+    "votings": [
+        [
+            10157706,
+            true
+        ],
+        [
+            9761590,
+            true
+        ],
+        [
+            10335993,
+            true
+        ],
+        [
+            10295896,
+            true
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

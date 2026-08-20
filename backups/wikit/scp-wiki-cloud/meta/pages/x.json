@@ -1,0 +1,48 @@
+{
+    "name": "x",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545907445,
+            "author": 10335993,
+            "stamp": 1786506158,
+            "flags": "A",
+            "commentary": "已新增标签：dr.x, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545907433,
+            "author": 10335993,
+            "stamp": 1786506082,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469138932,
+    "rating": 3,
+    "forum_thread": 18310677,
+    "tags": [
+        "dr.x",
+        "原创",
+        "故事"
+    ],
+    "title": "腐败X",
+    "sitemap_update": 1786506158000,
+    "votings": [
+        [
+            10486976,
+            true
+        ],
+        [
+            9912972,
+            true
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

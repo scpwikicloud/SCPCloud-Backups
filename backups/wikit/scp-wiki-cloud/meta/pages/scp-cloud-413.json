@@ -1,0 +1,77 @@
+{
+    "name": "scp-cloud-413",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1546072408,
+            "author": 10335993,
+            "stamp": 1786975489,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546072373,
+            "author": 10335993,
+            "stamp": 1786975387,
+            "flags": "F",
+            "commentary": "已上传文件 “SCP-CLOUD-413”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546072281,
+            "author": 10335993,
+            "stamp": 1786975130,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546072242,
+            "author": 10335993,
+            "stamp": 1786975101,
+            "flags": "A",
+            "commentary": "已新增标签：008, keter, scp, 丧尸, 原创, 敌意, 生物, 螃蟹。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546072175,
+            "author": 10335993,
+            "stamp": 1786974998,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11885469,
+            "name": "SCP-CLOUD-413",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-413/SCP-CLOUD-413",
+            "size": "74.45 kB (76234 Bytes)",
+            "size_bytes": 76234,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 386x340, components 3",
+            "author": 10335993,
+            "stamp": 1786975387,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469184112,
+    "rating": 0,
+    "tags": [
+        "008",
+        "keter",
+        "scp",
+        "uv至上",
+        "丧尸",
+        "原创",
+        "敌意",
+        "生物",
+        "螃蟹"
+    ],
+    "title": "SCP-CLOUD-413",
+    "sitemap_update": 1786975489000,
+    "votings": [],
+    "is_locked": false
+}

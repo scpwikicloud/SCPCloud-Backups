@@ -1,0 +1,71 @@
+{
+    "name": "scp-cn-4578",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545458650,
+            "author": 7465847,
+            "stamp": 1784992214,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20260725230958.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545458639,
+            "author": 7465847,
+            "stamp": 1784992163,
+            "flags": "A",
+            "commentary": "已新增标签：2026家具城, scp, 中分存档, 合著, 性, 成瘾性, 振动, 搬运, 未收容, 玩具, 精神影响, 转载, 逆模因。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545458566,
+            "author": 7465847,
+            "stamp": 1784992108,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11868058,
+            "name": "QQ图片20260725230958.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-4578/QQ%E5%9B%BE%E7%89%8720260725230958.png",
+            "size": "586.9 kB (600986 Bytes)",
+            "size_bytes": 600986,
+            "mime": "image/png",
+            "content": "PNG image data, 1107 x 3539, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1784992214,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469046442,
+    "rating": -1,
+    "forum_thread": 18207470,
+    "tags": [
+        "2026家具城",
+        "scp",
+        "中分存档",
+        "合著",
+        "性",
+        "成瘾性",
+        "振动",
+        "搬运",
+        "未收容",
+        "玩具",
+        "精神影响",
+        "转载",
+        "逆模因"
+    ],
+    "title": "SCP-CN-4578",
+    "sitemap_update": 1784992214000,
+    "votings": [
+        [
+            10297811,
+            false
+        ]
+    ],
+    "is_locked": false
+}

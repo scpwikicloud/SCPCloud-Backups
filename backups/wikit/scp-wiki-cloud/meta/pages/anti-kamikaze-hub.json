@@ -1,0 +1,196 @@
+{
+    "name": "anti-kamikaze-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1054607780,
+            "author": 6275819,
+            "stamp": 1585375389,
+            "flags": "A",
+            "commentary": "已新增标签：anti-kamikaze, 出警。 移除标签： 出警anti-kamikaze。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1054607040,
+            "author": 6275819,
+            "stamp": 1585375378,
+            "flags": "A",
+            "commentary": "已新增标签：出警anti-kamikaze, 民间指导。 移除标签： anti-kamikaze。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1050977459,
+            "author": 6155697,
+            "stamp": 1585146356,
+            "flags": "A",
+            "commentary": "已新增标签：云国警察局。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1050973999,
+            "author": 6133807,
+            "stamp": 1585137472,
+            "flags": "A",
+            "commentary": "已新增标签：射爆, 芜湖起飞, 需更新。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1050933356,
+            "author": 6133807,
+            "stamp": 1585034064,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"anti-air\" 至 \"anti-kamikaze-hub\"."
+        },
+        {
+            "revision": 11,
+            "global_revision": 1050933235,
+            "author": 6133807,
+            "stamp": 1585033864,
+            "flags": "A",
+            "commentary": "已新增标签：anti-kamikaze, scp, 中心页, 剿灭神风, 开炮。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1050933056,
+            "author": 6133807,
+            "stamp": 1585033565,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1050931717,
+            "author": 6133807,
+            "stamp": 1585030721,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1050931621,
+            "author": 6133807,
+            "stamp": 1585030492,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1050931240,
+            "author": 6133807,
+            "stamp": 1585029692,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1050931223,
+            "author": 6133807,
+            "stamp": 1585029654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1050931209,
+            "author": 6133807,
+            "stamp": 1585029611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1050931112,
+            "author": 6133807,
+            "stamp": 1585029436,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1050931061,
+            "author": 6133807,
+            "stamp": 1585029335,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1050931037,
+            "author": 6133807,
+            "stamp": 1585029279,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1050930905,
+            "author": 6133807,
+            "stamp": 1585029105,
+            "flags": "F",
+            "commentary": "已上传文件 “gun”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1050930351,
+            "author": 6133807,
+            "stamp": 1585027943,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 8987793,
+            "name": "gun",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/anti-kamikaze-hub/gun",
+            "size": "218.49 kB (223737 Bytes)",
+            "size_bytes": 223737,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6133807,
+            "stamp": 1585029105,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1002293149,
+    "forum_thread": 13226691,
+    "tags": [
+        "anti-kamikaze",
+        "scp",
+        "中心页",
+        "云国警察局",
+        "出警",
+        "剿灭神风",
+        "射爆",
+        "开炮",
+        "民间指导",
+        "芜湖起飞",
+        "需更新"
+    ],
+    "title": "反神风人防基地 中心页",
+    "sitemap_update": 1585375389000,
+    "votings": [
+        [
+            2803929,
+            true
+        ],
+        [
+            6222558,
+            true
+        ],
+        [
+            6150792,
+            true
+        ],
+        [
+            5279445,
+            true
+        ],
+        [
+            6204559,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "lsjsy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1362173793,
+            "author": 6317957,
+            "stamp": 1618102390,
+            "flags": "A",
+            "commentary": "移除标签：2020。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311173737,
+            "author": 6317957,
+            "stamp": 1596865969,
+            "flags": "A",
+            "commentary": "已新增标签：2020, 竞赛中心页。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311173714,
+            "author": 6317957,
+            "stamp": 1596865812,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260671012,
+    "tags": [
+        "竞赛中心页"
+    ],
+    "title": "历史竞赛页",
+    "sitemap_update": 1618102390000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,42 @@
+{
+    "name": "help:editing-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 835653205,
+            "author": 4704446,
+            "stamp": 1557742148,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 8317327,
+            "name": "sulphur.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/help:editing-pages/sulphur.png",
+            "size": "9.71 kB (9948 Bytes)",
+            "size_bytes": 9948,
+            "mime": "image/png",
+            "content": "PNG image data, 375 x 398, 8-bit colormap, non-interlaced",
+            "author": 197988,
+            "stamp": 1405733349,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 790493175,
+    "parent": "help:_home",
+    "tags": [
+        "tagged"
+    ],
+    "title": "Editing Pages",
+    "sitemap_update": 1557742148000,
+    "votings": [
+        [
+            3061428,
+            true
+        ]
+    ],
+    "is_locked": false
+}

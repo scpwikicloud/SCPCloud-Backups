@@ -1,0 +1,136 @@
+{
+    "name": "jxpoem",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1539501777,
+            "author": 9851562,
+            "stamp": 1763204548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539501516,
+            "author": 9851562,
+            "stamp": 1763204117,
+            "flags": "A",
+            "commentary": "已新增标签：dr.x, 地下黑市, 故事, 精选哥, 被放逐者图书馆。 移除标签：精选哥故事。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539501439,
+            "author": 9851562,
+            "stamp": 1763204005,
+            "flags": "A",
+            "commentary": "已新增标签：精选哥故事。 移除标签：故事。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539492631,
+            "author": 9851562,
+            "stamp": 1763185720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539491934,
+            "author": 9851562,
+            "stamp": 1763184166,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539491344,
+            "author": 9851562,
+            "stamp": 1763182931,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539491215,
+            "author": 9851562,
+            "stamp": 1763182650,
+            "flags": "A",
+            "commentary": "已新增标签：基金会精选。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539491173,
+            "author": 9851562,
+            "stamp": 1763182540,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 古诗文, 故事, 苦命鸳鸯。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539491107,
+            "author": 9851562,
+            "stamp": 1763182470,
+            "flags": "A",
+            "commentary": "已新增标签：精x99。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539491023,
+            "author": 9851562,
+            "stamp": 1763182377,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466760458,
+    "rating": -5,
+    "forum_thread": 17447431,
+    "tags": [
+        "dr.x",
+        "dv至上",
+        "原创",
+        "古诗文",
+        "地下黑市",
+        "基金会精选",
+        "故事",
+        "精x99",
+        "精选哥",
+        "苦命鸳鸯",
+        "被放逐者图书馆"
+    ],
+    "title": "基金会精选行",
+    "sitemap_update": 1763204548000,
+    "votings": [
+        [
+            8025226,
+            true
+        ],
+        [
+            9655412,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            7071305,
+            false
+        ],
+        [
+            9496441,
+            false
+        ],
+        [
+            9834378,
+            false
+        ],
+        [
+            10453329,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,82 @@
+{
+    "name": "lau",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1084386206,
+            "author": 6140401,
+            "stamp": 1588550174,
+            "flags": "A",
+            "commentary": "已新增标签：esp协会。 移除标签： esp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1073355384,
+            "author": 6140401,
+            "stamp": 1586781300,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073348866,
+            "author": 6140401,
+            "stamp": 1586777215,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073348688,
+            "author": 6140401,
+            "stamp": 1586777120,
+            "flags": "A",
+            "commentary": "已新增标签：esp, 原创, 模因, 讲座。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073348684,
+            "author": 6140401,
+            "stamp": 1586777096,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024407366,
+    "rating": 5,
+    "forum_thread": 13239238,
+    "tags": [
+        "esp协会",
+        "原创",
+        "故事",
+        "模因",
+        "讲座"
+    ],
+    "title": "罗伦博士的模因取代药剂讲座",
+    "sitemap_update": 1588550174000,
+    "votings": [
+        [
+            6323074,
+            true
+        ],
+        [
+            6239908,
+            true
+        ],
+        [
+            6175807,
+            true
+        ],
+        [
+            6247582,
+            true
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

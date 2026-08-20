@@ -1,0 +1,57 @@
+{
+    "name": "xsdwb",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1397001028,
+            "author": 7892243,
+            "stamp": 1647148982,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1396995955,
+            "author": 7892243,
+            "stamp": 1647148921,
+            "flags": "A",
+            "commentary": "已新增标签：补充材料。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1396992172,
+            "author": 7892243,
+            "stamp": 1647148894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1396986137,
+            "author": 7892243,
+            "stamp": 1647148850,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1339533990,
+    "rating": 2,
+    "tags": [
+        "补充材料"
+    ],
+    "title": "微博就此终结吧！",
+    "sitemap_update": 1647148982000,
+    "votings": [
+        [
+            9771273,
+            true
+        ],
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

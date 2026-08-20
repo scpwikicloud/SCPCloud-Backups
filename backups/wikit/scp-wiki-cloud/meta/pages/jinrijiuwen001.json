@@ -1,0 +1,42 @@
+{
+    "name": "jinrijiuwen001",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1215052574,
+            "author": 6348546,
+            "stamp": 1592799067,
+            "flags": "A",
+            "commentary": "已新增标签：旧闻节目。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1215052568,
+            "author": 6348546,
+            "stamp": 1592799042,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1215052564,
+            "author": 6348546,
+            "stamp": 1592799017,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165111187,
+    "rating": 0,
+    "forum_thread": 13446244,
+    "tags": [
+        "原创",
+        "旧闻节目"
+    ],
+    "title": "今日旧闻001",
+    "sitemap_update": 1592799067000,
+    "votings": [],
+    "is_locked": false
+}

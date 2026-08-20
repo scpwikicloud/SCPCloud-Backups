@@ -1,0 +1,57 @@
+{
+    "name": "46759-pcs",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545281916,
+            "author": 9533373,
+            "stamp": 1784286996,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 倒观, 搬运, 机密分级。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545281905,
+            "author": 9533373,
+            "stamp": 1784286924,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545281902,
+            "author": 9533373,
+            "stamp": 1784286877,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468993740,
+    "rating": -3,
+    "forum_thread": 18160804,
+    "tags": [
+        "scp",
+        "倒观",
+        "搬运",
+        "机密分级"
+    ],
+    "title": "Scp 95764(倒观版)",
+    "sitemap_update": 1784286996000,
+    "votings": [
+        [
+            10486976,
+            false
+        ],
+        [
+            9682829,
+            false
+        ],
+        [
+            10453329,
+            false
+        ]
+    ],
+    "is_locked": false
+}

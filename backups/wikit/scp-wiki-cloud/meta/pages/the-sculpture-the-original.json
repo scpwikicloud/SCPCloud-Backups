@@ -1,0 +1,58 @@
+{
+    "name": "the-sculpture-the-original",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545883943,
+            "author": 10364668,
+            "stamp": 1786438539,
+            "flags": "A",
+            "commentary": "已新增标签：英文主站。 移除标签：原文照搬。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545883937,
+            "author": 10364668,
+            "stamp": 1786438511,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545788601,
+            "author": 10364668,
+            "stamp": 1786170254,
+            "flags": "A",
+            "commentary": "已新增标签：scp, scp-173, 原文照搬, 搬运, 雕像-最初之作。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545788586,
+            "author": 10364668,
+            "stamp": 1786170212,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469119500,
+    "rating": -1,
+    "forum_thread": 18288990,
+    "tags": [
+        "scp",
+        "scp-173",
+        "搬运",
+        "英文主站",
+        "雕像-最初之作"
+    ],
+    "title": "SCP-173",
+    "sitemap_update": 1786438539000,
+    "votings": [
+        [
+            9701261,
+            false
+        ]
+    ],
+    "is_locked": false
+}

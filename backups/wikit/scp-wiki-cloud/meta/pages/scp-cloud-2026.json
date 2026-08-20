@@ -1,0 +1,45 @@
+{
+    "name": "scp-cloud-2026",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1537967995,
+            "author": 6335947,
+            "stamp": 1762146659,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1537793405,
+            "author": 6335947,
+            "stamp": 1762072998,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1465230997,
+    "forum_thread": 18156821,
+    "tags": [
+        "管理"
+    ],
+    "title": "Scp Cloud 2026",
+    "sitemap_update": 1762146659000,
+    "votings": [
+        [
+            9701261,
+            false
+        ],
+        [
+            10280952,
+            false
+        ],
+        [
+            9828873,
+            false
+        ]
+    ],
+    "is_locked": false
+}

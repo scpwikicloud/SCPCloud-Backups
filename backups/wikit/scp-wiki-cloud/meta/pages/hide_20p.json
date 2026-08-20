@@ -1,0 +1,83 @@
+{
+    "name": "hide:20p",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543532897,
+            "author": 8305255,
+            "stamp": 1777035140,
+            "flags": "A",
+            "commentary": "已新增标签：隐藏。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543472790,
+            "author": 9885617,
+            "stamp": 1776743798,
+            "flags": "A",
+            "commentary": "移除标签：隐藏。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539986488,
+            "author": 6335947,
+            "stamp": 1764307131,
+            "flags": "A",
+            "commentary": "已新增标签：隐藏。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539986472,
+            "author": 6335947,
+            "stamp": 1764307087,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"20p\" 至 \"hide:20p\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539910715,
+            "author": 9885617,
+            "stamp": 1764132976,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539910708,
+            "author": 9885617,
+            "stamp": 1764132902,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467087112,
+    "forum_thread": 17461936,
+    "tags": [
+        "原创",
+        "故事",
+        "隐藏"
+    ],
+    "title": "二十大名器 详解 [20P]",
+    "sitemap_update": 1777035140000,
+    "votings": [
+        [
+            9851960,
+            false
+        ],
+        [
+            10262931,
+            false
+        ],
+        [
+            10324948,
+            false
+        ],
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

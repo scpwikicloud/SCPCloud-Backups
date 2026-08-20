@@ -1,0 +1,77 @@
+{
+    "name": "scp-cloud-423",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545398140,
+            "author": 8546623,
+            "stamp": 1784779585,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545398134,
+            "author": 8546623,
+            "stamp": 1784779549,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545398094,
+            "author": 8546623,
+            "stamp": 1784779345,
+            "flags": "F",
+            "commentary": "已上传文件 “t.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545398064,
+            "author": 8546623,
+            "stamp": 1784779175,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11865882,
+            "name": "t.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-423/t.png",
+            "size": "5.81 MB (6094933 Bytes)",
+            "size_bytes": 6094933,
+            "mime": "image/png",
+            "content": "PNG image data, 3648 x 2736, 8-bit/color RGBA, non-interlaced",
+            "author": 8546623,
+            "stamp": 1784779346,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469023360,
+    "rating": 3,
+    "forum_thread": 18189224,
+    "tags": [
+        "scp",
+        "uv",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-423",
+    "sitemap_update": 1784779585000,
+    "votings": [
+        [
+            8546623,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            10295896,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,48 @@
+{
+    "name": "albertor",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1366785593,
+            "author": 7275798,
+            "stamp": 1625041749,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 咕, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1366785586,
+            "author": 7275798,
+            "stamp": 1625041715,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1312259810,
+    "rating": -1,
+    "forum_thread": 14133685,
+    "tags": [
+        "uv至上",
+        "咕",
+        "故事"
+    ],
+    "title": "Albertor控制台",
+    "sitemap_update": 1625041749000,
+    "votings": [
+        [
+            7318709,
+            false
+        ],
+        [
+            6860875,
+            false
+        ],
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

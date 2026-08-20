@@ -1,0 +1,85 @@
+{
+    "name": "wearedd",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1047990386,
+            "author": 5706474,
+            "stamp": 1583218962,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1047591066,
+            "author": 6027217,
+            "stamp": 1583133424,
+            "flags": "A",
+            "commentary": "已新增标签：搞笑, 文章, 档案。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1047591058,
+            "author": 6027217,
+            "stamp": 1583133385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1047547682,
+            "author": 6027217,
+            "stamp": 1583074510,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 999246278,
+    "forum_thread": 13094473,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事",
+        "文章",
+        "档案"
+    ],
+    "title": "《基金会生存手册》",
+    "sitemap_update": 1583218962000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            7146864,
+            true
+        ],
+        [
+            6678040,
+            false
+        ],
+        [
+            6179656,
+            true
+        ],
+        [
+            6150792,
+            true
+        ],
+        [
+            5437364,
+            true
+        ],
+        [
+            6178752,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

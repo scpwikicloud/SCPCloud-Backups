@@ -1,0 +1,64 @@
+{
+    "name": "wanderers:past-like-cigarettes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1544770515,
+            "author": 9533373,
+            "stamp": 1782011180,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543669483,
+            "author": 6452551,
+            "stamp": 1777693259,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543263103,
+            "author": 9533373,
+            "stamp": 1775876112,
+            "flags": "A",
+            "commentary": "已新增标签：wanderers。 移除标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543167764,
+            "author": 9533373,
+            "stamp": 1775565393,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543167741,
+            "author": 9533373,
+            "stamp": 1775565300,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468430356,
+    "rating": 1,
+    "forum_thread": 18038112,
+    "tags": [
+        "dscp",
+        "wanderers",
+        "搬运"
+    ],
+    "title": "往事如烟",
+    "sitemap_update": 1782011180000,
+    "votings": [
+        [
+            9032299,
+            true
+        ]
+    ],
+    "is_locked": false
+}

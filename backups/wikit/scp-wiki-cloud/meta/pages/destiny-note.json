@@ -1,0 +1,44 @@
+{
+    "name": "destiny-note",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1545346294,
+            "author": 9534743,
+            "stamp": 1784543979,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 这他妈什么。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545346284,
+            "author": 9534743,
+            "stamp": 1784543929,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 故事, 非原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545346265,
+            "author": 9534743,
+            "stamp": 1784543844,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469010659,
+    "rating": 0,
+    "tags": [
+        "dv至上",
+        "搬运",
+        "故事",
+        "这他妈什么",
+        "非原创"
+    ],
+    "title": "［搬运］量子日记",
+    "sitemap_update": 1784543979000,
+    "votings": [],
+    "is_locked": false
+}

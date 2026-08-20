@@ -1,0 +1,76 @@
+{
+    "name": "uap",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544568301,
+            "author": 10197917,
+            "stamp": 1781139818,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543704665,
+            "author": 10197917,
+            "stamp": 1777836714,
+            "flags": "A",
+            "commentary": "已新增标签：40k, 825, dr.cmj, dr.j, goi, uap, 中心页, 武士。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543704600,
+            "author": 10197917,
+            "stamp": 1777836291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543704594,
+            "author": 10197917,
+            "stamp": 1777836263,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543704525,
+            "author": 10197917,
+            "stamp": 1777835919,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543684273,
+            "author": 10197917,
+            "stamp": 1777742118,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468606231,
+    "rating": 1,
+    "tags": [
+        "40k",
+        "825",
+        "dr.cmj",
+        "dr.j",
+        "goi",
+        "uap",
+        "中心页",
+        "武士"
+    ],
+    "title": "UAP中心页",
+    "sitemap_update": 1781139818000,
+    "votings": [
+        [
+            10197917,
+            true
+        ]
+    ],
+    "is_locked": false
+}

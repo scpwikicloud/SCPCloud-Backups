@@ -1,0 +1,41 @@
+{
+    "name": "scp-cloud-368",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545729339,
+            "author": 10335993,
+            "stamp": 1785983665,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 云国, 原创, 车语系列, 载具。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545729326,
+            "author": 10335993,
+            "stamp": 1785983578,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469104112,
+    "rating": 1,
+    "tags": [
+        "scp",
+        "云国",
+        "原创",
+        "车语系列",
+        "载具"
+    ],
+    "title": "SCP-CLOUD-368",
+    "sitemap_update": 1785983665000,
+    "votings": [
+        [
+            10295896,
+            true
+        ]
+    ],
+    "is_locked": false
+}

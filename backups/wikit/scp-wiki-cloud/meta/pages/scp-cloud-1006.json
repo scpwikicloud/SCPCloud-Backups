@@ -1,0 +1,43 @@
+{
+    "name": "scp-cloud-1006",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1544883087,
+            "author": 9851960,
+            "stamp": 1782562781,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544883084,
+            "author": 9851960,
+            "stamp": 1782562757,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468912223,
+    "forum_thread": 18067461,
+    "tags": [
+        "scp",
+        "uv",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-1006 乌兹别克棉花案的亡魂",
+    "sitemap_update": 1782562781000,
+    "votings": [
+        [
+            9851960,
+            true
+        ],
+        [
+            9786309,
+            false
+        ]
+    ],
+    "is_locked": false
+}

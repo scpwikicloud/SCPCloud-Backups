@@ -1,0 +1,135 @@
+{
+    "name": "admin:verify",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1545801510,
+            "author": 6335947,
+            "stamp": 1786207546,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1545801477,
+            "author": 6335947,
+            "stamp": 1786207485,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1543330591,
+            "author": 6335947,
+            "stamp": 1776137706,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543330246,
+            "author": 6335947,
+            "stamp": 1776134882,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1541300462,
+            "author": 6335947,
+            "stamp": 1767790193,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 8"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1541300455,
+            "author": 6335947,
+            "stamp": 1767790148,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541274584,
+            "author": 1899481,
+            "stamp": 1767622111,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1540914948,
+            "author": 1899481,
+            "stamp": 1766485896,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540914920,
+            "author": 1899481,
+            "stamp": 1766485854,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540898678,
+            "author": 1899481,
+            "stamp": 1766426251,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540898671,
+            "author": 1899481,
+            "stamp": 1766426231,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540896383,
+            "author": 1899481,
+            "stamp": 1766414406,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:verify\" 至 \"admin:verify\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540896380,
+            "author": 1899481,
+            "stamp": 1766414387,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540896378,
+            "author": 1899481,
+            "stamp": 1766414373,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540896375,
+            "author": 1899481,
+            "stamp": 1766414339,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467742859,
+    "tags": [
+        "管理"
+    ],
+    "title": "用户头衔认证系统",
+    "sitemap_update": 1786207546000,
+    "votings": [],
+    "is_locked": true
+}

@@ -1,0 +1,64 @@
+{
+    "name": "scp-95764-second",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1545297211,
+            "author": 9533373,
+            "stamp": 1784359086,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运, 机密分级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545297205,
+            "author": 9533373,
+            "stamp": 1784359064,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468996267,
+    "rating": -7,
+    "forum_thread": 18163974,
+    "tags": [
+        "scp",
+        "搬运",
+        "机密分级"
+    ],
+    "title": "Scp 95764，但是第二关",
+    "sitemap_update": 1784359086000,
+    "votings": [
+        [
+            10486976,
+            false
+        ],
+        [
+            9533373,
+            false
+        ],
+        [
+            9321285,
+            false
+        ],
+        [
+            10253014,
+            false
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            9552436,
+            false
+        ],
+        [
+            10453329,
+            false
+        ]
+    ],
+    "is_locked": false
+}

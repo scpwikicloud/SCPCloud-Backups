@@ -1,0 +1,51 @@
+{
+    "name": "bishi",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1396894644,
+            "author": 7892243,
+            "stamp": 1647148019,
+            "flags": "A",
+            "commentary": "已新增标签：补充材料。 移除标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1396879021,
+            "author": 7892243,
+            "stamp": 1647147605,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 蒙古的上单, 言多必死, 陈睿。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1396876522,
+            "author": 7892243,
+            "stamp": 1647147569,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1396871796,
+            "author": 7892243,
+            "stamp": 1647147502,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1339419884,
+    "tags": [
+        "原创",
+        "蒙古的上单",
+        "补充材料",
+        "言多必死",
+        "陈睿"
+    ],
+    "title": "言多必死",
+    "sitemap_update": 1647148019000,
+    "votings": [],
+    "is_locked": false
+}

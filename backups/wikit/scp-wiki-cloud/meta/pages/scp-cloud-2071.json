@@ -1,0 +1,59 @@
+{
+    "name": "scp-cloud-2071",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1545263028,
+            "author": 9785619,
+            "stamp": 1784198372,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1545262964,
+            "author": 9785619,
+            "stamp": 1784198158,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1545248097,
+            "author": 9785619,
+            "stamp": 1784129456,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 模因。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1545248074,
+            "author": 9785619,
+            "stamp": 1784129385,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468986809,
+    "rating": 2,
+    "tags": [
+        "原创",
+        "搞笑",
+        "模因"
+    ],
+    "title": "Scp Cloud 2071",
+    "sitemap_update": 1784198372000,
+    "votings": [
+        [
+            10138896,
+            true
+        ],
+        [
+            10453329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

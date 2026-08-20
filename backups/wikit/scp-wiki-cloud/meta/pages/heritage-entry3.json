@@ -1,0 +1,33 @@
+{
+    "name": "heritage-entry3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1073466165,
+            "author": 4259571,
+            "stamp": 1586864714,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073465983,
+            "author": 4259571,
+            "stamp": 1586864493,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024510201,
+    "title": "SCP-Cloud-089 传承条目(伪)",
+    "sitemap_update": 1586864714000,
+    "votings": [
+        [
+            6818166,
+            true
+        ]
+    ],
+    "is_locked": false
+}

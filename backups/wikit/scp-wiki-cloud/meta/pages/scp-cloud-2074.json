@@ -1,0 +1,100 @@
+{
+    "name": "scp-cloud-2074",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1544818149,
+            "author": 7503578,
+            "stamp": 1782231152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544808633,
+            "author": 7503578,
+            "stamp": 1782193255,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544806654,
+            "author": 7503578,
+            "stamp": 1782182603,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544799390,
+            "author": 7503578,
+            "stamp": 1782138024,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544797631,
+            "author": 7503578,
+            "stamp": 1782131798,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544797479,
+            "author": 7503578,
+            "stamp": 1782131116,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544797386,
+            "author": 7503578,
+            "stamp": 1782130976,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544797260,
+            "author": 7503578,
+            "stamp": 1782130560,
+            "flags": "A",
+            "commentary": "已新增标签：战力狂人。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544797238,
+            "author": 7503578,
+            "stamp": 1782130453,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468892831,
+    "rating": 2,
+    "forum_thread": 18047329,
+    "tags": [
+        "uv至上",
+        "原创",
+        "战力狂人"
+    ],
+    "title": "Scp-Cloud-2074",
+    "sitemap_update": 1782231152000,
+    "votings": [
+        [
+            10140214,
+            true
+        ],
+        [
+            7503578,
+            true
+        ]
+    ],
+    "is_locked": false
+}

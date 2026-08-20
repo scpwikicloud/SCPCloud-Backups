@@ -1,0 +1,42 @@
+{
+    "name": "steam-spc-cn-what",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1084229984,
+            "author": 6330521,
+            "stamp": 1588385158,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075341411,
+            "author": 6330521,
+            "stamp": 1587970559,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026202576,
+    "forum_thread": 13272025,
+    "title": "steam-spc-cn-what？？？",
+    "sitemap_update": 1588385158000,
+    "votings": [
+        [
+            6329904,
+            true
+        ],
+        [
+            6330521,
+            true
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

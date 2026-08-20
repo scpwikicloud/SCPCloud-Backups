@@ -1,0 +1,46 @@
+{
+    "name": "anti-plagiarism-policy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1362089370,
+            "author": 5498218,
+            "stamp": 1617798090,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 需更新。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362089017,
+            "author": 5498218,
+            "stamp": 1617796993,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362089015,
+            "author": 5498218,
+            "stamp": 1617796972,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308490951,
+    "forum_thread": 14173154,
+    "tags": [
+        "指导",
+        "需更新"
+    ],
+    "title": "反抄袭政策",
+    "sitemap_update": 1617798090000,
+    "votings": [
+        [
+            6335314,
+            true
+        ]
+    ],
+    "is_locked": false
+}

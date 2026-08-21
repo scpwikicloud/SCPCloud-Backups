@@ -1,0 +1,514 @@
+{
+    "name": "secure-facility-dossier-site-cloud-90",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 58,
+            "global_revision": 1532247150,
+            "author": 8305255,
+            "stamp": 1757674276,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 57,
+            "global_revision": 1523910522,
+            "author": 8305255,
+            "stamp": 1723969139,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 56,
+            "global_revision": 1523910373,
+            "author": 8305255,
+            "stamp": 1723968510,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"secure-facilities-locations-cloud\"."
+        },
+        {
+            "revision": 55,
+            "global_revision": 1523885779,
+            "author": 8305255,
+            "stamp": 1723905971,
+            "flags": "A",
+            "commentary": "已新增标签：site-cloud-90。 移除标签：area-cloud-51, facility-cloud-90, 安保设施档案, 补充材料。"
+        },
+        {
+            "revision": 54,
+            "global_revision": 1523885771,
+            "author": 8305255,
+            "stamp": 1723905943,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"facility-cloud-90\" 至 \"secure-facility-dossier-site-cloud-90\"."
+        },
+        {
+            "revision": 53,
+            "global_revision": 1523885737,
+            "author": 8305255,
+            "stamp": 1723905907,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1523885660,
+            "author": 8305255,
+            "stamp": 1723905825,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1508350017,
+            "author": 8305255,
+            "stamp": 1678196565,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 站点。 移除标签：故事, 机动特遣队, 自up。"
+        },
+        {
+            "revision": 50,
+            "global_revision": 1508273509,
+            "author": 8305255,
+            "stamp": 1677855432,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1508273444,
+            "author": 8305255,
+            "stamp": 1677855076,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1498037762,
+            "author": 8305255,
+            "stamp": 1670283026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1497992465,
+            "author": 8305255,
+            "stamp": 1670077027,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1497992304,
+            "author": 8305255,
+            "stamp": 1670076599,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1497970420,
+            "author": 8305255,
+            "stamp": 1669983725,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1497970407,
+            "author": 8305255,
+            "stamp": 1669983645,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"area-cloud-51-facility-90\" 至 \"facility-cloud-90\"."
+        },
+        {
+            "revision": 43,
+            "global_revision": 1497812104,
+            "author": 8305255,
+            "stamp": 1669381028,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1497812084,
+            "author": 8305255,
+            "stamp": 1669380925,
+            "flags": "A",
+            "commentary": "已新增标签：area-cloud-51。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1497812072,
+            "author": 8305255,
+            "stamp": 1669380905,
+            "flags": "A",
+            "commentary": "移除标签：area-cloud-51。"
+        },
+        {
+            "revision": 40,
+            "global_revision": 1497807563,
+            "author": 8305255,
+            "stamp": 1669365677,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1497787522,
+            "author": 8305255,
+            "stamp": 1669279281,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1497785310,
+            "author": 8305255,
+            "stamp": 1669271735,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1497779515,
+            "author": 8305255,
+            "stamp": 1669248634,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1497767852,
+            "author": 8305255,
+            "stamp": 1669189515,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1497767834,
+            "author": 8305255,
+            "stamp": 1669189385,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1497767826,
+            "author": 8305255,
+            "stamp": 1669189296,
+            "flags": "A",
+            "commentary": "移除标签：未完成。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1497767820,
+            "author": 8305255,
+            "stamp": 1669189260,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1497750448,
+            "author": 8305255,
+            "stamp": 1669109360,
+            "flags": "A",
+            "commentary": "已新增标签：安保设施档案, 故事。"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1497750430,
+            "author": 8305255,
+            "stamp": 1669109239,
+            "flags": "A",
+            "commentary": "移除标签：故事。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1497750209,
+            "author": 8305255,
+            "stamp": 1669108481,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1497750160,
+            "author": 8305255,
+            "stamp": 1669108075,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1497747365,
+            "author": 8305255,
+            "stamp": 1669095713,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1497747246,
+            "author": 8305255,
+            "stamp": 1669095325,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1497747240,
+            "author": 8305255,
+            "stamp": 1669095291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1497747229,
+            "author": 8305255,
+            "stamp": 1669095216,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1497747227,
+            "author": 8305255,
+            "stamp": 1669095204,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1497747182,
+            "author": 8305255,
+            "stamp": 1669094914,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1497746316,
+            "author": 8305255,
+            "stamp": 1669090198,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1497745686,
+            "author": 8305255,
+            "stamp": 1669086258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1497745675,
+            "author": 8305255,
+            "stamp": 1669086227,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1497745165,
+            "author": 8305255,
+            "stamp": 1669083154,
+            "flags": "A",
+            "commentary": "已新增标签：facility-cloud-90, 补充材料。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1497745161,
+            "author": 8305255,
+            "stamp": 1669083121,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1497745123,
+            "author": 8305255,
+            "stamp": 1669082784,
+            "flags": "A",
+            "commentary": "已新增标签：自up。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1497745098,
+            "author": 8305255,
+            "stamp": 1669082645,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1497745096,
+            "author": 8305255,
+            "stamp": 1669082622,
+            "flags": "A",
+            "commentary": "已新增标签：机动特遣队。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1497745041,
+            "author": 8305255,
+            "stamp": 1669082153,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1497745003,
+            "author": 8305255,
+            "stamp": 1669081793,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1497744954,
+            "author": 8305255,
+            "stamp": 1669081684,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1497744875,
+            "author": 8305255,
+            "stamp": 1669081108,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1497744812,
+            "author": 8305255,
+            "stamp": 1669080940,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1497744735,
+            "author": 8305255,
+            "stamp": 1669080712,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1497744715,
+            "author": 8305255,
+            "stamp": 1669080604,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1497744658,
+            "author": 8305255,
+            "stamp": 1669080329,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1497744599,
+            "author": 8305255,
+            "stamp": 1669080012,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1497744589,
+            "author": 8305255,
+            "stamp": 1669079916,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1497744512,
+            "author": 8305255,
+            "stamp": 1669079354,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1497744478,
+            "author": 8305255,
+            "stamp": 1669079150,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1497744462,
+            "author": 8305255,
+            "stamp": 1669079053,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1497744422,
+            "author": 8305255,
+            "stamp": 1669078753,
+            "flags": "A",
+            "commentary": "已新增标签：area-cloud-51, 未完成。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1497744417,
+            "author": 8305255,
+            "stamp": 1669078733,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1437402381,
+    "parent": "collab:secure-facilities-locations-cloud",
+    "rating": 5,
+    "forum_thread": 15403108,
+    "tags": [
+        "site-cloud-90",
+        "中心",
+        "原创",
+        "站点"
+    ],
+    "title": "安保设施档案：Site-Cloud-90",
+    "sitemap_update": 1757674276000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            6452551,
+            true
+        ],
+        [
+            9792384,
+            true
+        ],
+        [
+            7787832,
+            true
+        ],
+        [
+            8075294,
+            true
+        ]
+    ],
+    "is_locked": false
+}

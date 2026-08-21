@@ -1,0 +1,45 @@
+{
+    "name": "hide:pleasure",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542132737,
+            "author": 8305255,
+            "stamp": 1771387257,
+            "flags": "A",
+            "commentary": "已新增标签：隐藏。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542132735,
+            "author": 8305255,
+            "stamp": 1771387247,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"pleasure\" 至 \"hide:pleasure\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531349459,
+            "author": 9808047,
+            "stamp": 1754185834,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459996289,
+    "forum_thread": 17938205,
+    "tags": [
+        "隐藏"
+    ],
+    "title": "pleasure",
+    "sitemap_update": 1771387257000,
+    "votings": [
+        [
+            9007460,
+            false
+        ]
+    ],
+    "is_locked": false
+}

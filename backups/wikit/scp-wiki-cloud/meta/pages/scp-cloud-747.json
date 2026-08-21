@@ -1,0 +1,115 @@
+{
+    "name": "scp-cloud-747",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1542976844,
+            "author": 4001012,
+            "stamp": 1774715148,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542976820,
+            "author": 4001012,
+            "stamp": 1774715090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542946451,
+            "author": 4001012,
+            "stamp": 1774626466,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542916366,
+            "author": 4001012,
+            "stamp": 1774459247,
+            "flags": "F",
+            "commentary": "已上传文件 “SCP-Cloud-747”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542704034,
+            "author": 4001012,
+            "stamp": 1773661776,
+            "flags": "A",
+            "commentary": "已新增标签：keter, uv, 原创, 认知偏差。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542704028,
+            "author": 4001012,
+            "stamp": 1773661735,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542704022,
+            "author": 4001012,
+            "stamp": 1773661713,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542704015,
+            "author": 4001012,
+            "stamp": 1773661678,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11765810,
+            "name": "SCP-Cloud-747",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-747/SCP-Cloud-747",
+            "size": "747.14 kB (765074 Bytes)",
+            "size_bytes": 765074,
+            "mime": "image/png",
+            "content": "PNG image data, 1076 x 724, 8-bit/color RGB, non-interlaced",
+            "author": 4001012,
+            "stamp": 1774459247,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468277494,
+    "rating": 4,
+    "forum_thread": 17673165,
+    "tags": [
+        "keter",
+        "scp",
+        "uv",
+        "原创",
+        "认知偏差"
+    ],
+    "title": "SCP-Cloud-747 不存在的战报",
+    "sitemap_update": 1774715148000,
+    "votings": [
+        [
+            10179253,
+            true
+        ],
+        [
+            9537054,
+            true
+        ],
+        [
+            9851562,
+            true
+        ],
+        [
+            9786309,
+            true
+        ]
+    ],
+    "is_locked": false
+}

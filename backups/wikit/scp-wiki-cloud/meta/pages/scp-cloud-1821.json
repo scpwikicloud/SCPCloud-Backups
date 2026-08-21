@@ -1,0 +1,57 @@
+{
+    "name": "scp-cloud-1821",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532504678,
+            "author": 9110060,
+            "stamp": 1758961034,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532504579,
+            "author": 9110060,
+            "stamp": 1758960714,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460454609,
+    "title": "Scp -Cloud -1821",
+    "sitemap_update": 1758961034000,
+    "votings": [
+        [
+            9110060,
+            true
+        ],
+        [
+            9859027,
+            true
+        ],
+        [
+            9898605,
+            true
+        ],
+        [
+            9826164,
+            true
+        ],
+        [
+            9863989,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9885283,
+            true
+        ]
+    ],
+    "is_locked": false
+}

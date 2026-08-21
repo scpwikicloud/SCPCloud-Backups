@@ -1,0 +1,71 @@
+{
+    "name": "about",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540710988,
+            "author": 9863989,
+            "stamp": 1766063918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540710685,
+            "author": 9863989,
+            "stamp": 1766063080,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540710545,
+            "author": 9863989,
+            "stamp": 1766062611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540710475,
+            "author": 9863989,
+            "stamp": 1766062284,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540710473,
+            "author": 9863989,
+            "stamp": 1766062267,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467618066,
+    "rating": -3,
+    "forum_thread": 17493900,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "这个故事要从很久以前说起……",
+    "sitemap_update": 1766063918000,
+    "votings": [
+        [
+            9859027,
+            false
+        ],
+        [
+            9863989,
+            false
+        ],
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

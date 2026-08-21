@@ -1,0 +1,58 @@
+{
+    "name": "scp-cloud-178",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1542263577,
+            "author": 10261772,
+            "stamp": 1771896288,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。 移除标签：要好评要好评！。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542262840,
+            "author": 10261772,
+            "stamp": 1771893005,
+            "flags": "A",
+            "commentary": "已新增标签：原创scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542262828,
+            "author": 10261772,
+            "stamp": 1771892979,
+            "flags": "A",
+            "commentary": "已新增标签：要好评要好评！。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542262821,
+            "author": 10261772,
+            "stamp": 1771892955,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468167090,
+    "rating": 2,
+    "tags": [
+        "uv至上",
+        "原创scp"
+    ],
+    "title": "Scp Cloud 178奇异地图",
+    "sitemap_update": 1771896288000,
+    "votings": [
+        [
+            9851960,
+            true
+        ],
+        [
+            10261772,
+            true
+        ]
+    ],
+    "is_locked": false
+}

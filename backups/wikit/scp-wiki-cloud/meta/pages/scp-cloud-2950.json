@@ -1,0 +1,67 @@
+{
+    "name": "scp-cloud-2950",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540294877,
+            "author": 9869257,
+            "stamp": 1764991826,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540291517,
+            "author": 9869257,
+            "stamp": 1764985280,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540291509,
+            "author": 9869257,
+            "stamp": 1764985263,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467345882,
+    "rating": -6,
+    "forum_thread": 17484146,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-2950 傻逼移动",
+    "sitemap_update": 1764991826000,
+    "votings": [
+        [
+            10127899,
+            false
+        ],
+        [
+            9780183,
+            false
+        ],
+        [
+            9863989,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            9491856,
+            false
+        ],
+        [
+            9669498,
+            false
+        ]
+    ],
+    "is_locked": false
+}

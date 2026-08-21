@@ -1,0 +1,94 @@
+{
+    "name": "chineseusername",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542134937,
+            "author": 10247980,
+            "stamp": 1771397614,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542134919,
+            "author": 10247980,
+            "stamp": 1771397515,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20260218_145026.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542134914,
+            "author": 10247980,
+            "stamp": 1771397478,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20260218_144945.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542134838,
+            "author": 10247980,
+            "stamp": 1771397047,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542134829,
+            "author": 10247980,
+            "stamp": 1771397018,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11743189,
+            "name": "IMG_20260218_144945.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/chineseusername/IMG_20260218_144945.png",
+            "size": "2.05 MB (2144916 Bytes)",
+            "size_bytes": 2144916,
+            "mime": "image/png",
+            "content": "PNG image data, 1536 x 2732, 8-bit/color RGBA, non-interlaced",
+            "author": 10247980,
+            "stamp": 1771397478,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11743190,
+            "name": "IMG_20260218_145026.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/chineseusername/IMG_20260218_145026.jpg",
+            "size": "348.01 kB (356359 Bytes)",
+            "size_bytes": 356359,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1080x2400, components 3",
+            "author": 10247980,
+            "stamp": 1771397516,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468144021,
+    "forum_thread": 17591061,
+    "tags": [
+        "故事"
+    ],
+    "title": "百年内基金会没有人能看懂这段对话",
+    "sitemap_update": 1771397614000,
+    "votings": [
+        [
+            10257535,
+            false
+        ],
+        [
+            9786309,
+            true
+        ],
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

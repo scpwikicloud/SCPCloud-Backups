@@ -1,0 +1,137 @@
+{
+    "name": "scp-cloud-325",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1539765137,
+            "author": 9871945,
+            "stamp": 1763650419,
+            "flags": "A",
+            "commentary": "已新增标签：uv325至上。 移除标签：dv325至上。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539765127,
+            "author": 9871945,
+            "stamp": 1763650393,
+            "flags": "A",
+            "commentary": "已新增标签：dv325至上。 移除标签：uv325至上。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539765119,
+            "author": 9871945,
+            "stamp": 1763650369,
+            "flags": "A",
+            "commentary": "已新增标签：uv325至上。 移除标签：u或d325至上。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533146870,
+            "author": 9871945,
+            "stamp": 1761065675,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533146860,
+            "author": 9871945,
+            "stamp": 1761065628,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533146787,
+            "author": 9871945,
+            "stamp": 1761065342,
+            "flags": "A",
+            "commentary": "已新增标签：scp, u或d325至上, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533146764,
+            "author": 9871945,
+            "stamp": 1761065252,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251022_003630.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533146758,
+            "author": 9871945,
+            "stamp": 1761065221,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533146752,
+            "author": 9871945,
+            "stamp": 1761065190,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11498644,
+            "name": "IMG_20251022_003630.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-325/IMG_20251022_003630.jpg",
+            "size": "12.43 kB (12730 Bytes)",
+            "size_bytes": 12730,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 439x238, components 3",
+            "author": 9871945,
+            "stamp": 1761065252,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460726334,
+    "rating": 4,
+    "forum_thread": 17381361,
+    "tags": [
+        "scp",
+        "uv325至上",
+        "原创"
+    ],
+    "title": "SCP-Cloud-325 得分325",
+    "sitemap_update": 1763650419000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            9682761,
+            false
+        ],
+        [
+            9889639,
+            true
+        ],
+        [
+            9718434,
+            true
+        ],
+        [
+            9667538,
+            false
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9423318,
+            true
+        ]
+    ],
+    "is_locked": false
+}

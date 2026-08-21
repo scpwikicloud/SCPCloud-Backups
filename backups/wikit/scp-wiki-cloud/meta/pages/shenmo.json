@@ -1,0 +1,65 @@
+{
+    "name": "shenmo",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542093200,
+            "author": 9929144,
+            "stamp": 1771204828,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542093194,
+            "author": 9929144,
+            "stamp": 1771204801,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542091860,
+            "author": 9929144,
+            "stamp": 1771196376,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542091857,
+            "author": 9929144,
+            "stamp": 1771196358,
+            "flags": "A",
+            "commentary": "已新增标签：所以我到底写了个啥？, 抽像宇宙, 自己看着给uvdv吧。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542091848,
+            "author": 9929144,
+            "stamp": 1771196314,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468134069,
+    "rating": -1,
+    "forum_thread": 17589745,
+    "tags": [
+        "所以我到底写了个啥？",
+        "抽像宇宙",
+        "故事",
+        "自己看着给uvdv吧"
+    ],
+    "title": "我也不知道我写了个啥",
+    "sitemap_update": 1771204828000,
+    "votings": [
+        [
+            9863989,
+            false
+        ]
+    ],
+    "is_locked": false
+}

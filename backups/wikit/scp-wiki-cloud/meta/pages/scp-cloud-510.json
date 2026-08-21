@@ -1,0 +1,73 @@
+{
+    "name": "scp-cloud-510",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532581636,
+            "author": 9769127,
+            "stamp": 1759323197,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532557568,
+            "author": 9769127,
+            "stamp": 1759227503,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。 移除标签：uv至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532557535,
+            "author": 9769127,
+            "stamp": 1759227252,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 新人。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532557467,
+            "author": 9769127,
+            "stamp": 1759226989,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532557423,
+            "author": 9769127,
+            "stamp": 1759226785,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, scp收容物, uv至上。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532557399,
+            "author": 9769127,
+            "stamp": 1759226701,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460468152,
+    "rating": -1,
+    "tags": [
+        "2025整活大赛",
+        "dv至上",
+        "scp收容物",
+        "原创",
+        "新人"
+    ],
+    "title": "SCP-CLOUD-510  “布鲁斯”",
+    "sitemap_update": 1759323197000,
+    "votings": [
+        [
+            9302920,
+            false
+        ]
+    ],
+    "is_locked": false
+}

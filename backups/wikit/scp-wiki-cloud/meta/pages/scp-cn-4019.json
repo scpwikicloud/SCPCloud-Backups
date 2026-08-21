@@ -1,0 +1,56 @@
+{
+    "name": "scp-cn-4019",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541476346,
+            "author": 7465847,
+            "stamp": 1768807470,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20260119152409.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541476297,
+            "author": 7465847,
+            "stamp": 1768807320,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 中分存档, 超维度, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541476290,
+            "author": 7465847,
+            "stamp": 1768807275,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11722423,
+            "name": "QQ图片20260119152409.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-4019/QQ%E5%9B%BE%E7%89%8720260119152409.png",
+            "size": "145.29 kB (148776 Bytes)",
+            "size_bytes": 148776,
+            "mime": "image/png",
+            "content": "PNG image data, 1144 x 1107, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1768807470,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468021637,
+    "forum_thread": 17566465,
+    "tags": [
+        "scp",
+        "中分存档",
+        "超维度",
+        "转载"
+    ],
+    "title": "SCP-CN-4019",
+    "sitemap_update": 1768807470000,
+    "votings": [],
+    "is_locked": false
+}

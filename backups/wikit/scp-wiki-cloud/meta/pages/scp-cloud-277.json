@@ -1,0 +1,76 @@
+{
+    "name": "scp-cloud-277",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540186816,
+            "author": 9871945,
+            "stamp": 1764775345,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。 移除标签：。uv至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540186806,
+            "author": 9871945,
+            "stamp": 1764775327,
+            "flags": "A",
+            "commentary": "已新增标签：。uv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540186784,
+            "author": 9871945,
+            "stamp": 1764775299,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540186770,
+            "author": 9871945,
+            "stamp": 1764775267,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540186759,
+            "author": 9871945,
+            "stamp": 1764775234,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467266823,
+    "rating": 4,
+    "forum_thread": 18025611,
+    "tags": [
+        "scp",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-Cloud-277 书林",
+    "sitemap_update": 1764775345000,
+    "votings": [
+        [
+            5435392,
+            true
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            9863989,
+            true
+        ],
+        [
+            9884343,
+            true
+        ]
+    ],
+    "is_locked": false
+}

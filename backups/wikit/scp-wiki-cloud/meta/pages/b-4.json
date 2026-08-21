@@ -1,0 +1,88 @@
+{
+    "name": "b-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541492224,
+            "author": 9929144,
+            "stamp": 1768877863,
+            "flags": "A",
+            "commentary": "移除标签：蚀灵。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541285698,
+            "author": 9929144,
+            "stamp": 1767698808,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541204059,
+            "author": 9929144,
+            "stamp": 1767223355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541204057,
+            "author": 9929144,
+            "stamp": 1767223340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541204049,
+            "author": 9929144,
+            "stamp": 1767223312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541145325,
+            "author": 9929144,
+            "stamp": 1766895593,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 互联网, 厕所, 原创, 抽像宇宙, 故事, 红, 蚀灵。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541145265,
+            "author": 9929144,
+            "stamp": 1766895510,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467933310,
+    "rating": 0,
+    "forum_thread": 17501971,
+    "tags": [
+        "dv至上",
+        "互联网",
+        "厕所",
+        "原创",
+        "抽像宇宙",
+        "故事",
+        "红"
+    ],
+    "title": "厕所炸了",
+    "sitemap_update": 1768877863000,
+    "votings": [
+        [
+            10192204,
+            true
+        ],
+        [
+            9929144,
+            false
+        ]
+    ],
+    "is_locked": false
+}

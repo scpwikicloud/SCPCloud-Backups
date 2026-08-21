@@ -1,0 +1,98 @@
+{
+    "name": "scp-cloud-1300",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1531803919,
+            "author": 9774539,
+            "stamp": 1756312526,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531772532,
+            "author": 9774539,
+            "stamp": 1756186420,
+            "flags": "A",
+            "commentary": "已新增标签：万能青年旅店。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531771838,
+            "author": 9774539,
+            "stamp": 1756183920,
+            "flags": "A",
+            "commentary": "移除标签：dvdvdvdvdvdvdvdv。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531765820,
+            "author": 9774539,
+            "stamp": 1756145825,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531765635,
+            "author": 9774539,
+            "stamp": 1756144788,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531765606,
+            "author": 9774539,
+            "stamp": 1756144651,
+            "flags": "A",
+            "commentary": "已新增标签：dvdvdvdvdvdvdvdv, scp, 不可知, 不可说, 乌云典当记, 原创, 大梦一场的董二千先生, 谁用黑铁换黄金, 阿呀，骇死我了。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531765584,
+            "author": 9774539,
+            "stamp": 1756144555,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460106657,
+    "rating": 4,
+    "forum_thread": 17232393,
+    "tags": [
+        "scp",
+        "万能青年旅店",
+        "不可知",
+        "不可说",
+        "乌云典当记",
+        "原创",
+        "大梦一场的董二千先生",
+        "谁用黑铁换黄金",
+        "阿呀，骇死我了"
+    ],
+    "title": "SCP-Cloud-1300",
+    "sitemap_update": 1756312526000,
+    "votings": [
+        [
+            9774539,
+            true
+        ],
+        [
+            9681840,
+            true
+        ],
+        [
+            8702601,
+            true
+        ],
+        [
+            9491856,
+            true
+        ]
+    ],
+    "is_locked": false
+}

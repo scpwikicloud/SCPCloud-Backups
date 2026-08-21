@@ -1,0 +1,110 @@
+{
+    "name": "scp-cloud-2040",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1543535539,
+            "author": 10140208,
+            "stamp": 1777043057,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543012867,
+            "author": 10140208,
+            "stamp": 1774881038,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542998001,
+            "author": 10140208,
+            "stamp": 1774797730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542997921,
+            "author": 10140208,
+            "stamp": 1774797381,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542996202,
+            "author": 10140208,
+            "stamp": 1774789664,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542996003,
+            "author": 10140208,
+            "stamp": 1774788565,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542995647,
+            "author": 10140208,
+            "stamp": 1774787505,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542992058,
+            "author": 10140208,
+            "stamp": 1774777253,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542991701,
+            "author": 10140208,
+            "stamp": 1774776655,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468381785,
+    "rating": -5,
+    "forum_thread": 17737135,
+    "tags": [
+        "dv至上"
+    ],
+    "title": "Scp Cloud 2040",
+    "sitemap_update": 1777043057000,
+    "votings": [
+        [
+            10140208,
+            false
+        ],
+        [
+            10138896,
+            false
+        ],
+        [
+            9533295,
+            false
+        ],
+        [
+            9433599,
+            false
+        ],
+        [
+            8724347,
+            false
+        ]
+    ],
+    "is_locked": false
+}

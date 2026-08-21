@@ -1,0 +1,286 @@
+{
+    "name": "scp-cloud-983-a",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 27,
+            "global_revision": 1533070443,
+            "author": 9531329,
+            "stamp": 1760712218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1533070436,
+            "author": 9531329,
+            "stamp": 1760712188,
+            "flags": "F",
+            "commentary": "已删除文件 “直播图片”。"
+        },
+        {
+            "revision": 25,
+            "global_revision": 1533070431,
+            "author": 9531329,
+            "stamp": 1760712167,
+            "flags": "F",
+            "commentary": "已上传文件 “直播图”。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1532853576,
+            "author": 9531329,
+            "stamp": 1759930194,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1532774312,
+            "author": 9531329,
+            "stamp": 1759807882,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1532774307,
+            "author": 9531329,
+            "stamp": 1759807856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1532749205,
+            "author": 9531329,
+            "stamp": 1759766541,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1532748920,
+            "author": 9531329,
+            "stamp": 1759766309,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1532748849,
+            "author": 9531329,
+            "stamp": 1759766261,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1532692315,
+            "author": 9531329,
+            "stamp": 1759686952,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1532692311,
+            "author": 9531329,
+            "stamp": 1759686919,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1532692306,
+            "author": 9531329,
+            "stamp": 1759686878,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1532692296,
+            "author": 9531329,
+            "stamp": 1759686799,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1532692263,
+            "author": 9531329,
+            "stamp": 1759686562,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1532692252,
+            "author": 9531329,
+            "stamp": 1759686522,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1532692210,
+            "author": 9531329,
+            "stamp": 1759686303,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1532692150,
+            "author": 9531329,
+            "stamp": 1759686064,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532692143,
+            "author": 9531329,
+            "stamp": 1759686026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532692041,
+            "author": 9531329,
+            "stamp": 1759685764,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532692032,
+            "author": 9531329,
+            "stamp": 1759685727,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532692009,
+            "author": 9531329,
+            "stamp": 1759685595,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532691918,
+            "author": 9531329,
+            "stamp": 1759685270,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532691914,
+            "author": 9531329,
+            "stamp": 1759685251,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532691862,
+            "author": 9531329,
+            "stamp": 1759684966,
+            "flags": "A",
+            "commentary": "已新增标签：o5-3, scp, 二创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532691846,
+            "author": 9531329,
+            "stamp": 1759684897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532691840,
+            "author": 9531329,
+            "stamp": 1759684871,
+            "flags": "F",
+            "commentary": "已上传文件 “直播图片”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532691823,
+            "author": 9531329,
+            "stamp": 1759684779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532691817,
+            "author": 9531329,
+            "stamp": 1759684752,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11495312,
+            "name": "直播图",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-983-a/%E7%9B%B4%E6%92%AD%E5%9B%BE",
+            "size": "2.79 MB (2920450 Bytes)",
+            "size_bytes": 2920450,
+            "mime": "image/png",
+            "content": "PNG image data, 1702 x 2048, 8-bit/color RGBA, non-interlaced",
+            "author": 9531329,
+            "stamp": 1760712167,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460494685,
+    "rating": 7,
+    "forum_thread": 17308342,
+    "tags": [
+        "o5-3",
+        "scp",
+        "uv至上",
+        "二创"
+    ],
+    "title": "SCP-Cloud-983-A-谈谈是否要继续执行计划",
+    "sitemap_update": 1760712218000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9896051,
+            true
+        ],
+        [
+            9323975,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            9895620,
+            true
+        ],
+        [
+            9894670,
+            true
+        ],
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

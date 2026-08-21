@@ -1,0 +1,60 @@
+{
+    "name": "scp-cloud-408",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531820012,
+            "author": 9804604,
+            "stamp": 1756385559,
+            "flags": "A",
+            "commentary": "已新增标签：scp, up至上, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531819988,
+            "author": 9804604,
+            "stamp": 1756385487,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531819960,
+            "author": 9804604,
+            "stamp": 1756385403,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460120992,
+    "rating": 4,
+    "forum_thread": 17235012,
+    "tags": [
+        "scp",
+        "up至上",
+        "原创"
+    ],
+    "title": "SCP-Cloud-408",
+    "sitemap_update": 1756385559000,
+    "votings": [
+        [
+            9759308,
+            true
+        ],
+        [
+            9774539,
+            true
+        ],
+        [
+            8576655,
+            true
+        ],
+        [
+            9491856,
+            true
+        ]
+    ],
+    "is_locked": false
+}

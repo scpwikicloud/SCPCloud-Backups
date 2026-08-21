@@ -1,0 +1,90 @@
+{
+    "name": "ad-block",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1541940067,
+            "author": 1899481,
+            "stamp": 1770792591,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541310607,
+            "author": 1899481,
+            "stamp": 1767857918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541310599,
+            "author": 1899481,
+            "stamp": 1767857818,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541310491,
+            "author": 1899481,
+            "stamp": 1767856987,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541309798,
+            "author": 6335947,
+            "stamp": 1767851849,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541309720,
+            "author": 1899481,
+            "stamp": 1767851095,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541309704,
+            "author": 1899481,
+            "stamp": 1767851002,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541309651,
+            "author": 1899481,
+            "stamp": 1767850841,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467976929,
+    "forum_thread": 17565209,
+    "tags": [
+        "原创",
+        "组件"
+    ],
+    "title": "弹窗广告 组件",
+    "sitemap_update": 1770792591000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": true
+}

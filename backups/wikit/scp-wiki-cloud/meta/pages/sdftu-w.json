@@ -1,0 +1,114 @@
+{
+    "name": "sdftu-w",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541105553,
+            "author": 10164640,
+            "stamp": 1766827255,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_0922.jpeg”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541063304,
+            "author": 10164640,
+            "stamp": 1766754467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541061808,
+            "author": 10164640,
+            "stamp": 1766752029,
+            "flags": "A",
+            "commentary": "已新增标签：dv, 搞笑, 故事, 猎奇。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541061792,
+            "author": 10164640,
+            "stamp": 1766752005,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541061761,
+            "author": 10164640,
+            "stamp": 1766751958,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11708847,
+            "name": "IMG_0922.jpeg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/sdftu-w/IMG_0922.jpeg",
+            "size": "2.55 MB (2676343 Bytes)",
+            "size_bytes": 2676343,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 20, Exif Standard: , baseline, precision 8, 4032x3024, components 3",
+            "author": 10164640,
+            "stamp": 1766827255,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467870487,
+    "rating": -6,
+    "forum_thread": 17500727,
+    "tags": [
+        "dv",
+        "搞笑",
+        "故事",
+        "猎奇"
+    ],
+    "title": "云鬼进化史",
+    "sitemap_update": 1766827255000,
+    "votings": [
+        [
+            7510288,
+            false
+        ],
+        [
+            9179772,
+            false
+        ],
+        [
+            10133162,
+            false
+        ],
+        [
+            9027941,
+            false
+        ],
+        [
+            7465847,
+            false
+        ],
+        [
+            9818644,
+            true
+        ],
+        [
+            10164640,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            8393776,
+            false
+        ],
+        [
+            9908438,
+            true
+        ]
+    ],
+    "is_locked": false
+}

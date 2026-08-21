@@ -1,0 +1,62 @@
+{
+    "name": "falu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531439519,
+            "author": 9650794,
+            "stamp": 1754633213,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531207204,
+            "author": 9650794,
+            "stamp": 1753579979,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531199040,
+            "author": 9650794,
+            "stamp": 1753537775,
+            "flags": "A",
+            "commentary": "已新增标签：反人肉, 法律规定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531199022,
+            "author": 9650794,
+            "stamp": 1753537733,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459966394,
+    "forum_thread": 17172342,
+    "tags": [
+        "反人肉",
+        "法律规定"
+    ],
+    "title": "中国反人肉搜索法律法规摘要",
+    "sitemap_update": 1754633213000,
+    "votings": [
+        [
+            9650794,
+            true
+        ],
+        [
+            6335947,
+            true
+        ],
+        [
+            9534743,
+            true
+        ]
+    ],
+    "is_locked": false
+}

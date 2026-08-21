@@ -1,0 +1,53 @@
+{
+    "name": "scp-cloud-1200",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531430974,
+            "author": 9751210,
+            "stamp": 1754587302,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531430967,
+            "author": 9751210,
+            "stamp": 1754587278,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460017169,
+    "title": "SCP-CLOUD-1200",
+    "sitemap_update": 1754587302000,
+    "votings": [
+        [
+            9786297,
+            false
+        ],
+        [
+            8467726,
+            true
+        ],
+        [
+            9007460,
+            false
+        ],
+        [
+            9863989,
+            false
+        ],
+        [
+            10156507,
+            false
+        ],
+        [
+            9808047,
+            false
+        ]
+    ],
+    "is_locked": false
+}

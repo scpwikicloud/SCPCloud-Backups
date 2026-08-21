@@ -1,0 +1,55 @@
+{
+    "name": "en",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532399368,
+            "author": 8431762,
+            "stamp": 1758422182,
+            "flags": "A",
+            "commentary": "已新增标签：故事。 移除标签：scp故事, 原创故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532389453,
+            "author": 8431762,
+            "stamp": 1758378871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532389335,
+            "author": 8431762,
+            "stamp": 1758378484,
+            "flags": "A",
+            "commentary": "已新增标签：scp-cloud-907, scp故事, 原创故事, 自我。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532389297,
+            "author": 8431762,
+            "stamp": 1758378396,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460423426,
+    "rating": 1,
+    "tags": [
+        "scp-cloud-907",
+        "故事",
+        "自我"
+    ],
+    "title": "万籁俱寂之后我依旧在此等候谢幕",
+    "sitemap_update": 1758422182000,
+    "votings": [
+        [
+            9877518,
+            true
+        ]
+    ],
+    "is_locked": false
+}

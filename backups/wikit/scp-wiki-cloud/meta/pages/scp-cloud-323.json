@@ -1,0 +1,68 @@
+{
+    "name": "scp-cloud-323",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541577854,
+            "author": 9929144,
+            "stamp": 1769308648,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541577845,
+            "author": 9929144,
+            "stamp": 1769308616,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_2026_0121_103628.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541577836,
+            "author": 9929144,
+            "stamp": 1769308566,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 小说, 抽像宇宙。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541577826,
+            "author": 9929144,
+            "stamp": 1769308539,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11726602,
+            "name": "Screenshot_2026_0121_103628.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-323/Screenshot_2026_0121_103628.jpg",
+            "size": "155.41 kB (159139 Bytes)",
+            "size_bytes": 159139,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , width=720], baseline, precision 8, 720x1600, components 3",
+            "author": 9929144,
+            "stamp": 1769308617,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468047197,
+    "tags": [
+        "scp",
+        "原创",
+        "小说",
+        "抽像宇宙"
+    ],
+    "title": "SCP-CLOUD-323 梅林•安布罗修斯梅",
+    "sitemap_update": 1769308648000,
+    "votings": [
+        [
+            9863989,
+            true
+        ]
+    ],
+    "is_locked": false
+}

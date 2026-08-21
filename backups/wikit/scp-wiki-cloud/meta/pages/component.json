@@ -1,0 +1,42 @@
+{
+    "name": "component",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541694984,
+            "author": 10195449,
+            "stamp": 1769859732,
+            "flags": "A",
+            "commentary": "已新增标签：何以位, 搬运, 空白页面。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541694979,
+            "author": 10195449,
+            "stamp": 1769859713,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468073010,
+    "tags": [
+        "何以位",
+        "搬运",
+        "空白页面"
+    ],
+    "title": "Component",
+    "sitemap_update": 1769859732000,
+    "votings": [
+        [
+            9533373,
+            false
+        ],
+        [
+            8393776,
+            false
+        ]
+    ],
+    "is_locked": false
+}

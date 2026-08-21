@@ -1,0 +1,164 @@
+{
+    "name": "scp-cloud-983-b-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1541661031,
+            "author": 9531329,
+            "stamp": 1769701006,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1532865986,
+            "author": 9531329,
+            "stamp": 1760004280,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1532862726,
+            "author": 9531329,
+            "stamp": 1759986514,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532853529,
+            "author": 9531329,
+            "stamp": 1759929974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532847587,
+            "author": 9531329,
+            "stamp": 1759908451,
+            "flags": "A",
+            "commentary": "已新增标签：5000。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532845397,
+            "author": 9531329,
+            "stamp": 1759903128,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532845383,
+            "author": 9531329,
+            "stamp": 1759903039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532845321,
+            "author": 9531329,
+            "stamp": 1759902590,
+            "flags": "A",
+            "commentary": "已新增标签：goc, o5-3, scp, uv至上, 原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532845298,
+            "author": 9531329,
+            "stamp": 1759902449,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532845289,
+            "author": 9531329,
+            "stamp": 1759902397,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532845281,
+            "author": 9531329,
+            "stamp": 1759902366,
+            "flags": "F",
+            "commentary": "文件 “IMG_20251008_125446.jpg” 已重新命名为 “O5-3”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532845277,
+            "author": 9531329,
+            "stamp": 1759902350,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251008_125446.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532845265,
+            "author": 9531329,
+            "stamp": 1759902281,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532845229,
+            "author": 9531329,
+            "stamp": 1759902219,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11485991,
+            "name": "O5-3",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-983-b-1/O5-3",
+            "size": "509.54 kB (521767 Bytes)",
+            "size_bytes": 521767,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1238x1440, components 3",
+            "author": 9531329,
+            "stamp": 1759902350,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460604586,
+    "rating": 4,
+    "forum_thread": 17322835,
+    "tags": [
+        "5000",
+        "goc",
+        "o5-3",
+        "scp",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-Cloud-983-B-1",
+    "sitemap_update": 1769701006000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            9847771,
+            true
+        ],
+        [
+            9531329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

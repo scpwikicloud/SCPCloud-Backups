@@ -1,0 +1,96 @@
+{
+    "name": "scp-cloud-2887",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1540757924,
+            "author": 9929144,
+            "stamp": 1766191032,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540757838,
+            "author": 9929144,
+            "stamp": 1766190904,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540757817,
+            "author": 9929144,
+            "stamp": 1766190863,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540757801,
+            "author": 9929144,
+            "stamp": 1766190840,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 抽像宇宙, 死亡, 红, 音乐。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540757768,
+            "author": 9929144,
+            "stamp": 1766190774,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540757745,
+            "author": 9929144,
+            "stamp": 1766190742,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11704829,
+            "name": "1",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2887/1",
+            "size": "1.51 MB (1582787 Bytes)",
+            "size_bytes": 1582787,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 144x144, segment length 16, Exif Standard: , baseline, precision 8, 1579x1536, components 3",
+            "author": 9929144,
+            "stamp": 1766190774,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467649256,
+    "rating": 1,
+    "tags": [
+        "scp",
+        "uv至上",
+        "原创",
+        "抽像宇宙",
+        "死亡",
+        "红",
+        "音乐"
+    ],
+    "title": "Scp-Cloud-2887 嘟嘟哒嘟嘟哒",
+    "sitemap_update": 1766191032000,
+    "votings": [
+        [
+            9929144,
+            true
+        ],
+        [
+            9863989,
+            true
+        ],
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

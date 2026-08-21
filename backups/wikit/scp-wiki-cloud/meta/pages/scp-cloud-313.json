@@ -1,0 +1,141 @@
+{
+    "name": "scp-cloud-313",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1541166804,
+            "author": 9929144,
+            "stamp": 1766998823,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541166799,
+            "author": 9929144,
+            "stamp": 1766998793,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541166784,
+            "author": 9929144,
+            "stamp": 1766998710,
+            "flags": "F",
+            "commentary": "已删除文件 “1”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541166782,
+            "author": 9929144,
+            "stamp": 1766998700,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541166720,
+            "author": 9929144,
+            "stamp": 1766998341,
+            "flags": "A",
+            "commentary": "已新增标签：goi, goi格式。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541153604,
+            "author": 9929144,
+            "stamp": 1766920512,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541146412,
+            "author": 9929144,
+            "stamp": 1766897268,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, jmcomic2, scp, 原创, 性, 性转, 成人内容, 抽像宇宙, 苦命鸳鸯。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541146372,
+            "author": 9929144,
+            "stamp": 1766897211,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11709987,
+            "name": "1",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-313/1",
+            "size": "168.16 kB (172198 Bytes)",
+            "size_bytes": 172198,
+            "mime": "application/octet-stream",
+            "content": "RIFF (little-endian) data, Web/P image, VP8 encoding, 900x1600, Scaling: [none]x[none], YUV color, decoders should clamp",
+            "author": 9929144,
+            "stamp": 1766998793,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467934068,
+    "rating": -5,
+    "forum_thread": 17501988,
+    "tags": [
+        "dv至上",
+        "goi",
+        "goi格式",
+        "jmcomic2",
+        "scp",
+        "原创",
+        "性",
+        "性转",
+        "成人内容",
+        "抽像宇宙",
+        "苦命鸳鸯"
+    ],
+    "title": "JM1239341 苦命鸳鸯但娘化",
+    "sitemap_update": 1766998823000,
+    "votings": [
+        [
+            9739020,
+            false
+        ],
+        [
+            9800967,
+            false
+        ],
+        [
+            9767729,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            7071305,
+            true
+        ],
+        [
+            9786309,
+            false
+        ],
+        [
+            9769479,
+            false
+        ],
+        [
+            10252500,
+            true
+        ],
+        [
+            10181239,
+            false
+        ]
+    ],
+    "is_locked": false
+}

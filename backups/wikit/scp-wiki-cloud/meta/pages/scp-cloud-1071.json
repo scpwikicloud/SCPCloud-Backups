@@ -1,0 +1,47 @@
+{
+    "name": "scp-cloud-1071",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1530833272,
+            "author": 9121003,
+            "stamp": 1751714094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528465619,
+            "author": 9121003,
+            "stamp": 1742088411,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458722609,
+    "rating": -2,
+    "forum_thread": 17070294,
+    "title": "SCP-CLOUD-1071",
+    "sitemap_update": 1751714094000,
+    "votings": [
+        [
+            8467726,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9780183,
+            false
+        ],
+        [
+            8632097,
+            true
+        ]
+    ],
+    "is_locked": false
+}

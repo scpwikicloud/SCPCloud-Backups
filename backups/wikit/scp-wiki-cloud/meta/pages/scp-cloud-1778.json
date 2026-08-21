@@ -1,0 +1,97 @@
+{
+    "name": "scp-cloud-1778",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1532559193,
+            "author": 9531329,
+            "stamp": 1759234687,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532559187,
+            "author": 9531329,
+            "stamp": 1759234657,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532559178,
+            "author": 9531329,
+            "stamp": 1759234619,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532557950,
+            "author": 9531329,
+            "stamp": 1759229137,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532557829,
+            "author": 9531329,
+            "stamp": 1759228698,
+            "flags": "A",
+            "commentary": "已新增标签：2025年整活大赛, dv至上, goc, scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532557813,
+            "author": 9531329,
+            "stamp": 1759228631,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532557800,
+            "author": 9531329,
+            "stamp": 1759228568,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532557789,
+            "author": 9531329,
+            "stamp": 1759228529,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460468209,
+    "rating": -3,
+    "tags": [
+        "2025年整活大赛",
+        "dv至上",
+        "goc",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-1778",
+    "sitemap_update": 1759234687000,
+    "votings": [
+        [
+            9818644,
+            false
+        ],
+        [
+            9786309,
+            false
+        ],
+        [
+            9894670,
+            false
+        ]
+    ],
+    "is_locked": false
+}

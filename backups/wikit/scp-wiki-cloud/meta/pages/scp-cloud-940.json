@@ -1,0 +1,70 @@
+{
+    "name": "scp-cloud-940",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531876799,
+            "author": 8075917,
+            "stamp": 1756566547,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531874294,
+            "author": 8075917,
+            "stamp": 1756563928,
+            "flags": "A",
+            "commentary": "已新增标签：safe, 原创, 现实扭曲, 超形上学。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531873807,
+            "author": 8075917,
+            "stamp": 1756563432,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531872166,
+            "author": 8075917,
+            "stamp": 1756561567,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460143837,
+    "rating": 4,
+    "forum_thread": 17236042,
+    "tags": [
+        "safe",
+        "scp",
+        "原创",
+        "现实扭曲",
+        "超形上学"
+    ],
+    "title": "SCP-CLOUD-940",
+    "sitemap_update": 1756566547000,
+    "votings": [
+        [
+            9531329,
+            true
+        ],
+        [
+            8199944,
+            true
+        ],
+        [
+            9491856,
+            true
+        ],
+        [
+            9768732,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,78 @@
+{
+    "name": "scp-cloud-1025",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532443359,
+            "author": 7535291,
+            "stamp": 1758641157,
+            "flags": "A",
+            "commentary": "移除标签：隐藏。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532443350,
+            "author": 7535291,
+            "stamp": 1758641144,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"decomm:scp-cloud-1025-d\" 至 \"scp-cloud-1025\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532443336,
+            "author": 7535291,
+            "stamp": 1758641061,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cloud-1025\" 至 \"decomm:scp-cloud-1025-d\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532443324,
+            "author": 7535291,
+            "stamp": 1758641025,
+            "flags": "A",
+            "commentary": "已新增标签：隐藏。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532443260,
+            "author": 9117783,
+            "stamp": 1758640732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532443199,
+            "author": 9117783,
+            "stamp": 1758640474,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532443188,
+            "author": 9117783,
+            "stamp": 1758640432,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460435739,
+    "rating": 2,
+    "title": "Scp Cloud 1025",
+    "sitemap_update": 1758641157000,
+    "votings": [
+        [
+            9581894,
+            true
+        ],
+        [
+            9117783,
+            true
+        ]
+    ],
+    "is_locked": false
+}

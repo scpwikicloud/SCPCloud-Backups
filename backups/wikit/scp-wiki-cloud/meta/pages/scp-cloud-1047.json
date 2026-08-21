@@ -1,0 +1,128 @@
+{
+    "name": "scp-cloud-1047",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1540783792,
+            "author": 9554304,
+            "stamp": 1766233473,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539383310,
+            "author": 9554304,
+            "stamp": 1763043807,
+            "flags": "A",
+            "commentary": "已新增标签：鞋教。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1537264162,
+            "author": 9554304,
+            "stamp": 1761989894,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533227318,
+            "author": 9554304,
+            "stamp": 1761359625,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533227290,
+            "author": 9554304,
+            "stamp": 1761359474,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：scp项目, 整活, 火箭鞋。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533227030,
+            "author": 9554304,
+            "stamp": 1761358979,
+            "flags": "A",
+            "commentary": "已新增标签：scp项目, 整活, 火箭鞋。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533226999,
+            "author": 9554304,
+            "stamp": 1761358956,
+            "flags": "T",
+            "commentary": "SCP-CLOUD-1047 火箭鞋"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533226988,
+            "author": 9554304,
+            "stamp": 1761358895,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533226953,
+            "author": 9554304,
+            "stamp": 1761358867,
+            "flags": "N",
+            "commentary": "SCP-CLOUD-1047 火箭鞋"
+        }
+    ],
+    "files": [],
+    "page_id": 1460767003,
+    "rating": 7,
+    "forum_thread": 17389754,
+    "tags": [
+        "scp",
+        "原创",
+        "鞋教"
+    ],
+    "title": "SCP-CLOUD-1047",
+    "sitemap_update": 1766233473000,
+    "votings": [
+        [
+            9790354,
+            true
+        ],
+        [
+            9510898,
+            true
+        ],
+        [
+            9884789,
+            true
+        ],
+        [
+            10156391,
+            true
+        ],
+        [
+            10191883,
+            true
+        ],
+        [
+            9313151,
+            true
+        ],
+        [
+            9324413,
+            true
+        ],
+        [
+            9762446,
+            true
+        ],
+        [
+            10181239,
+            false
+        ]
+    ],
+    "is_locked": false
+}

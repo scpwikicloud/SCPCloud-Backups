@@ -1,0 +1,82 @@
+{
+    "name": "scp-031-jp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1539997924,
+            "author": 9819793,
+            "stamp": 1764333588,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539306303,
+            "author": 9819793,
+            "stamp": 1762872207,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539306283,
+            "author": 9819793,
+            "stamp": 1762872174,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533120402,
+            "author": 9819793,
+            "stamp": 1760936640,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532491598,
+            "author": 9819793,
+            "stamp": 1758897271,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, jp, scp, 人形生物, 帝国。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532491590,
+            "author": 9819793,
+            "stamp": 1758897241,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460451156,
+    "forum_thread": 17255065,
+    "tags": [
+        "euclid",
+        "jp",
+        "scp",
+        "人形生物",
+        "帝国",
+        "搬运"
+    ],
+    "title": "旧SCP-031-JP",
+    "sitemap_update": 1764333588000,
+    "votings": [
+        [
+            9807377,
+            true
+        ],
+        [
+            9803928,
+            true
+        ],
+        [
+            9531329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

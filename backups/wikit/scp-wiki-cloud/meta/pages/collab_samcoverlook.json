@@ -1,0 +1,88 @@
+{
+    "name": "collab:samcoverlook",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542653060,
+            "author": 7972286,
+            "stamp": 1773488436,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542653048,
+            "author": 7972286,
+            "stamp": 1773488405,
+            "flags": "F",
+            "commentary": "已上传文件 “downloaded-image (1).jpg”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542652970,
+            "author": 7972286,
+            "stamp": 1773488184,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542649654,
+            "author": 7972286,
+            "stamp": 1773480585,
+            "flags": "A",
+            "commentary": "已新增标签：feather, goi, samc, 中心, 原创, 相关组织。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542647495,
+            "author": 7972286,
+            "stamp": 1773473909,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"samc\" 至 \"collab:samcoverlook\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542647482,
+            "author": 7972286,
+            "stamp": 1773473866,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11759208,
+            "name": "downloaded-image (1).jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:samcoverlook/downloaded-image%20%281%29.jpg",
+            "size": "77.74 kB (79607 Bytes)",
+            "size_bytes": 79607,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, Exif Standard: , baseline, precision 8, 900x900, components 3",
+            "author": 7972286,
+            "stamp": 1773488405,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468251518,
+    "rating": 1,
+    "forum_thread": 17637264,
+    "tags": [
+        "feather",
+        "goi",
+        "samc",
+        "中心",
+        "原创",
+        "相关组织"
+    ],
+    "title": "WELCOME TO SAMC OEVRLOOK",
+    "sitemap_update": 1773488436000,
+    "votings": [
+        [
+            10179253,
+            true
+        ]
+    ],
+    "is_locked": false
+}

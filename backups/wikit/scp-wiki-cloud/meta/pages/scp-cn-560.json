@@ -1,0 +1,65 @@
+{
+    "name": "scp-cn-560",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542929541,
+            "author": 9906554,
+            "stamp": 1774533429,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542929532,
+            "author": 9906554,
+            "stamp": 1774533352,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542929517,
+            "author": 9906554,
+            "stamp": 1774533294,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 中分系列一留档, 听觉影响, 建筑, 搬运, 精神影响, 视觉性, 认知危害。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542929498,
+            "author": 9906554,
+            "stamp": 1774533191,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542929482,
+            "author": 9906554,
+            "stamp": 1774533120,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468365403,
+    "rating": 0,
+    "tags": [
+        "euclid",
+        "scp",
+        "uv至上",
+        "中分系列一留档",
+        "听觉影响",
+        "建筑",
+        "搬运",
+        "精神影响",
+        "视觉性",
+        "认知危害"
+    ],
+    "title": "SCP-CN-560",
+    "sitemap_update": 1774533429000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,61 @@
+{
+    "name": "scp-cloud-1918",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531817372,
+            "author": 9109013,
+            "stamp": 1756377564,
+            "flags": "T",
+            "commentary": "保留Scp-Cloud-1918"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531805395,
+            "author": 9109013,
+            "stamp": 1756319055,
+            "flags": "A",
+            "commentary": "已新增标签：dv, scp, scp-cl, 西线无战事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531805385,
+            "author": 9109013,
+            "stamp": 1756318997,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460116964,
+    "rating": 0,
+    "forum_thread": 17234752,
+    "tags": [
+        "dv",
+        "scp",
+        "scp-cl",
+        "西线无战事"
+    ],
+    "title": "Scp-Cloud-1918",
+    "sitemap_update": 1756377564000,
+    "votings": [
+        [
+            9109013,
+            true
+        ],
+        [
+            9174500,
+            true
+        ],
+        [
+            9681840,
+            false
+        ],
+        [
+            9491856,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,103 @@
+{
+    "name": "the-rickroll",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1541231018,
+            "author": 9859827,
+            "stamp": 1767365425,
+            "flags": "A",
+            "commentary": "已新增标签：bl-component。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541191760,
+            "author": 9859827,
+            "stamp": 1767156601,
+            "flags": "F",
+            "commentary": "已上传文件 “goc_nuclear”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541191739,
+            "author": 9859827,
+            "stamp": 1767156413,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541191613,
+            "author": 9859827,
+            "stamp": 1767155350,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541191521,
+            "author": 9859827,
+            "stamp": 1767154795,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541191488,
+            "author": 9859827,
+            "stamp": 1767154511,
+            "flags": "A",
+            "commentary": "已新增标签：dv, 假组件, 原创, 神经病。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541183325,
+            "author": 9859827,
+            "stamp": 1767100291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541183321,
+            "author": 9859827,
+            "stamp": 1767100268,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11711082,
+            "name": "goc_nuclear",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/the-rickroll/goc_nuclear",
+            "size": "27.15 kB (27806 Bytes)",
+            "size_bytes": 27806,
+            "mime": "image/png",
+            "content": "PNG image data, 487 x 393, 8-bit/color RGB, non-interlaced",
+            "author": 9859827,
+            "stamp": 1767156601,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467944651,
+    "rating": -1,
+    "forum_thread": 17503560,
+    "tags": [
+        "bl-component",
+        "dv",
+        "假组件",
+        "原创",
+        "神经病"
+    ],
+    "title": "RICKROLL Component",
+    "sitemap_update": 1767365425000,
+    "votings": [
+        [
+            8393776,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,36 @@
+{
+    "name": "scp-55",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532524521,
+            "author": 9885283,
+            "stamp": 1759057577,
+            "flags": "A",
+            "commentary": "已新增标签：55。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532524513,
+            "author": 9885283,
+            "stamp": 1759057554,
+            "flags": "N",
+            "commentary": "致敬了某个游戏"
+        }
+    ],
+    "files": [],
+    "page_id": 1460459253,
+    "tags": [
+        "55"
+    ],
+    "title": "SCP-55",
+    "sitemap_update": 1759057577000,
+    "votings": [
+        [
+            9885283,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,46 @@
+{
+    "name": "about-karma-5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540494007,
+            "author": 6335947,
+            "stamp": 1765389870,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 原创, 帮助。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540494004,
+            "author": 6335947,
+            "stamp": 1765389842,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540494000,
+            "author": 6335947,
+            "stamp": 1765389759,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467479824,
+    "tags": [
+        "uv至上",
+        "原创",
+        "帮助"
+    ],
+    "title": "关于Karma的粗浅探究",
+    "sitemap_update": 1765389870000,
+    "votings": [
+        [
+            10133162,
+            true
+        ]
+    ],
+    "is_locked": false
+}

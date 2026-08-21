@@ -1,0 +1,67 @@
+{
+    "name": "scp-cn-3654",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539304997,
+            "author": 7465847,
+            "stamp": 1762870027,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 转载。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539304958,
+            "author": 7465847,
+            "stamp": 1762869946,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 人形生物, 智能, 机密分级, 活物。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539304874,
+            "author": 7465847,
+            "stamp": 1762869820,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20251111220316.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539304847,
+            "author": 7465847,
+            "stamp": 1762869756,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11675579,
+            "name": "QQ图片20251111220316.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-3654/QQ%E5%9B%BE%E7%89%8720251111220316.png",
+            "size": "531.5 kB (544252 Bytes)",
+            "size_bytes": 544252,
+            "mime": "image/png",
+            "content": "PNG image data, 1318 x 3821, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1762869820,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1466614437,
+    "forum_thread": 17444260,
+    "tags": [
+        "scp",
+        "中分存档",
+        "人形生物",
+        "智能",
+        "机密分级",
+        "活物",
+        "转载"
+    ],
+    "title": "SCP-CN-3654",
+    "sitemap_update": 1762870027000,
+    "votings": [],
+    "is_locked": false
+}

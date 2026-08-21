@@ -1,0 +1,183 @@
+{
+    "name": "scp-cloud-2993",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 15,
+            "global_revision": 1542183257,
+            "author": 9786309,
+            "stamp": 1771633172,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1542183164,
+            "author": 9786309,
+            "stamp": 1771632797,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1542179013,
+            "author": 9786309,
+            "stamp": 1771608023,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1542178993,
+            "author": 9786309,
+            "stamp": 1771607930,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1542178916,
+            "author": 9786309,
+            "stamp": 1771607695,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1542178865,
+            "author": 9786309,
+            "stamp": 1771607438,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542178480,
+            "author": 9786309,
+            "stamp": 1771605953,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542178352,
+            "author": 9786309,
+            "stamp": 1771605677,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542175181,
+            "author": 9786309,
+            "stamp": 1771595538,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542175168,
+            "author": 9786309,
+            "stamp": 1771595497,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542175137,
+            "author": 9786309,
+            "stamp": 1771595431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542175053,
+            "author": 9786309,
+            "stamp": 1771595298,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542174635,
+            "author": 9786309,
+            "stamp": 1771594287,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 新年, 模因。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542174621,
+            "author": 9786309,
+            "stamp": 1771594209,
+            "flags": "F",
+            "commentary": "已上传文件 “基金会缴获携带有CL-2993的物品”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542174488,
+            "author": 9786309,
+            "stamp": 1771593755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542174434,
+            "author": 9786309,
+            "stamp": 1771593508,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11744889,
+            "name": "基金会缴获携带有CL-2993的物品",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2993/%E5%9F%BA%E9%87%91%E4%BC%9A%E7%BC%B4%E8%8E%B7%E6%90%BA%E5%B8%A6%E6%9C%89CL-2993%E7%9A%84%E7%89%A9%E5%93%81",
+            "size": "243.24 kB (249080 Bytes)",
+            "size_bytes": 249080,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, Exif Standard: , baseline, precision 8, 1067x800, components 3",
+            "author": 9786309,
+            "stamp": 1771594209,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468152760,
+    "rating": 5,
+    "forum_thread": 17592088,
+    "tags": [
+        "scp",
+        "uv至上",
+        "原创",
+        "新年",
+        "模因"
+    ],
+    "title": "SCP-CLOUD-2993 《烟花爆竹安全管理条例》",
+    "sitemap_update": 1771633172000,
+    "votings": [
+        [
+            9655412,
+            true
+        ],
+        [
+            9786220,
+            true
+        ],
+        [
+            10191883,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9786309,
+            true
+        ]
+    ],
+    "is_locked": false
+}

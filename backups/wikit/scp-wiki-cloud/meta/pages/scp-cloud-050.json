@@ -1,0 +1,132 @@
+{
+    "name": "scp-cloud-050",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1508351059,
+            "author": 8305255,
+            "stamp": 1678200234,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1084534021,
+            "author": 6329988,
+            "stamp": 1588824763,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084534012,
+            "author": 6329988,
+            "stamp": 1588824733,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084533982,
+            "author": 6329988,
+            "stamp": 1588824663,
+            "flags": "F",
+            "commentary": "已上传文件 “祖安”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1084533934,
+            "author": 6329988,
+            "stamp": 1588824556,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9055191,
+            "name": "祖安",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-050/%E7%A5%96%E5%AE%89",
+            "size": "9.51 kB (9741 Bytes)",
+            "size_bytes": 9741,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, EXIF standard",
+            "author": 6329988,
+            "stamp": 1588824663,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1035240566,
+    "rating": -15,
+    "forum_thread": 13295483,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP－Cloud－050 祖安人",
+    "sitemap_update": 1678200234000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            6780414,
+            false
+        ],
+        [
+            6335933,
+            false
+        ],
+        [
+            8337636,
+            false
+        ],
+        [
+            6874010,
+            false
+        ],
+        [
+            9889639,
+            false
+        ],
+        [
+            6150792,
+            false
+        ],
+        [
+            4291882,
+            false
+        ],
+        [
+            6985866,
+            false
+        ],
+        [
+            6324658,
+            false
+        ],
+        [
+            5967510,
+            false
+        ],
+        [
+            6264761,
+            false
+        ],
+        [
+            8736310,
+            false
+        ],
+        [
+            6498153,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

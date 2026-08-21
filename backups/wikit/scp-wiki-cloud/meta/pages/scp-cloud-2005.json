@@ -1,0 +1,61 @@
+{
+    "name": "scp-cloud-2005",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540919208,
+            "author": 5474595,
+            "stamp": 1766493143,
+            "flags": "A",
+            "commentary": "已新增标签：我看见广告就会死。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540919195,
+            "author": 5474595,
+            "stamp": 1766493125,
+            "flags": "A",
+            "commentary": "已新增标签：dv, scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540919173,
+            "author": 5474595,
+            "stamp": 1766493092,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467757007,
+    "rating": -2,
+    "forum_thread": 17497375,
+    "tags": [
+        "dv",
+        "scp",
+        "原创",
+        "我看见广告就会死"
+    ],
+    "title": "SCP-Cloud-2005",
+    "sitemap_update": 1766493143000,
+    "votings": [
+        [
+            9929144,
+            false
+        ],
+        [
+            10138849,
+            false
+        ],
+        [
+            8393776,
+            false
+        ],
+        [
+            9884343,
+            true
+        ]
+    ],
+    "is_locked": false
+}

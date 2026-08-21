@@ -1,0 +1,134 @@
+{
+    "name": "2025722cnen18",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541533684,
+            "author": 9701202,
+            "stamp": 1769087026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541312161,
+            "author": 9701202,
+            "stamp": 1767867732,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532936499,
+            "author": 9701202,
+            "stamp": 1760149885,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532931578,
+            "author": 9701202,
+            "stamp": 1760117001,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:scpf-real-history\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532923648,
+            "author": 9701202,
+            "stamp": 1760090434,
+            "flags": "A",
+            "commentary": "已新增标签：原创。 移除标签：翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532904522,
+            "author": 9701202,
+            "stamp": 1760078680,
+            "flags": "A",
+            "commentary": "已新增标签：scp中文站点成员在scp英语站点被大量纪律处分事件, scp基金会社群历史, 搬运, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532904461,
+            "author": 9701202,
+            "stamp": 1760078660,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460641258,
+    "parent": "collab:scpf-real-history",
+    "rating": 14,
+    "forum_thread": 17329355,
+    "tags": [
+        "scp中文站点成员在scp英语站点被大量纪律处分事件",
+        "scp基金会社群历史",
+        "原创",
+        "搬运"
+    ],
+    "title": "SCP中文站点成员在SCP英语站点被大量纪律处分事件",
+    "sitemap_update": 1769087026000,
+    "votings": [
+        [
+            9810870,
+            true
+        ],
+        [
+            9579658,
+            true
+        ],
+        [
+            9691022,
+            true
+        ],
+        [
+            10158118,
+            true
+        ],
+        [
+            9785619,
+            true
+        ],
+        [
+            9873610,
+            true
+        ],
+        [
+            9701445,
+            true
+        ],
+        [
+            9648085,
+            true
+        ],
+        [
+            9776776,
+            true
+        ],
+        [
+            8109382,
+            true
+        ],
+        [
+            8576655,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            5063675,
+            true
+        ],
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,314 @@
+{
+    "name": "scp-cloud-1027",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 25,
+            "global_revision": 1531905736,
+            "author": 8576655,
+            "stamp": 1756630665,
+            "flags": "A",
+            "commentary": "已新增标签：哈利路亚大旋风。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1531886617,
+            "author": 8576655,
+            "stamp": 1756576272,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1531854738,
+            "author": 8576655,
+            "stamp": 1756533785,
+            "flags": "A",
+            "commentary": "已新增标签：哈基虫。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1531854729,
+            "author": 8576655,
+            "stamp": 1756533747,
+            "flags": "S",
+            "commentary": "捉哈基虫"
+        },
+        {
+            "revision": 21,
+            "global_revision": 1531831339,
+            "author": 8576655,
+            "stamp": 1756436706,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1531831312,
+            "author": 8576655,
+            "stamp": 1756436588,
+            "flags": "A",
+            "commentary": "已新增标签：哈基语。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1531812607,
+            "author": 8576655,
+            "stamp": 1756359631,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531812599,
+            "author": 8576655,
+            "stamp": 1756359592,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531812497,
+            "author": 8576655,
+            "stamp": 1756358847,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531812491,
+            "author": 8576655,
+            "stamp": 1756358828,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531812483,
+            "author": 8576655,
+            "stamp": 1756358779,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531812433,
+            "author": 8576655,
+            "stamp": 1756358530,
+            "flags": "F",
+            "commentary": "已删除文件 “Screenshot_20250822_134605_tv_danmaku_bili_UnitedBizDetailsActivity_edit_1477488106249297.jpg”。"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531812422,
+            "author": 8576655,
+            "stamp": 1756358489,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_20250822_134605_tv_danmaku_bili_UnitedBizDetailsActivity_edit_1477488106249297.jpg”。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531812410,
+            "author": 8576655,
+            "stamp": 1756358409,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531812405,
+            "author": 8576655,
+            "stamp": 1756358368,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531812381,
+            "author": 8576655,
+            "stamp": 1756358241,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531812372,
+            "author": 8576655,
+            "stamp": 1756358183,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531812296,
+            "author": 8576655,
+            "stamp": 1756357932,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 哈基云。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531812220,
+            "author": 8576655,
+            "stamp": 1756357659,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531812163,
+            "author": 8576655,
+            "stamp": 1756357527,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 哈基匣, 哈基博, 哈基弹, 哈基枪, 哈基米, 哈基金, 哈基高。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531812111,
+            "author": 8576655,
+            "stamp": 1756357296,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531812102,
+            "author": 8576655,
+            "stamp": 1756357251,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531812081,
+            "author": 8576655,
+            "stamp": 1756357196,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531812073,
+            "author": 8576655,
+            "stamp": 1756357151,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531811719,
+            "author": 8576655,
+            "stamp": 1756355627,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531811624,
+            "author": 8576655,
+            "stamp": 1756355267,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460118432,
+    "forum_thread": 17234783,
+    "tags": [
+        "dv至上",
+        "scp",
+        "原创",
+        "哈利路亚大旋风",
+        "哈基云",
+        "哈基匣",
+        "哈基博",
+        "哈基弹",
+        "哈基枪",
+        "哈基米",
+        "哈基虫",
+        "哈基语",
+        "哈基金",
+        "哈基高"
+    ],
+    "title": "SCP-Cloud-1027 耄耋枪",
+    "sitemap_update": 1756630665000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            9739020,
+            false
+        ],
+        [
+            9800967,
+            false
+        ],
+        [
+            9802365,
+            true
+        ],
+        [
+            9851960,
+            false
+        ],
+        [
+            9779570,
+            false
+        ],
+        [
+            6335947,
+            false
+        ],
+        [
+            9165992,
+            false
+        ],
+        [
+            9869257,
+            false
+        ],
+        [
+            9171385,
+            false
+        ],
+        [
+            9512851,
+            false
+        ],
+        [
+            8427622,
+            false
+        ],
+        [
+            10279376,
+            false
+        ],
+        [
+            8366274,
+            false
+        ],
+        [
+            8199944,
+            false
+        ],
+        [
+            8576655,
+            false
+        ],
+        [
+            9491856,
+            false
+        ],
+        [
+            9808047,
+            false
+        ],
+        [
+            9851514,
+            false
+        ]
+    ],
+    "is_locked": false
+}

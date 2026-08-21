@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 5,
+            "global_revision": 1546160543,
+            "author": 10299126,
+            "stamp": 1787281461,
+            "flags": "A",
+            "commentary": "已新增标签：ooooooooo。"
+        },
+        {
             "revision": 4,
             "global_revision": 1546147816,
             "author": 10299126,
@@ -63,11 +71,12 @@
     "forum_thread": 18328355,
     "tags": [
         "int赤到史了",
+        "ooooooooo",
         "scp",
         "何意味",
         "搬运"
     ],
     "title": "SCP-CN-2504，但AI翻譯",
-    "sitemap_update": 1787241755000,
+    "sitemap_update": 1787281461000,
     "is_locked": false
 }

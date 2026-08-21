@@ -1,0 +1,53 @@
+{
+    "name": "forum:thread",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531718206,
+            "author": 6335947,
+            "stamp": 1755934269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531718200,
+            "author": 6335947,
+            "stamp": 1755934245,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531718062,
+            "author": 6335947,
+            "stamp": 1755933710,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531718054,
+            "author": 6335947,
+            "stamp": 1755933690,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460096661,
+    "title": "讨论串",
+    "sitemap_update": 1755934269000,
+    "votings": [
+        [
+            9321285,
+            false
+        ],
+        [
+            7535291,
+            false
+        ]
+    ],
+    "is_locked": false
+}

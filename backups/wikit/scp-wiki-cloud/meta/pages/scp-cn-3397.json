@@ -1,0 +1,42 @@
+{
+    "name": "scp-cn-3397",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1523966175,
+            "author": 6452551,
+            "stamp": 1724054812,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523966144,
+            "author": 6452551,
+            "stamp": 1724054799,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456427943,
+    "rating": -2,
+    "forum_thread": 16914480,
+    "tags": [
+        "dscp"
+    ],
+    "title": "SCP-CN-3397",
+    "sitemap_update": 1724054812000,
+    "votings": [
+        [
+            9785619,
+            false
+        ],
+        [
+            8374681,
+            false
+        ]
+    ],
+    "is_locked": false
+}

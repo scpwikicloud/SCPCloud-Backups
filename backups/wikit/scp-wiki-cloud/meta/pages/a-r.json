@@ -1,0 +1,58 @@
+{
+    "name": "a-r",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543031005,
+            "author": 9533373,
+            "stamp": 1774965161,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542379200,
+            "author": 9533373,
+            "stamp": 1772433485,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542379133,
+            "author": 9533373,
+            "stamp": 1772433280,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542379125,
+            "author": 9533373,
+            "stamp": 1772433194,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542379124,
+            "author": 9533373,
+            "stamp": 1772433179,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468191520,
+    "rating": 0,
+    "tags": [
+        "scp",
+        "搬运",
+        "故事"
+    ],
+    "title": "HAC-A.R",
+    "sitemap_update": 1774965161000,
+    "votings": [],
+    "is_locked": false
+}

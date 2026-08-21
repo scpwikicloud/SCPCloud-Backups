@@ -1,0 +1,77 @@
+{
+    "name": "scp-3032-jp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1533120336,
+            "author": 9819793,
+            "stamp": 1760936213,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 翻译。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533120301,
+            "author": 9819793,
+            "stamp": 1760935952,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, jp, scp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533120298,
+            "author": 9819793,
+            "stamp": 1760935931,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533120290,
+            "author": 9819793,
+            "stamp": 1760935827,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533120288,
+            "author": 9819793,
+            "stamp": 1760935807,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460718517,
+    "forum_thread": 17367894,
+    "tags": [
+        "euclid",
+        "jp",
+        "scp",
+        "搬运",
+        "翻译"
+    ],
+    "title": "SCP-3032-JP",
+    "sitemap_update": 1760936213000,
+    "votings": [
+        [
+            9807377,
+            true
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            9819793,
+            true
+        ],
+        [
+            9581894,
+            true
+        ]
+    ],
+    "is_locked": false
+}

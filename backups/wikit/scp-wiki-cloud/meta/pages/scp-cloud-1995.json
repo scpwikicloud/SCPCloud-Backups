@@ -1,0 +1,154 @@
+{
+    "name": "scp-cloud-1995",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1532994467,
+            "author": 9731169,
+            "stamp": 1760282279,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1532931206,
+            "author": 9731169,
+            "stamp": 1760115393,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532931163,
+            "author": 9731169,
+            "stamp": 1760115330,
+            "flags": "F",
+            "commentary": "已上传文件 “无标题583_20251011005437.png”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532931160,
+            "author": 9731169,
+            "stamp": 1760115310,
+            "flags": "F",
+            "commentary": "已删除文件 “无标题583_20251011004408.png”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532930892,
+            "author": 9731169,
+            "stamp": 1760114809,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532930859,
+            "author": 9731169,
+            "stamp": 1760114763,
+            "flags": "F",
+            "commentary": "已上传文件 “无标题583_20251011004408.png”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532930727,
+            "author": 9731169,
+            "stamp": 1760114424,
+            "flags": "A",
+            "commentary": "已新增标签：dv。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532930722,
+            "author": 9731169,
+            "stamp": 1760114403,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532930597,
+            "author": 9731169,
+            "stamp": 1760113945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532930346,
+            "author": 9731169,
+            "stamp": 1760113581,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, scp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532930338,
+            "author": 9731169,
+            "stamp": 1760113556,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532930310,
+            "author": 9731169,
+            "stamp": 1760113406,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532930274,
+            "author": 9731169,
+            "stamp": 1760113349,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11489580,
+            "name": "无标题583_20251011005437.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1995/%E6%97%A0%E6%A0%87%E9%A2%98583_20251011005437.png",
+            "size": "2.69 MB (2817585 Bytes)",
+            "size_bytes": 2817585,
+            "mime": "image/png",
+            "content": "PNG image data, 1536 x 2730, 8-bit/color RGBA, non-interlaced",
+            "author": 9731169,
+            "stamp": 1760115331,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460661850,
+    "rating": 2,
+    "tags": [
+        "2025整活大赛",
+        "dv",
+        "dv至上",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-1995",
+    "sitemap_update": 1760282279000,
+    "votings": [
+        [
+            9780183,
+            true
+        ],
+        [
+            8576655,
+            true
+        ],
+        [
+            6745213,
+            false
+        ],
+        [
+            8304348,
+            true
+        ]
+    ],
+    "is_locked": false
+}

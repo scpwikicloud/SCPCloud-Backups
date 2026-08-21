@@ -1,0 +1,86 @@
+{
+    "name": "starandfruit2026",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541055178,
+            "author": 9874148,
+            "stamp": 1766740459,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。 移除标签：uv。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541024932,
+            "author": 9874148,
+            "stamp": 1766682505,
+            "flags": "A",
+            "commentary": "已新增标签：uv。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541024545,
+            "author": 9874148,
+            "stamp": 1766681938,
+            "flags": "A",
+            "commentary": "已新增标签：2026短文重盾。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541024405,
+            "author": 9874148,
+            "stamp": 1766681690,
+            "flags": "A",
+            "commentary": "已新增标签：2026短文竞赛, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541024398,
+            "author": 9874148,
+            "stamp": 1766681662,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467839905,
+    "rating": 6,
+    "forum_thread": 17498484,
+    "tags": [
+        "2026短文竞赛",
+        "2026短文重盾",
+        "uv至上",
+        "原创",
+        "故事"
+    ],
+    "title": "消光：一位研究员的使命",
+    "sitemap_update": 1766740459000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            10127469,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            8393776,
+            true
+        ],
+        [
+            9884343,
+            true
+        ]
+    ],
+    "is_locked": false
+}

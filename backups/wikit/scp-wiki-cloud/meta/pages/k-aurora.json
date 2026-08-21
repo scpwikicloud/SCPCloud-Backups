@@ -1,0 +1,113 @@
+{
+    "name": "k-aurora",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1518440375,
+            "author": 8121101,
+            "stamp": 1708429941,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513296255,
+            "author": 8746675,
+            "stamp": 1692953594,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"dr-k-aurora-s-proposal\" 至 \"k-aurora\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513296200,
+            "author": 8746675,
+            "stamp": 1692953402,
+            "flags": "A",
+            "commentary": "已新增标签：001提案。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513296162,
+            "author": 8746675,
+            "stamp": 1692953246,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513296158,
+            "author": 8746675,
+            "stamp": 1692953228,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449556415,
+    "rating": 7,
+    "forum_thread": 16287864,
+    "tags": [
+        "001提案",
+        "keter",
+        "scp",
+        "原创"
+    ],
+    "title": "Dr.K Aurora的提案",
+    "sitemap_update": 1708429941000,
+    "votings": [
+        [
+            9834998,
+            true
+        ],
+        [
+            9682955,
+            true
+        ],
+        [
+            9752615,
+            true
+        ],
+        [
+            9091848,
+            true
+        ],
+        [
+            9509079,
+            true
+        ],
+        [
+            9894969,
+            true
+        ],
+        [
+            9785619,
+            true
+        ],
+        [
+            10268150,
+            false
+        ],
+        [
+            9504061,
+            true
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            10245335,
+            true
+        ],
+        [
+            7894380,
+            false
+        ],
+        [
+            8399190,
+            true
+        ]
+    ],
+    "is_locked": false
+}

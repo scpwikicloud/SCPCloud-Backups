@@ -1,0 +1,55 @@
+{
+    "name": "shenfeng",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1543322085,
+            "author": 8304348,
+            "stamp": 1776088678,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543322080,
+            "author": 8304348,
+            "stamp": 1776088664,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468484863,
+    "rating": 3,
+    "forum_thread": 17718349,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "神风文章",
+    "sitemap_update": 1776088678000,
+    "votings": [
+        [
+            10264044,
+            true
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            9863989,
+            true
+        ],
+        [
+            9786309,
+            true
+        ],
+        [
+            10211565,
+            true
+        ]
+    ],
+    "is_locked": false
+}

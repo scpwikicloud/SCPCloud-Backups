@@ -1,0 +1,40 @@
+{
+    "name": "yhnc-hide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1533084368,
+            "author": 9583871,
+            "stamp": 1760783471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533084333,
+            "author": 9583871,
+            "stamp": 1760783258,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 补充材料。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533084318,
+            "author": 9583871,
+            "stamp": 1760783224,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460711135,
+    "tags": [
+        "原创",
+        "补充材料"
+    ],
+    "title": "重定向模块 - 隐藏",
+    "sitemap_update": 1760783471000,
+    "votings": [],
+    "is_locked": false
+}

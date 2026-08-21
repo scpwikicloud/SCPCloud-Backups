@@ -1,0 +1,82 @@
+{
+    "name": "scp-cloud-1505",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1543603174,
+            "author": 9541601,
+            "stamp": 1777393931,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543603166,
+            "author": 9541601,
+            "stamp": 1777393881,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543603162,
+            "author": 9541601,
+            "stamp": 1777393843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543602837,
+            "author": 9541601,
+            "stamp": 1777392316,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543602832,
+            "author": 9541601,
+            "stamp": 1777392267,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543602828,
+            "author": 9541601,
+            "stamp": 1777392246,
+            "flags": "A",
+            "commentary": "已新增标签：area-cl-53, safe, scp, 原创, 自我修复, 食物。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543602815,
+            "author": 9541601,
+            "stamp": 1777392179,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468584731,
+    "rating": 1,
+    "tags": [
+        "area-cl-53",
+        "safe",
+        "scp",
+        "原创",
+        "自我修复",
+        "食物"
+    ],
+    "title": "SCP-CLOUD-1505",
+    "sitemap_update": 1777393931000,
+    "votings": [
+        [
+            10339784,
+            true
+        ]
+    ],
+    "is_locked": false
+}

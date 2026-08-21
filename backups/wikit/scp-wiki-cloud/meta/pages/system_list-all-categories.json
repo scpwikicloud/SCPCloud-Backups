@@ -1,0 +1,36 @@
+{
+    "name": "system:list-all-categories",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1537797097,
+            "author": 6335947,
+            "stamp": 1762073560,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1364825123,
+            "author": 6240794,
+            "stamp": 1619891057,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1310942430,
+    "tags": [
+        "管理"
+    ],
+    "title": "全部页面",
+    "sitemap_update": 1762073560000,
+    "votings": [
+        [
+            8305255,
+            true
+        ]
+    ],
+    "is_locked": false
+}

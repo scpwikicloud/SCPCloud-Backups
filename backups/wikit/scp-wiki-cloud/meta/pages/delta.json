@@ -1,0 +1,154 @@
+{
+    "name": "delta",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532654174,
+            "author": 7892594,
+            "stamp": 1759571064,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532637957,
+            "author": 7892594,
+            "stamp": 1759536390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532637946,
+            "author": 7892594,
+            "stamp": 1759536343,
+            "flags": "F",
+            "commentary": "已上传文件 “火箭撤离倒计时开启”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532637785,
+            "author": 7892594,
+            "stamp": 1759535642,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛。 移除标签：2925整活大赛。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532637774,
+            "author": 7892594,
+            "stamp": 1759535591,
+            "flags": "A",
+            "commentary": "已新增标签：2925整活大赛, dv, dv至上。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532637768,
+            "author": 7892594,
+            "stamp": 1759535555,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11479247,
+            "name": "火箭撤离倒计时开启",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/delta/%E7%81%AB%E7%AE%AD%E6%92%A4%E7%A6%BB%E5%80%92%E8%AE%A1%E6%97%B6%E5%BC%80%E5%90%AF",
+            "size": "464.21 kB (475350 Bytes)",
+            "size_bytes": 475350,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1340x1080, components 3",
+            "author": 7892594,
+            "stamp": 1759536343,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460485344,
+    "rating": -6,
+    "forum_thread": 17292125,
+    "tags": [
+        "2025整活大赛",
+        "dv",
+        "dv至上",
+        "故事"
+    ],
+    "title": "鸟兽兽的航天日常",
+    "sitemap_update": 1759571064000,
+    "votings": [
+        [
+            9731145,
+            false
+        ],
+        [
+            9891316,
+            true
+        ],
+        [
+            9859027,
+            true
+        ],
+        [
+            9556346,
+            false
+        ],
+        [
+            8940942,
+            false
+        ],
+        [
+            9737839,
+            true
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9736618,
+            false
+        ],
+        [
+            9658212,
+            false
+        ],
+        [
+            9581894,
+            false
+        ],
+        [
+            9798138,
+            false
+        ],
+        [
+            9890919,
+            true
+        ],
+        [
+            9496441,
+            false
+        ],
+        [
+            8576655,
+            false
+        ],
+        [
+            9786309,
+            false
+        ],
+        [
+            9877906,
+            true
+        ],
+        [
+            9869350,
+            false
+        ],
+        [
+            9891023,
+            true
+        ]
+    ],
+    "is_locked": false
+}

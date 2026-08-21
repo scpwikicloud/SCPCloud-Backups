@@ -1,0 +1,93 @@
+{
+    "name": "scp-chair-j",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1538849845,
+            "author": 7465847,
+            "stamp": 1762408714,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 转载。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532958454,
+            "author": 7465847,
+            "stamp": 1760191774,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20251011220920.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532958446,
+            "author": 7465847,
+            "stamp": 1760191751,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp, 原创, 合著, 搞笑。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532958429,
+            "author": 7465847,
+            "stamp": 1760191679,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11490739,
+            "name": "QQ图片20251011220920.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-chair-j/QQ%E5%9B%BE%E7%89%8720251011220920.png",
+            "size": "255.09 kB (261209 Bytes)",
+            "size_bytes": 261209,
+            "mime": "image/png",
+            "content": "PNG image data, 1168 x 1556, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1760191775,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460679414,
+    "rating": -6,
+    "forum_thread": 17334822,
+    "tags": [
+        "keter",
+        "scp",
+        "中分存档",
+        "原创",
+        "合著",
+        "搞笑",
+        "转载"
+    ],
+    "title": "何椅位",
+    "sitemap_update": 1762408714000,
+    "votings": [
+        [
+            9859027,
+            false
+        ],
+        [
+            9859827,
+            false
+        ],
+        [
+            9552098,
+            false
+        ],
+        [
+            9807361,
+            false
+        ],
+        [
+            9873610,
+            false
+        ],
+        [
+            9896925,
+            false
+        ]
+    ],
+    "is_locked": false
+}

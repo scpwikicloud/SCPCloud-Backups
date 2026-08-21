@@ -1,0 +1,100 @@
+{
+    "name": "wssb",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1541455360,
+            "author": 9503739,
+            "stamp": 1768707713,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541455109,
+            "author": 9503739,
+            "stamp": 1768706230,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541216889,
+            "author": 9503739,
+            "stamp": 1767292915,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541195510,
+            "author": 9503739,
+            "stamp": 1767177959,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541195278,
+            "author": 9503739,
+            "stamp": 1767176877,
+            "flags": "A",
+            "commentary": "移除标签：dv至上, 原创, 故事, 深红之王, 萨姆豪威尔, 论战。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541195276,
+            "author": 9503739,
+            "stamp": 1767176866,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541195263,
+            "author": 9503739,
+            "stamp": 1767176815,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540657459,
+            "author": 9503739,
+            "stamp": 1765963381,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540657452,
+            "author": 9503739,
+            "stamp": 1765963366,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 深红之王, 萨姆豪威尔, 论战。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540657428,
+            "author": 9503739,
+            "stamp": 1765963319,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467578257,
+    "sitemap_update": 1768707713000,
+    "votings": [
+        [
+            9929144,
+            false
+        ],
+        [
+            9648085,
+            true
+        ]
+    ],
+    "is_locked": false
+}

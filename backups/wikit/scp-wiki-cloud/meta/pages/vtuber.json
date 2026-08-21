@@ -1,0 +1,61 @@
+{
+    "name": "vtuber",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1497371544,
+            "author": 7250688,
+            "stamp": 1668339470,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 搞笑, 故事, 烂梗。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1497371537,
+            "author": 7250688,
+            "stamp": 1668339428,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1437132156,
+    "rating": 2,
+    "forum_thread": 15383419,
+    "tags": [
+        "原创",
+        "搞笑",
+        "故事",
+        "烂梗"
+    ],
+    "title": "你的第一个基金会vtuber出道啦",
+    "sitemap_update": 1668339470000,
+    "votings": [
+        [
+            8343202,
+            true
+        ],
+        [
+            7941219,
+            true
+        ],
+        [
+            8217221,
+            false
+        ],
+        [
+            9581327,
+            false
+        ],
+        [
+            9491856,
+            true
+        ],
+        [
+            7787943,
+            true
+        ]
+    ],
+    "is_locked": false
+}

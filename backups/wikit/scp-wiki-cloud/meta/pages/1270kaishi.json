@@ -1,0 +1,41 @@
+{
+    "name": "1270kaishi",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542284821,
+            "author": 5239463,
+            "stamp": 1771968026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542050401,
+            "author": 5239463,
+            "stamp": 1770978025,
+            "flags": "A",
+            "commentary": "已新增标签：site-cl-203, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542050397,
+            "author": 5239463,
+            "stamp": 1770978005,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468125785,
+    "rating": 0,
+    "tags": [
+        "site-cl-203",
+        "故事"
+    ],
+    "title": "1270-1的存在？",
+    "sitemap_update": 1771968026000,
+    "votings": [],
+    "is_locked": false
+}

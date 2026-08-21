@@ -1,0 +1,64 @@
+{
+    "name": "site-cl-3791",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541823074,
+            "author": 9929144,
+            "stamp": 1770442262,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540999235,
+            "author": 9929144,
+            "stamp": 1766636685,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540999152,
+            "author": 9929144,
+            "stamp": 1766636511,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540960849,
+            "author": 9929144,
+            "stamp": 1766565406,
+            "flags": "A",
+            "commentary": "已新增标签：site-cl-379, uv至上, 背景, 设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540960819,
+            "author": 9929144,
+            "stamp": 1766565349,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467789485,
+    "rating": 1,
+    "tags": [
+        "site-cl-379",
+        "uv至上",
+        "背景",
+        "设定"
+    ],
+    "title": "Site-CL-379的设定1.7.2版",
+    "sitemap_update": 1770442262000,
+    "votings": [
+        [
+            9929144,
+            true
+        ]
+    ],
+    "is_locked": false
+}

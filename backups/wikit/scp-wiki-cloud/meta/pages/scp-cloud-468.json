@@ -1,0 +1,72 @@
+{
+    "name": "scp-cloud-468",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532389075,
+            "author": 9491856,
+            "stamp": 1758377698,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531622735,
+            "author": 9491856,
+            "stamp": 1755487906,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531621463,
+            "author": 9491856,
+            "stamp": 1755482032,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531621453,
+            "author": 9491856,
+            "stamp": 1755481985,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531621446,
+            "author": 9491856,
+            "stamp": 1755481954,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460073309,
+    "rating": 1,
+    "forum_thread": 17202632,
+    "tags": [
+        "scp",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-Cloud-468",
+    "sitemap_update": 1758377698000,
+    "votings": [
+        [
+            9682955,
+            true
+        ],
+        [
+            9819793,
+            false
+        ],
+        [
+            9491856,
+            true
+        ]
+    ],
+    "is_locked": false
+}

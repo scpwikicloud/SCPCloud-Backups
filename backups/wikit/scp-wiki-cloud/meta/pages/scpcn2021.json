@@ -1,0 +1,162 @@
+{
+    "name": "scpcn2021",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532936503,
+            "author": 9701202,
+            "stamp": 1760149914,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532931574,
+            "author": 9701202,
+            "stamp": 1760116986,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:scpf-real-history\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532923656,
+            "author": 9701202,
+            "stamp": 1760090478,
+            "flags": "A",
+            "commentary": "已新增标签：原创。 移除标签：翻译。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532904397,
+            "author": 9701202,
+            "stamp": 1760078613,
+            "flags": "A",
+            "commentary": "已新增标签：scp基金会社群历史, scp基金会被定义为“儿童邪典”事件, 搬运, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532904335,
+            "author": 9701202,
+            "stamp": 1760078601,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460641144,
+    "parent": "collab:scpf-real-history",
+    "rating": 25,
+    "forum_thread": 17329351,
+    "tags": [
+        "scp基金会社群历史",
+        "scp基金会被定义为“儿童邪典”事件",
+        "原创",
+        "搬运"
+    ],
+    "title": "SCP基金会被定义为“儿童邪典”事件",
+    "sitemap_update": 1760149914000,
+    "votings": [
+        [
+            9850438,
+            true
+        ],
+        [
+            9859027,
+            true
+        ],
+        [
+            9622470,
+            true
+        ],
+        [
+            9321285,
+            true
+        ],
+        [
+            8391302,
+            true
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            9785619,
+            true
+        ],
+        [
+            9655412,
+            true
+        ],
+        [
+            9682761,
+            true
+        ],
+        [
+            10243250,
+            true
+        ],
+        [
+            8448393,
+            true
+        ],
+        [
+            9869257,
+            true
+        ],
+        [
+            9926967,
+            true
+        ],
+        [
+            9470121,
+            true
+        ],
+        [
+            9795890,
+            true
+        ],
+        [
+            9873610,
+            true
+        ],
+        [
+            9701445,
+            true
+        ],
+        [
+            8893555,
+            true
+        ],
+        [
+            6370930,
+            true
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            9683410,
+            true
+        ],
+        [
+            9864229,
+            true
+        ],
+        [
+            9852611,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            9189674,
+            true
+        ]
+    ],
+    "is_locked": false
+}

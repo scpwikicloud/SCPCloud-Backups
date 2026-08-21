@@ -1,0 +1,44 @@
+{
+    "name": "scp-cloud-1130",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532712430,
+            "author": 4861204,
+            "stamp": 1759750122,
+            "flags": "A",
+            "commentary": "已新增标签：scp, ticonderoga, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532712390,
+            "author": 4861204,
+            "stamp": 1759750074,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460505676,
+    "rating": 2,
+    "forum_thread": 17313839,
+    "tags": [
+        "scp",
+        "ticonderoga",
+        "原创"
+    ],
+    "title": "SCP-Cloud-1130",
+    "sitemap_update": 1759750122000,
+    "votings": [
+        [
+            9767729,
+            true
+        ],
+        [
+            9564002,
+            true
+        ]
+    ],
+    "is_locked": false
+}

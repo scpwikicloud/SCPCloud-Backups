@@ -1,0 +1,82 @@
+{
+    "name": "cn4k-but-amphoreus",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541039540,
+            "author": 5897215,
+            "stamp": 1766710925,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540972140,
+            "author": 5897215,
+            "stamp": 1766584702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540972114,
+            "author": 5897215,
+            "stamp": 1766584651,
+            "flags": "A",
+            "commentary": "已新增标签：crossover, dv至上, 原创, 故事, 米哈游怎么这么坏啊。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540972063,
+            "author": 5897215,
+            "stamp": 1766584609,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467798492,
+    "rating": -5,
+    "forum_thread": 17497930,
+    "tags": [
+        "crossover",
+        "dv至上",
+        "原创",
+        "故事",
+        "米哈游怎么这么坏啊"
+    ],
+    "title": "中分4k，但是翁法罗斯定型文",
+    "sitemap_update": 1766710925000,
+    "votings": [
+        [
+            9746831,
+            false
+        ],
+        [
+            8178262,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            10156499,
+            true
+        ],
+        [
+            5897215,
+            false
+        ],
+        [
+            9869350,
+            false
+        ],
+        [
+            8420958,
+            false
+        ]
+    ],
+    "is_locked": false
+}

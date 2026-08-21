@@ -1,0 +1,125 @@
+{
+    "name": "nzs",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531581542,
+            "author": 9682955,
+            "stamp": 1755267098,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 狗屎。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531581539,
+            "author": 9682955,
+            "stamp": 1755267079,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531581527,
+            "author": 9682955,
+            "stamp": 1755267053,
+            "flags": "F",
+            "commentary": "已上传文件 “114514”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531581503,
+            "author": 9682955,
+            "stamp": 1755266946,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11439600,
+            "name": "114514",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/nzs/114514",
+            "size": "348.71 kB (357076 Bytes)",
+            "size_bytes": 357076,
+            "mime": "image/png",
+            "content": "PNG image data, 720 x 652, 8-bit/color RGB, non-interlaced",
+            "author": 9682955,
+            "stamp": 1755267053,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460064672,
+    "rating": 13,
+    "forum_thread": 17197019,
+    "tags": [
+        "原创",
+        "故事",
+        "狗屎"
+    ],
+    "title": "你只是打开了这个故事",
+    "sitemap_update": 1755267098000,
+    "votings": [
+        [
+            9831382,
+            true
+        ],
+        [
+            9774539,
+            true
+        ],
+        [
+            8508189,
+            true
+        ],
+        [
+            9750807,
+            false
+        ],
+        [
+            9780933,
+            true
+        ],
+        [
+            9795890,
+            true
+        ],
+        [
+            9767131,
+            true
+        ],
+        [
+            9007460,
+            true
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            9790584,
+            true
+        ],
+        [
+            8576655,
+            true
+        ],
+        [
+            9321029,
+            true
+        ],
+        [
+            9843992,
+            true
+        ],
+        [
+            9491856,
+            true
+        ],
+        [
+            9846773,
+            true
+        ]
+    ],
+    "is_locked": false
+}

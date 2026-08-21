@@ -1,0 +1,74 @@
+{
+    "name": "diarist",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541457825,
+            "author": 9874148,
+            "stamp": 1768717687,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541457801,
+            "author": 9874148,
+            "stamp": 1768717668,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541457794,
+            "author": 9874148,
+            "stamp": 1768717641,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541422366,
+            "author": 9874148,
+            "stamp": 1768571134,
+            "flags": "A",
+            "commentary": "已新增标签：o5, scp-cloud-318, uv至上, 原创, 悬疑, 悲惨日记, 故事, 日记, 校园生活。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541422338,
+            "author": 9874148,
+            "stamp": 1768570992,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468006564,
+    "rating": 2,
+    "forum_thread": 17564728,
+    "tags": [
+        "o5",
+        "scp-cloud-318",
+        "uv至上",
+        "原创",
+        "悬疑",
+        "悲惨日记",
+        "故事",
+        "日记",
+        "校园生活"
+    ],
+    "title": "十日日记",
+    "sitemap_update": 1768717687000,
+    "votings": [
+        [
+            9929144,
+            true
+        ],
+        [
+            9874148,
+            true
+        ]
+    ],
+    "is_locked": false
+}

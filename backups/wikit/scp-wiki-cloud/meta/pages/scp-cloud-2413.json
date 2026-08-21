@@ -1,0 +1,42 @@
+{
+    "name": "scp-cloud-2413",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541715635,
+            "author": 10128183,
+            "stamp": 1769937269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541714065,
+            "author": 10128183,
+            "stamp": 1769935027,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541694004,
+            "author": 10128183,
+            "stamp": 1769855748,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468072752,
+    "forum_thread": 17579184,
+    "title": "Scp Cloud 2413",
+    "sitemap_update": 1769937269000,
+    "votings": [
+        [
+            10128183,
+            true
+        ]
+    ],
+    "is_locked": false
+}

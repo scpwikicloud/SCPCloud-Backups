@@ -1,0 +1,87 @@
+{
+    "name": "scp-cloud-618",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1531545604,
+            "author": 7047022,
+            "stamp": 1755095260,
+            "flags": "A",
+            "commentary": "已新增标签：占位, 施工中……。 移除标签：dv至上, rct-Δt, scp, site-cloud-Δt, 故事设定, 机密分级, 管理员。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531545575,
+            "author": 7047022,
+            "stamp": 1755095191,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1530617686,
+            "author": 7047022,
+            "stamp": 1750602414,
+            "flags": "S",
+            "commentary": "捉虫X2"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530617611,
+            "author": 7047022,
+            "stamp": 1750601985,
+            "flags": "A",
+            "commentary": "已新增标签：site-cloud-Δt。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530617592,
+            "author": 7047022,
+            "stamp": 1750601880,
+            "flags": "S",
+            "commentary": "捉虫"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530617573,
+            "author": 7047022,
+            "stamp": 1750601788,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530571715,
+            "author": 7047022,
+            "stamp": 1750349902,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, rct-Δt, scp, 原创, 故事设定, 机密分级, 管理员。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530570655,
+            "author": 7047022,
+            "stamp": 1750343909,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459817905,
+    "forum_thread": 17157297,
+    "tags": [
+        "占位",
+        "原创",
+        "施工中……"
+    ],
+    "title": "SCP-Cloud-618",
+    "sitemap_update": 1755095260000,
+    "votings": [
+        [
+            9755289,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,124 @@
+{
+    "name": "scp-cloud-006-ex",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1541542966,
+            "author": 9929144,
+            "stamp": 1769141616,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539955130,
+            "author": 9929144,
+            "stamp": 1764239447,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539944942,
+            "author": 9929144,
+            "stamp": 1764212971,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539944928,
+            "author": 9929144,
+            "stamp": 1764212938,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539944874,
+            "author": 9929144,
+            "stamp": 1764212798,
+            "flags": "F",
+            "commentary": "已上传文件 “神人对局”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539944860,
+            "author": 9929144,
+            "stamp": 1764212766,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539944848,
+            "author": 9929144,
+            "stamp": 1764212747,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 宝可梦, 宝可梦大集结, 已解明, 恶搞, 抽像宇宙, 神人匹配机制, 腾讯。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539944808,
+            "author": 9929144,
+            "stamp": 1764212698,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539944802,
+            "author": 9929144,
+            "stamp": 1764212682,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11690785,
+            "name": "神人对局",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-006-ex/%E7%A5%9E%E4%BA%BA%E5%AF%B9%E5%B1%80",
+            "size": "223.12 kB (228473 Bytes)",
+            "size_bytes": 228473,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , width=1600], baseline, precision 8, 1600x720, components 3",
+            "author": 9929144,
+            "stamp": 1764212798,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467112201,
+    "rating": -1,
+    "forum_thread": 17656588,
+    "tags": [
+        "dv至上",
+        "scp",
+        "原创",
+        "宝可梦",
+        "宝可梦大集结",
+        "已解明",
+        "恶搞",
+        "抽像宇宙",
+        "神人匹配机制",
+        "腾讯"
+    ],
+    "title": "Scp–Cloud–006–Ex 操作最神人的一集",
+    "sitemap_update": 1769141616000,
+    "votings": [
+        [
+            10150391,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            10140214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

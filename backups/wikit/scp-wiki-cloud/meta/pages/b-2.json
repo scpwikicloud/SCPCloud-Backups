@@ -1,0 +1,54 @@
+{
+    "name": "b-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540559262,
+            "author": 9929144,
+            "stamp": 1765536017,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540559238,
+            "author": 9929144,
+            "stamp": 1765535982,
+            "flags": "A",
+            "commentary": "已新增标签：site-cl-379, uv至上, 原创, 抽像宇宙, 红月亮, 设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540559207,
+            "author": 9929144,
+            "stamp": 1765535907,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467529714,
+    "rating": 2,
+    "tags": [
+        "site-cl-379",
+        "uv至上",
+        "原创",
+        "抽像宇宙",
+        "红月亮",
+        "设定"
+    ],
+    "title": "Site-CL-379的设定1.3.1版",
+    "sitemap_update": 1765536017000,
+    "votings": [
+        [
+            9879889,
+            true
+        ],
+        [
+            9929144,
+            true
+        ]
+    ],
+    "is_locked": false
+}

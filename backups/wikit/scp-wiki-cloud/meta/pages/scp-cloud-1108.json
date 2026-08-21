@@ -1,0 +1,137 @@
+{
+    "name": "scp-cloud-1108",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1542123547,
+            "author": 9880884,
+            "stamp": 1771336588,
+            "flags": "A",
+            "commentary": "已新增标签：meta, 叙述性, 超形上学。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541927921,
+            "author": 9880884,
+            "stamp": 1770768454,
+            "flags": "A",
+            "commentary": "已新增标签：互动性。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541927632,
+            "author": 9880884,
+            "stamp": 1770767925,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541927567,
+            "author": 9880884,
+            "stamp": 1770767831,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541927480,
+            "author": 9880884,
+            "stamp": 1770767693,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541927335,
+            "author": 9880884,
+            "stamp": 1770767446,
+            "flags": "S",
+            "commentary": "移除多余的代码"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541904526,
+            "author": 9880884,
+            "stamp": 1770729273,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv至上, 原创, 朗基努斯。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541904517,
+            "author": 9880884,
+            "stamp": 1770729243,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541904496,
+            "author": 9880884,
+            "stamp": 1770729187,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468114584,
+    "rating": 10,
+    "forum_thread": 17586496,
+    "tags": [
+        "meta",
+        "scp",
+        "uv至上",
+        "互动性",
+        "原创",
+        "叙述性",
+        "朗基努斯",
+        "超形上学"
+    ],
+    "title": "SCP-CLOUD-1108",
+    "sitemap_update": 1771336588000,
+    "votings": [
+        [
+            9546128,
+            true
+        ],
+        [
+            10196661,
+            true
+        ],
+        [
+            9767729,
+            true
+        ],
+        [
+            9879078,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            10247358,
+            true
+        ],
+        [
+            10243431,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9786309,
+            true
+        ],
+        [
+            10365489,
+            true
+        ]
+    ],
+    "is_locked": false
+}

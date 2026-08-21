@@ -1,0 +1,191 @@
+{
+    "name": "scp-cloud-2070",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1543555590,
+            "author": 10211565,
+            "stamp": 1777117475,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1543555581,
+            "author": 10211565,
+            "stamp": 1777117446,
+            "flags": "A",
+            "commentary": "已新增标签：云国抽象社。 移除标签：抽象委员会。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543554822,
+            "author": 10211565,
+            "stamp": 1777114956,
+            "flags": "F",
+            "commentary": "已上传文件 “雕像贴照片（遮盖板）.png”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543554815,
+            "author": 10211565,
+            "stamp": 1777114932,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543182579,
+            "author": 10211565,
+            "stamp": 1775644582,
+            "flags": "A",
+            "commentary": "已新增标签：整活。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543166266,
+            "author": 10211565,
+            "stamp": 1775558564,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543138713,
+            "author": 10211565,
+            "stamp": 1775414733,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543138710,
+            "author": 10211565,
+            "stamp": 1775414717,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv至上, 原创, 抽象委员会。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543138704,
+            "author": 10211565,
+            "stamp": 1775414659,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543138691,
+            "author": 10211565,
+            "stamp": 1775414584,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543138687,
+            "author": 10211565,
+            "stamp": 1775414553,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543138681,
+            "author": 10211565,
+            "stamp": 1775414508,
+            "flags": "F",
+            "commentary": "已上传文件 “7891a94f4e1a7bd9b946735042c50e8d.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543138639,
+            "author": 10211565,
+            "stamp": 1775414483,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11787268,
+            "name": "7891a94f4e1a7bd9b946735042c50e8d.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2070/7891a94f4e1a7bd9b946735042c50e8d.png",
+            "size": "189.44 kB (193991 Bytes)",
+            "size_bytes": 193991,
+            "mime": "image/png",
+            "content": "PNG image data, 515 x 591, 8-bit/color RGBA, non-interlaced",
+            "author": 10211565,
+            "stamp": 1775414509,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11802279,
+            "name": "雕像贴照片（遮盖板）.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2070/%E9%9B%95%E5%83%8F%E8%B4%B4%E7%85%A7%E7%89%87%EF%BC%88%E9%81%AE%E7%9B%96%E6%9D%BF%EF%BC%89.png",
+            "size": "211.88 kB (216967 Bytes)",
+            "size_bytes": 216967,
+            "mime": "image/png",
+            "content": "PNG image data, 706 x 642, 8-bit/color RGBA, non-interlaced",
+            "author": 10211565,
+            "stamp": 1777114956,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468423416,
+    "rating": 8,
+    "forum_thread": 17696172,
+    "tags": [
+        "scp",
+        "uv至上",
+        "云国抽象社",
+        "原创",
+        "整活"
+    ],
+    "title": "SCP-CLOUD-2070 雕像贴照片号称天下能无敌～",
+    "sitemap_update": 1777117475000,
+    "votings": [
+        [
+            9767729,
+            false
+        ],
+        [
+            10217659,
+            true
+        ],
+        [
+            10138896,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            9786309,
+            true
+        ],
+        [
+            10156507,
+            true
+        ],
+        [
+            10272605,
+            true
+        ],
+        [
+            10197917,
+            true
+        ],
+        [
+            10211565,
+            true
+        ],
+        [
+            10252500,
+            true
+        ]
+    ],
+    "is_locked": false
+}

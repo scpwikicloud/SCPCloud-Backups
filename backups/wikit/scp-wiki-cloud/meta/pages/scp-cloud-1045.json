@@ -1,0 +1,97 @@
+{
+    "name": "scp-cloud-1045",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541650603,
+            "author": 9898605,
+            "stamp": 1769648996,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541650600,
+            "author": 9898605,
+            "stamp": 1769648968,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541650573,
+            "author": 9898605,
+            "stamp": 1769648694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533071360,
+            "author": 9898605,
+            "stamp": 1760715974,
+            "flags": "A",
+            "commentary": "已新增标签：原创、kards。 移除标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533071340,
+            "author": 9898605,
+            "stamp": 1760715927,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533071043,
+            "author": 9898605,
+            "stamp": 1760715114,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460708134,
+    "forum_thread": 17359265,
+    "tags": [
+        "原创、kards"
+    ],
+    "title": "SCP-CLOUD-1045渣渣语",
+    "sitemap_update": 1769648996000,
+    "votings": [
+        [
+            10239998,
+            false
+        ],
+        [
+            9898605,
+            false
+        ],
+        [
+            9746831,
+            false
+        ],
+        [
+            8989359,
+            false
+        ],
+        [
+            10190502,
+            true
+        ],
+        [
+            9470121,
+            false
+        ],
+        [
+            9909183,
+            false
+        ],
+        [
+            10365489,
+            false
+        ]
+    ],
+    "is_locked": false
+}

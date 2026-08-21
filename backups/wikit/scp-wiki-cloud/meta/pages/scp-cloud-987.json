@@ -1,0 +1,104 @@
+{
+    "name": "scp-cloud-987",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1523135233,
+            "author": 7308956,
+            "stamp": 1721485443,
+            "flags": "A",
+            "commentary": "已新增标签：keter。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1523135229,
+            "author": 7308956,
+            "stamp": 1721485429,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523135221,
+            "author": 7308956,
+            "stamp": 1721485370,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523135014,
+            "author": 7308956,
+            "stamp": 1721484362,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1455928645,
+    "rating": 13,
+    "forum_thread": 16910151,
+    "tags": [
+        "keter",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CL-987",
+    "sitemap_update": 1721485443000,
+    "votings": [
+        [
+            8660572,
+            true
+        ],
+        [
+            9648963,
+            true
+        ],
+        [
+            7047022,
+            true
+        ],
+        [
+            9854410,
+            true
+        ],
+        [
+            8159914,
+            true
+        ],
+        [
+            10128934,
+            true
+        ],
+        [
+            9826164,
+            true
+        ],
+        [
+            3177942,
+            true
+        ],
+        [
+            8155489,
+            true
+        ],
+        [
+            8096210,
+            true
+        ],
+        [
+            9786309,
+            true
+        ],
+        [
+            9566763,
+            true
+        ],
+        [
+            9782475,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "adam-sargeant-after",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541246937,
+            "author": 9884343,
+            "stamp": 1767446845,
+            "flags": "A",
+            "commentary": "已新增标签：后记, 故事, 日车仙人。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541246935,
+            "author": 9884343,
+            "stamp": 1767446826,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467960583,
+    "forum_thread": 17506412,
+    "tags": [
+        "后记",
+        "故事",
+        "日车仙人"
+    ],
+    "title": "《Adam Sargeant》系列后记",
+    "sitemap_update": 1767446845000,
+    "votings": [
+        [
+            9746831,
+            true
+        ]
+    ],
+    "is_locked": false
+}

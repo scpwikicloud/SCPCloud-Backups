@@ -1,0 +1,122 @@
+{
+    "name": "scp-cloud-053",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1508351072,
+            "author": 8305255,
+            "stamp": 1678200293,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311133207,
+            "author": 6382722,
+            "stamp": 1596670295,
+            "flags": "A",
+            "commentary": "已新增标签：逆模因。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311123478,
+            "author": 6382722,
+            "stamp": 1596655737,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260646476,
+    "rating": -12,
+    "forum_thread": 13621549,
+    "tags": [
+        "逆模因"
+    ],
+    "title": "SCP-Cloud-053（孙笑川的母亲）",
+    "sitemap_update": 1678200293000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            10200128,
+            false
+        ],
+        [
+            8637984,
+            false
+        ],
+        [
+            9556346,
+            false
+        ],
+        [
+            7308369,
+            false
+        ],
+        [
+            6874010,
+            false
+        ],
+        [
+            8426220,
+            false
+        ],
+        [
+            9807361,
+            false
+        ],
+        [
+            9110822,
+            true
+        ],
+        [
+            9792558,
+            false
+        ],
+        [
+            9795890,
+            false
+        ],
+        [
+            6317957,
+            false
+        ],
+        [
+            10316648,
+            false
+        ],
+        [
+            6303777,
+            false
+        ],
+        [
+            9555945,
+            false
+        ],
+        [
+            7133173,
+            true
+        ],
+        [
+            9019193,
+            false
+        ],
+        [
+            8904197,
+            true
+        ],
+        [
+            7169775,
+            false
+        ],
+        [
+            8399190,
+            true
+        ]
+    ],
+    "is_locked": false
+}

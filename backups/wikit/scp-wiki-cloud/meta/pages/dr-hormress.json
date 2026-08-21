@@ -1,0 +1,41 @@
+{
+    "name": "dr-hormress",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1524271830,
+            "author": 8305255,
+            "stamp": 1724986022,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519731089,
+            "author": 4142571,
+            "stamp": 1713628871,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453400745,
+    "forum_thread": 17307966,
+    "tags": [
+        "作者"
+    ],
+    "title": "Dr Hormress",
+    "sitemap_update": 1724986022000,
+    "votings": [
+        [
+            6335947,
+            true
+        ],
+        [
+            9583871,
+            true
+        ]
+    ],
+    "is_locked": false
+}

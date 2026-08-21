@@ -1,0 +1,122 @@
+{
+    "name": "scp-cloud-1969",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1541424903,
+            "author": 9767729,
+            "stamp": 1768581347,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541424891,
+            "author": 9767729,
+            "stamp": 1768581263,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541424888,
+            "author": 9767729,
+            "stamp": 1768581235,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541424859,
+            "author": 9767729,
+            "stamp": 1768580975,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541407396,
+            "author": 9767729,
+            "stamp": 1768478778,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541404143,
+            "author": 9767729,
+            "stamp": 1768457037,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541403766,
+            "author": 9767729,
+            "stamp": 1768453921,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：scp系列。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541403757,
+            "author": 9767729,
+            "stamp": 1768453861,
+            "flags": "A",
+            "commentary": "已新增标签：scp系列。 移除标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541403720,
+            "author": 9767729,
+            "stamp": 1768453661,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 原创, 故事, 珍宝岛, 红文。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541403718,
+            "author": 9767729,
+            "stamp": 1768453637,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468001124,
+    "rating": 3,
+    "forum_thread": 17563876,
+    "tags": [
+        "scp",
+        "uv至上",
+        "原创",
+        "珍宝岛",
+        "红文"
+    ],
+    "title": "Scp-CLOUD-1969 珍宝岛的坦克",
+    "sitemap_update": 1768581347000,
+    "votings": [
+        [
+            9767729,
+            true
+        ],
+        [
+            10133162,
+            true
+        ],
+        [
+            9880157,
+            true
+        ],
+        [
+            10164640,
+            false
+        ],
+        [
+            10204913,
+            true
+        ]
+    ],
+    "is_locked": false
+}

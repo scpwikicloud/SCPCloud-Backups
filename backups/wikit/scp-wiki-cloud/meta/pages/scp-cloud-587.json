@@ -1,0 +1,45 @@
+{
+    "name": "scp-cloud-587",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539796442,
+            "author": 9859827,
+            "stamp": 1763782471,
+            "flags": "A",
+            "commentary": "已新增标签：dv, dv至上, scp, wikidot机动特遣队, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539796431,
+            "author": 9859827,
+            "stamp": 1763782427,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467018621,
+    "rating": -2,
+    "tags": [
+        "dv",
+        "dv至上",
+        "scp",
+        "wikidot机动特遣队",
+        "原创"
+    ],
+    "title": "SCP-Cloud-587",
+    "sitemap_update": 1763782471000,
+    "votings": [
+        [
+            9819793,
+            false
+        ],
+        [
+            9780183,
+            false
+        ]
+    ],
+    "is_locked": false
+}

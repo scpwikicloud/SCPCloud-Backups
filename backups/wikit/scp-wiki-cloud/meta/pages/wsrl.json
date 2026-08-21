@@ -1,0 +1,122 @@
+{
+    "name": "wsrl",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542407433,
+            "author": 9630520,
+            "stamp": 1772538472,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。 移除标签：dv之上。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540058837,
+            "author": 9630520,
+            "stamp": 1764465536,
+            "flags": "A",
+            "commentary": "已新增标签：苍树与靴。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540058824,
+            "author": 9630520,
+            "stamp": 1764465509,
+            "flags": "A",
+            "commentary": "已新增标签：dv之上, wanderers, 义和团, 原创, 妈妈, 打瓦, 故事, 颗秒。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540058806,
+            "author": 9630520,
+            "stamp": 1764465463,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540058792,
+            "author": 9630520,
+            "stamp": 1764465434,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540058650,
+            "author": 9630520,
+            "stamp": 1764465089,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467191030,
+    "rating": -10,
+    "forum_thread": 17466600,
+    "tags": [
+        "dv至上",
+        "wanderers",
+        "义和团",
+        "原创",
+        "妈妈",
+        "打瓦",
+        "故事",
+        "苍树与靴",
+        "颗秒"
+    ],
+    "title": "给你1亿美元，代价是切入后室，你会怎么选择？",
+    "sitemap_update": 1772538472000,
+    "votings": [
+        [
+            9800967,
+            false
+        ],
+        [
+            8852675,
+            false
+        ],
+        [
+            8356393,
+            true
+        ],
+        [
+            10063811,
+            false
+        ],
+        [
+            9880884,
+            false
+        ],
+        [
+            10127899,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9630520,
+            false
+        ],
+        [
+            9873056,
+            false
+        ],
+        [
+            9851562,
+            false
+        ],
+        [
+            9863989,
+            false
+        ],
+        [
+            9491856,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,132 @@
+{
+    "name": "dr-kuznetsov-scp-cloud-001",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1524245459,
+            "author": 5498218,
+            "stamp": 1724852889,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1524245400,
+            "author": 5498218,
+            "stamp": 1724852787,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1367441071,
+            "author": 7045981,
+            "stamp": 1628217613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1365088421,
+            "author": 5498218,
+            "stamp": 1620837824,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1362050162,
+            "author": 5498218,
+            "stamp": 1617602245,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, scp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1362050152,
+            "author": 5498218,
+            "stamp": 1617602138,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362050108,
+            "author": 5498218,
+            "stamp": 1617602083,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362050093,
+            "author": 5498218,
+            "stamp": 1617601975,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308477610,
+    "rating": 10,
+    "forum_thread": 14042621,
+    "tags": [
+        "001提案",
+        "scp",
+        "uv至上"
+    ],
+    "title": "Dr.Kuznetsov的提案",
+    "sitemap_update": 1724852889000,
+    "votings": [
+        [
+            6444453,
+            true
+        ],
+        [
+            9818867,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            8159914,
+            true
+        ],
+        [
+            9883889,
+            true
+        ],
+        [
+            7149070,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            5967510,
+            true
+        ],
+        [
+            5480202,
+            false
+        ],
+        [
+            7296464,
+            true
+        ],
+        [
+            6780904,
+            true
+        ],
+        [
+            9276706,
+            true
+        ]
+    ],
+    "is_locked": false
+}

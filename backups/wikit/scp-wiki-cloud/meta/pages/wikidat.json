@@ -1,0 +1,53 @@
+{
+    "name": "wikidat",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532569808,
+            "author": 7535291,
+            "stamp": 1759281213,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532569795,
+            "author": 7535291,
+            "stamp": 1759281184,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532569790,
+            "author": 7535291,
+            "stamp": 1759281171,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532569785,
+            "author": 7535291,
+            "stamp": 1759281144,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460470951,
+    "rating": 1,
+    "tags": [
+        "指导"
+    ],
+    "title": "云国分部维基代码快速查询",
+    "sitemap_update": 1759281213000,
+    "votings": [
+        [
+            9873610,
+            true
+        ]
+    ],
+    "is_locked": false
+}

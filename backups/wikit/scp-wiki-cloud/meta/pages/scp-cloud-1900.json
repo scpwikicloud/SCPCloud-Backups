@@ -1,0 +1,66 @@
+{
+    "name": "scp-cloud-1900",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531756229,
+            "author": 9315373,
+            "stamp": 1756107627,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531756219,
+            "author": 9315373,
+            "stamp": 1756107533,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531466040,
+            "author": 9315373,
+            "stamp": 1754761959,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531465933,
+            "author": 9315373,
+            "stamp": 1754761401,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460025040,
+    "rating": 3,
+    "title": "[权限不足]",
+    "sitemap_update": 1756107627000,
+    "votings": [
+        [
+            9785619,
+            true
+        ],
+        [
+            9826164,
+            true
+        ],
+        [
+            9789899,
+            false
+        ],
+        [
+            9827968,
+            true
+        ],
+        [
+            9909183,
+            true
+        ]
+    ],
+    "is_locked": false
+}

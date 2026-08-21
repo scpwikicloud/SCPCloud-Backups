@@ -1,0 +1,56 @@
+{
+    "name": "scp-cloud-2960",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1540041498,
+            "author": 9869257,
+            "stamp": 1764425027,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540041470,
+            "author": 9869257,
+            "stamp": 1764424963,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540034894,
+            "author": 9869257,
+            "stamp": 1764411541,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 搞笑。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540034881,
+            "author": 9869257,
+            "stamp": 1764411512,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467175725,
+    "rating": -1,
+    "forum_thread": 17465813,
+    "tags": [
+        "scp",
+        "原创",
+        "搞笑"
+    ],
+    "title": "SCP-CLOUD-2960-J",
+    "sitemap_update": 1764425027000,
+    "votings": [
+        [
+            9562327,
+            false
+        ]
+    ],
+    "is_locked": false
+}

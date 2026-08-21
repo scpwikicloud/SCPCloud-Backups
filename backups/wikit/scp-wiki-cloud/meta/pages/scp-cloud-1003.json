@@ -1,0 +1,105 @@
+{
+    "name": "scp-cloud-1003",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1528137073,
+            "author": 8366274,
+            "stamp": 1740789666,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1524601632,
+            "author": 8305255,
+            "stamp": 1726328698,
+            "flags": "A",
+            "commentary": "已新增标签：ticonderoga。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1524308689,
+            "author": 8366274,
+            "stamp": 1725190682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1524308683,
+            "author": 8366274,
+            "stamp": 1725190671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1524306148,
+            "author": 8366274,
+            "stamp": 1725170786,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 玩sl玩的。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1524306146,
+            "author": 8366274,
+            "stamp": 1725170769,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456618126,
+    "rating": 9,
+    "forum_thread": 16978829,
+    "tags": [
+        "scp",
+        "ticonderoga",
+        "原创",
+        "玩sl玩的"
+    ],
+    "title": "SCP-CL-1003",
+    "sitemap_update": 1740789666000,
+    "votings": [
+        [
+            9682955,
+            true
+        ],
+        [
+            9756754,
+            true
+        ],
+        [
+            8248071,
+            true
+        ],
+        [
+            9752615,
+            true
+        ],
+        [
+            8447982,
+            true
+        ],
+        [
+            8998982,
+            true
+        ],
+        [
+            8155489,
+            true
+        ],
+        [
+            8366274,
+            true
+        ],
+        [
+            7133173,
+            true
+        ]
+    ],
+    "is_locked": false
+}

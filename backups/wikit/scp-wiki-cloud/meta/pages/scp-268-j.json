@@ -1,0 +1,56 @@
+{
+    "name": "scp-268-j",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539336250,
+            "author": 9869257,
+            "stamp": 1762943526,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539332733,
+            "author": 9869257,
+            "stamp": 1762934145,
+            "flags": "A",
+            "commentary": "已新增标签：joke, scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539332728,
+            "author": 9869257,
+            "stamp": 1762934131,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466634452,
+    "rating": -3,
+    "forum_thread": 17444949,
+    "tags": [
+        "joke",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-268-J",
+    "sitemap_update": 1762943526000,
+    "votings": [
+        [
+            8193741,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

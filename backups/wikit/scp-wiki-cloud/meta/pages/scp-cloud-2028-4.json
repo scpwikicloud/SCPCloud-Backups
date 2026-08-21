@@ -1,0 +1,41 @@
+{
+    "name": "scp-cloud-2028-4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542297642,
+            "author": 10157706,
+            "stamp": 1772016202,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542296522,
+            "author": 10157706,
+            "stamp": 1772011803,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542296504,
+            "author": 10157706,
+            "stamp": 1772011711,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468174612,
+    "rating": 0,
+    "tags": [
+        "scp",
+        "uv"
+    ],
+    "title": "SCP- CLOUD-2028-2",
+    "sitemap_update": 1772016202000,
+    "votings": [],
+    "is_locked": false
+}

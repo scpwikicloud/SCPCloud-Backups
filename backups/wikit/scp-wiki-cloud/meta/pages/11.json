@@ -1,0 +1,36 @@
+{
+    "name": "11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532679215,
+            "author": 9792384,
+            "stamp": 1759634002,
+            "flags": "A",
+            "commentary": "已新增标签：2025搞笑大赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532679210,
+            "author": 9792384,
+            "stamp": 1759633975,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460492279,
+    "rating": 1,
+    "tags": [
+        "2025搞笑大赛"
+    ],
+    "sitemap_update": 1759634002000,
+    "votings": [
+        [
+            9524086,
+            true
+        ]
+    ],
+    "is_locked": false
+}

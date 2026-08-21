@@ -1,0 +1,70 @@
+{
+    "name": "themangod",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542126186,
+            "author": 9786309,
+            "stamp": 1771347117,
+            "flags": "A",
+            "commentary": "已新增标签：mtf, uv至上, 原创, 收容失效, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542126172,
+            "author": 9786309,
+            "stamp": 1771346992,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542125977,
+            "author": 9786309,
+            "stamp": 1771345849,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468142232,
+    "rating": 0,
+    "forum_thread": 17591180,
+    "tags": [
+        "mtf",
+        "uv至上",
+        "原创",
+        "收容失效",
+        "故事"
+    ],
+    "title": "权限不给特遣队！我拿什么重收容！",
+    "sitemap_update": 1771347117000,
+    "votings": [
+        [
+            9760248,
+            true
+        ],
+        [
+            10191883,
+            false
+        ],
+        [
+            9554304,
+            true
+        ],
+        [
+            9770536,
+            false
+        ],
+        [
+            6745213,
+            false
+        ],
+        [
+            10256686,
+            true
+        ]
+    ],
+    "is_locked": false
+}

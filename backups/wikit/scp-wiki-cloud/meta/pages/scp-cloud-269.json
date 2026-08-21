@@ -1,0 +1,79 @@
+{
+    "name": "scp-cloud-269",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1537672225,
+            "author": 9746831,
+            "stamp": 1762053999,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1537671922,
+            "author": 9746831,
+            "stamp": 1762053950,
+            "flags": "F",
+            "commentary": "已上传文件 “bin”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1537272237,
+            "author": 9746831,
+            "stamp": 1761991212,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537272170,
+            "author": 9746831,
+            "stamp": 1761991195,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 概念性, 游戏。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1537271940,
+            "author": 9746831,
+            "stamp": 1761991175,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11621203,
+            "name": "bin",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-269/bin",
+            "size": "165.2 kB (169169 Bytes)",
+            "size_bytes": 169169,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1150x694, components 3",
+            "author": 9746831,
+            "stamp": 1762053950,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1464723675,
+    "rating": 1,
+    "forum_thread": 17418055,
+    "tags": [
+        "scp",
+        "uv至上",
+        "原创",
+        "概念性",
+        "游戏"
+    ],
+    "title": "SCP-CLOUD-269",
+    "sitemap_update": 1762053999000,
+    "votings": [
+        [
+            9746831,
+            true
+        ]
+    ],
+    "is_locked": false
+}

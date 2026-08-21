@@ -1,0 +1,66 @@
+{
+    "name": "scp-cloud-2006",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1539843723,
+            "author": 9743391,
+            "stamp": 1763889927,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539813085,
+            "author": 9743391,
+            "stamp": 1763819483,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539799802,
+            "author": 9743391,
+            "stamp": 1763791177,
+            "flags": "A",
+            "commentary": "已新增标签：keter。 移除标签：euclid。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539799789,
+            "author": 9743391,
+            "stamp": 1763791147,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539783064,
+            "author": 9743391,
+            "stamp": 1763730929,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, 电脑病毒。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539783020,
+            "author": 9743391,
+            "stamp": 1763730753,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467012506,
+    "rating": 0,
+    "forum_thread": 17455541,
+    "tags": [
+        "keter",
+        "电脑病毒"
+    ],
+    "title": "SCP-CLOUD-2006",
+    "sitemap_update": 1763889927000,
+    "votings": [],
+    "is_locked": false
+}

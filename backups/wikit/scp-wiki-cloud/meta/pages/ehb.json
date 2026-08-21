@@ -1,0 +1,394 @@
+{
+    "name": "ehb",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 42,
+            "global_revision": 1540235592,
+            "author": 9874148,
+            "stamp": 1764869230,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1538154854,
+            "author": 9874148,
+            "stamp": 1762235708,
+            "flags": "A",
+            "commentary": "已新增标签：dv。 移除标签：uv, uv至上。"
+        },
+        {
+            "revision": 40,
+            "global_revision": 1534091167,
+            "author": 9874148,
+            "stamp": 1761660844,
+            "flags": "A",
+            "commentary": "已新增标签：uv, uv至上。"
+        },
+        {
+            "revision": 39,
+            "global_revision": 1534025191,
+            "author": 9874148,
+            "stamp": 1761642390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1533931607,
+            "author": 9874148,
+            "stamp": 1761572055,
+            "flags": "A",
+            "commentary": "移除标签：uv至上。"
+        },
+        {
+            "revision": 37,
+            "global_revision": 1533859901,
+            "author": 9874148,
+            "stamp": 1761540613,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1533859812,
+            "author": 9874148,
+            "stamp": 1761540582,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1533859712,
+            "author": 9874148,
+            "stamp": 1761540546,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1533859524,
+            "author": 9874148,
+            "stamp": 1761540478,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1533858665,
+            "author": 9874148,
+            "stamp": 1761540161,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1533858252,
+            "author": 9874148,
+            "stamp": 1761540010,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1533858154,
+            "author": 9874148,
+            "stamp": 1761539974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1533858042,
+            "author": 9874148,
+            "stamp": 1761539934,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1533857794,
+            "author": 9874148,
+            "stamp": 1761539845,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1533857548,
+            "author": 9874148,
+            "stamp": 1761539755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1533857416,
+            "author": 9874148,
+            "stamp": 1761539710,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1533857049,
+            "author": 9874148,
+            "stamp": 1761539584,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1533855753,
+            "author": 9874148,
+            "stamp": 1761539126,
+            "flags": "A",
+            "commentary": "已新增标签：遏火部。"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1533833527,
+            "author": 9874148,
+            "stamp": 1761531593,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1533826631,
+            "author": 9874148,
+            "stamp": 1761529225,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1533826414,
+            "author": 9874148,
+            "stamp": 1761529152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1533825716,
+            "author": 9874148,
+            "stamp": 1761528923,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1533824436,
+            "author": 9874148,
+            "stamp": 1761528484,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1533823822,
+            "author": 9874148,
+            "stamp": 1761528273,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1533823694,
+            "author": 9874148,
+            "stamp": 1761528229,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1533820382,
+            "author": 9874148,
+            "stamp": 1761527091,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1533798542,
+            "author": 9874148,
+            "stamp": 1761520073,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1533798288,
+            "author": 9874148,
+            "stamp": 1761520002,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 14,
+            "global_revision": 1533689392,
+            "author": 9874148,
+            "stamp": 1761489061,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1533689268,
+            "author": 9874148,
+            "stamp": 1761489025,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1533688105,
+            "author": 9874148,
+            "stamp": 1761488704,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1533687223,
+            "author": 9874148,
+            "stamp": 1761488461,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1533687019,
+            "author": 9874148,
+            "stamp": 1761488403,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1533685628,
+            "author": 9874148,
+            "stamp": 1761488034,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533685412,
+            "author": 9874148,
+            "stamp": 1761487976,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1533684363,
+            "author": 9874148,
+            "stamp": 1761487681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1533683813,
+            "author": 9874148,
+            "stamp": 1761487524,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533683720,
+            "author": 9874148,
+            "stamp": 1761487501,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533681201,
+            "author": 9874148,
+            "stamp": 1761486841,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533640311,
+            "author": 9874148,
+            "stamp": 1761474282,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533639767,
+            "author": 9874148,
+            "stamp": 1761474034,
+            "flags": "A",
+            "commentary": "已新增标签：持续更新。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533639194,
+            "author": 9874148,
+            "stamp": 1761473752,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533639081,
+            "author": 9874148,
+            "stamp": 1761473710,
+            "flags": "N",
+            "commentary": "事情的起因\n\n遏火部，一个被传播出长期拖延基金会员工工资且不把员工当人看的部门，甚至在一些情况下还不允许员工辞职离开等情况，虽然有道德伦理委员会和O5议会在帮忙消除其威胁性，但不可否认的是这个部门的又黑又沉的帽子是暂时拿不下来的，至少在那次事件发生前本应该可以拿下来的……\n\n那天，一次大规模的经济危机席卷全球，起初，基金会并未觉得经济危机能波及到各个站点，顶多是像site-19这种大规模异常收容失"
+        }
+    ],
+    "files": [],
+    "page_id": 1461159309,
+    "rating": -3,
+    "forum_thread": 17393813,
+    "tags": [
+        "dv",
+        "原创",
+        "持续更新",
+        "故事",
+        "遏火部"
+    ],
+    "title": "论遏火部为何招人恨",
+    "sitemap_update": 1764869230000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9785619,
+            false
+        ],
+        [
+            9092832,
+            false
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9888929,
+            false
+        ],
+        [
+            9808047,
+            false
+        ],
+        [
+            9762446,
+            false
+        ]
+    ],
+    "is_locked": false
+}

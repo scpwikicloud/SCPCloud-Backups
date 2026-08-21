@@ -1,0 +1,82 @@
+{
+    "name": "ccb-com-ccb",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539684233,
+            "author": 9524086,
+            "stamp": 1763391260,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539684160,
+            "author": 9524086,
+            "stamp": 1763391141,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, k向日葵, k向阳花, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539684138,
+            "author": 9524086,
+            "stamp": 1763391097,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466912760,
+    "rating": -5,
+    "forum_thread": 17451771,
+    "tags": [
+        "dv至上",
+        "k向日葵",
+        "k向阳花",
+        "原创",
+        "故事"
+    ],
+    "title": "操你妈的Dr.k的烤鸡巴",
+    "sitemap_update": 1763391260000,
+    "votings": [
+        [
+            9767729,
+            false
+        ],
+        [
+            8326735,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9701445,
+            false
+        ],
+        [
+            9851562,
+            false
+        ],
+        [
+            9316705,
+            true
+        ],
+        [
+            9524086,
+            false
+        ],
+        [
+            9884343,
+            true
+        ]
+    ],
+    "is_locked": false
+}

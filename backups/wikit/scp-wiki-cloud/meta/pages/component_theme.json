@@ -1,0 +1,335 @@
+{
+    "name": "component:theme",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 29,
+            "global_revision": 1540896682,
+            "author": 1899481,
+            "stamp": 1766415678,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1540896646,
+            "author": 1899481,
+            "stamp": 1766415534,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1540896390,
+            "author": 1899481,
+            "stamp": 1766414489,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1540895269,
+            "author": 1899481,
+            "stamp": 1766408524,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1540895246,
+            "author": 1899481,
+            "stamp": 1766408430,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1537797704,
+            "author": 6335947,
+            "stamp": 1762073652,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1537797469,
+            "author": 6335947,
+            "stamp": 1762073625,
+            "flags": "A",
+            "commentary": "已新增标签：基础, 管理。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1528133125,
+            "author": 7504264,
+            "stamp": 1740766239,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1528132819,
+            "author": 7504264,
+            "stamp": 1740764762,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1528057488,
+            "author": 6335947,
+            "stamp": 1740311101,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1528057486,
+            "author": 6335947,
+            "stamp": 1740311084,
+            "flags": "F",
+            "commentary": "已上传文件 “logo”。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1527968563,
+            "author": 6335947,
+            "stamp": 1740040348,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1527968532,
+            "author": 6335947,
+            "stamp": 1740040281,
+            "flags": "F",
+            "commentary": "已上传文件 “bg_classic”。"
+        },
+        {
+            "revision": 16,
+            "global_revision": 1527807313,
+            "author": 7504264,
+            "stamp": 1739594374,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1527807304,
+            "author": 7504264,
+            "stamp": 1739594340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1527807283,
+            "author": 7504264,
+            "stamp": 1739594225,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1527684731,
+            "author": 4142571,
+            "stamp": 1739091144,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 11"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1527684577,
+            "author": 9566878,
+            "stamp": 1739090562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1527650562,
+            "author": 6335947,
+            "stamp": 1738998466,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1527650553,
+            "author": 6335947,
+            "stamp": 1738998418,
+            "flags": "F",
+            "commentary": "已上传文件 “logo2.png”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1523111992,
+            "author": 5721026,
+            "stamp": 1721365384,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1521378415,
+            "author": 6452551,
+            "stamp": 1719904202,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1508410804,
+            "author": 6335947,
+            "stamp": 1678498501,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1508410795,
+            "author": 6335947,
+            "stamp": 1678498465,
+            "flags": "F",
+            "commentary": "已上传文件 “logo-cloud.png”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1508410787,
+            "author": 6335947,
+            "stamp": 1678498437,
+            "flags": "F",
+            "commentary": "已上传文件 “bg-blue.png”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1387291604,
+            "author": 5721026,
+            "stamp": 1638626516,
+            "flags": "F",
+            "commentary": "已上传文件 “logo.png”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1387291598,
+            "author": 5721026,
+            "stamp": 1638626494,
+            "flags": "F",
+            "commentary": "已删除附件 “logo.png”"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1387267638,
+            "author": 5721026,
+            "stamp": 1638519877,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1387267631,
+            "author": 5721026,
+            "stamp": 1638519842,
+            "flags": "F",
+            "commentary": "已上传文件 “logo.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1387267394,
+            "author": 6072093,
+            "stamp": 1638519076,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10345788,
+            "name": "bg-blue.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/component:theme/bg-blue.png",
+            "size": "9.52 kB (9752 Bytes)",
+            "size_bytes": 9752,
+            "mime": "image/png",
+            "content": "PNG image data, 100 x 400, 8-bit/color RGBA, non-interlaced",
+            "author": 6335947,
+            "stamp": 1678498437,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11330109,
+            "name": "bg_classic",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/component:theme/bg_classic",
+            "size": "7.85 kB (8042 Bytes)",
+            "size_bytes": 8042,
+            "mime": "image/png",
+            "content": "PNG image data, 100 x 400, 8-bit/color RGB, non-interlaced",
+            "author": 6335947,
+            "stamp": 1740040281,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11331906,
+            "name": "logo",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/component:theme/logo",
+            "size": "9.28 kB (9502 Bytes)",
+            "size_bytes": 9502,
+            "mime": "image/png",
+            "content": "PNG image data, 100 x 100, 8-bit/color RGBA, non-interlaced",
+            "author": 6335947,
+            "stamp": 1740311084,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11320766,
+            "name": "logo2.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/component:theme/logo2.png",
+            "size": "231.26 kB (236806 Bytes)",
+            "size_bytes": 236806,
+            "mime": "image/png",
+            "content": "PNG image data, 1019 x 1019, 8-bit/color RGBA, non-interlaced",
+            "author": 6335947,
+            "stamp": 1738998418,
+            "internal_version": 1
+        },
+        {
+            "file_id": 10345789,
+            "name": "logo-cloud.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/component:theme/logo-cloud.png",
+            "size": "541.97 kB (554980 Bytes)",
+            "size_bytes": 554980,
+            "mime": "image/png",
+            "content": "PNG image data, 1500 x 1500, 8-bit/color RGBA, non-interlaced",
+            "author": 6335947,
+            "stamp": 1678498465,
+            "internal_version": 1
+        },
+        {
+            "file_id": 9882426,
+            "name": "logo.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/component:theme/logo.png",
+            "size": "13.76 kB (14091 Bytes)",
+            "size_bytes": 14091,
+            "mime": "image/png",
+            "content": "PNG image data, 100 x 100, 8-bit/color RGBA, non-interlaced",
+            "author": 5721026,
+            "stamp": 1638626516,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1330800831,
+    "forum_thread": 14364638,
+    "tags": [
+        "基础",
+        "管理"
+    ],
+    "title": "版式",
+    "sitemap_update": 1766415678000,
+    "votings": [
+        [
+            9658212,
+            true
+        ]
+    ],
+    "is_locked": true
+}

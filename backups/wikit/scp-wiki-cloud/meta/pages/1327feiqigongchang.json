@@ -1,0 +1,46 @@
+{
+    "name": "1327feiqigongchang",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542091176,
+            "author": 5239463,
+            "stamp": 1771191573,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542086303,
+            "author": 5239463,
+            "stamp": 1771167786,
+            "flags": "A",
+            "commentary": "已新增标签：site-cl-203, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542086298,
+            "author": 5239463,
+            "stamp": 1771167770,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468132571,
+    "rating": 1,
+    "tags": [
+        "site-cl-203",
+        "故事"
+    ],
+    "title": "1327废弃工厂",
+    "sitemap_update": 1771191573000,
+    "votings": [
+        [
+            10317456,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,82 @@
+{
+    "name": "scp-cloud-270",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532617816,
+            "author": 9744617,
+            "stamp": 1759472549,
+            "flags": "A",
+            "commentary": "已新增标签：精x99。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532617664,
+            "author": 9744617,
+            "stamp": 1759471960,
+            "flags": "A",
+            "commentary": "已新增标签：euclid。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532617661,
+            "author": 9744617,
+            "stamp": 1759471944,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 精选哥, 群聊。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532617586,
+            "author": 9744617,
+            "stamp": 1759471773,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460482098,
+    "rating": 7,
+    "forum_thread": 17287566,
+    "tags": [
+        "euclid",
+        "scp",
+        "精x99",
+        "精选哥",
+        "群聊"
+    ],
+    "title": "Scp-Cloud-270",
+    "sitemap_update": 1759472549000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            8025226,
+            true
+        ],
+        [
+            9807377,
+            true
+        ],
+        [
+            9503739,
+            true
+        ],
+        [
+            9648085,
+            true
+        ],
+        [
+            9851562,
+            true
+        ],
+        [
+            9744617,
+            true
+        ]
+    ],
+    "is_locked": false
+}

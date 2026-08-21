@@ -1,0 +1,95 @@
+{
+    "name": "scp-cloud-2888",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1540821565,
+            "author": 9929144,
+            "stamp": 1766297140,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540821548,
+            "author": 9929144,
+            "stamp": 1766297119,
+            "flags": "A",
+            "commentary": "已新增标签：抽像宇宙。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540821501,
+            "author": 9929144,
+            "stamp": 1766297022,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp, 历史, 原创, 王八。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540821475,
+            "author": 9929144,
+            "stamp": 1766296980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540821417,
+            "author": 9929144,
+            "stamp": 1766296898,
+            "flags": "F",
+            "commentary": "已上传文件 “王八”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540821383,
+            "author": 9929144,
+            "stamp": 1766296825,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11705488,
+            "name": "王八",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2888/%E7%8E%8B%E5%85%AB",
+            "size": "107.17 kB (109744 Bytes)",
+            "size_bytes": 109744,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 800x800, components 3",
+            "author": 9929144,
+            "stamp": 1766296898,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467697261,
+    "rating": -3,
+    "tags": [
+        "dv至上",
+        "scp",
+        "历史",
+        "原创",
+        "抽像宇宙",
+        "王八"
+    ],
+    "title": "Scp-Cloud-2888 千年王八",
+    "sitemap_update": 1766297140000,
+    "votings": [
+        [
+            9321285,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

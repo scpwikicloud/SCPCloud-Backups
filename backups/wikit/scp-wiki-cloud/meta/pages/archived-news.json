@@ -1,0 +1,122 @@
+{
+    "name": "archived-news",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1539897392,
+            "author": 6335947,
+            "stamp": 1764052337,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1538192939,
+            "author": 6335947,
+            "stamp": 1762243256,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1537244419,
+            "author": 6335947,
+            "stamp": 1761986854,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1533102175,
+            "author": 6335947,
+            "stamp": 1760853475,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532345378,
+            "author": 6335947,
+            "stamp": 1758167575,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532330650,
+            "author": 6335947,
+            "stamp": 1758086177,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532330643,
+            "author": 6335947,
+            "stamp": 1758086126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527686243,
+            "author": 6335947,
+            "stamp": 1739099155,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1508333263,
+            "author": 6452551,
+            "stamp": 1678107140,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 新闻。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1508333248,
+            "author": 6452551,
+            "stamp": 1678107115,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508333238,
+            "author": 6452551,
+            "stamp": 1678107064,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1379794613,
+            "author": 7169775,
+            "stamp": 1633160760,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1324287455,
+    "forum_thread": 15802424,
+    "tags": [
+        "中心",
+        "新闻"
+    ],
+    "title": "旧新闻归档",
+    "sitemap_update": 1764052337000,
+    "votings": [
+        [
+            6452551,
+            true
+        ],
+        [
+            10280952,
+            false
+        ]
+    ],
+    "is_locked": false
+}

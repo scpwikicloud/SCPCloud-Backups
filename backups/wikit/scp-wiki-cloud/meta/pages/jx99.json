@@ -1,0 +1,84 @@
+{
+    "name": "jx99",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532618877,
+            "author": 9882204,
+            "stamp": 1759476097,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532616060,
+            "author": 9882204,
+            "stamp": 1759464725,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532607336,
+            "author": 9882204,
+            "stamp": 1759422773,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 精x99, 设定中心页。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532607333,
+            "author": 9882204,
+            "stamp": 1759422752,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460479483,
+    "forum_thread": 17283850,
+    "tags": [
+        "原创",
+        "故事",
+        "精x99",
+        "设定中心页"
+    ],
+    "title": "精X99兼屑精99中心页",
+    "sitemap_update": 1759476097000,
+    "votings": [
+        [
+            9323975,
+            false
+        ],
+        [
+            9656150,
+            false
+        ],
+        [
+            9648085,
+            false
+        ],
+        [
+            9851562,
+            false
+        ],
+        [
+            9834378,
+            false
+        ],
+        [
+            10453329,
+            false
+        ],
+        [
+            9877906,
+            false
+        ],
+        [
+            9808047,
+            false
+        ]
+    ],
+    "is_locked": false
+}

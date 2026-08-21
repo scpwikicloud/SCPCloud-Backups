@@ -1,0 +1,66 @@
+{
+    "name": "faker",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532996249,
+            "author": 8576655,
+            "stamp": 1760289695,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532996246,
+            "author": 8576655,
+            "stamp": 1760289683,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532996242,
+            "author": 8576655,
+            "stamp": 1760289665,
+            "flags": "A",
+            "commentary": "已新增标签：作者。 移除标签：作者页。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532996230,
+            "author": 8576655,
+            "stamp": 1760289592,
+            "flags": "A",
+            "commentary": "已新增标签：作者页, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532996224,
+            "author": 8576655,
+            "stamp": 1760289576,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460685001,
+    "forum_thread": 17579344,
+    "tags": [
+        "作者",
+        "原创"
+    ],
+    "title": "SKT T1俱乐部",
+    "sitemap_update": 1760289695000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9873610,
+            true
+        ]
+    ],
+    "is_locked": false
+}

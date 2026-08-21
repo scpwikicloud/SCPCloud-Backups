@@ -1,0 +1,86 @@
+{
+    "name": "hide:scp-cloud-1837",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532486460,
+            "author": 7535291,
+            "stamp": 1758879509,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"youlifeifeibo\" 至 \"hide:scp-cloud-1837\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1530259737,
+            "author": 9561469,
+            "stamp": 1748271918,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：001提案。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1530259735,
+            "author": 9561469,
+            "stamp": 1748271897,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1530259704,
+            "author": 9561469,
+            "stamp": 1748271659,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, dv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530259660,
+            "author": 9561469,
+            "stamp": 1748271309,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530259538,
+            "author": 9561469,
+            "stamp": 1748270657,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459733109,
+    "forum_thread": 17139220,
+    "tags": [
+        "dv至上",
+        "scp"
+    ],
+    "title": "SCP-CL-1837",
+    "sitemap_update": 1758879509000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            6335947,
+            false
+        ],
+        [
+            9561469,
+            false
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            9604211,
+            false
+        ]
+    ],
+    "is_locked": false
+}

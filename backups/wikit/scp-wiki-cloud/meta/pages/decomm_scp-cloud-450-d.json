@@ -1,0 +1,86 @@
+{
+    "name": "decomm:scp-cloud-450-d",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1527823536,
+            "author": 7535291,
+            "stamp": 1739651769,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"decomm:scp-cl-450-d\" 至 \"decomm:scp-cloud-450-d\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1508411613,
+            "author": 8305255,
+            "stamp": 1678502388,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"decomm:scp-cloud-450\" 至 \"decomm:scp-cl-450-d\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1508411462,
+            "author": 8305255,
+            "stamp": 1678501842,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cloud-450\" 至 \"decomm:scp-cloud-450\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1361855647,
+            "author": 6678040,
+            "stamp": 1616677761,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1361855644,
+            "author": 6678040,
+            "stamp": 1616677739,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1360470468,
+            "author": 6479225,
+            "stamp": 1615556487,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1360470352,
+            "author": 6479225,
+            "stamp": 1615555850,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1307195549,
+    "rating": -1,
+    "forum_thread": 14035053,
+    "tags": [
+        "scp"
+    ],
+    "title": "SCP-Cloud-450",
+    "sitemap_update": 1739651769000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            9831149,
+            false
+        ]
+    ],
+    "is_locked": false
+}

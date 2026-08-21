@@ -1,0 +1,76 @@
+{
+    "name": "about-scp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1311366911,
+            "author": 6329390,
+            "stamp": 1597378392,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1311366842,
+            "author": 6329390,
+            "stamp": 1597377862,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1311366792,
+            "author": 6329390,
+            "stamp": 1597377769,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311366753,
+            "author": 6329390,
+            "stamp": 1597377741,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 新人必看, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311366738,
+            "author": 6329390,
+            "stamp": 1597377642,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260793542,
+    "forum_thread": 13641081,
+    "tags": [
+        "指导",
+        "故事",
+        "新人必看",
+        "转载"
+    ],
+    "title": "关于SCP圈",
+    "sitemap_update": 1597378392000,
+    "votings": [
+        [
+            6104332,
+            false
+        ],
+        [
+            9655412,
+            false
+        ],
+        [
+            6243534,
+            false
+        ],
+        [
+            5967510,
+            false
+        ]
+    ],
+    "is_locked": false
+}

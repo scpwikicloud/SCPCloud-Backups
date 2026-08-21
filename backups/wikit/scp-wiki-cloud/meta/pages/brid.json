@@ -1,0 +1,75 @@
+{
+    "name": "brid",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531573136,
+            "author": 9682955,
+            "stamp": 1755233634,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531562189,
+            "author": 9682955,
+            "stamp": 1755173360,
+            "flags": "A",
+            "commentary": "移除标签：letters娱乐。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531562173,
+            "author": 9682955,
+            "stamp": 1755173294,
+            "flags": "A",
+            "commentary": "已新增标签：letters娱乐, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531562166,
+            "author": 9682955,
+            "stamp": 1755173262,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460060790,
+    "rating": -4,
+    "forum_thread": 17232483,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "这不是我想要的游戏！😡",
+    "sitemap_update": 1755233634000,
+    "votings": [
+        [
+            9795890,
+            false
+        ],
+        [
+            9789899,
+            false
+        ],
+        [
+            9843992,
+            true
+        ],
+        [
+            7744997,
+            false
+        ],
+        [
+            9469192,
+            false
+        ],
+        [
+            9808047,
+            false
+        ]
+    ],
+    "is_locked": false
+}

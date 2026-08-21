@@ -1,0 +1,43 @@
+{
+    "name": "scp-cn-xxxw",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1542123302,
+            "author": 9786309,
+            "stamp": 1771335959,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 这是啥啊。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542122871,
+            "author": 9786309,
+            "stamp": 1771334570,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468141562,
+    "rating": 0,
+    "tags": [
+        "scp",
+        "原创",
+        "这是啥啊"
+    ],
+    "title": "Scp Cn Xxxw",
+    "sitemap_update": 1771335959000,
+    "votings": [
+        [
+            10486976,
+            true
+        ],
+        [
+            9786309,
+            false
+        ]
+    ],
+    "is_locked": false
+}

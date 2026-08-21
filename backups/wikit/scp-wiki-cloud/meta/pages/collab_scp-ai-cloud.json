@@ -1,0 +1,75 @@
+{
+    "name": "collab:scp-ai-cloud",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542043894,
+            "author": 5239463,
+            "stamp": 1770955653,
+            "flags": "A",
+            "commentary": "已新增标签：ai, dv至上, 中心。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542043847,
+            "author": 5239463,
+            "stamp": 1770955543,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"collab:scp-series-cloud-ai\" 至 \"collab:scp-ai-cloud\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542043791,
+            "author": 5239463,
+            "stamp": 1770955403,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542043725,
+            "author": 5239463,
+            "stamp": 1770955250,
+            "flags": "A",
+            "commentary": "已新增标签：dv。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542043694,
+            "author": 5239463,
+            "stamp": 1770955179,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542043668,
+            "author": 5239463,
+            "stamp": 1770955113,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468124711,
+    "tags": [
+        "ai",
+        "dv",
+        "dv至上",
+        "中心"
+    ],
+    "title": "SCP-CLOUD-AI系列",
+    "sitemap_update": 1770955653000,
+    "votings": [
+        [
+            5239463,
+            false
+        ],
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

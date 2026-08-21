@@ -1,0 +1,46 @@
+{
+    "name": "deleted:deleted:scp-cloudsl-1499",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531549202,
+            "author": 9822173,
+            "stamp": 1755103052,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:scp-cloud-1499\" 至 \"deleted:deleted:scp-cloudsl-1499\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531549192,
+            "author": 9822173,
+            "stamp": 1755103018,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cloud-1499\" 至 \"deleted:scp-cloud-1499\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531549159,
+            "author": 9822173,
+            "stamp": 1755102958,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460057599,
+    "rating": 2,
+    "title": "SCP-1499-回声",
+    "sitemap_update": 1755103052000,
+    "votings": [
+        [
+            9656880,
+            true
+        ],
+        [
+            9822173,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,57 @@
+{
+    "name": "cirno",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1533071815,
+            "author": 9512973,
+            "stamp": 1760717878,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533071795,
+            "author": 9512973,
+            "stamp": 1760717734,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, 云分, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533071773,
+            "author": 9512973,
+            "stamp": 1760717684,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460708297,
+    "rating": -3,
+    "forum_thread": 17408724,
+    "tags": [
+        "2025整活大赛",
+        "dv至上",
+        "云分",
+        "原创"
+    ],
+    "title": "三天之内统治云分………先写个报告吧！",
+    "sitemap_update": 1760717878000,
+    "votings": [
+        [
+            9746831,
+            false
+        ],
+        [
+            9891444,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

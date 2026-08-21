@@ -1,0 +1,65 @@
+{
+    "name": "galaxy-battlefield",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541354627,
+            "author": 9884343,
+            "stamp": 1768123686,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541353117,
+            "author": 9884343,
+            "stamp": 1768115640,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541353105,
+            "author": 9884343,
+            "stamp": 1768115593,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541350284,
+            "author": 9884343,
+            "stamp": 1768098505,
+            "flags": "A",
+            "commentary": "已新增标签：k级情形, 故事, 无月之夜, 精神恐怖, 身体恐怖。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541350282,
+            "author": 9884343,
+            "stamp": 1768098460,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467987677,
+    "forum_thread": 17961373,
+    "tags": [
+        "k级情形",
+        "故事",
+        "无月之夜",
+        "精神恐怖",
+        "身体恐怖"
+    ],
+    "title": "银河战区，但是无月之夜",
+    "sitemap_update": 1768123686000,
+    "votings": [
+        [
+            10252500,
+            false
+        ]
+    ],
+    "is_locked": false
+}

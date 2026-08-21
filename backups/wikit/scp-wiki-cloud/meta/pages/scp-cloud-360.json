@@ -1,0 +1,80 @@
+{
+    "name": "scp-cloud-360",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532702411,
+            "author": 9581894,
+            "stamp": 1759727198,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532665172,
+            "author": 9581894,
+            "stamp": 1759580829,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, ⭐压抑了。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532665130,
+            "author": 9581894,
+            "stamp": 1759580791,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532664950,
+            "author": 9581894,
+            "stamp": 1759580646,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460487976,
+    "rating": -7,
+    "forum_thread": 17296353,
+    "tags": [
+        "2025整活大赛",
+        "dv至上",
+        "⭐压抑了"
+    ],
+    "title": "SCP-Cloud-我压抑了，就这样",
+    "sitemap_update": 1759727198000,
+    "votings": [
+        [
+            9731145,
+            false
+        ],
+        [
+            9807377,
+            false
+        ],
+        [
+            9314093,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9648085,
+            false
+        ],
+        [
+            9845769,
+            false
+        ],
+        [
+            9324413,
+            false
+        ]
+    ],
+    "is_locked": false
+}

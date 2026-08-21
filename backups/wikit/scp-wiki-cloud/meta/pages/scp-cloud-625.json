@@ -1,0 +1,53 @@
+{
+    "name": "scp-cloud-625",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532556632,
+            "author": 7894380,
+            "stamp": 1759224099,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, dv至上, 木棍, 逆模因。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532556601,
+            "author": 7894380,
+            "stamp": 1759224006,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460467947,
+    "rating": 0,
+    "forum_thread": 17268324,
+    "tags": [
+        "2025整活大赛",
+        "dv至上",
+        "木棍",
+        "逆模因"
+    ],
+    "title": "SCP-CLOUD-625",
+    "sitemap_update": 1759224099000,
+    "votings": [
+        [
+            9731169,
+            true
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            6970860,
+            true
+        ],
+        [
+            9058493,
+            false
+        ]
+    ],
+    "is_locked": false
+}

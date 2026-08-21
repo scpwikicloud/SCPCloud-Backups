@@ -1,0 +1,51 @@
+{
+    "name": "scp-cloud-414",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542673949,
+            "author": 9797808,
+            "stamp": 1773553121,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542673923,
+            "author": 9797808,
+            "stamp": 1773553021,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542673888,
+            "author": 9797808,
+            "stamp": 1773552895,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468264106,
+    "rating": 2,
+    "forum_thread": 17770256,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-414",
+    "sitemap_update": 1773553121000,
+    "votings": [
+        [
+            9929144,
+            true
+        ],
+        [
+            9851562,
+            true
+        ]
+    ],
+    "is_locked": false
+}

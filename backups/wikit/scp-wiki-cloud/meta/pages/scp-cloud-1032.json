@@ -1,0 +1,167 @@
+{
+    "name": "scp-cloud-1032",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1532268330,
+            "author": 9734672,
+            "stamp": 1757761773,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532268292,
+            "author": 9734672,
+            "stamp": 1757761562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532268276,
+            "author": 9734672,
+            "stamp": 1757761422,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532268228,
+            "author": 9734672,
+            "stamp": 1757761147,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532268179,
+            "author": 9734672,
+            "stamp": 1757760855,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532267598,
+            "author": 9734672,
+            "stamp": 1757758317,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532267390,
+            "author": 9734672,
+            "stamp": 1757757493,
+            "flags": "A",
+            "commentary": "已新增标签：钢管至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532267386,
+            "author": 9734672,
+            "stamp": 1757757471,
+            "flags": "A",
+            "commentary": "已新增标签：钢管。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532267363,
+            "author": 9734672,
+            "stamp": 1757757372,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532267359,
+            "author": 9734672,
+            "stamp": 1757757349,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_20250913_175535.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532267349,
+            "author": 9734672,
+            "stamp": 1757757290,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11464182,
+            "name": "Screenshot_20250913_175535.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1032/Screenshot_20250913_175535.jpg",
+            "size": "33.53 kB (34332 Bytes)",
+            "size_bytes": 34332,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2025:09:13 17:55:17, width=624], baseline, precision 8, 624x960, components 3",
+            "author": 9734672,
+            "stamp": 1757757349,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460389822,
+    "forum_thread": 17246741,
+    "tags": [
+        "钢管",
+        "钢管至上"
+    ],
+    "title": "Scp Cloud 1032",
+    "sitemap_update": 1757761773000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            9807377,
+            false
+        ],
+        [
+            9556991,
+            false
+        ],
+        [
+            9753183,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9787956,
+            false
+        ],
+        [
+            9419393,
+            false
+        ],
+        [
+            9648085,
+            false
+        ],
+        [
+            9851562,
+            false
+        ],
+        [
+            8563031,
+            false
+        ],
+        [
+            9834378,
+            false
+        ],
+        [
+            9664546,
+            false
+        ]
+    ],
+    "is_locked": false
+}

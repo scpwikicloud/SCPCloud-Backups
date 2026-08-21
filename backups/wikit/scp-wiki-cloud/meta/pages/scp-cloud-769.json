@@ -1,0 +1,106 @@
+{
+    "name": "scp-cloud-769",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1507012968,
+            "author": 8305255,
+            "stamp": 1674872631,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1506640891,
+            "author": 8305255,
+            "stamp": 1674110563,
+            "flags": "A",
+            "commentary": "已新增标签：area-cloud-51, euclid, scp, 自up, 认知危害。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1506640867,
+            "author": 8305255,
+            "stamp": 1674110419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1506640829,
+            "author": 8305255,
+            "stamp": 1674110255,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1506640662,
+            "author": 8305255,
+            "stamp": 1674109543,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1506640488,
+            "author": 8305255,
+            "stamp": 1674108822,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1506639789,
+            "author": 8305255,
+            "stamp": 1674106896,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1506639688,
+            "author": 8305255,
+            "stamp": 1674106373,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1445529779,
+    "rating": 5,
+    "forum_thread": 15545771,
+    "tags": [
+        "area-cloud-51",
+        "euclid",
+        "scp",
+        "自up",
+        "认知危害"
+    ],
+    "title": "SCP-CLOUD-769",
+    "sitemap_update": 1674872631000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            8301877,
+            true
+        ],
+        [
+            8390984,
+            true
+        ],
+        [
+            8437582,
+            true
+        ],
+        [
+            9826164,
+            true
+        ]
+    ],
+    "is_locked": false
+}

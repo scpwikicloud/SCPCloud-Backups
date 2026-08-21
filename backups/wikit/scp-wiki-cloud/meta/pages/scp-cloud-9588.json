@@ -1,0 +1,63 @@
+{
+    "name": "scp-cloud-9588",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532924099,
+            "author": 9321285,
+            "stamp": 1760093333,
+            "flags": "A",
+            "commentary": "已新增标签：dv。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532852391,
+            "author": 9901082,
+            "stamp": 1759925078,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532845361,
+            "author": 9901082,
+            "stamp": 1759902844,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532845333,
+            "author": 9901082,
+            "stamp": 1759902652,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460604622,
+    "rating": 3,
+    "forum_thread": 17322237,
+    "tags": [
+        "2025整活大赛",
+        "dv"
+    ],
+    "title": "SCP- CLOUD-9588",
+    "sitemap_update": 1760093333000,
+    "votings": [
+        [
+            9321285,
+            true
+        ],
+        [
+            9443485,
+            true
+        ],
+        [
+            9901082,
+            true
+        ]
+    ],
+    "is_locked": false
+}

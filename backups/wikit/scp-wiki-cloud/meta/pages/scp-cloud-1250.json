@@ -1,0 +1,90 @@
+{
+    "name": "scp-cloud-1250",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1539151160,
+            "author": 8062332,
+            "stamp": 1762615639,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532137419,
+            "author": 8062332,
+            "stamp": 1757088518,
+            "flags": "A",
+            "commentary": "已新增标签：他们真的只是站的太密集了。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532137231,
+            "author": 8062332,
+            "stamp": 1757088346,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532136867,
+            "author": 8062332,
+            "stamp": 1757087869,
+            "flags": "T",
+            "commentary": "混沌射手"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532136759,
+            "author": 8062332,
+            "stamp": 1757087714,
+            "flags": "N",
+            "commentary": "他们只是站的太密集了"
+        }
+    ],
+    "files": [],
+    "page_id": 1460343414,
+    "rating": 2,
+    "forum_thread": 17238733,
+    "tags": [
+        "他们真的只是站的太密集了"
+    ],
+    "title": "Scp-Cloud-1250",
+    "sitemap_update": 1762615639000,
+    "votings": [
+        [
+            9884789,
+            true
+        ],
+        [
+            9774173,
+            true
+        ],
+        [
+            9326464,
+            true
+        ],
+        [
+            9909183,
+            false
+        ],
+        [
+            9805864,
+            true
+        ],
+        [
+            9820730,
+            true
+        ],
+        [
+            8062332,
+            false
+        ],
+        [
+            9491856,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,76 @@
+{
+    "name": "scp-cloud-1024",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532386672,
+            "author": 9869257,
+            "stamp": 1758370317,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 无效化, 正常。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532384407,
+            "author": 9869257,
+            "stamp": 1758361697,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532384219,
+            "author": 9869257,
+            "stamp": 1758360740,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532384193,
+            "author": 9869257,
+            "stamp": 1758360584,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532384183,
+            "author": 9869257,
+            "stamp": 1758360525,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532384167,
+            "author": 9869257,
+            "stamp": 1758360472,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460422357,
+    "rating": -2,
+    "tags": [
+        "scp",
+        "原创",
+        "无效化",
+        "正常"
+    ],
+    "title": "SCP-CLOUD-1024",
+    "sitemap_update": 1758370317000,
+    "votings": [
+        [
+            9321285,
+            false
+        ],
+        [
+            9770950,
+            false
+        ]
+    ],
+    "is_locked": false
+}

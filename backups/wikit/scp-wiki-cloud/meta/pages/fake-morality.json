@@ -1,0 +1,99 @@
+{
+    "name": "fake-morality",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541313717,
+            "author": 9772664,
+            "stamp": 1767876552,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541313103,
+            "author": 9772664,
+            "stamp": 1767873293,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541312697,
+            "author": 9772664,
+            "stamp": 1767870350,
+            "flags": "A",
+            "commentary": "已新增标签：dddd, dv。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541312692,
+            "author": 9772664,
+            "stamp": 1767870325,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541312672,
+            "author": 9772664,
+            "stamp": 1767870175,
+            "flags": "A",
+            "commentary": "已新增标签：不严肃, 严肃吗, 傻逼, 原创, 哎呀我操你妈的, 散文, 老抽, 💩💩💩💩💩💩💩💩💩。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541312626,
+            "author": 9772664,
+            "stamp": 1767870122,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541312616,
+            "author": 9772664,
+            "stamp": 1767870081,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467977931,
+    "rating": -4,
+    "tags": [
+        "dddd",
+        "dv",
+        "不严肃",
+        "严肃吗",
+        "傻逼",
+        "原创",
+        "哎呀我操你妈的",
+        "故事",
+        "散文",
+        "老抽",
+        "💩💩💩💩💩💩💩💩💩"
+    ],
+    "title": "伪德",
+    "sitemap_update": 1767876552000,
+    "votings": [
+        [
+            9746831,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            8683267,
+            false
+        ],
+        [
+            8393776,
+            false
+        ]
+    ],
+    "is_locked": false
+}

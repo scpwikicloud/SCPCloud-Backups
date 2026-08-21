@@ -1,0 +1,50 @@
+{
+    "name": "scp-cloud-226",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532686658,
+            "author": 9792384,
+            "stamp": 1759665087,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532686623,
+            "author": 9792384,
+            "stamp": 1759664943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532686605,
+            "author": 9792384,
+            "stamp": 1759664857,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460493623,
+    "forum_thread": 17303416,
+    "title": "SCP-CLOUD-226-死亡笔记",
+    "sitemap_update": 1759665087000,
+    "votings": [
+        [
+            9792384,
+            true
+        ],
+        [
+            7742495,
+            false
+        ],
+        [
+            9760380,
+            false
+        ]
+    ],
+    "is_locked": false
+}

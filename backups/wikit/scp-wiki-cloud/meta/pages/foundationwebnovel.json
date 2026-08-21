@@ -1,0 +1,165 @@
+{
+    "name": "foundationwebnovel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1523669553,
+            "author": 6452551,
+            "stamp": 1723608009,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1523637104,
+            "author": 7308956,
+            "stamp": 1723481657,
+            "flags": "F",
+            "commentary": "已上传文件 “shit.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1523637099,
+            "author": 7308956,
+            "stamp": 1723481632,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523637010,
+            "author": 7308956,
+            "stamp": 1723480924,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 机动特遣队。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523637007,
+            "author": 7308956,
+            "stamp": 1723480887,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11150639,
+            "name": "shit.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/foundationwebnovel/shit.png",
+            "size": "2.5 kB (2562 Bytes)",
+            "size_bytes": 2562,
+            "mime": "image/png",
+            "content": "PNG image data, 131 x 55, 8-bit/color RGBA, non-interlaced",
+            "author": 7308956,
+            "stamp": 1723481657,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1456179025,
+    "rating": -23,
+    "forum_thread": 16906082,
+    "tags": [
+        "原创",
+        "故事",
+        "机动特遣队"
+    ],
+    "title": "操你妈番茄小说你妈死了",
+    "sitemap_update": 1723608009000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            7318709,
+            false
+        ],
+        [
+            9556346,
+            false
+        ],
+        [
+            9331062,
+            false
+        ],
+        [
+            9544715,
+            false
+        ],
+        [
+            9078494,
+            false
+        ],
+        [
+            9110822,
+            false
+        ],
+        [
+            8979477,
+            false
+        ],
+        [
+            7700936,
+            false
+        ],
+        [
+            10127469,
+            false
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            9458014,
+            false
+        ],
+        [
+            8998982,
+            false
+        ],
+        [
+            9534743,
+            false
+        ],
+        [
+            9552436,
+            false
+        ],
+        [
+            8366274,
+            false
+        ],
+        [
+            9313547,
+            false
+        ],
+        [
+            9319317,
+            false
+        ],
+        [
+            9189284,
+            false
+        ],
+        [
+            8393776,
+            false
+        ],
+        [
+            4374910,
+            false
+        ],
+        [
+            8821362,
+            false
+        ],
+        [
+            9000320,
+            false
+        ]
+    ],
+    "is_locked": false
+}

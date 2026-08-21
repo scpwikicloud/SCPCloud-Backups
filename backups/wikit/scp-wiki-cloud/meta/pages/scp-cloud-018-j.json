@@ -1,0 +1,54 @@
+{
+    "name": "scp-cloud-018-j",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539132356,
+            "author": 9863989,
+            "stamp": 1762547814,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539129538,
+            "author": 9863989,
+            "stamp": 1762533279,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539129511,
+            "author": 9863989,
+            "stamp": 1762533150,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466491062,
+    "forum_thread": 17438139,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-018-J-唐凯申",
+    "sitemap_update": 1762547814000,
+    "votings": [
+        [
+            9926967,
+            true
+        ],
+        [
+            8683675,
+            true
+        ],
+        [
+            9863989,
+            true
+        ]
+    ],
+    "is_locked": false
+}

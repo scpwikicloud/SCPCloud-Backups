@@ -1,0 +1,98 @@
+{
+    "name": "wanderers-library-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1542189148,
+            "author": 8724347,
+            "stamp": 1771658421,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542189055,
+            "author": 8724347,
+            "stamp": 1771658080,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542189024,
+            "author": 8724347,
+            "stamp": 1771657967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542189003,
+            "author": 8724347,
+            "stamp": 1771657757,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542188973,
+            "author": 8724347,
+            "stamp": 1771657579,
+            "flags": "A",
+            "commentary": "已新增标签：wanderers, 中心, 图书馆, 搬运, 被放逐者之图书馆, 被放逐者图书馆。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542188952,
+            "author": 8724347,
+            "stamp": 1771657490,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542188782,
+            "author": 8724347,
+            "stamp": 1771657114,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468156006,
+    "forum_thread": 17592928,
+    "tags": [
+        "wanderers",
+        "中心",
+        "图书馆",
+        "搬运",
+        "被放逐者之图书馆",
+        "被放逐者图书馆"
+    ],
+    "title": "被放逐者之图书馆中心页",
+    "sitemap_update": 1771658421000,
+    "votings": [
+        [
+            9630520,
+            true
+        ],
+        [
+            9458014,
+            true
+        ],
+        [
+            8893555,
+            true
+        ],
+        [
+            10191883,
+            true
+        ],
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

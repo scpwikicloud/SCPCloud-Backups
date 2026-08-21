@@ -1,0 +1,54 @@
+{
+    "name": "scp-cloud-504",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542327133,
+            "author": 10224512,
+            "stamp": 1772172362,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542326211,
+            "author": 10224512,
+            "stamp": 1772168207,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, qu, scp, 原创, 🐛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542326205,
+            "author": 10224512,
+            "stamp": 1772168160,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468180213,
+    "rating": -2,
+    "forum_thread": 17596354,
+    "tags": [
+        "dv至上",
+        "qu",
+        "scp",
+        "原创",
+        "🐛"
+    ],
+    "title": "SCP-CLOUD-504",
+    "sitemap_update": 1772172362000,
+    "votings": [
+        [
+            10224512,
+            false
+        ],
+        [
+            9786309,
+            false
+        ]
+    ],
+    "is_locked": false
+}

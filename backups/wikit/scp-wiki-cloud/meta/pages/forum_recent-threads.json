@@ -1,0 +1,87 @@
+{
+    "name": "forum:recent-threads",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1537796458,
+            "author": 6335947,
+            "stamp": 1762073463,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532385802,
+            "author": 6335947,
+            "stamp": 1758367481,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532385716,
+            "author": 6335947,
+            "stamp": 1758367232,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532385706,
+            "author": 6335947,
+            "stamp": 1758367178,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 3"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532385686,
+            "author": 6335947,
+            "stamp": 1758367084,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532283254,
+            "author": 6335947,
+            "stamp": 1757830299,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532283251,
+            "author": 6335947,
+            "stamp": 1757830283,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532283240,
+            "author": 6335947,
+            "stamp": 1757830242,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532283234,
+            "author": 6335947,
+            "stamp": 1757830215,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460392879,
+    "tags": [
+        "管理"
+    ],
+    "title": "最近讨论串",
+    "sitemap_update": 1762073463000,
+    "votings": [],
+    "is_locked": false
+}

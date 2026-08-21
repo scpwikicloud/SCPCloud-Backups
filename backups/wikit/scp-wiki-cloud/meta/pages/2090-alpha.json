@@ -1,0 +1,55 @@
+{
+    "name": "2090-alpha",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543440311,
+            "author": 8820972,
+            "stamp": 1776595076,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543440003,
+            "author": 8820972,
+            "stamp": 1776594147,
+            "flags": "A",
+            "commentary": "已新增标签：uv, 事故记录, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543439993,
+            "author": 8820972,
+            "stamp": 1776594118,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468528155,
+    "rating": 1,
+    "tags": [
+        "uv",
+        "事故记录",
+        "故事"
+    ],
+    "title": "事故2090-ALPHA",
+    "sitemap_update": 1776595076000,
+    "votings": [
+        [
+            9929144,
+            true
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            8820972,
+            true
+        ]
+    ],
+    "is_locked": false
+}

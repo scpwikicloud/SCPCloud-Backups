@@ -1,0 +1,47 @@
+{
+    "name": "scp-cloud-230",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532387526,
+            "author": 9877518,
+            "stamp": 1758372970,
+            "flags": "A",
+            "commentary": "已新增标签：dv, o5-3, 猎奇。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532387523,
+            "author": 9877518,
+            "stamp": 1758372958,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460423180,
+    "forum_thread": 17587777,
+    "tags": [
+        "dv",
+        "o5-3",
+        "猎奇"
+    ],
+    "title": "喵喵喵",
+    "sitemap_update": 1758372970000,
+    "votings": [
+        [
+            9897237,
+            false
+        ],
+        [
+            10179253,
+            true
+        ],
+        [
+            9880884,
+            true
+        ]
+    ],
+    "is_locked": false
+}

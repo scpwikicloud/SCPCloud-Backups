@@ -1,0 +1,70 @@
+{
+    "name": "duchenglai",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542331039,
+            "author": 8287166,
+            "stamp": 1772188003,
+            "flags": "S",
+            "commentary": "基金会世界观中没有定义官方货币，因此使用”贡献点“作为货币；后来浏览文档发现“云币”这一概念，但未替换完整，在这里完成替换。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542331012,
+            "author": 8287166,
+            "stamp": 1772187853,
+            "flags": "A",
+            "commentary": "已新增标签：dv, 原创, 搞笑, 故事, 杜承来, 猎奇。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542331001,
+            "author": 8287166,
+            "stamp": 1772187790,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468181728,
+    "forum_thread": 17596970,
+    "tags": [
+        "dv",
+        "原创",
+        "搞笑",
+        "故事",
+        "杜承来",
+        "猎奇"
+    ],
+    "title": "杜承来",
+    "sitemap_update": 1772188003000,
+    "votings": [
+        [
+            9850438,
+            false
+        ],
+        [
+            10259910,
+            false
+        ],
+        [
+            9851562,
+            false
+        ],
+        [
+            9786309,
+            false
+        ],
+        [
+            8393776,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

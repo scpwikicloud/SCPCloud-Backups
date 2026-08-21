@@ -1,0 +1,67 @@
+{
+    "name": "rot",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1540630308,
+            "author": 9524814,
+            "stamp": 1765812718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540618556,
+            "author": 9524814,
+            "stamp": 1765729646,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540618541,
+            "author": 9524814,
+            "stamp": 1765729560,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 食堂。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540618532,
+            "author": 9524814,
+            "stamp": 1765729491,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467564014,
+    "rating": 2,
+    "forum_thread": 17490598,
+    "tags": [
+        "故事",
+        "食堂"
+    ],
+    "title": "学校食堂",
+    "sitemap_update": 1765812718000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            10043108,
+            false
+        ],
+        [
+            9027941,
+            true
+        ],
+        [
+            9884343,
+            true
+        ]
+    ],
+    "is_locked": false
+}

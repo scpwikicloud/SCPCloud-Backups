@@ -1,0 +1,94 @@
+{
+    "name": "stoneblock",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1542081121,
+            "author": 9874148,
+            "stamp": 1771146396,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 诱骗石墩子。 移除标签：诱骗。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542080985,
+            "author": 9874148,
+            "stamp": 1771145724,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542080820,
+            "author": 9874148,
+            "stamp": 1771145312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542080812,
+            "author": 9874148,
+            "stamp": 1771145284,
+            "flags": "A",
+            "commentary": "已新增标签：o5-7, scp-cloud-739-j, uasdd, 原创, 收容石墩子, 故事, 石墩子, 诱骗。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542080806,
+            "author": 9874148,
+            "stamp": 1771145209,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542080793,
+            "author": 9874148,
+            "stamp": 1771145169,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468131472,
+    "rating": 5,
+    "forum_thread": 17589392,
+    "tags": [
+        "o5-7",
+        "scp-cloud-739-j",
+        "uasdd",
+        "uv至上",
+        "原创",
+        "收容石墩子",
+        "故事",
+        "石墩子",
+        "诱骗石墩子"
+    ],
+    "title": "石墩子收容计划(看后不笑视为石墩子)",
+    "sitemap_update": 1771146396000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            10179253,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            10132138,
+            true
+        ],
+        [
+            9874148,
+            true
+        ]
+    ],
+    "is_locked": false
+}

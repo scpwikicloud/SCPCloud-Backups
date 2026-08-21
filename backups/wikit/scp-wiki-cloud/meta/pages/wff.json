@@ -1,0 +1,87 @@
+{
+    "name": "wff",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531660335,
+            "author": 9808047,
+            "stamp": 1755669660,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531572247,
+            "author": 9808047,
+            "stamp": 1755225880,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531572241,
+            "author": 9808047,
+            "stamp": 1755225845,
+            "flags": "A",
+            "commentary": "已新增标签：中心页, 论战基金会, 设定中心。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531572236,
+            "author": 9808047,
+            "stamp": 1755225818,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531572113,
+            "author": 9808047,
+            "stamp": 1755225300,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460062706,
+    "forum_thread": 17213380,
+    "tags": [
+        "中心页",
+        "论战基金会",
+        "设定中心"
+    ],
+    "title": "汪峰在中心页",
+    "sitemap_update": 1755669660000,
+    "votings": [
+        [
+            9834998,
+            true
+        ],
+        [
+            9877206,
+            false
+        ],
+        [
+            6336380,
+            true
+        ],
+        [
+            5949539,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9007460,
+            false
+        ],
+        [
+            10252500,
+            false
+        ]
+    ],
+    "is_locked": false
+}

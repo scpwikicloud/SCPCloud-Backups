@@ -1,0 +1,87 @@
+{
+    "name": "theme:cloud",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532217563,
+            "author": 6335947,
+            "stamp": 1757492345,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532217519,
+            "author": 6335947,
+            "stamp": 1757491700,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532217512,
+            "author": 6335947,
+            "stamp": 1757491644,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532217485,
+            "author": 6335947,
+            "stamp": 1757491534,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 版式。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532217481,
+            "author": 6335947,
+            "stamp": 1757491506,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532217477,
+            "author": 6335947,
+            "stamp": 1757491487,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460372298,
+    "rating": 5,
+    "forum_thread": 17243664,
+    "tags": [
+        "原创",
+        "版式"
+    ],
+    "title": "云国分部 版式",
+    "sitemap_update": 1757492345000,
+    "votings": [
+        [
+            9321285,
+            true
+        ],
+        [
+            10297811,
+            true
+        ],
+        [
+            8745360,
+            true
+        ],
+        [
+            9491856,
+            true
+        ],
+        [
+            9851514,
+            true
+        ]
+    ],
+    "is_locked": false
+}

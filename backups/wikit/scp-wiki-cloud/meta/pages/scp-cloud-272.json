@@ -1,0 +1,39 @@
+{
+    "name": "scp-cloud-272",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539474670,
+            "author": 10139052,
+            "stamp": 1763145263,
+            "flags": "A",
+            "commentary": "已新增标签：哲学, 梦幻, 治愈。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539474660,
+            "author": 10139052,
+            "stamp": 1763145242,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466748414,
+    "rating": 1,
+    "tags": [
+        "哲学",
+        "梦幻",
+        "治愈"
+    ],
+    "title": "Scp Cloud 272",
+    "sitemap_update": 1763145263000,
+    "votings": [
+        [
+            10139052,
+            true
+        ]
+    ],
+    "is_locked": false
+}

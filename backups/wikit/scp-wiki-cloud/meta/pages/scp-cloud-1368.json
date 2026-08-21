@@ -1,0 +1,54 @@
+{
+    "name": "scp-cloud-1368",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1361855650,
+            "author": 6678040,
+            "stamp": 1616677776,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1360483673,
+            "author": 6479225,
+            "stamp": 1615621424,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1307199051,
+    "rating": 5,
+    "forum_thread": 14027585,
+    "tags": [
+        "scp"
+    ],
+    "title": "SCP-Cloud-1368 应天府",
+    "sitemap_update": 1616677776000,
+    "votings": [
+        [
+            6326265,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            7265000,
+            true
+        ],
+        [
+            6264399,
+            true
+        ],
+        [
+            9826164,
+            true
+        ]
+    ],
+    "is_locked": false
+}

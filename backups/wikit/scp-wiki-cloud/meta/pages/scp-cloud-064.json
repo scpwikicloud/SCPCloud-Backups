@@ -1,0 +1,158 @@
+{
+    "name": "scp-cloud-064",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1531604474,
+            "author": 9650794,
+            "stamp": 1755392165,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531536219,
+            "author": 9650794,
+            "stamp": 1755076533,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531535758,
+            "author": 9650794,
+            "stamp": 1755075845,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531535750,
+            "author": 9650794,
+            "stamp": 1755075826,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531059854,
+            "author": 9650794,
+            "stamp": 1752821385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531059848,
+            "author": 9650794,
+            "stamp": 1752821354,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531059841,
+            "author": 9650794,
+            "stamp": 1752821317,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1530478057,
+            "author": 9650794,
+            "stamp": 1749732885,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1529872740,
+            "author": 9650794,
+            "stamp": 1746236302,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1529842280,
+            "author": 9650794,
+            "stamp": 1746100703,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1529842176,
+            "author": 9650794,
+            "stamp": 1746100343,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1529842085,
+            "author": 9650794,
+            "stamp": 1746100099,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1529841994,
+            "author": 9650794,
+            "stamp": 1746099660,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529411070,
+            "author": 9650794,
+            "stamp": 1745061567,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529410951,
+            "author": 9650794,
+            "stamp": 1745061138,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529410934,
+            "author": 9650794,
+            "stamp": 1745060992,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529410931,
+            "author": 9650794,
+            "stamp": 1745060973,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459284682,
+    "rating": 2,
+    "title": "SCP-Cloud-064",
+    "sitemap_update": 1755392165000,
+    "votings": [
+        [
+            9650794,
+            true
+        ],
+        [
+            10243250,
+            true
+        ]
+    ],
+    "is_locked": false
+}

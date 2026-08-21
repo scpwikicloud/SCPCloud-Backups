@@ -1,0 +1,470 @@
+{
+    "name": "scp-cloud-760",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 52,
+            "global_revision": 1542485799,
+            "author": 7972286,
+            "stamp": 1772895683,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1542485747,
+            "author": 7972286,
+            "stamp": 1772895467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 50,
+            "global_revision": 1542485314,
+            "author": 7972286,
+            "stamp": 1772894040,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1542485088,
+            "author": 7972286,
+            "stamp": 1772893670,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1542484895,
+            "author": 7972286,
+            "stamp": 1772893379,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1542474142,
+            "author": 7972286,
+            "stamp": 1772854165,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 38"
+        },
+        {
+            "revision": 46,
+            "global_revision": 1542474134,
+            "author": 7972286,
+            "stamp": 1772854114,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1542474129,
+            "author": 7972286,
+            "stamp": 1772854085,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1542474121,
+            "author": 7972286,
+            "stamp": 1772854018,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1542474114,
+            "author": 7972286,
+            "stamp": 1772853982,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1542474098,
+            "author": 7972286,
+            "stamp": 1772853911,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1542474090,
+            "author": 7972286,
+            "stamp": 1772853854,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1542474077,
+            "author": 7972286,
+            "stamp": 1772853792,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 38"
+        },
+        {
+            "revision": 39,
+            "global_revision": 1542474014,
+            "author": 7972286,
+            "stamp": 1772853696,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1542472283,
+            "author": 7972286,
+            "stamp": 1772849090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1542364037,
+            "author": 7972286,
+            "stamp": 1772350445,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1542364029,
+            "author": 7972286,
+            "stamp": 1772350420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1542363967,
+            "author": 7972286,
+            "stamp": 1772350233,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 34,
+            "global_revision": 1542352129,
+            "author": 7972286,
+            "stamp": 1772290006,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1542351750,
+            "author": 7972286,
+            "stamp": 1772288759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1542351647,
+            "author": 7972286,
+            "stamp": 1772288443,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1542351628,
+            "author": 7972286,
+            "stamp": 1772288360,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1542351615,
+            "author": 7972286,
+            "stamp": 1772288310,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1542351599,
+            "author": 7972286,
+            "stamp": 1772288245,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1542351588,
+            "author": 7972286,
+            "stamp": 1772288212,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1542351542,
+            "author": 7972286,
+            "stamp": 1772288060,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1542351535,
+            "author": 7972286,
+            "stamp": 1772288017,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1542351527,
+            "author": 7972286,
+            "stamp": 1772287990,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1542351514,
+            "author": 7972286,
+            "stamp": 1772287961,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1542351508,
+            "author": 7972286,
+            "stamp": 1772287938,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1542351420,
+            "author": 7972286,
+            "stamp": 1772287674,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1542351410,
+            "author": 7972286,
+            "stamp": 1772287603,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1542351244,
+            "author": 7972286,
+            "stamp": 1772287172,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1542351193,
+            "author": 7972286,
+            "stamp": 1772286965,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1542351131,
+            "author": 7972286,
+            "stamp": 1772286839,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1542350555,
+            "author": 7972286,
+            "stamp": 1772284819,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1542350493,
+            "author": 7972286,
+            "stamp": 1772284607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1542350289,
+            "author": 7972286,
+            "stamp": 1772283669,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1542350019,
+            "author": 7972286,
+            "stamp": 1772283023,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1542350004,
+            "author": 7972286,
+            "stamp": 1772282984,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1542349994,
+            "author": 7972286,
+            "stamp": 1772282945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1542349939,
+            "author": 7972286,
+            "stamp": 1772282691,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1542349585,
+            "author": 7972286,
+            "stamp": 1772280950,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542349550,
+            "author": 7972286,
+            "stamp": 1772280782,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542346116,
+            "author": 7972286,
+            "stamp": 1772265959,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542346114,
+            "author": 7972286,
+            "stamp": 1772265936,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542345737,
+            "author": 7972286,
+            "stamp": 1772264141,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542345682,
+            "author": 7972286,
+            "stamp": 1772263837,
+            "flags": "A",
+            "commentary": "已新增标签：feather, 原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542345674,
+            "author": 7972286,
+            "stamp": 1772263780,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542345663,
+            "author": 7972286,
+            "stamp": 1772263741,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542345657,
+            "author": 7972286,
+            "stamp": 1772263716,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542345649,
+            "author": 7972286,
+            "stamp": 1772263689,
+            "flags": "F",
+            "commentary": "已上传文件 “KCORP”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542345624,
+            "author": 7972286,
+            "stamp": 1772263577,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11750509,
+            "name": "KCORP",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-760/KCORP",
+            "size": "533.67 kB (546474 Bytes)",
+            "size_bytes": 546474,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 2796x2098, components 3",
+            "author": 7972286,
+            "stamp": 1772263690,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468184487,
+    "rating": 3,
+    "forum_thread": 17598505,
+    "tags": [
+        "feather",
+        "scp",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-Cloud-760",
+    "sitemap_update": 1772895683000,
+    "votings": [
+        [
+            10222876,
+            true
+        ],
+        [
+            8191614,
+            true
+        ],
+        [
+            9851562,
+            true
+        ]
+    ],
+    "is_locked": false
+}

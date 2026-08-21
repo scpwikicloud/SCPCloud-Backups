@@ -1,0 +1,154 @@
+{
+    "name": "mascot",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1539141398,
+            "author": 6335947,
+            "stamp": 1762584032,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539141390,
+            "author": 6335947,
+            "stamp": 1762583989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1537145580,
+            "author": 6335947,
+            "stamp": 1761974788,
+            "flags": "F",
+            "commentary": "文件 “CD6F38C2713B99A1E6DC03996F2F6F00.png” 已重新命名为 “xiaoyunniang”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1537145342,
+            "author": 6335947,
+            "stamp": 1761974756,
+            "flags": "F",
+            "commentary": "已上传文件 “CD6F38C2713B99A1E6DC03996F2F6F00.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537141766,
+            "author": 6335947,
+            "stamp": 1761974218,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1537141042,
+            "author": 6335947,
+            "stamp": 1761974121,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11603031,
+            "name": "xiaoyunniang",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/mascot/xiaoyunniang",
+            "size": "660 kB (675840 Bytes)",
+            "size_bytes": 675840,
+            "mime": "image/png",
+            "content": "PNG image data, 836 x 1254, 8-bit/color RGB, non-interlaced",
+            "author": 6335947,
+            "stamp": 1761974756,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1464595899,
+    "forum_thread": 17416833,
+    "tags": [
+        "管理"
+    ],
+    "title": "云分吉祥物",
+    "sitemap_update": 1762584032000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            9861411,
+            true
+        ],
+        [
+            9556991,
+            true
+        ],
+        [
+            10243250,
+            true
+        ],
+        [
+            9895423,
+            true
+        ],
+        [
+            8426220,
+            true
+        ],
+        [
+            10229626,
+            true
+        ],
+        [
+            8683675,
+            true
+        ],
+        [
+            8546623,
+            true
+        ],
+        [
+            9903651,
+            true
+        ],
+        [
+            9893641,
+            true
+        ],
+        [
+            8285797,
+            true
+        ],
+        [
+            9583871,
+            true
+        ],
+        [
+            9843915,
+            true
+        ],
+        [
+            9862467,
+            true
+        ],
+        [
+            10453329,
+            true
+        ],
+        [
+            10211565,
+            true
+        ],
+        [
+            9881554,
+            true
+        ],
+        [
+            9888929,
+            true
+        ]
+    ],
+    "is_locked": false
+}

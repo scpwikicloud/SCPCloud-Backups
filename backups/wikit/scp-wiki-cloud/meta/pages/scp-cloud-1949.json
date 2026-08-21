@@ -1,0 +1,79 @@
+{
+    "name": "scp-cloud-1949",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541149603,
+            "author": 9884343,
+            "stamp": 1766902839,
+            "flags": "A",
+            "commentary": "已新增标签：uv。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541113162,
+            "author": 9884343,
+            "stamp": 1766839854,
+            "flags": "A",
+            "commentary": "已新增标签：被废除。 移除标签：decommissioned。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541113150,
+            "author": 9884343,
+            "stamp": 1766839838,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541113123,
+            "author": 9884343,
+            "stamp": 1766839796,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541113073,
+            "author": 9884343,
+            "stamp": 1766839700,
+            "flags": "A",
+            "commentary": "已新增标签：decommissioned, dr.blake, dr.williams, scp, 乐子, 苦命鸳鸯。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541113052,
+            "author": 9884343,
+            "stamp": 1766839666,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467909179,
+    "forum_thread": 17563836,
+    "tags": [
+        "dr.blake",
+        "dr.williams",
+        "scp",
+        "uv",
+        "乐子",
+        "苦命鸳鸯",
+        "被废除"
+    ],
+    "title": "SCP-Cloud-1949",
+    "sitemap_update": 1766902839000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            9904616,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,56 @@
+{
+    "name": "shoelace-insurgency",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541239093,
+            "author": 8724347,
+            "stamp": 1767414931,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541238447,
+            "author": 8724347,
+            "stamp": 1767411839,
+            "flags": "A",
+            "commentary": "已新增标签：混沌分裂者, 鞋子, 鞋教。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541238443,
+            "author": 8724347,
+            "stamp": 1767411809,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467957609,
+    "forum_thread": 17513926,
+    "tags": [
+        "故事",
+        "混沌分裂者",
+        "鞋子",
+        "鞋教"
+    ],
+    "title": "鞋带开裂者",
+    "sitemap_update": 1767414931000,
+    "votings": [
+        [
+            9799674,
+            true
+        ],
+        [
+            10156507,
+            true
+        ],
+        [
+            8393776,
+            true
+        ]
+    ],
+    "is_locked": false
+}

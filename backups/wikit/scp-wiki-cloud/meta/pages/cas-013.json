@@ -1,0 +1,43 @@
+{
+    "name": "cas-013",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542121719,
+            "author": 9929144,
+            "stamp": 1771330132,
+            "flags": "A",
+            "commentary": "已新增标签：cas, 异学会, 抽像宇宙, 搬运。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542121714,
+            "author": 9929144,
+            "stamp": 1771330108,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542121706,
+            "author": 9929144,
+            "stamp": 1771330079,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468141308,
+    "rating": 0,
+    "tags": [
+        "cas",
+        "异学会",
+        "抽像宇宙",
+        "搬运"
+    ],
+    "title": "CAS-013",
+    "sitemap_update": 1771330132000,
+    "votings": [],
+    "is_locked": false
+}

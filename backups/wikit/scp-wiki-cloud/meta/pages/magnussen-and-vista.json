@@ -1,0 +1,65 @@
+{
+    "name": "magnussen-and-vista",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1540296482,
+            "author": 9884343,
+            "stamp": 1764995721,
+            "flags": "A",
+            "commentary": "已新增标签：故事。 移除标签：小甜文。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540272384,
+            "author": 9884343,
+            "stamp": 1764945268,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540272361,
+            "author": 9884343,
+            "stamp": 1764945229,
+            "flags": "A",
+            "commentary": "已新增标签：magnussen特工, mv99, vista特工, 小甜文, 非cp向。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540272316,
+            "author": 9884343,
+            "stamp": 1764945133,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467331929,
+    "rating": 3,
+    "tags": [
+        "magnussen特工",
+        "mv99",
+        "vista特工",
+        "故事",
+        "非cp向"
+    ],
+    "title": "Magnussen特工与Vista特工的共处一室之夜",
+    "sitemap_update": 1764995721000,
+    "votings": [
+        [
+            9760248,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            9669498,
+            true
+        ]
+    ],
+    "is_locked": false
+}

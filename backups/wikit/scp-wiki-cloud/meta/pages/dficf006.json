@@ -1,0 +1,44 @@
+{
+    "name": "dficf006",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531525378,
+            "author": 9822126,
+            "stamp": 1755052398,
+            "flags": "A",
+            "commentary": "已新增标签：dficfscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531525367,
+            "author": 9822126,
+            "stamp": 1755052344,
+            "flags": "N",
+            "commentary": "把改进意见写评论里吧"
+        }
+    ],
+    "files": [],
+    "page_id": 1460043148,
+    "tags": [
+        "dficfscp"
+    ],
+    "title": "DFICF006：██先生的故事与笑话",
+    "sitemap_update": 1755052398000,
+    "votings": [
+        [
+            9731145,
+            false
+        ],
+        [
+            9656880,
+            true
+        ],
+        [
+            9822126,
+            true
+        ]
+    ],
+    "is_locked": false
+}

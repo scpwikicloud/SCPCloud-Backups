@@ -1,0 +1,118 @@
+{
+    "name": "collab:scpf-real-history",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532936496,
+            "author": 9701202,
+            "stamp": 1760149850,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532931530,
+            "author": 9701202,
+            "stamp": 1760116696,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532931391,
+            "author": 9701202,
+            "stamp": 1760116145,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scpf-real-history\" 至 \"collab:scpf-real-history\"."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532927991,
+            "author": 9701202,
+            "stamp": 1760111430,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532924559,
+            "author": 9701202,
+            "stamp": 1760096293,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532905178,
+            "author": 9701202,
+            "stamp": 1760079074,
+            "flags": "A",
+            "commentary": "已新增标签：scp基金会社群历史, 中心, 搬运, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532905087,
+            "author": 9701202,
+            "stamp": 1760079028,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460641834,
+    "rating": 10,
+    "forum_thread": 17329375,
+    "tags": [
+        "scp基金会社群历史",
+        "中心",
+        "原创",
+        "搬运",
+        "翻译"
+    ],
+    "title": "SCP基金会社群现实历史中心页",
+    "sitemap_update": 1760149850000,
+    "votings": [
+        [
+            9731145,
+            true
+        ],
+        [
+            9655412,
+            true
+        ],
+        [
+            4733003,
+            true
+        ],
+        [
+            7990749,
+            true
+        ],
+        [
+            9795890,
+            true
+        ],
+        [
+            9701445,
+            true
+        ],
+        [
+            8893555,
+            true
+        ],
+        [
+            9648085,
+            true
+        ],
+        [
+            8109382,
+            true
+        ],
+        [
+            7009447,
+            true
+        ]
+    ],
+    "is_locked": false
+}

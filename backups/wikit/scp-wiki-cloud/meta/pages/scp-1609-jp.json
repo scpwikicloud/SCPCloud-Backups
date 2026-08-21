@@ -1,0 +1,84 @@
+{
+    "name": "scp-1609-jp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1533120370,
+            "author": 9819793,
+            "stamp": 1760936417,
+            "flags": "A",
+            "commentary": "已新增标签：厄尔玛外教, 帝国, 搬运, 翻译, 酩酊街。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532552777,
+            "author": 9819793,
+            "stamp": 1759201480,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532552765,
+            "author": 9819793,
+            "stamp": 1759201442,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, jp, scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532552754,
+            "author": 9819793,
+            "stamp": 1759201389,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532552750,
+            "author": 9819793,
+            "stamp": 1759201374,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460466988,
+    "forum_thread": 17272550,
+    "tags": [
+        "euclid",
+        "jp",
+        "scp",
+        "厄尔玛外教",
+        "帝国",
+        "搬运",
+        "翻译",
+        "酩酊街"
+    ],
+    "title": "SCP-1609-JP",
+    "sitemap_update": 1760936417000,
+    "votings": [
+        [
+            9807377,
+            true
+        ],
+        [
+            9656150,
+            true
+        ],
+        [
+            9819793,
+            true
+        ],
+        [
+            9503739,
+            true
+        ],
+        [
+            9648085,
+            true
+        ]
+    ],
+    "is_locked": false
+}

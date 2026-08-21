@@ -1,0 +1,68 @@
+{
+    "name": "scp-cloud-1950",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541114074,
+            "author": 9884343,
+            "stamp": 1766841373,
+            "flags": "A",
+            "commentary": "已新增标签：无月之夜。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541112912,
+            "author": 9884343,
+            "stamp": 1766839431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541112855,
+            "author": 9884343,
+            "stamp": 1766839337,
+            "flags": "A",
+            "commentary": "已新增标签：2026短文竞赛, 2026短文重盾, archon, scp, site-132, 人工智能, 现实扭曲。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541112827,
+            "author": 9884343,
+            "stamp": 1766839295,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541112816,
+            "author": 9884343,
+            "stamp": 1766839275,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467909012,
+    "forum_thread": 17502107,
+    "tags": [
+        "2026短文竞赛",
+        "2026短文重盾",
+        "archon",
+        "scp",
+        "site-132",
+        "人工智能",
+        "无月之夜",
+        "现实扭曲"
+    ],
+    "title": "SCP-Cloud-1950",
+    "sitemap_update": 1766841373000,
+    "votings": [
+        [
+            9874148,
+            true
+        ]
+    ],
+    "is_locked": false
+}

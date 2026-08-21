@@ -1,0 +1,223 @@
+{
+    "name": "scp-cloud-1946",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1541492208,
+            "author": 9929144,
+            "stamp": 1768877768,
+            "flags": "A",
+            "commentary": "已新增标签：十一之死。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1541452679,
+            "author": 9929144,
+            "stamp": 1768693558,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1541335478,
+            "author": 9929144,
+            "stamp": 1768009930,
+            "flags": "A",
+            "commentary": "已新增标签：抽像宇宙。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1541335415,
+            "author": 9929144,
+            "stamp": 1768009795,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv至上, 人工智能, 宇宙海星, 机械, 模因, 混乱圈, 计算机, 进化, 迭代, 顶点多功能实体。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1541335396,
+            "author": 9929144,
+            "stamp": 1768009693,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541335391,
+            "author": 9929144,
+            "stamp": 1768009678,
+            "flags": "F",
+            "commentary": "已上传文件 “6”。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541335386,
+            "author": 9929144,
+            "stamp": 1768009654,
+            "flags": "F",
+            "commentary": "已上传文件 “5”。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541335377,
+            "author": 9929144,
+            "stamp": 1768009630,
+            "flags": "F",
+            "commentary": "已上传文件 “4”。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541335373,
+            "author": 9929144,
+            "stamp": 1768009606,
+            "flags": "F",
+            "commentary": "已上传文件 “3”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541335371,
+            "author": 9929144,
+            "stamp": 1768009585,
+            "flags": "F",
+            "commentary": "已删除文件 “1767603280661.jpeg”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541335361,
+            "author": 9929144,
+            "stamp": 1768009530,
+            "flags": "F",
+            "commentary": "已上传文件 “1767603280661.jpeg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541335354,
+            "author": 9929144,
+            "stamp": 1768009486,
+            "flags": "F",
+            "commentary": "已上传文件 “2”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541335348,
+            "author": 9929144,
+            "stamp": 1768009437,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541335342,
+            "author": 9929144,
+            "stamp": 1768009401,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11716791,
+            "name": "1",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1946/1",
+            "size": "146.72 kB (150241 Bytes)",
+            "size_bytes": 150241,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 1200x896, components 3",
+            "author": 9929144,
+            "stamp": 1768009437,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11716792,
+            "name": "2",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1946/2",
+            "size": "36 kB (36864 Bytes)",
+            "size_bytes": 36864,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 800x501, components 3",
+            "author": 9929144,
+            "stamp": 1768009486,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11716794,
+            "name": "3",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1946/3",
+            "size": "699.76 kB (716553 Bytes)",
+            "size_bytes": 716553,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, Exif Standard: , baseline, precision 8, 2048x2731, components 3",
+            "author": 9929144,
+            "stamp": 1768009606,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11716795,
+            "name": "4",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1946/4",
+            "size": "1.32 MB (1382492 Bytes)",
+            "size_bytes": 1382492,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2026:01:06 11:04:53, width=0], baseline, precision 8, 2048x2048, components 3",
+            "author": 9929144,
+            "stamp": 1768009630,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11716796,
+            "name": "5",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1946/5",
+            "size": "944.7 kB (967371 Bytes)",
+            "size_bytes": 967371,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2026:01:06 11:10:42, width=0], baseline, precision 8, 2048x2048, components 3",
+            "author": 9929144,
+            "stamp": 1768009654,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11716797,
+            "name": "6",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1946/6",
+            "size": "1.29 MB (1352160 Bytes)",
+            "size_bytes": 1352160,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2026:01:06 14:59:42, width=0], baseline, precision 8, 2048x2048, components 3",
+            "author": 9929144,
+            "stamp": 1768009678,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467984422,
+    "rating": 2,
+    "tags": [
+        "scp",
+        "uv至上",
+        "人工智能",
+        "十一之死",
+        "原创",
+        "宇宙海星",
+        "抽像宇宙",
+        "机械",
+        "模因",
+        "混乱圈",
+        "计算机",
+        "进化",
+        "迭代",
+        "顶点多功能实体"
+    ],
+    "title": "Scp-Cloud-1946 ENIAC",
+    "sitemap_update": 1768877768000,
+    "votings": [
+        [
+            9929144,
+            true
+        ],
+        [
+            9491856,
+            true
+        ]
+    ],
+    "is_locked": false
+}

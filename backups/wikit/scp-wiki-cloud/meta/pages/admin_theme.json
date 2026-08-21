@@ -1,0 +1,39 @@
+{
+    "name": "admin:theme",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540550713,
+            "author": 6335947,
+            "stamp": 1765519736,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540550244,
+            "author": 6335947,
+            "stamp": 1765518915,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540550220,
+            "author": 6335947,
+            "stamp": 1765518879,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467522260,
+    "tags": [
+        "管理"
+    ],
+    "title": "节日版式",
+    "sitemap_update": 1765519736000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,81 @@
+{
+    "name": "glydh",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543768333,
+            "author": 9767729,
+            "stamp": 1778082612,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。 移除标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543768323,
+            "author": 9767729,
+            "stamp": 1778082550,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543768316,
+            "author": 9767729,
+            "stamp": 1778082526,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543768219,
+            "author": 9767729,
+            "stamp": 1778082115,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 故事, 整活。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543768214,
+            "author": 9767729,
+            "stamp": 1778082101,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468623815,
+    "rating": -5,
+    "forum_thread": 17857233,
+    "tags": [
+        "dv至上",
+        "搬运",
+        "故事",
+        "整活"
+    ],
+    "title": "管理员的话（完整版）",
+    "sitemap_update": 1778082612000,
+    "votings": [
+        [
+            9533373,
+            false
+        ],
+        [
+            9767729,
+            false
+        ],
+        [
+            10138896,
+            false
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            9877906,
+            false
+        ]
+    ],
+    "is_locked": false
+}

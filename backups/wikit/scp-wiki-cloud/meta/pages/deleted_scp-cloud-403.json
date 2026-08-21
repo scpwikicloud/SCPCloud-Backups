@@ -1,0 +1,49 @@
+{
+    "name": "deleted:scp-cloud-403",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531440492,
+            "author": 9532434,
+            "stamp": 1754637600,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cloud-403\" 至 \"deleted:scp-cloud-403\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531432579,
+            "author": 9532434,
+            "stamp": 1754596589,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531432571,
+            "author": 9532434,
+            "stamp": 1754596556,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531432536,
+            "author": 9532434,
+            "stamp": 1754596360,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460017398,
+    "title": "SCP-Cloud-403 拒绝访问",
+    "sitemap_update": 1754637600000,
+    "votings": [
+        [
+            9007460,
+            false
+        ]
+    ],
+    "is_locked": false
+}

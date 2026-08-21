@@ -1,0 +1,39 @@
+{
+    "name": "most-recently-transferred",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1537747077,
+            "author": 6335947,
+            "stamp": 1762066012,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537744616,
+            "author": 6335947,
+            "stamp": 1762065617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532900235,
+            "author": 6335947,
+            "stamp": 1760076244,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460637423,
+    "tags": [
+        "管理"
+    ],
+    "title": "最近新增的搬运页面",
+    "sitemap_update": 1762066012000,
+    "votings": [],
+    "is_locked": false
+}

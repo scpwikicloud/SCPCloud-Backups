@@ -1,0 +1,48 @@
+{
+    "name": "scp-cloud-898",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1542297467,
+            "author": 10219588,
+            "stamp": 1772015525,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542297012,
+            "author": 10219588,
+            "stamp": 1772013979,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 模因。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542296997,
+            "author": 10219588,
+            "stamp": 1772013928,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468174748,
+    "rating": 1,
+    "forum_thread": 17596421,
+    "tags": [
+        "scp",
+        "原创",
+        "模因"
+    ],
+    "title": "SCP-CLOUD-898",
+    "sitemap_update": 1772015525000,
+    "votings": [
+        [
+            9491856,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,123 @@
+{
+    "name": "ggggggggg",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1538850480,
+            "author": 7465847,
+            "stamp": 1762408788,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 转载。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533049557,
+            "author": 7465847,
+            "stamp": 1760601124,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 界外繁华。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533049541,
+            "author": 7465847,
+            "stamp": 1760601017,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20251016154944.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533049537,
+            "author": 7465847,
+            "stamp": 1760601004,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20251016154940.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533049520,
+            "author": 7465847,
+            "stamp": 1760600902,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11494330,
+            "name": "QQ图片20251016154940.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/ggggggggg/QQ%E5%9B%BE%E7%89%8720251016154940.png",
+            "size": "674.59 kB (690780 Bytes)",
+            "size_bytes": 690780,
+            "mime": "image/png",
+            "content": "PNG image data, 1438 x 4620, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1760601004,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11494331,
+            "name": "QQ图片20251016154944.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/ggggggggg/QQ%E5%9B%BE%E7%89%8720251016154944.png",
+            "size": "350.57 kB (358983 Bytes)",
+            "size_bytes": 358983,
+            "mime": "image/png",
+            "content": "PNG image data, 1356 x 2656, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1760601017,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460701614,
+    "rating": 9,
+    "forum_thread": 17353480,
+    "tags": [
+        "中分存档",
+        "原创",
+        "故事",
+        "界外繁华",
+        "转载"
+    ],
+    "title": "我何以不参加中分4k竞赛",
+    "sitemap_update": 1762408788000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            6335947,
+            true
+        ],
+        [
+            9655412,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            9581894,
+            true
+        ],
+        [
+            9683410,
+            true
+        ],
+        [
+            9909183,
+            true
+        ],
+        [
+            9873701,
+            true
+        ]
+    ],
+    "is_locked": false
+}

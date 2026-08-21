@@ -1,0 +1,65 @@
+{
+    "name": "scp-cloud-004-ex",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543749276,
+            "author": 9767729,
+            "stamp": 1777985578,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543701025,
+            "author": 9767729,
+            "stamp": 1777818702,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 故事, 整活。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543700989,
+            "author": 9767729,
+            "stamp": 1777818578,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543700978,
+            "author": 9767729,
+            "stamp": 1777818543,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468609431,
+    "rating": -1,
+    "forum_thread": 17843571,
+    "tags": [
+        "dv至上",
+        "scp",
+        "原创",
+        "整活"
+    ],
+    "title": "SCP-Cloud-004-EX 神奇的伤疤",
+    "sitemap_update": 1777985578000,
+    "votings": [
+        [
+            9767729,
+            false
+        ],
+        [
+            10138896,
+            false
+        ],
+        [
+            10252500,
+            true
+        ]
+    ],
+    "is_locked": false
+}

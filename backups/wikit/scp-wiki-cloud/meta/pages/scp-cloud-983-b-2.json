@@ -1,0 +1,286 @@
+{
+    "name": "scp-cloud-983-b-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 26,
+            "global_revision": 1541651582,
+            "author": 9531329,
+            "stamp": 1769655249,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1533111707,
+            "author": 9531329,
+            "stamp": 1760888709,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1533111697,
+            "author": 9531329,
+            "stamp": 1760888685,
+            "flags": "F",
+            "commentary": "已上传文件 “O5-3”。"
+        },
+        {
+            "revision": 23,
+            "global_revision": 1533111680,
+            "author": 9531329,
+            "stamp": 1760888609,
+            "flags": "F",
+            "commentary": "已删除文件 “O5-3”。"
+        },
+        {
+            "revision": 22,
+            "global_revision": 1533111675,
+            "author": 9531329,
+            "stamp": 1760888593,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1532989081,
+            "author": 9531329,
+            "stamp": 1760261133,
+            "flags": "F",
+            "commentary": "已上传文件 “O5-3”。"
+        },
+        {
+            "revision": 20,
+            "global_revision": 1532989075,
+            "author": 9531329,
+            "stamp": 1760261106,
+            "flags": "F",
+            "commentary": "已删除文件 “O5-3”。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1532988482,
+            "author": 9531329,
+            "stamp": 1760258678,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1532988466,
+            "author": 9531329,
+            "stamp": 1760258608,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1532988362,
+            "author": 9531329,
+            "stamp": 1760258336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1532988342,
+            "author": 9531329,
+            "stamp": 1760258227,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1532988309,
+            "author": 9531329,
+            "stamp": 1760258082,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1532988251,
+            "author": 9531329,
+            "stamp": 1760258010,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1532988240,
+            "author": 9531329,
+            "stamp": 1760257978,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1532988160,
+            "author": 9531329,
+            "stamp": 1760257600,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1532976342,
+            "author": 9531329,
+            "stamp": 1760247186,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532975469,
+            "author": 9531329,
+            "stamp": 1760246467,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532975383,
+            "author": 9531329,
+            "stamp": 1760246400,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532975247,
+            "author": 9531329,
+            "stamp": 1760246280,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532975200,
+            "author": 9531329,
+            "stamp": 1760246244,
+            "flags": "A",
+            "commentary": "已新增标签：5000, o5-3, scp, uv至上, 原创。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532975118,
+            "author": 9531329,
+            "stamp": 1760246169,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532975003,
+            "author": 9531329,
+            "stamp": 1760246069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532974923,
+            "author": 9531329,
+            "stamp": 1760246002,
+            "flags": "F",
+            "commentary": "已上传文件 “叛变的九尾狐部队”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532974870,
+            "author": 9531329,
+            "stamp": 1760245955,
+            "flags": "F",
+            "commentary": "文件 “IMG_20251012_112309.png” 已重新命名为 “O5-3”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532974838,
+            "author": 9531329,
+            "stamp": 1760245929,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251012_112309.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532974776,
+            "author": 9531329,
+            "stamp": 1760245873,
+            "flags": "F",
+            "commentary": "已上传文件 “格鲁乌-混沌”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532974713,
+            "author": 9531329,
+            "stamp": 1760245821,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11497067,
+            "name": "O5-3",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-983-b-2/O5-3",
+            "size": "696.09 kB (712792 Bytes)",
+            "size_bytes": 712792,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1591x1440, components 3",
+            "author": 9531329,
+            "stamp": 1760888685,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11491236,
+            "name": "叛变的九尾狐部队",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-983-b-2/%E5%8F%9B%E5%8F%98%E7%9A%84%E4%B9%9D%E5%B0%BE%E7%8B%90%E9%83%A8%E9%98%9F",
+            "size": "4.96 MB (5199171 Bytes)",
+            "size_bytes": 5199171,
+            "mime": "image/png",
+            "content": "PNG image data, 2364 x 1639, 8-bit/color RGBA, non-interlaced",
+            "author": 9531329,
+            "stamp": 1760246003,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11491234,
+            "name": "格鲁乌-混沌",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-983-b-2/%E6%A0%BC%E9%B2%81%E4%B9%8C-%E6%B7%B7%E6%B2%8C",
+            "size": "3.97 MB (4165621 Bytes)",
+            "size_bytes": 4165621,
+            "mime": "image/png",
+            "content": "PNG image data, 2730 x 1384, 8-bit/color RGBA, non-interlaced",
+            "author": 9531329,
+            "stamp": 1760245874,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460682840,
+    "rating": 3,
+    "tags": [
+        "5000",
+        "o5-3",
+        "scp",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-Cloud-983-B-2",
+    "sitemap_update": 1769655249000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            9869060,
+            true
+        ]
+    ],
+    "is_locked": false
+}

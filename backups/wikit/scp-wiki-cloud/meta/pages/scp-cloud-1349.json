@@ -1,0 +1,84 @@
+{
+    "name": "scp-cloud-1349",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532596304,
+            "author": 9672430,
+            "stamp": 1759386545,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532596277,
+            "author": 9672430,
+            "stamp": 1759386419,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532596271,
+            "author": 9672430,
+            "stamp": 1759386394,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, dv至上, keter, k级情景, scp, 原创, 感知影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532596238,
+            "author": 9672430,
+            "stamp": 1759386290,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460477104,
+    "rating": 5,
+    "forum_thread": 17280741,
+    "tags": [
+        "2025整活大赛",
+        "dv至上",
+        "keter",
+        "k级情景",
+        "scp",
+        "原创",
+        "感知影响"
+    ],
+    "title": "SCP-CLOUD-1349",
+    "sitemap_update": 1759386545000,
+    "votings": [
+        [
+            9859027,
+            true
+        ],
+        [
+            9622470,
+            false
+        ],
+        [
+            9321285,
+            true
+        ],
+        [
+            9785619,
+            true
+        ],
+        [
+            9839189,
+            true
+        ],
+        [
+            9655412,
+            true
+        ],
+        [
+            9731169,
+            true
+        ]
+    ],
+    "is_locked": false
+}

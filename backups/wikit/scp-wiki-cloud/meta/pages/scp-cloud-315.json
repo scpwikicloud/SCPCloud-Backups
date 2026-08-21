@@ -1,0 +1,38 @@
+{
+    "name": "scp-cloud-315",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539678091,
+            "author": 10139052,
+            "stamp": 1763380651,
+            "flags": "A",
+            "commentary": "已新增标签：实验档案, 惊悚。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539678071,
+            "author": 10139052,
+            "stamp": 1763380614,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466908321,
+    "rating": 1,
+    "tags": [
+        "实验档案",
+        "惊悚"
+    ],
+    "title": "Scp Cloud 315",
+    "sitemap_update": 1763380651000,
+    "votings": [
+        [
+            10139052,
+            true
+        ]
+    ],
+    "is_locked": false
+}

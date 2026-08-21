@@ -1,0 +1,48 @@
+{
+    "name": "scp-cn-4021-arc",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543668699,
+            "author": 6452551,
+            "stamp": 1777691574,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541370889,
+            "author": 8393776,
+            "stamp": 1768225572,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp, 何意味, 搬运, 瞧啊，是崭新的赛博琥珀！, 神风, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541370880,
+            "author": 8393776,
+            "stamp": 1768225522,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467993339,
+    "rating": 0,
+    "forum_thread": 17566694,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "何意味",
+        "搬运",
+        "瞧啊，是崭新的赛博琥珀！",
+        "神风",
+        "神风文归档"
+    ],
+    "title": "SCP-CN-4021",
+    "sitemap_update": 1777691574000,
+    "votings": [],
+    "is_locked": false
+}

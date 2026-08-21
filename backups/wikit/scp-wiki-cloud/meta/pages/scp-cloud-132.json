@@ -1,0 +1,73 @@
+{
+    "name": "scp-cloud-132",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1509984007,
+            "author": 8374681,
+            "stamp": 1683082373,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1509975152,
+            "author": 8374681,
+            "stamp": 1683033751,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1509974947,
+            "author": 8374681,
+            "stamp": 1683033146,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1509974938,
+            "author": 8374681,
+            "stamp": 1683033132,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1509973190,
+            "author": 8374681,
+            "stamp": 1683026799,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1447599374,
+    "rating": -1,
+    "forum_thread": 15840696,
+    "tags": [
+        "dv至上",
+        "scp",
+        "原创",
+        "故事"
+    ],
+    "title": "SCP-Cloud-132",
+    "sitemap_update": 1683082373000,
+    "votings": [
+        [
+            9110060,
+            true
+        ],
+        [
+            8374681,
+            false
+        ],
+        [
+            8887920,
+            false
+        ]
+    ],
+    "is_locked": false
+}

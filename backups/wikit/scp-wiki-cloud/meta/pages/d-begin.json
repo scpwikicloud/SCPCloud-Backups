@@ -1,0 +1,84 @@
+{
+    "name": "d-begin",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1367262635,
+            "author": 6240575,
+            "stamp": 1627439391,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1367262613,
+            "author": 6240575,
+            "stamp": 1627439270,
+            "flags": "A",
+            "commentary": "已新增标签：ddd基金会, uv至上, 原创, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1367262602,
+            "author": 6240575,
+            "stamp": 1627439239,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1367262581,
+            "author": 6240575,
+            "stamp": 1627439135,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1312446641,
+    "forum_thread": 14153605,
+    "tags": [
+        "ddd基金会",
+        "uv至上",
+        "原创",
+        "故事"
+    ],
+    "title": "DDD基金会前传：混沌入侵收容失效引不满，特立独行不相为谋便决断",
+    "sitemap_update": 1627439391000,
+    "votings": [
+        [
+            6283036,
+            false
+        ],
+        [
+            6329904,
+            false
+        ],
+        [
+            6678040,
+            false
+        ],
+        [
+            5594111,
+            false
+        ],
+        [
+            6176955,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            7169775,
+            true
+        ],
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

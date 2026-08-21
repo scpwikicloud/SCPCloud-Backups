@@ -1,0 +1,42 @@
+{
+    "name": "wba-005-mingyuelake",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1084501813,
+            "author": 6173033,
+            "stamp": 1588753852,
+            "flags": "A",
+            "commentary": "已新增标签：scp, wba, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1084501800,
+            "author": 6173033,
+            "stamp": 1588753827,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1035219699,
+    "tags": [
+        "scp",
+        "wba",
+        "原创"
+    ],
+    "title": "冥月湖",
+    "sitemap_update": 1588753852000,
+    "votings": [
+        [
+            6264761,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

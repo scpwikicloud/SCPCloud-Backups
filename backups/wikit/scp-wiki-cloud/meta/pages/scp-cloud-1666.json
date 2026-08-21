@@ -1,0 +1,233 @@
+{
+    "name": "scp-cloud-1666",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1539784874,
+            "author": 9089449,
+            "stamp": 1763736637,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539784829,
+            "author": 9089449,
+            "stamp": 1763736494,
+            "flags": "F",
+            "commentary": "已上传文件 “论战.jpg”。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539784823,
+            "author": 9089449,
+            "stamp": 1763736477,
+            "flags": "F",
+            "commentary": "已上传文件 “作死2.png”。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539784819,
+            "author": 9089449,
+            "stamp": 1763736463,
+            "flags": "F",
+            "commentary": "已上传文件 “道歉.jpg”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539784814,
+            "author": 9089449,
+            "stamp": 1763736449,
+            "flags": "F",
+            "commentary": "已上传文件 “作死.png”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539452595,
+            "author": 9089449,
+            "stamp": 1763103001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539452588,
+            "author": 9089449,
+            "stamp": 1763102972,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539452547,
+            "author": 9089449,
+            "stamp": 1763102857,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1536135717,
+            "author": 9089449,
+            "stamp": 1761834863,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1536114744,
+            "author": 9089449,
+            "stamp": 1761832962,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1536114523,
+            "author": 9089449,
+            "stamp": 1761832933,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1536112364,
+            "author": 9089449,
+            "stamp": 1761832736,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1536111545,
+            "author": 9089449,
+            "stamp": 1761832656,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 无效化。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1536110745,
+            "author": 9089449,
+            "stamp": 1761832575,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11687055,
+            "name": "作死2.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1666/%E4%BD%9C%E6%AD%BB2.png",
+            "size": "238.03 kB (243742 Bytes)",
+            "size_bytes": 243742,
+            "mime": "image/png",
+            "content": "PNG image data, 720 x 1989, 8-bit/color RGB, non-interlaced",
+            "author": 9089449,
+            "stamp": 1763736477,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11687052,
+            "name": "作死.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1666/%E4%BD%9C%E6%AD%BB.png",
+            "size": "325.71 kB (333527 Bytes)",
+            "size_bytes": 333527,
+            "mime": "image/png",
+            "content": "PNG image data, 720 x 2982, 8-bit/color RGB, non-interlaced",
+            "author": 9089449,
+            "stamp": 1763736450,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11687056,
+            "name": "论战.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1666/%E8%AE%BA%E6%88%98.jpg",
+            "size": "163.5 kB (167427 Bytes)",
+            "size_bytes": 167427,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 645x1083, components 3",
+            "author": 9089449,
+            "stamp": 1763736494,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11687054,
+            "name": "道歉.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-1666/%E9%81%93%E6%AD%89.jpg",
+            "size": "104.43 kB (106933 Bytes)",
+            "size_bytes": 106933,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 864x1920, components 3",
+            "author": 9089449,
+            "stamp": 1763736463,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1463583542,
+    "rating": 13,
+    "forum_thread": 17409259,
+    "tags": [
+        "scp",
+        "原创",
+        "无效化"
+    ],
+    "title": "冰淇淋好似，开香槟咯",
+    "sitemap_update": 1763736637000,
+    "votings": [
+        [
+            9871592,
+            true
+        ],
+        [
+            9859027,
+            true
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            9655412,
+            true
+        ],
+        [
+            9869257,
+            true
+        ],
+        [
+            9874282,
+            true
+        ],
+        [
+            8633113,
+            true
+        ],
+        [
+            8326735,
+            true
+        ],
+        [
+            9873610,
+            true
+        ],
+        [
+            9909183,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9919828,
+            true
+        ],
+        [
+            9109706,
+            true
+        ]
+    ],
+    "is_locked": false
+}

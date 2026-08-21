@@ -1,0 +1,170 @@
+{
+    "name": "scp-cloud-1005",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1524271926,
+            "author": 8305255,
+            "stamp": 1724986778,
+            "flags": "A",
+            "commentary": "已新增标签：thaumiel。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1518349100,
+            "author": 9007460,
+            "stamp": 1708328794,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1518348771,
+            "author": 9007460,
+            "stamp": 1708327989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1518348638,
+            "author": 9007460,
+            "stamp": 1708327702,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1518348500,
+            "author": 9007460,
+            "stamp": 1708327101,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1518315116,
+            "author": 9007460,
+            "stamp": 1708185825,
+            "flags": "A",
+            "commentary": "已新增标签：o5-cl议会。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1518294269,
+            "author": 8981075,
+            "stamp": 1708104003,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1517987805,
+            "author": 9007460,
+            "stamp": 1706933859,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1517987722,
+            "author": 9007460,
+            "stamp": 1706933494,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1517987579,
+            "author": 9007460,
+            "stamp": 1706932610,
+            "flags": "A",
+            "commentary": "已新增标签：goc, scp, 原创, 基金会制, 武器, 狄瓦, 破碎之神教会。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517987570,
+            "author": 9007460,
+            "stamp": 1706932542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1517987558,
+            "author": 9007460,
+            "stamp": 1706932479,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1517987276,
+            "author": 9007460,
+            "stamp": 1706931079,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452519032,
+    "rating": 8,
+    "forum_thread": 17234228,
+    "tags": [
+        "goc",
+        "o5-cl议会",
+        "scp",
+        "thaumiel",
+        "原创",
+        "基金会制",
+        "武器",
+        "狄瓦",
+        "破碎之神教会"
+    ],
+    "title": "SCP-Cloud-1005",
+    "sitemap_update": 1724986778000,
+    "votings": [
+        [
+            8467726,
+            false
+        ],
+        [
+            8236761,
+            true
+        ],
+        [
+            9731169,
+            true
+        ],
+        [
+            9007460,
+            true
+        ],
+        [
+            9798138,
+            true
+        ],
+        [
+            9826164,
+            true
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            9546901,
+            true
+        ],
+        [
+            9030499,
+            true
+        ],
+        [
+            10156507,
+            true
+        ]
+    ],
+    "is_locked": false
+}

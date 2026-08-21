@@ -1,0 +1,183 @@
+{
+    "name": "guide-for-cloud",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1050995655,
+            "author": 5948673,
+            "stamp": 1585187574,
+            "flags": "A",
+            "commentary": "移除标签： 指导。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1050814079,
+            "author": 3264570,
+            "stamp": 1584708268,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1050761152,
+            "author": 3264570,
+            "stamp": 1584627992,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1050761060,
+            "author": 3264570,
+            "stamp": 1584627793,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1050717112,
+            "author": 3264570,
+            "stamp": 1584528580,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1050618001,
+            "author": 6165739,
+            "stamp": 1584320913,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1050617905,
+            "author": 6165739,
+            "stamp": 1584320815,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1050617820,
+            "author": 6165739,
+            "stamp": 1584320740,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1049697332,
+            "author": 6165739,
+            "stamp": 1584270335,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1048472631,
+            "author": 3264570,
+            "stamp": 1584231078,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1048472515,
+            "author": 3264570,
+            "stamp": 1584230743,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 最新。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1048472507,
+            "author": 3264570,
+            "stamp": 1584230725,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1048472494,
+            "author": 3264570,
+            "stamp": 1584230696,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 999967993,
+    "forum_thread": 13149978,
+    "tags": [
+        "原创",
+        "故事",
+        "最新"
+    ],
+    "title": "《云小鬼分类指南》",
+    "sitemap_update": 1585187574000,
+    "votings": [
+        [
+            6027217,
+            true
+        ],
+        [
+            5195483,
+            true
+        ],
+        [
+            5706474,
+            true
+        ],
+        [
+            6126100,
+            true
+        ],
+        [
+            6239908,
+            true
+        ],
+        [
+            6370172,
+            true
+        ],
+        [
+            5548398,
+            true
+        ],
+        [
+            3061428,
+            true
+        ],
+        [
+            6155697,
+            true
+        ],
+        [
+            6283046,
+            true
+        ],
+        [
+            6264761,
+            true
+        ],
+        [
+            5573535,
+            true
+        ],
+        [
+            6133858,
+            false
+        ],
+        [
+            6175508,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

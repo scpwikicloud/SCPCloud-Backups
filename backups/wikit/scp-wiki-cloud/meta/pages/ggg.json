@@ -1,0 +1,63 @@
+{
+    "name": "ggg",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539451909,
+            "author": 9797808,
+            "stamp": 1763101311,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539451898,
+            "author": 9797808,
+            "stamp": 1763101275,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539451891,
+            "author": 9797808,
+            "stamp": 1763101256,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466732382,
+    "rating": 3,
+    "forum_thread": 17446534,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "关于一位前神风文作者是如何转正的。",
+    "sitemap_update": 1763101311000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            9869350,
+            false
+        ],
+        [
+            9873701,
+            true
+        ]
+    ],
+    "is_locked": false
+}

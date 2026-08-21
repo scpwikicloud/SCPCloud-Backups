@@ -1,0 +1,40 @@
+{
+    "name": "scp-008-j",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1541482640,
+            "author": 9723482,
+            "stamp": 1768830522,
+            "flags": "A",
+            "commentary": "已新增标签：site-02, sl, 模因, 秘密实验室。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541482227,
+            "author": 9723482,
+            "stamp": 1768828884,
+            "flags": "N",
+            "commentary": "何意味"
+        }
+    ],
+    "files": [],
+    "page_id": 1468024035,
+    "forum_thread": 17566618,
+    "tags": [
+        "site-02",
+        "sl",
+        "模因",
+        "秘密实验室"
+    ],
+    "title": "SCP-cloud-008-J",
+    "sitemap_update": 1768830522000,
+    "votings": [
+        [
+            9776776,
+            false
+        ]
+    ],
+    "is_locked": false
+}

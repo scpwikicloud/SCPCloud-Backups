@@ -1,0 +1,84 @@
+{
+    "name": "bubusheding",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1084386436,
+            "author": 6140401,
+            "stamp": 1588551280,
+            "flags": "A",
+            "commentary": "已新增标签：esp协会。 移除标签： esp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1079387994,
+            "author": 6140401,
+            "stamp": 1588237556,
+            "flags": "A",
+            "commentary": "已新增标签：esp, 原创, 安保小组, 故事, 正经的, 设定。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1079374326,
+            "author": 6140401,
+            "stamp": 1588237359,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1079367890,
+            "author": 6140401,
+            "stamp": 1588237262,
+            "flags": "F",
+            "commentary": "已上传文件 “安保”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1079365822,
+            "author": 6140401,
+            "stamp": 1588237230,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9044949,
+            "name": "安保",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/bubusheding/%E5%AE%89%E4%BF%9D",
+            "size": "104.08 kB (106582 Bytes)",
+            "size_bytes": 106582,
+            "mime": "image/png",
+            "content": "PNG image data, 1080 x 715, 8-bit/color RGBA, non-interlaced",
+            "author": 6140401,
+            "stamp": 1588237262,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1030173453,
+    "rating": 2,
+    "forum_thread": 13282650,
+    "tags": [
+        "esp协会",
+        "原创",
+        "安保小组",
+        "故事",
+        "正经的",
+        "设定"
+    ],
+    "title": "设定补充:安保部门",
+    "sitemap_update": 1588551280000,
+    "votings": [
+        [
+            10364185,
+            true
+        ],
+        [
+            6323074,
+            true
+        ]
+    ],
+    "is_locked": false
+}

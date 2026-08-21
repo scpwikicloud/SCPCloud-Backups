@@ -1,0 +1,63 @@
+{
+    "name": "chineselongmai",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1084526763,
+            "author": 6140401,
+            "stamp": 1588811040,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1084392588,
+            "author": 6140401,
+            "stamp": 1588576156,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075270067,
+            "author": 6140401,
+            "stamp": 1587817182,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075270065,
+            "author": 6140401,
+            "stamp": 1587817168,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075270058,
+            "author": 6140401,
+            "stamp": 1587817120,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075269958,
+            "author": 6323074,
+            "stamp": 1587816564,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026157357,
+    "tags": [
+        "作者"
+    ],
+    "title": "罗伦博士的人事档案",
+    "sitemap_update": 1588811040000,
+    "votings": [],
+    "is_locked": false
+}

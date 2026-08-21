@@ -1,0 +1,133 @@
+{
+    "name": "luke-vs-mio",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1544289501,
+            "author": 9846641,
+            "stamp": 1780054798,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1544289302,
+            "author": 9846641,
+            "stamp": 1780054531,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1544289032,
+            "author": 9846641,
+            "stamp": 1780054178,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1544288870,
+            "author": 9846641,
+            "stamp": 1780053978,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544288794,
+            "author": 9846641,
+            "stamp": 1780053889,
+            "flags": "F",
+            "commentary": "已上传文件 “miovsluke”。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544288742,
+            "author": 9846641,
+            "stamp": 1780053821,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544288720,
+            "author": 9846641,
+            "stamp": 1780053797,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544285523,
+            "author": 9846641,
+            "stamp": 1780050335,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544284081,
+            "author": 9846641,
+            "stamp": 1780048557,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544278715,
+            "author": 9846641,
+            "stamp": 1780041979,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11827188,
+            "name": "miovsluke",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/luke-vs-mio/miovsluke",
+            "size": "583.94 kB (597958 Bytes)",
+            "size_bytes": 597958,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2026:05:29 18:22:31, width=0], baseline, precision 8, 1152x2376, components 3",
+            "author": 9846641,
+            "stamp": 1780053890,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468762696,
+    "rating": -5,
+    "forum_thread": 17966504,
+    "tags": [
+        "dv至上",
+        "原创",
+        "故事"
+    ],
+    "title": "鹿客大战米欧",
+    "sitemap_update": 1780054798000,
+    "votings": [
+        [
+            10195449,
+            false
+        ],
+        [
+            10138896,
+            false
+        ],
+        [
+            10382803,
+            false
+        ],
+        [
+            9786309,
+            false
+        ],
+        [
+            9846641,
+            false
+        ]
+    ],
+    "is_locked": false
+}

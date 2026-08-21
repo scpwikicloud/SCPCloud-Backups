@@ -1,0 +1,108 @@
+{
+    "name": "coldcloud-scp-cloud-001",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1319838919,
+            "author": 6184120,
+            "stamp": 1599413884,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1319838572,
+            "author": 6184120,
+            "stamp": 1599412727,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1319838563,
+            "author": 6184120,
+            "stamp": 1599412677,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1268958742,
+    "rating": 8,
+    "forum_thread": 14081700,
+    "tags": [
+        "001提案",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-cloud-001 云理念传播程序",
+    "sitemap_update": 1599413884000,
+    "votings": [
+        [
+            4886285,
+            true
+        ],
+        [
+            6780414,
+            false
+        ],
+        [
+            6104332,
+            true
+        ],
+        [
+            7296164,
+            false
+        ],
+        [
+            6350487,
+            true
+        ],
+        [
+            9861411,
+            true
+        ],
+        [
+            9091848,
+            true
+        ],
+        [
+            6254439,
+            true
+        ],
+        [
+            6257698,
+            true
+        ],
+        [
+            7293736,
+            true
+        ],
+        [
+            6190503,
+            true
+        ],
+        [
+            8155197,
+            true
+        ],
+        [
+            6369458,
+            false
+        ],
+        [
+            5616745,
+            true
+        ],
+        [
+            6660826,
+            true
+        ],
+        [
+            6518593,
+            false
+        ]
+    ],
+    "is_locked": false
+}

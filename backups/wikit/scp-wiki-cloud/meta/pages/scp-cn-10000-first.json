@@ -1,0 +1,149 @@
+{
+    "name": "scp-cn-10000-first",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1543668345,
+            "author": 6452551,
+            "stamp": 1777690690,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1541861656,
+            "author": 9533373,
+            "stamp": 1770634000,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1541773872,
+            "author": 9533373,
+            "stamp": 1770191540,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cn-10000\" 至 \"scp-cn-10000-first\"."
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541773774,
+            "author": 9533373,
+            "stamp": 1770191290,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541773772,
+            "author": 9533373,
+            "stamp": 1770191269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541772102,
+            "author": 9533373,
+            "stamp": 1770181742,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541772092,
+            "author": 9533373,
+            "stamp": 1770181701,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541772073,
+            "author": 9533373,
+            "stamp": 1770181617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541772047,
+            "author": 9533373,
+            "stamp": 1770181538,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541771987,
+            "author": 9533373,
+            "stamp": 1770181290,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541771980,
+            "author": 9533373,
+            "stamp": 1770181239,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541771973,
+            "author": 9533373,
+            "stamp": 1770181193,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468090338,
+    "rating": -8,
+    "forum_thread": 17579809,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-CN-10000",
+    "sitemap_update": 1777690690000,
+    "votings": [
+        [
+            9533373,
+            false
+        ],
+        [
+            9877759,
+            false
+        ],
+        [
+            10140214,
+            false
+        ],
+        [
+            9906554,
+            false
+        ],
+        [
+            8893555,
+            false
+        ],
+        [
+            9683410,
+            false
+        ],
+        [
+            8393776,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

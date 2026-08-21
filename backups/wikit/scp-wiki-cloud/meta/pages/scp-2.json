@@ -1,0 +1,60 @@
+{
+    "name": "scp-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532434153,
+            "author": 9877518,
+            "stamp": 1758595717,
+            "flags": "A",
+            "commentary": "已新增标签：dv, 故事, 笑话。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532434142,
+            "author": 9877518,
+            "stamp": 1758595616,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460433304,
+    "rating": 0,
+    "forum_thread": 17253072,
+    "tags": [
+        "dv",
+        "故事",
+        "笑话"
+    ],
+    "title": "scp界最好笑的笑话一则（2）",
+    "sitemap_update": 1758595717000,
+    "votings": [
+        [
+            8467726,
+            true
+        ],
+        [
+            9556346,
+            false
+        ],
+        [
+            10179253,
+            true
+        ],
+        [
+            8998982,
+            false
+        ],
+        [
+            9581327,
+            true
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

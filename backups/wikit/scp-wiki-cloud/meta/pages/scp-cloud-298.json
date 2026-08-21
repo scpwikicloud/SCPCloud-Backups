@@ -1,0 +1,70 @@
+{
+    "name": "scp-cloud-298",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531641974,
+            "author": 9650794,
+            "stamp": 1755581088,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531640353,
+            "author": 9650794,
+            "stamp": 1755572083,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531640344,
+            "author": 9650794,
+            "stamp": 1755572052,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531640285,
+            "author": 9650794,
+            "stamp": 1755571950,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531622758,
+            "author": 9650794,
+            "stamp": 1755488028,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 神学。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531622453,
+            "author": 9650794,
+            "stamp": 1755487008,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460073493,
+    "tags": [
+        "scp",
+        "原创",
+        "神学"
+    ],
+    "title": "SCP-CLOUD-298",
+    "sitemap_update": 1755581088000,
+    "votings": [
+        [
+            9532434,
+            true
+        ]
+    ],
+    "is_locked": false
+}

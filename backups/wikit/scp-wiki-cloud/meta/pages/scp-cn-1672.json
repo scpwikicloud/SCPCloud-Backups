@@ -1,0 +1,96 @@
+{
+    "name": "scp-cn-1672",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1033759382,
+            "author": 5328331,
+            "stamp": 1578509607,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033759349,
+            "author": 5328331,
+            "stamp": 1578509485,
+            "flags": "F",
+            "commentary": "附件 “1” 已重新命名为 “2”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033759337,
+            "author": 5328331,
+            "stamp": 1578509429,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033759254,
+            "author": 5328331,
+            "stamp": 1578509026,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033759217,
+            "author": 5328331,
+            "stamp": 1578508819,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033759160,
+            "author": 5328331,
+            "stamp": 1578508556,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 8915792,
+            "name": "2",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-1672/2",
+            "size": "349.02 kB (357400 Bytes)",
+            "size_bytes": 357400,
+            "mime": "image/gif",
+            "content": "GIF image data, version 89a, 381 x 142",
+            "author": 5328331,
+            "stamp": 1578508819,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 986088250,
+    "rating": 3,
+    "forum_thread": 12914613,
+    "title": "SCP-CN-1672",
+    "sitemap_update": 1578509607000,
+    "votings": [
+        [
+            5310502,
+            true
+        ],
+        [
+            5328331,
+            false
+        ],
+        [
+            4955251,
+            true
+        ],
+        [
+            4367792,
+            true
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

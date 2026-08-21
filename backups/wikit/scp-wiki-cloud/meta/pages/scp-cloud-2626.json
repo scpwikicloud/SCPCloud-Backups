@@ -1,0 +1,82 @@
+{
+    "name": "scp-cloud-2626",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541141175,
+            "author": 9929144,
+            "stamp": 1766889013,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541141133,
+            "author": 9929144,
+            "stamp": 1766888936,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv至上, 北极熊, 原创, 抽像宇宙, 模因污染, 熊类, 认知危害。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541141090,
+            "author": 9929144,
+            "stamp": 1766888869,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541141063,
+            "author": 9929144,
+            "stamp": 1766888826,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541140988,
+            "author": 9929144,
+            "stamp": 1766888692,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11709213,
+            "name": "1",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2626/1",
+            "size": "344.53 kB (352802 Bytes)",
+            "size_bytes": 352802,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: ], baseline, precision 8, 1070x851, components 3",
+            "author": 9929144,
+            "stamp": 1766888869,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467930249,
+    "rating": 1,
+    "forum_thread": 17501916,
+    "tags": [
+        "scp",
+        "uv至上",
+        "北极熊",
+        "原创",
+        "抽像宇宙",
+        "模因污染",
+        "熊类",
+        "认知危害"
+    ],
+    "title": "Scp-Cloud-2626 2026北极熊",
+    "sitemap_update": 1766889013000,
+    "votings": [
+        [
+            9929144,
+            true
+        ]
+    ],
+    "is_locked": false
+}

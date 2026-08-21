@@ -1,0 +1,83 @@
+{
+    "name": "scp-8128",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1543668011,
+            "author": 6452551,
+            "stamp": 1777689739,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543439796,
+            "author": 9906554,
+            "stamp": 1776593787,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543439465,
+            "author": 9906554,
+            "stamp": 1776592979,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 占用主站这一块, 搬运, 明眼人都看得出来该怎么评吧, 神风归档。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543439430,
+            "author": 9906554,
+            "stamp": 1776592892,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543439411,
+            "author": 9906554,
+            "stamp": 1776592846,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543439381,
+            "author": 9906554,
+            "stamp": 1776592772,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543439365,
+            "author": 9906554,
+            "stamp": 1776592714,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468527858,
+    "rating": -1,
+    "tags": [
+        "dscp",
+        "euclid",
+        "scp",
+        "占用主站这一块",
+        "搬运",
+        "明眼人都看得出来该怎么评吧",
+        "神风归档"
+    ],
+    "title": "SCP- 8128-███",
+    "sitemap_update": 1777689739000,
+    "votings": [
+        [
+            9906554,
+            false
+        ]
+    ],
+    "is_locked": false
+}

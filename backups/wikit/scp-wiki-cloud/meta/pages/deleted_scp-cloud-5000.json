@@ -1,0 +1,138 @@
+{
+    "name": "deleted:scp-cloud-5000",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1532866278,
+            "author": 9531329,
+            "stamp": 1760006035,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cloud-5000-cn\" 至 \"deleted:scp-cloud-5000\"."
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532866274,
+            "author": 9531329,
+            "stamp": 1760006019,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532866249,
+            "author": 9531329,
+            "stamp": 1760005852,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532866245,
+            "author": 9531329,
+            "stamp": 1760005827,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-5000\" 至 \"scp-cloud-5000-cn\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532866171,
+            "author": 9531329,
+            "stamp": 1760005495,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532866154,
+            "author": 9531329,
+            "stamp": 1760005331,
+            "flags": "A",
+            "commentary": "已新增标签：2025年整活大赛, scp, scp-5000, uv至上。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532866147,
+            "author": 9531329,
+            "stamp": 1760005284,
+            "flags": "F",
+            "commentary": "已上传文件 “臂章”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532866144,
+            "author": 9531329,
+            "stamp": 1760005236,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532866139,
+            "author": 9531329,
+            "stamp": 1760005197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532866134,
+            "author": 9531329,
+            "stamp": 1760005166,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251009_181737.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532866102,
+            "author": 9531329,
+            "stamp": 1760004932,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11486893,
+            "name": "IMG_20251009_181737.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/deleted:scp-cloud-5000/IMG_20251009_181737.jpg",
+            "size": "5.89 kB (6036 Bytes)",
+            "size_bytes": 6036,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 136x120, components 3",
+            "author": 9531329,
+            "stamp": 1760005166,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11486895,
+            "name": "臂章",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/deleted:scp-cloud-5000/%E8%87%82%E7%AB%A0",
+            "size": "43.78 kB (44835 Bytes)",
+            "size_bytes": 44835,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 500x500, components 3",
+            "author": 9531329,
+            "stamp": 1760005284,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460612622,
+    "rating": 1,
+    "forum_thread": 17325906,
+    "tags": [
+        "2025年整活大赛",
+        "scp",
+        "scp-5000",
+        "uv至上"
+    ],
+    "title": "SCP-5000-Cloud-一个无记载的部队",
+    "sitemap_update": 1760006035000,
+    "votings": [
+        [
+            9531329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

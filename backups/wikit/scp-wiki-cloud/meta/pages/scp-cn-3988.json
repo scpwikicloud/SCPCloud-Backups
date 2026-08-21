@@ -1,0 +1,46 @@
+{
+    "name": "scp-cn-3988",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1523495859,
+            "author": 6452551,
+            "stamp": 1723015927,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523495852,
+            "author": 6452551,
+            "stamp": 1723015889,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523495850,
+            "author": 6452551,
+            "stamp": 1723015873,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456094467,
+    "rating": -1,
+    "forum_thread": 16900372,
+    "tags": [
+        "dscp"
+    ],
+    "title": "SCP-CN-3988",
+    "sitemap_update": 1723015927000,
+    "votings": [
+        [
+            8848462,
+            false
+        ]
+    ],
+    "is_locked": false
+}

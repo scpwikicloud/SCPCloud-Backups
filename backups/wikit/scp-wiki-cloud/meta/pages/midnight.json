@@ -1,0 +1,100 @@
+{
+    "name": "midnight",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1461464903,
+            "author": 7501293,
+            "stamp": 1654183313,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1461424304,
+            "author": 8017462,
+            "stamp": 1654096413,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1048124324,
+            "author": 4325914,
+            "stamp": 1583551692,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1048033250,
+            "author": 4325914,
+            "stamp": 1583298535,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1048031788,
+            "author": 4325914,
+            "stamp": 1583292517,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 梦境。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1048031776,
+            "author": 4325914,
+            "stamp": 1583292432,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1048031767,
+            "author": 4325914,
+            "stamp": 1583292394,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 999696756,
+    "rating": -6,
+    "forum_thread": 13102327,
+    "tags": [
+        "原创",
+        "故事",
+        "梦境"
+    ],
+    "title": "午夜",
+    "sitemap_update": 1654183313000,
+    "votings": [
+        [
+            5842934,
+            false
+        ],
+        [
+            5437364,
+            false
+        ],
+        [
+            5721026,
+            false
+        ],
+        [
+            9491856,
+            false
+        ],
+        [
+            6133858,
+            false
+        ],
+        [
+            4325914,
+            false
+        ]
+    ],
+    "is_locked": false
+}

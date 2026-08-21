@@ -1,0 +1,50 @@
+{
+    "name": "scp-cn-4043",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543668796,
+            "author": 6452551,
+            "stamp": 1777691759,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542683140,
+            "author": 9533373,
+            "stamp": 1773578896,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542683118,
+            "author": 9533373,
+            "stamp": 1773578848,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542683106,
+            "author": 9533373,
+            "stamp": 1773578810,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468268432,
+    "rating": 0,
+    "tags": [
+        "dscp",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-CN-4043",
+    "sitemap_update": 1777691759000,
+    "votings": [],
+    "is_locked": false
+}

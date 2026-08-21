@@ -1,0 +1,67 @@
+{
+    "name": "scp-cloud-905",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1512194360,
+            "author": 8676821,
+            "stamp": 1689153562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1512194308,
+            "author": 8676821,
+            "stamp": 1689153361,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1512194272,
+            "author": 8676821,
+            "stamp": 1689153223,
+            "flags": "A",
+            "commentary": "已新增标签：奖励教会。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1512194262,
+            "author": 8676821,
+            "stamp": 1689153198,
+            "flags": "A",
+            "commentary": "已新增标签：奖励之神。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512194259,
+            "author": 8676821,
+            "stamp": 1689153178,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449007351,
+    "rating": 0,
+    "forum_thread": 17177633,
+    "tags": [
+        "奖励之神",
+        "奖励教会"
+    ],
+    "title": "SCP-CLOUD-905奖励之地",
+    "sitemap_update": 1689153562000,
+    "votings": [
+        [
+            9785619,
+            false
+        ],
+        [
+            8676821,
+            true
+        ]
+    ],
+    "is_locked": false
+}

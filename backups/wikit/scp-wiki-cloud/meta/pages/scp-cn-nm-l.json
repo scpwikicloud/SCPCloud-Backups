@@ -1,0 +1,142 @@
+{
+    "name": "scp-cn-nm-l",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1033896193,
+            "author": 4764494,
+            "stamp": 1579003316,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1033881994,
+            "author": 5706474,
+            "stamp": 1578943230,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1033852838,
+            "author": 5706474,
+            "stamp": 1578808223,
+            "flags": "A",
+            "commentary": "已新增标签：nmsl, wdnmd, 合作。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1033852782,
+            "author": 5706474,
+            "stamp": 1578808102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1033852714,
+            "author": 5706474,
+            "stamp": 1578807766,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 访谈。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1033852710,
+            "author": 5706474,
+            "stamp": 1578807732,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 986146418,
+    "rating": -14,
+    "forum_thread": 12929486,
+    "tags": [
+        "nmsl",
+        "wdnmd",
+        "合作",
+        "故事",
+        "访谈"
+    ],
+    "title": "SCP-CN-NM$L事故记录",
+    "sitemap_update": 1579003316000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            5484809,
+            false
+        ],
+        [
+            5706474,
+            false
+        ],
+        [
+            4764494,
+            true
+        ],
+        [
+            6077090,
+            false
+        ],
+        [
+            5842934,
+            false
+        ],
+        [
+            3766487,
+            false
+        ],
+        [
+            5437364,
+            true
+        ],
+        [
+            4725766,
+            false
+        ],
+        [
+            4780930,
+            false
+        ],
+        [
+            5663983,
+            false
+        ],
+        [
+            6232680,
+            false
+        ],
+        [
+            6038040,
+            false
+        ],
+        [
+            4955251,
+            false
+        ],
+        [
+            4761736,
+            false
+        ],
+        [
+            5573535,
+            false
+        ],
+        [
+            6204559,
+            false
+        ],
+        [
+            6323514,
+            false
+        ]
+    ],
+    "is_locked": false
+}

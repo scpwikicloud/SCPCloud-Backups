@@ -1,0 +1,80 @@
+{
+    "name": "debate-competition-minutes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543669949,
+            "author": 6452551,
+            "stamp": 1777694116,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541724325,
+            "author": 7465847,
+            "stamp": 1769952075,
+            "flags": "A",
+            "commentary": "已新增标签：归档, 搬运。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541476195,
+            "author": 7465847,
+            "stamp": 1768806827,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20260119151326.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541476163,
+            "author": 7465847,
+            "stamp": 1768806680,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 故事, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541476119,
+            "author": 7465847,
+            "stamp": 1768806642,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11722418,
+            "name": "QQ图片20260119151326.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/debate-competition-minutes/QQ%E5%9B%BE%E7%89%8720260119151326.png",
+            "size": "449.89 kB (460688 Bytes)",
+            "size_bytes": 460688,
+            "mime": "image/png",
+            "content": "PNG image data, 1115 x 3032, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1768806827,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468021553,
+    "rating": 1,
+    "forum_thread": 17566456,
+    "tags": [
+        "dscp",
+        "中分存档",
+        "归档",
+        "搬运",
+        "故事",
+        "转载"
+    ],
+    "title": "第三届帷幕之后辩论大赛总决赛：基金会的必要之恶有必要",
+    "sitemap_update": 1777694116000,
+    "votings": [
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,58 @@
+{
+    "name": "scp-cl-2090",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543462776,
+            "author": 8820972,
+            "stamp": 1776687608,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543457380,
+            "author": 8820972,
+            "stamp": 1776657698,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543379469,
+            "author": 8820972,
+            "stamp": 1776403376,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv至上, 传染病, 原创, 实验报告, 蜡像。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543379465,
+            "author": 8820972,
+            "stamp": 1776403353,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468500444,
+    "rating": 1,
+    "tags": [
+        "scp",
+        "uv至上",
+        "传染病",
+        "原创",
+        "实验报告",
+        "蜡像"
+    ],
+    "title": "TEST:SCP-CL-2090实验报告",
+    "sitemap_update": 1776687608000,
+    "votings": [
+        [
+            10156507,
+            true
+        ]
+    ],
+    "is_locked": false
+}

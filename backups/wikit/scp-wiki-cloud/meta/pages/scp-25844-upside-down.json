@@ -1,0 +1,43 @@
+{
+    "name": "scp-25844-upside-down",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544384337,
+            "author": 10140214,
+            "stamp": 1780304918,
+            "flags": "A",
+            "commentary": "已新增标签：🐛dv至上。 移除标签：🐛。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544352576,
+            "author": 10140214,
+            "stamp": 1780206289,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 倒观, 搬运, 🐛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544352560,
+            "author": 10140214,
+            "stamp": 1780206247,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468784250,
+    "forum_thread": 17978563,
+    "tags": [
+        "scp",
+        "倒观",
+        "搬运",
+        "🐛dv至上"
+    ],
+    "title": "SCP-25844（倒观版）",
+    "sitemap_update": 1780304918000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,47 @@
+{
+    "name": "kong-yi",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1540324332,
+            "author": 9314093,
+            "stamp": 1765105778,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540324325,
+            "author": 9314093,
+            "stamp": 1765105767,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467359915,
+    "rating": 3,
+    "forum_thread": 17482522,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "UIU笑话",
+    "sitemap_update": 1765105778000,
+    "votings": [
+        [
+            9863989,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,46 @@
+{
+    "name": "the-most-handsome-guy",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532596332,
+            "author": 6335947,
+            "stamp": 1759386657,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532596317,
+            "author": 6335947,
+            "stamp": 1759386579,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532596301,
+            "author": 6335947,
+            "stamp": 1759386533,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460477113,
+    "forum_thread": 17280753,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "云分最帅人物评比",
+    "sitemap_update": 1759386657000,
+    "votings": [
+        [
+            9581894,
+            true
+        ]
+    ],
+    "is_locked": false
+}

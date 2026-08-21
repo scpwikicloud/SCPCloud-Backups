@@ -1,0 +1,97 @@
+{
+    "name": "scp-cloud-2748",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1543676464,
+            "author": 8598968,
+            "stamp": 1777713198,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543676119,
+            "author": 8598968,
+            "stamp": 1777712051,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543676102,
+            "author": 8598968,
+            "stamp": 1777711990,
+            "flags": "A",
+            "commentary": "已新增标签：三角洲行动, 乌鲁鲁。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543676094,
+            "author": 8598968,
+            "stamp": 1777711957,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543676072,
+            "author": 8598968,
+            "stamp": 1777711940,
+            "flags": "F",
+            "commentary": "已上传文件 “乌鲁鲁”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543676061,
+            "author": 8598968,
+            "stamp": 1777711906,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543675998,
+            "author": 8598968,
+            "stamp": 1777711646,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11807038,
+            "name": "乌鲁鲁",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2748/%E4%B9%8C%E9%B2%81%E9%B2%81",
+            "size": "307.27 kB (314640 Bytes)",
+            "size_bytes": 314640,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2026:05:02 16:50:06, width=1080], baseline, precision 8, 1080x976, components 3",
+            "author": 8598968,
+            "stamp": 1777711940,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468604480,
+    "rating": 2,
+    "forum_thread": 17846196,
+    "tags": [
+        "三角洲行动",
+        "乌鲁鲁",
+        "原创"
+    ],
+    "title": "Scp Cloud-2748 乌鲁鲁",
+    "sitemap_update": 1777713198000,
+    "votings": [
+        [
+            10249873,
+            true
+        ],
+        [
+            9765302,
+            true
+        ]
+    ],
+    "is_locked": false
+}

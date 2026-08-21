@@ -1,0 +1,61 @@
+{
+    "name": "hulue",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1540782087,
+            "author": 9884343,
+            "stamp": 1766230908,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540782005,
+            "author": 9884343,
+            "stamp": 1766230769,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540781965,
+            "author": 9884343,
+            "stamp": 1766230701,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 中分赛博琥珀, 瞧啊，是崭新的赛博琥珀！, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540781940,
+            "author": 9884343,
+            "stamp": 1766230669,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467667712,
+    "forum_thread": 17497506,
+    "tags": [
+        "中分存档",
+        "中分赛博琥珀",
+        "搬运",
+        "瞧啊，是崭新的赛博琥珀！",
+        "神风文归档"
+    ],
+    "title": "hulue",
+    "sitemap_update": 1766230908000,
+    "votings": [
+        [
+            9877906,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

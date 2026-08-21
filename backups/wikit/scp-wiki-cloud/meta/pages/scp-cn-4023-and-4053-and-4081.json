@@ -1,0 +1,89 @@
+{
+    "name": "scp-cn-4023-and-4053-and-4081",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543668801,
+            "author": 6452551,
+            "stamp": 1777691776,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541378579,
+            "author": 8724347,
+            "stamp": 1768276871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541378560,
+            "author": 8724347,
+            "stamp": 1768276631,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 瞧啊，是崭新的赛博琥珀！。 移除标签：搬运瞧啊，是崭新的赛博琥珀！。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541378558,
+            "author": 8724347,
+            "stamp": 1768276619,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp, 何意味, 搬运瞧啊，是崭新的赛博琥珀！, 神风, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541378550,
+            "author": 8724347,
+            "stamp": 1768276565,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467995009,
+    "rating": -6,
+    "forum_thread": 17572311,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "何意味",
+        "搬运",
+        "瞧啊，是崭新的赛博琥珀！",
+        "神风",
+        "神风文归档"
+    ],
+    "title": "SCP-CN-4081，又名Scp-Cn-4023",
+    "sitemap_update": 1777691776000,
+    "votings": [
+        [
+            8178262,
+            false
+        ],
+        [
+            9658212,
+            false
+        ],
+        [
+            8393776,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            8724347,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

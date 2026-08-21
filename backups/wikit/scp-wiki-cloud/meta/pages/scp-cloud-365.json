@@ -1,0 +1,95 @@
+{
+    "name": "scp-cloud-365",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532202586,
+            "author": 7071305,
+            "stamp": 1757414663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1519328943,
+            "author": 7071305,
+            "stamp": 1712068576,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1519072383,
+            "author": 7071305,
+            "stamp": 1710758462,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1519072290,
+            "author": 7071305,
+            "stamp": 1710758123,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 需修改, 需更新。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1519072258,
+            "author": 7071305,
+            "stamp": 1710757893,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 信息危害, 建筑, 时空, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519072230,
+            "author": 7071305,
+            "stamp": 1710757757,
+            "flags": "N",
+            "commentary": "退坑好久没来，啥都忘了"
+        }
+    ],
+    "files": [],
+    "page_id": 1453066964,
+    "rating": 5,
+    "forum_thread": 16753624,
+    "tags": [
+        "euclid",
+        "scp",
+        "uv至上",
+        "信息危害",
+        "原创",
+        "建筑",
+        "时空",
+        "精神影响",
+        "需修改",
+        "需更新"
+    ],
+    "title": "SCP-Cloud-365 昨日不在",
+    "sitemap_update": 1757414663000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            6452551,
+            true
+        ],
+        [
+            6882482,
+            true
+        ],
+        [
+            8848462,
+            true
+        ],
+        [
+            10335993,
+            true
+        ]
+    ],
+    "is_locked": false
+}

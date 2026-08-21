@@ -1,0 +1,67 @@
+{
+    "name": "scp-cloud-4k1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543668635,
+            "author": 6452551,
+            "stamp": 1777691408,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540103978,
+            "author": 6242113,
+            "stamp": 1764573731,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540103974,
+            "author": 6242113,
+            "stamp": 1764573715,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。 移除标签：dv至上, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540103803,
+            "author": 6242113,
+            "stamp": 1764572938,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540103802,
+            "author": 6242113,
+            "stamp": 1764572920,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467218962,
+    "forum_thread": 17467451,
+    "tags": [
+        "dscp",
+        "搬运",
+        "故事"
+    ],
+    "title": "SCP-CN-4001：短猫的宿命",
+    "sitemap_update": 1777691408000,
+    "votings": [
+        [
+            10107583,
+            true
+        ],
+        [
+            6745213,
+            false
+        ]
+    ],
+    "is_locked": false
+}

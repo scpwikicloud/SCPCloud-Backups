@@ -1,0 +1,74 @@
+{
+    "name": "scp-cloud-2525",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1539803935,
+            "author": 9884343,
+            "stamp": 1763799568,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539803862,
+            "author": 9884343,
+            "stamp": 1763799401,
+            "flags": "A",
+            "commentary": "已新增标签：十一月之雨。 移除标签：需解密。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539797162,
+            "author": 9884343,
+            "stamp": 1763785093,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539784295,
+            "author": 9884343,
+            "stamp": 1763734862,
+            "flags": "A",
+            "commentary": "已新增标签：dv, metamorphosis, scp, 原创, 神风文改编, 需解密。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539784274,
+            "author": 9884343,
+            "stamp": 1763734784,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539784261,
+            "author": 9884343,
+            "stamp": 1763734728,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467013056,
+    "forum_thread": 17455042,
+    "tags": [
+        "dv",
+        "metamorphosis",
+        "scp",
+        "十一月之雨",
+        "原创",
+        "神风文改编"
+    ],
+    "title": "SCP-Cloud-2525",
+    "sitemap_update": 1763799568000,
+    "votings": [
+        [
+            9819793,
+            false
+        ]
+    ],
+    "is_locked": false
+}

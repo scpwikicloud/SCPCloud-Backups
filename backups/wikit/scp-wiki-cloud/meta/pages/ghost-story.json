@@ -1,0 +1,62 @@
+{
+    "name": "ghost-story",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1084546243,
+            "author": 6158388,
+            "stamp": 1588860034,
+            "flags": "A",
+            "commentary": "移除标签： up为荣。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084524098,
+            "author": 6158388,
+            "stamp": 1588805589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084512107,
+            "author": 6158388,
+            "stamp": 1588780607,
+            "flags": "A",
+            "commentary": "已新增标签：up为荣, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1084512065,
+            "author": 6158388,
+            "stamp": 1588780562,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1035225119,
+    "rating": -3,
+    "forum_thread": 13294246,
+    "tags": [
+        "故事"
+    ],
+    "title": "屑人的屑鬼故事",
+    "sitemap_update": 1588860034000,
+    "votings": [
+        [
+            6678040,
+            false
+        ],
+        [
+            6264761,
+            false
+        ],
+        [
+            5704647,
+            false
+        ]
+    ],
+    "is_locked": false
+}

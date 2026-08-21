@@ -1,0 +1,87 @@
+{
+    "name": "scp-cn-4025",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543668772,
+            "author": 6452551,
+            "stamp": 1777691662,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543560094,
+            "author": 7465847,
+            "stamp": 1777137332,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20260426011505.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543560093,
+            "author": 7465847,
+            "stamp": 1777137319,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20260426011500.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543560071,
+            "author": 7465847,
+            "stamp": 1777137220,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp, 中分存档, 搬运, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543560058,
+            "author": 7465847,
+            "stamp": 1777137165,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11802497,
+            "name": "QQ图片20260426011500.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-4025/QQ%E5%9B%BE%E7%89%8720260426011500.png",
+            "size": "802.88 kB (822144 Bytes)",
+            "size_bytes": 822144,
+            "mime": "image/png",
+            "content": "PNG image data, 1399 x 4982, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1777137319,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11802498,
+            "name": "QQ图片20260426011505.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-4025/QQ%E5%9B%BE%E7%89%8720260426011505.png",
+            "size": "424.57 kB (434764 Bytes)",
+            "size_bytes": 434764,
+            "mime": "image/png",
+            "content": "PNG image data, 1384 x 2295, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1777137332,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468574879,
+    "rating": 0,
+    "forum_thread": 17795417,
+    "tags": [
+        "dscp",
+        "keter",
+        "scp",
+        "中分存档",
+        "搬运",
+        "转载"
+    ],
+    "title": "SCP-CN-4025",
+    "sitemap_update": 1777691662000,
+    "votings": [],
+    "is_locked": false
+}

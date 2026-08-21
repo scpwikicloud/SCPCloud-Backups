@@ -1,0 +1,52 @@
+{
+    "name": "scp-cn-3812",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543668065,
+            "author": 6452551,
+            "stamp": 1777689879,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543545188,
+            "author": 9533373,
+            "stamp": 1777082296,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543545180,
+            "author": 9533373,
+            "stamp": 1777082280,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468570194,
+    "rating": -2,
+    "forum_thread": 17864836,
+    "tags": [
+        "dscp",
+        "scp",
+        "搬运"
+    ],
+    "title": "Scp Cn 3812 美梦泰迪熊",
+    "sitemap_update": 1777689879000,
+    "votings": [
+        [
+            9891518,
+            false
+        ],
+        [
+            10255622,
+            false
+        ]
+    ],
+    "is_locked": false
+}

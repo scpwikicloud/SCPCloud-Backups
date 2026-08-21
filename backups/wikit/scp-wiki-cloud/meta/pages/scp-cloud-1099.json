@@ -1,0 +1,89 @@
+{
+    "name": "scp-cloud-1099",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1527685646,
+            "author": 8305255,
+            "stamp": 1739095644,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527684349,
+            "author": 9566878,
+            "stamp": 1739089536,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527450282,
+            "author": 8305255,
+            "stamp": 1737947047,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527450279,
+            "author": 8305255,
+            "stamp": 1737947029,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527412664,
+            "author": 9040275,
+            "stamp": 1737733384,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 物品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527389379,
+            "author": 9040275,
+            "stamp": 1737619336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527387684,
+            "author": 9040275,
+            "stamp": 1737608224,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458296926,
+    "rating": 3,
+    "forum_thread": 17024516,
+    "tags": [
+        "safe",
+        "scp",
+        "原创",
+        "物品"
+    ],
+    "title": "SCP-Cloud-1099",
+    "sitemap_update": 1739095644000,
+    "votings": [
+        [
+            9509079,
+            true
+        ],
+        [
+            9040275,
+            true
+        ],
+        [
+            7535291,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,90 @@
+{
+    "name": "scp-cloud-2727",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1543676470,
+            "author": 8598968,
+            "stamp": 1777713225,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543675690,
+            "author": 8598968,
+            "stamp": 1777710421,
+            "flags": "A",
+            "commentary": "已新增标签：2000, euclid, 精神影响, 蛋仔。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543675638,
+            "author": 8598968,
+            "stamp": 1777710353,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543675622,
+            "author": 8598968,
+            "stamp": 1777710301,
+            "flags": "A",
+            "commentary": "已新增标签：媒体。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543675612,
+            "author": 8598968,
+            "stamp": 1777710245,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543675588,
+            "author": 8598968,
+            "stamp": 1777710123,
+            "flags": "F",
+            "commentary": "已上传文件 “蛋小黄”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543675569,
+            "author": 8598968,
+            "stamp": 1777710059,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11807026,
+            "name": "蛋小黄",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2727/%E8%9B%8B%E5%B0%8F%E9%BB%84",
+            "size": "402.43 kB (412087 Bytes)",
+            "size_bytes": 412087,
+            "mime": "image/png",
+            "content": "PNG image data, 823 x 553, 8-bit/color RGB, non-interlaced",
+            "author": 8598968,
+            "stamp": 1777710123,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468604337,
+    "rating": 0,
+    "tags": [
+        "2000",
+        "euclid",
+        "原创",
+        "媒体",
+        "精神影响",
+        "蛋仔"
+    ],
+    "title": "Scp Cloud-2727",
+    "sitemap_update": 1777713225000,
+    "votings": [],
+    "is_locked": false
+}

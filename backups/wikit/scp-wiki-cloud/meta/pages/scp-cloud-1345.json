@@ -1,0 +1,78 @@
+{
+    "name": "scp-cloud-1345",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1532802710,
+            "author": 9894718,
+            "stamp": 1759847849,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532802660,
+            "author": 9894718,
+            "stamp": 1759847730,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532793211,
+            "author": 9894718,
+            "stamp": 1759820203,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532683274,
+            "author": 9894718,
+            "stamp": 1759650971,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532682653,
+            "author": 9894718,
+            "stamp": 1759648607,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532682568,
+            "author": 9894718,
+            "stamp": 1759648112,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532682443,
+            "author": 9894718,
+            "stamp": 1759647512,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460492822,
+    "rating": 2,
+    "title": "SCP-Cloud-1345  见忘症",
+    "sitemap_update": 1759847849000,
+    "votings": [
+        [
+            9807377,
+            true
+        ],
+        [
+            9894718,
+            true
+        ]
+    ],
+    "is_locked": false
+}

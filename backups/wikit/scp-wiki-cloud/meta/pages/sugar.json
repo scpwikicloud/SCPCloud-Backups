@@ -1,0 +1,101 @@
+{
+    "name": "sugar",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543820448,
+            "author": 9929144,
+            "stamp": 1778365407,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543804482,
+            "author": 9929144,
+            "stamp": 1778288192,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543792582,
+            "author": 9929144,
+            "stamp": 1778224232,
+            "flags": "A",
+            "commentary": "已新增标签：001。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543792579,
+            "author": 9929144,
+            "stamp": 1778224205,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543792569,
+            "author": 9929144,
+            "stamp": 1778224119,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv或dv都行, 原创, 往事, 抽像宇宙, 永雏塔菲, 🍬。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543792553,
+            "author": 9929144,
+            "stamp": 1778224053,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468630029,
+    "rating": 7,
+    "forum_thread": 17860774,
+    "tags": [
+        "001",
+        "scp",
+        "uv或dv都行",
+        "原创",
+        "往事",
+        "抽像宇宙",
+        "永雏塔菲",
+        "🍬"
+    ],
+    "title": "001Sugar的提案 “糖王”",
+    "sitemap_update": 1778365407000,
+    "votings": [
+        [
+            10364185,
+            true
+        ],
+        [
+            8053481,
+            true
+        ],
+        [
+            9765302,
+            true
+        ],
+        [
+            9776776,
+            true
+        ],
+        [
+            10369998,
+            true
+        ],
+        [
+            9877906,
+            true
+        ],
+        [
+            7774177,
+            true
+        ]
+    ],
+    "is_locked": false
+}

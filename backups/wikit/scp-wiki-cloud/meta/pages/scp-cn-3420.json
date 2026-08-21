@@ -1,0 +1,49 @@
+{
+    "name": "scp-cn-3420",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1524034702,
+            "author": 7071305,
+            "stamp": 1724218461,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, 乐器, 尸体, 精神影响。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523907549,
+            "author": 6452551,
+            "stamp": 1723954139,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523907547,
+            "author": 6452551,
+            "stamp": 1723954129,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456382969,
+    "rating": 1,
+    "tags": [
+        "dscp",
+        "euclid",
+        "乐器",
+        "尸体",
+        "精神影响"
+    ],
+    "title": "SCP-CN-3420",
+    "sitemap_update": 1724218461000,
+    "votings": [
+        [
+            7071305,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,48 @@
+{
+    "name": "scp-cloud-375",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531564121,
+            "author": 9007460,
+            "stamp": 1755181337,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 死之兄弟, 缢王, 遏火部。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531564033,
+            "author": 9007460,
+            "stamp": 1755180876,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531564029,
+            "author": 9007460,
+            "stamp": 1755180849,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460061057,
+    "tags": [
+        "scp",
+        "原创",
+        "死之兄弟",
+        "缢王",
+        "遏火部"
+    ],
+    "title": "SCP-Cloud-375",
+    "sitemap_update": 1755181337000,
+    "votings": [
+        [
+            9007460,
+            false
+        ]
+    ],
+    "is_locked": false
+}

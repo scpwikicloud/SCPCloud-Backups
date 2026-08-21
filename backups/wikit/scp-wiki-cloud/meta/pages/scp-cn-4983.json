@@ -1,0 +1,64 @@
+{
+    "name": "scp-cn-4983",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543827988,
+            "author": 10138896,
+            "stamp": 1778400080,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543827976,
+            "author": 10138896,
+            "stamp": 1778400032,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543827936,
+            "author": 10138896,
+            "stamp": 1778399849,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543827931,
+            "author": 10138896,
+            "stamp": 1778399829,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468637325,
+    "rating": -3,
+    "forum_thread": 17863169,
+    "tags": [
+        "dv至上",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-CN-4983",
+    "sitemap_update": 1778400080000,
+    "votings": [
+        [
+            10138896,
+            false
+        ],
+        [
+            10208396,
+            false
+        ],
+        [
+            9862467,
+            false
+        ]
+    ],
+    "is_locked": false
+}

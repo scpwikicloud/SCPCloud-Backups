@@ -1,0 +1,99 @@
+{
+    "name": "sb10112",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543669523,
+            "author": 6452551,
+            "stamp": 1777693325,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541808561,
+            "author": 9524086,
+            "stamp": 1770373776,
+            "flags": "A",
+            "commentary": "已新增标签：搬运, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541808551,
+            "author": 9524086,
+            "stamp": 1770373738,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468100080,
+    "forum_thread": 17581277,
+    "tags": [
+        "dscp",
+        "搬运",
+        "故事"
+    ],
+    "title": "所以，我选择背叛（神秘搬运）",
+    "sitemap_update": 1777693325000,
+    "votings": [
+        [
+            9889022,
+            false
+        ],
+        [
+            9655412,
+            false
+        ],
+        [
+            10229791,
+            false
+        ],
+        [
+            8178262,
+            false
+        ],
+        [
+            9571490,
+            false
+        ],
+        [
+            8199895,
+            false
+        ],
+        [
+            9877759,
+            false
+        ],
+        [
+            10138896,
+            false
+        ],
+        [
+            4726378,
+            false
+        ],
+        [
+            9757080,
+            false
+        ],
+        [
+            8683267,
+            false
+        ],
+        [
+            9671553,
+            false
+        ],
+        [
+            8893555,
+            false
+        ],
+        [
+            9683410,
+            false
+        ]
+    ],
+    "is_locked": false
+}

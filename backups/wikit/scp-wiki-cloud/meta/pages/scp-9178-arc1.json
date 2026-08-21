@@ -1,0 +1,142 @@
+{
+    "name": "scp-9178-arc1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1543668050,
+            "author": 6452551,
+            "stamp": 1777689833,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541286626,
+            "author": 8393776,
+            "stamp": 1767704032,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541283445,
+            "author": 8393776,
+            "stamp": 1767682432,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541283434,
+            "author": 8393776,
+            "stamp": 1767682331,
+            "flags": "S",
+            "commentary": "半天打不对标签的我是傻逼"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541283429,
+            "author": 8393776,
+            "stamp": 1767682289,
+            "flags": "A",
+            "commentary": "已新增标签：瞧啊，是崭新的赛博琥珀！。 移除标签：看啊，是新的赛博琥珀！。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541283423,
+            "author": 8393776,
+            "stamp": 1767682247,
+            "flags": "A",
+            "commentary": "移除标签：中分归档。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541283418,
+            "author": 8393776,
+            "stamp": 1767682222,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp, 神风。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541283330,
+            "author": 8393776,
+            "stamp": 1767682171,
+            "flags": "A",
+            "commentary": "已新增标签：byd细节占en编号, 中分归档, 何意味, 搬运, 看啊，是新的赛博琥珀！, 神风文归档。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541283318,
+            "author": 8393776,
+            "stamp": 1767682106,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541283310,
+            "author": 8393776,
+            "stamp": 1767682051,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467969063,
+    "rating": -9,
+    "forum_thread": 17517774,
+    "tags": [
+        "byd细节占en编号",
+        "dscp",
+        "dv至上",
+        "scp",
+        "何意味",
+        "搬运",
+        "瞧啊，是崭新的赛博琥珀！",
+        "神风",
+        "神风文归档"
+    ],
+    "title": "Scp 9178，但是神风二周目",
+    "sitemap_update": 1777689833000,
+    "votings": [
+        [
+            9879889,
+            false
+        ],
+        [
+            8391302,
+            false
+        ],
+        [
+            8178262,
+            false
+        ],
+        [
+            9576319,
+            false
+        ],
+        [
+            10179253,
+            false
+        ],
+        [
+            9718434,
+            false
+        ],
+        [
+            9682829,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

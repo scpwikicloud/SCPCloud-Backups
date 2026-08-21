@@ -1,0 +1,64 @@
+{
+    "name": "cren",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543668405,
+            "author": 6452551,
+            "stamp": 1777690838,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541861663,
+            "author": 9533373,
+            "stamp": 1770634025,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541773820,
+            "author": 9533373,
+            "stamp": 1770191356,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541773493,
+            "author": 9533373,
+            "stamp": 1770189786,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541773489,
+            "author": 9533373,
+            "stamp": 1770189763,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468090892,
+    "rating": -1,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-CN-2025",
+    "sitemap_update": 1777690838000,
+    "votings": [
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

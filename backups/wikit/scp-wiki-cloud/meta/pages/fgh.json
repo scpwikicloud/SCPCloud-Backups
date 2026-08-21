@@ -1,0 +1,37 @@
+{
+    "name": "fgh",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1543471738,
+            "author": 9885617,
+            "stamp": 1776736261,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543471735,
+            "author": 9885617,
+            "stamp": 1776736235,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468540742,
+    "rating": 1,
+    "tags": [
+        "故事"
+    ],
+    "title": "关于我刚才说的那件事",
+    "sitemap_update": 1776736261000,
+    "votings": [
+        [
+            10252500,
+            true
+        ]
+    ],
+    "is_locked": false
+}

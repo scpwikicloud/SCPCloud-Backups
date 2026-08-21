@@ -1,0 +1,122 @@
+{
+    "name": "i-can",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1362035289,
+            "author": 6603529,
+            "stamp": 1617531371,
+            "flags": "A",
+            "commentary": "移除标签：管理员竞选。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1362035288,
+            "author": 6603529,
+            "stamp": 1617531367,
+            "flags": "A",
+            "commentary": "已新增标签：候选人列表。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362035262,
+            "author": 6603529,
+            "stamp": 1617531224,
+            "flags": "A",
+            "commentary": "已新增标签：管理员竞选。 移除标签：管理竞选。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362035136,
+            "author": 6603529,
+            "stamp": 1617530919,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308474458,
+    "rating": 14,
+    "forum_thread": 14041151,
+    "tags": [
+        "候选人列表"
+    ],
+    "title": "I can",
+    "sitemap_update": 1617531371000,
+    "votings": [
+        [
+            6444453,
+            true
+        ],
+        [
+            6050280,
+            true
+        ],
+        [
+            4530800,
+            true
+        ],
+        [
+            6339254,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            4761754,
+            true
+        ],
+        [
+            5660240,
+            true
+        ],
+        [
+            6317957,
+            true
+        ],
+        [
+            6432947,
+            true
+        ],
+        [
+            5594111,
+            false
+        ],
+        [
+            6348925,
+            true
+        ],
+        [
+            5480202,
+            false
+        ],
+        [
+            6306406,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            6736293,
+            true
+        ],
+        [
+            6240575,
+            true
+        ],
+        [
+            6958405,
+            true
+        ],
+        [
+            5526785,
+            true
+        ]
+    ],
+    "is_locked": false
+}

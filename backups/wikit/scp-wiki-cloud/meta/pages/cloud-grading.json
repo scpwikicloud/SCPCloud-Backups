@@ -1,0 +1,69 @@
+{
+    "name": "cloud-grading",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1537811575,
+            "author": 6335947,
+            "stamp": 1762075867,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532426444,
+            "author": 7535291,
+            "stamp": 1758552495,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532426423,
+            "author": 7535291,
+            "stamp": 1758552427,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532426387,
+            "author": 7535291,
+            "stamp": 1758552236,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460431897,
+    "forum_thread": 17456188,
+    "tags": [
+        "指导"
+    ],
+    "title": "基金会人员及项目分级",
+    "sitemap_update": 1762075867000,
+    "votings": [
+        [
+            9650794,
+            true
+        ],
+        [
+            9512973,
+            true
+        ],
+        [
+            9894969,
+            false
+        ],
+        [
+            8426220,
+            true
+        ],
+        [
+            10267829,
+            true
+        ]
+    ],
+    "is_locked": false
+}

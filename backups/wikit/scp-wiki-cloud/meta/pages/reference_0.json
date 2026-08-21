@@ -1,0 +1,40 @@
+{
+    "name": "reference:0",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543863462,
+            "author": 10140214,
+            "stamp": 1778595162,
+            "flags": "A",
+            "commentary": "已新增标签：待删除。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543765057,
+            "author": 10140214,
+            "stamp": 1778069446,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543762920,
+            "author": 10140214,
+            "stamp": 1778059727,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468622500,
+    "forum_thread": 17903109,
+    "tags": [
+        "待删除"
+    ],
+    "title": "0",
+    "sitemap_update": 1778595162000,
+    "votings": [],
+    "is_locked": false
+}

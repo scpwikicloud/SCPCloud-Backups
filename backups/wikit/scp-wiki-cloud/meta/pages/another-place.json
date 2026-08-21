@@ -1,0 +1,42 @@
+{
+    "name": "another-place",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1362056279,
+            "author": 5288551,
+            "stamp": 1617629219,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362056255,
+            "author": 5288551,
+            "stamp": 1617629099,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308480131,
+    "rating": 2,
+    "forum_thread": 14041812,
+    "tags": [
+        "管理竞选"
+    ],
+    "title": "我们需要的是什么",
+    "sitemap_update": 1617629219000,
+    "votings": [
+        [
+            6335947,
+            true
+        ],
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,73 @@
+{
+    "name": "magic",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1084527140,
+            "author": 6140401,
+            "stamp": 1588811760,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1073835917,
+            "author": 6140401,
+            "stamp": 1587183323,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073835879,
+            "author": 6140401,
+            "stamp": 1587183193,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073835873,
+            "author": 6140401,
+            "stamp": 1587183168,
+            "flags": "A",
+            "commentary": "已新增标签：esp, 云小鬼对抗大法, 奇术讲座。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073835860,
+            "author": 6140401,
+            "stamp": 1587183116,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024829429,
+    "forum_thread": 13251789,
+    "tags": [
+        "esp",
+        "云小鬼对抗大法",
+        "原创",
+        "奇术讲座",
+        "故事"
+    ],
+    "title": "ESP协会专项魔法讲座1--初等对抗入门",
+    "sitemap_update": 1588811760000,
+    "votings": [
+        [
+            6104332,
+            true
+        ],
+        [
+            6175807,
+            true
+        ],
+        [
+            7099552,
+            true
+        ]
+    ],
+    "is_locked": false
+}

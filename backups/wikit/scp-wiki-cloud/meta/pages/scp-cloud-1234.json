@@ -1,0 +1,38 @@
+{
+    "name": "scp-cloud-1234",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531713185,
+            "author": 9751210,
+            "stamp": 1755911877,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531713182,
+            "author": 9751210,
+            "stamp": 1755911848,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460095787,
+    "forum_thread": 17225914,
+    "title": "SCP-CL-1234    宇宙不将再次被湮灭",
+    "sitemap_update": 1755911877000,
+    "votings": [
+        [
+            9751210,
+            true
+        ],
+        [
+            9760380,
+            false
+        ]
+    ],
+    "is_locked": false
+}

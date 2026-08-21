@@ -1,0 +1,522 @@
+{
+    "name": "scp-cloud-2555",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 47,
+            "global_revision": 1542163693,
+            "author": 9929144,
+            "stamp": 1771544538,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1541434931,
+            "author": 9929144,
+            "stamp": 1768618383,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1541434899,
+            "author": 9929144,
+            "stamp": 1768618219,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1541434890,
+            "author": 9929144,
+            "stamp": 1768618188,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1540614710,
+            "author": 9929144,
+            "stamp": 1765709472,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1540614701,
+            "author": 9929144,
+            "stamp": 1765709421,
+            "flags": "F",
+            "commentary": "已上传文件 “识人术1”。"
+        },
+        {
+            "revision": 41,
+            "global_revision": 1540614693,
+            "author": 9929144,
+            "stamp": 1765709368,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1540174911,
+            "author": 9929144,
+            "stamp": 1764749464,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1540174900,
+            "author": 9929144,
+            "stamp": 1764749429,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1540174889,
+            "author": 9929144,
+            "stamp": 1764749389,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1540174826,
+            "author": 9929144,
+            "stamp": 1764749326,
+            "flags": "F",
+            "commentary": "已上传文件 “植传植”。"
+        },
+        {
+            "revision": 36,
+            "global_revision": 1540174796,
+            "author": 9929144,
+            "stamp": 1764749257,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1540058158,
+            "author": 9929144,
+            "stamp": 1764463775,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1540058127,
+            "author": 9929144,
+            "stamp": 1764463691,
+            "flags": "F",
+            "commentary": "已上传文件 “难兄难弟”。"
+        },
+        {
+            "revision": 33,
+            "global_revision": 1540058111,
+            "author": 9929144,
+            "stamp": 1764463660,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1540037462,
+            "author": 9929144,
+            "stamp": 1764416825,
+            "flags": "A",
+            "commentary": "已新增标签：😡。"
+        },
+        {
+            "revision": 31,
+            "global_revision": 1539943111,
+            "author": 9929144,
+            "stamp": 1764207894,
+            "flags": "A",
+            "commentary": "已新增标签：抽像宇宙。"
+        },
+        {
+            "revision": 30,
+            "global_revision": 1539846087,
+            "author": 9929144,
+            "stamp": 1763894545,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1539763405,
+            "author": 9929144,
+            "stamp": 1763643159,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1539761955,
+            "author": 9929144,
+            "stamp": 1763637847,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1539761954,
+            "author": 9929144,
+            "stamp": 1763637835,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1539761948,
+            "author": 9929144,
+            "stamp": 1763637822,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1539761936,
+            "author": 9929144,
+            "stamp": 1763637784,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1539761932,
+            "author": 9929144,
+            "stamp": 1763637770,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1539761927,
+            "author": 9929144,
+            "stamp": 1763637754,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1539761918,
+            "author": 9929144,
+            "stamp": 1763637720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1539761911,
+            "author": 9929144,
+            "stamp": 1763637690,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1539761850,
+            "author": 9929144,
+            "stamp": 1763637436,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1539761831,
+            "author": 9929144,
+            "stamp": 1763637337,
+            "flags": "F",
+            "commentary": "已上传文件 “绝望的双发”。"
+        },
+        {
+            "revision": 18,
+            "global_revision": 1539757298,
+            "author": 9929144,
+            "stamp": 1763623236,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1539757288,
+            "author": 9929144,
+            "stamp": 1763623153,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1539757257,
+            "author": 9929144,
+            "stamp": 1763622932,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1539757255,
+            "author": 9929144,
+            "stamp": 1763622895,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1539757243,
+            "author": 9929144,
+            "stamp": 1763622812,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1539757239,
+            "author": 9929144,
+            "stamp": 1763622766,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1539757096,
+            "author": 9929144,
+            "stamp": 1763621529,
+            "flags": "A",
+            "commentary": "已新增标签：爱双发射手tv。 移除标签：次双发射手tv。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1539757092,
+            "author": 9929144,
+            "stamp": 1763621505,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1539716757,
+            "author": 9929144,
+            "stamp": 1763532482,
+            "flags": "A",
+            "commentary": "已新增标签：tw网络。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1539716755,
+            "author": 9929144,
+            "stamp": 1763532456,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 双发射手, 恶搞, 植物大战僵尸, 植物大战僵尸2, 次双发射手tv, 红温。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1539716752,
+            "author": 9929144,
+            "stamp": 1763532390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1539716617,
+            "author": 9929144,
+            "stamp": 1763531300,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1539716610,
+            "author": 9929144,
+            "stamp": 1763531244,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1539716522,
+            "author": 9929144,
+            "stamp": 1763530671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1539716460,
+            "author": 9929144,
+            "stamp": 1763530314,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1539716452,
+            "author": 9929144,
+            "stamp": 1763530285,
+            "flags": "F",
+            "commentary": "已上传文件 “双发射手”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539716449,
+            "author": 9929144,
+            "stamp": 1763530254,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539716438,
+            "author": 9929144,
+            "stamp": 1763530153,
+            "flags": "F",
+            "commentary": "已上传文件 “红温双发射手”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539716435,
+            "author": 9929144,
+            "stamp": 1763530116,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11685612,
+            "name": "双发射手",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2555/%E5%8F%8C%E5%8F%91%E5%B0%84%E6%89%8B",
+            "size": "34.55 kB (35375 Bytes)",
+            "size_bytes": 35375,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 858x1135, components 3",
+            "author": 9929144,
+            "stamp": 1763530285,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11694957,
+            "name": "植传植",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2555/%E6%A4%8D%E4%BC%A0%E6%A4%8D",
+            "size": "192.08 kB (196693 Bytes)",
+            "size_bytes": 196693,
+            "mime": "image/png",
+            "content": "PNG image data, 580 x 432, 8-bit/color RGB, non-interlaced",
+            "author": 9929144,
+            "stamp": 1764749326,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11685611,
+            "name": "红温双发射手",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2555/%E7%BA%A2%E6%B8%A9%E5%8F%8C%E5%8F%91%E5%B0%84%E6%89%8B",
+            "size": "183.55 kB (187952 Bytes)",
+            "size_bytes": 187952,
+            "mime": "image/png",
+            "content": "PNG image data, 889 x 995, 8-bit/color RGBA, non-interlaced",
+            "author": 9929144,
+            "stamp": 1763530153,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11686373,
+            "name": "绝望的双发",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2555/%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%8F%8C%E5%8F%91",
+            "size": "286.82 kB (293703 Bytes)",
+            "size_bytes": 293703,
+            "mime": "image/png",
+            "content": "PNG image data, 1080 x 1080, 8-bit/color RGB, non-interlaced",
+            "author": 9929144,
+            "stamp": 1763637337,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11701571,
+            "name": "识人术1",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2555/%E8%AF%86%E4%BA%BA%E6%9C%AF1",
+            "size": "1.95 MB (2039524 Bytes)",
+            "size_bytes": 2039524,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 2250x1500, components 3",
+            "author": 9929144,
+            "stamp": 1765709421,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11692796,
+            "name": "难兄难弟",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2555/%E9%9A%BE%E5%85%84%E9%9A%BE%E5%BC%9F",
+            "size": "444.64 kB (455309 Bytes)",
+            "size_bytes": 455309,
+            "mime": "image/png",
+            "content": "PNG image data, 1260 x 1260, 8-bit/color RGB, non-interlaced",
+            "author": 9929144,
+            "stamp": 1764463691,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1466969185,
+    "rating": -5,
+    "forum_thread": 17452714,
+    "tags": [
+        "dv至上",
+        "scp",
+        "tw网络",
+        "原创",
+        "双发射手",
+        "恶搞",
+        "抽像宇宙",
+        "植物大战僵尸",
+        "植物大战僵尸2",
+        "爱双发射手tv",
+        "红温",
+        "😡"
+    ],
+    "title": "Scp–Cloud–2555 红温双发射手 (已归档)",
+    "sitemap_update": 1771544538000,
+    "votings": [
+        [
+            10043108,
+            false
+        ],
+        [
+            9556346,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            9873610,
+            true
+        ],
+        [
+            9765302,
+            false
+        ],
+        [
+            8426358,
+            false
+        ],
+        [
+            9863989,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            10147700,
+            true
+        ]
+    ],
+    "is_locked": false
+}

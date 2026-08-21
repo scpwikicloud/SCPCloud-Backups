@@ -1,0 +1,84 @@
+{
+    "name": "s-cloud-1016",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540783771,
+            "author": 9554304,
+            "stamp": 1766233439,
+            "flags": "A",
+            "commentary": "已新增标签：ave, mujica, scp, 原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1537356148,
+            "author": 9554304,
+            "stamp": 1762003766,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1537355884,
+            "author": 9554304,
+            "stamp": 1762003734,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531775062,
+            "author": 9554304,
+            "stamp": 1756196856,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531775049,
+            "author": 9554304,
+            "stamp": 1756196784,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460109046,
+    "forum_thread": 17234768,
+    "tags": [
+        "ave",
+        "mujica",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP–Cloud–1016",
+    "sitemap_update": 1766233439000,
+    "votings": [
+        [
+            10306373,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            9554304,
+            true
+        ],
+        [
+            10208396,
+            true
+        ],
+        [
+            9846773,
+            true
+        ],
+        [
+            9871945,
+            true
+        ]
+    ],
+    "is_locked": false
+}

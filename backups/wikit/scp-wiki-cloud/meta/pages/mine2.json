@@ -1,0 +1,48 @@
+{
+    "name": "mine2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1518187580,
+            "author": 8842990,
+            "stamp": 1707698800,
+            "flags": "A",
+            "commentary": "已新增标签：没什么就试试标签能有多长。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1516528728,
+            "author": 8842990,
+            "stamp": 1701866402,
+            "flags": "A",
+            "commentary": "已新增标签：很怪, 水。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1516528723,
+            "author": 8842990,
+            "stamp": 1701866347,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451706721,
+    "rating": 1,
+    "forum_thread": 16504619,
+    "tags": [
+        "很怪",
+        "水",
+        "没什么就试试标签能有多长"
+    ],
+    "title": "mine2",
+    "sitemap_update": 1707698800000,
+    "votings": [
+        [
+            8842990,
+            true
+        ]
+    ],
+    "is_locked": false
+}

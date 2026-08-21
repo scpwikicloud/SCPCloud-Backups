@@ -1,0 +1,51 @@
+{
+    "name": "scp-cloud-2866",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1539495307,
+            "author": 10139052,
+            "stamp": 1763191478,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539473864,
+            "author": 10139052,
+            "stamp": 1763143796,
+            "flags": "A",
+            "commentary": "已新增标签：哲理, 梦幻, 治愈。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539473845,
+            "author": 10139052,
+            "stamp": 1763143767,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466747825,
+    "rating": 0,
+    "tags": [
+        "哲理",
+        "梦幻",
+        "治愈"
+    ],
+    "title": "SCP-CLOUD-2866",
+    "sitemap_update": 1763191478000,
+    "votings": [
+        [
+            10139052,
+            true
+        ],
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

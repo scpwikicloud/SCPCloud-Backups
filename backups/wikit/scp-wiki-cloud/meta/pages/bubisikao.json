@@ -1,0 +1,40 @@
+{
+    "name": "bubisikao",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1523907529,
+            "author": 6452551,
+            "stamp": 1723953938,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523907525,
+            "author": 6452551,
+            "stamp": 1723953923,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523907522,
+            "author": 6452551,
+            "stamp": 1723953910,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456382965,
+    "rating": 0,
+    "tags": [
+        "dscp"
+    ],
+    "title": "不必思考",
+    "sitemap_update": 1723953938000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,78 @@
+{
+    "name": "scpcloudxxx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531572345,
+            "author": 9808047,
+            "stamp": 1755226991,
+            "flags": "A",
+            "commentary": "已新增标签：基金会盒子。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531351778,
+            "author": 9808047,
+            "stamp": 1754197735,
+            "flags": "A",
+            "commentary": "已新增标签：论战。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531349302,
+            "author": 9808047,
+            "stamp": 1754184531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531349253,
+            "author": 9808047,
+            "stamp": 1754184184,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459996269,
+    "forum_thread": 17175375,
+    "tags": [
+        "基金会盒子",
+        "论战"
+    ],
+    "title": "scpcloudxxx",
+    "sitemap_update": 1755226991000,
+    "votings": [
+        [
+            9831382,
+            false
+        ],
+        [
+            6336380,
+            true
+        ],
+        [
+            9802878,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9007460,
+            false
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            9808047,
+            false
+        ]
+    ],
+    "is_locked": false
+}

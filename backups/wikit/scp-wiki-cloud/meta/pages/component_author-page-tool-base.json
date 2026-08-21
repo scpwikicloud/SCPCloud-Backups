@@ -1,0 +1,44 @@
+{
+    "name": "component:author-page-tool-base",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1533033718,
+            "author": 6335947,
+            "stamp": 1760507755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533033717,
+            "author": 6335947,
+            "stamp": 1760507741,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 0"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533033704,
+            "author": 6335947,
+            "stamp": 1760507622,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533033692,
+            "author": 6335947,
+            "stamp": 1760507477,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460696913,
+    "title": "Author Page Tool Base",
+    "sitemap_update": 1760507755000,
+    "votings": [],
+    "is_locked": false
+}

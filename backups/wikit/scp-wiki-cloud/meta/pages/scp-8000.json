@@ -1,0 +1,106 @@
+{
+    "name": "scp-8000",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1543670065,
+            "author": 6452551,
+            "stamp": 1777694308,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543320793,
+            "author": 9533373,
+            "stamp": 1776082776,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档。 移除标签：dv至上。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543320773,
+            "author": 9533373,
+            "stamp": 1776082687,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543320751,
+            "author": 9533373,
+            "stamp": 1776082630,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543320741,
+            "author": 9533373,
+            "stamp": 1776082594,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543320690,
+            "author": 9533373,
+            "stamp": 1776082316,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp, 搬运, 糟糕翻译。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543320680,
+            "author": 9533373,
+            "stamp": 1776082262,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543320626,
+            "author": 9533373,
+            "stamp": 1776082167,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543320618,
+            "author": 9533373,
+            "stamp": 1776082125,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543320611,
+            "author": 9533373,
+            "stamp": 1776082084,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468484640,
+    "rating": 1,
+    "forum_thread": 17718031,
+    "tags": [
+        "dscp",
+        "scp",
+        "中分存档",
+        "搬运",
+        "糟糕翻译"
+    ],
+    "title": "（补档）重译前的SCP-8000",
+    "sitemap_update": 1777694308000,
+    "votings": [
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,78 @@
+{
+    "name": "scp-cloud-1304",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532688745,
+            "author": 9774539,
+            "stamp": 1759672286,
+            "flags": "A",
+            "commentary": "已新增标签：caodong, 原创。 移除标签：原创caodong。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532688743,
+            "author": 9774539,
+            "stamp": 1759672276,
+            "flags": "A",
+            "commentary": "已新增标签：原创caodong。 移除标签：caodong。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531819602,
+            "author": 9774539,
+            "stamp": 1756384268,
+            "flags": "A",
+            "commentary": "已新增标签：caodong, dvdvdvdvdvdvdvdv, safe, scp, 大风吹着谁, 每个人都想当鬼, 草东没有派对, 谁就倒霉, 都一样的下賤。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531819582,
+            "author": 9774539,
+            "stamp": 1756384209,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460120931,
+    "rating": -5,
+    "tags": [
+        "caodong",
+        "dvdvdvdvdvdvdvdv",
+        "safe",
+        "scp",
+        "原创",
+        "大风吹着谁",
+        "每个人都想当鬼",
+        "草东没有派对",
+        "谁就倒霉",
+        "都一样的下賤"
+    ],
+    "title": "SCP-Cloud-1304-大风吹着谁，谁就倒霉",
+    "sitemap_update": 1759672286000,
+    "votings": [
+        [
+            9774539,
+            false
+        ],
+        [
+            9791622,
+            false
+        ],
+        [
+            8576655,
+            false
+        ],
+        [
+            9491856,
+            false
+        ],
+        [
+            9846773,
+            false
+        ]
+    ],
+    "is_locked": false
+}

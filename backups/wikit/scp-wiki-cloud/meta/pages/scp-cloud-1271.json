@@ -1,0 +1,72 @@
+{
+    "name": "scp-cloud-1271",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1532707813,
+            "author": 9891023,
+            "stamp": 1759732962,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532707778,
+            "author": 9891023,
+            "stamp": 1759732724,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532707756,
+            "author": 9891023,
+            "stamp": 1759732650,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532707748,
+            "author": 9891023,
+            "stamp": 1759732601,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532707714,
+            "author": 9891023,
+            "stamp": 1759732460,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460504021,
+    "rating": 3,
+    "forum_thread": 17308510,
+    "tags": [
+        "scp",
+        "uv至上",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-1271",
+    "sitemap_update": 1759732962000,
+    "votings": [
+        [
+            9847771,
+            true
+        ],
+        [
+            9869060,
+            true
+        ],
+        [
+            8062332,
+            true
+        ]
+    ],
+    "is_locked": false
+}

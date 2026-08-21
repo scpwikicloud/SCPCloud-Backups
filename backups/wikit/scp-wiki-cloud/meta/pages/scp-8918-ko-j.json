@@ -1,0 +1,43 @@
+{
+    "name": "scp-8918-ko-j",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544512302,
+            "author": 10252500,
+            "stamp": 1780895429,
+            "flags": "A",
+            "commentary": "已新增标签：uv。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544512291,
+            "author": 10252500,
+            "stamp": 1780895368,
+            "flags": "A",
+            "commentary": "已新增标签：ko, scp, 二次翻译, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544512286,
+            "author": 10252500,
+            "stamp": 1780895341,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468822345,
+    "tags": [
+        "ko",
+        "scp",
+        "uv",
+        "二次翻译",
+        "搬运"
+    ],
+    "title": "看看这个超级酷的蝌蚪！",
+    "sitemap_update": 1780895429000,
+    "votings": [],
+    "is_locked": false
+}

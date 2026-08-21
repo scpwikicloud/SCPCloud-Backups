@@ -1,0 +1,76 @@
+{
+    "name": "749",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543670127,
+            "author": 6452551,
+            "stamp": 1777694417,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540890784,
+            "author": 5111878,
+            "stamp": 1766392050,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540837046,
+            "author": 5111878,
+            "stamp": 1766322814,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 搬运, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540837020,
+            "author": 5111878,
+            "stamp": 1766322756,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467708765,
+    "forum_thread": 17496458,
+    "tags": [
+        "dscp",
+        "中分存档",
+        "搬运",
+        "神风文归档"
+    ],
+    "title": "论749对我们的影响",
+    "sitemap_update": 1777694417000,
+    "votings": [
+        [
+            9321285,
+            true
+        ],
+        [
+            8893555,
+            false
+        ],
+        [
+            9769479,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            9877906,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

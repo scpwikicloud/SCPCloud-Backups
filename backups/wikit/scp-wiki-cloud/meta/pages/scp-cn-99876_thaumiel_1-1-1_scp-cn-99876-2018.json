@@ -1,0 +1,33 @@
+{
+    "name": "scp-cn-99876:thaumiel:1-1-1:scp-cn-99876-2018",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 1066397008,
+            "author": 6285297,
+            "stamp": 1585719032,
+            "flags": "N",
+            "commentary": "scp-cn-99876"
+        }
+    ],
+    "files": [],
+    "page_id": 1017639565,
+    "title": "项目编号：SCP-CN-99876 (红墨)",
+    "sitemap_update": 1585719032000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            6283196,
+            true
+        ],
+        [
+            6286770,
+            false
+        ]
+    ],
+    "is_locked": false
+}

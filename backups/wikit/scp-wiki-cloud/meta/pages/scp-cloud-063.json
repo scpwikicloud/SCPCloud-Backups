@@ -1,0 +1,90 @@
+{
+    "name": "scp-cloud-063",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1506258307,
+            "author": 8317130,
+            "stamp": 1672717760,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1506258300,
+            "author": 8317130,
+            "stamp": 1672717736,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1506244509,
+            "author": 8317130,
+            "stamp": 1672663572,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1506243953,
+            "author": 8317130,
+            "stamp": 1672661819,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1506243913,
+            "author": 8317130,
+            "stamp": 1672661649,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1445374101,
+    "rating": 2,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-063",
+    "sitemap_update": 1672717760000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            8343202,
+            true
+        ],
+        [
+            8317130,
+            true
+        ],
+        [
+            9783115,
+            true
+        ],
+        [
+            8437582,
+            false
+        ],
+        [
+            8366274,
+            true
+        ],
+        [
+            8424966,
+            true
+        ],
+        [
+            8382698,
+            false
+        ]
+    ],
+    "is_locked": false
+}

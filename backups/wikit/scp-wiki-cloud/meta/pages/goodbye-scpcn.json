@@ -1,0 +1,156 @@
+{
+    "name": "goodbye-scpcn",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1538850556,
+            "author": 7465847,
+            "stamp": 1762408803,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 转载。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1533002379,
+            "author": 7465847,
+            "stamp": 1760330092,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 合著, 故事, 界外繁华。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1533002340,
+            "author": 7465847,
+            "stamp": 1760329767,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20251013122734.png”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1533002335,
+            "author": 7465847,
+            "stamp": 1760329747,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20251013122731.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1533002329,
+            "author": 7465847,
+            "stamp": 1760329713,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20251013122726.png”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1533002315,
+            "author": 7465847,
+            "stamp": 1760329674,
+            "flags": "F",
+            "commentary": "已上传文件 “QQ图片20251013122526.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533002263,
+            "author": 7465847,
+            "stamp": 1760329410,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11492048,
+            "name": "QQ图片20251013122526.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/goodbye-scpcn/QQ%E5%9B%BE%E7%89%8720251013122526.png",
+            "size": "710.25 kB (727291 Bytes)",
+            "size_bytes": 727291,
+            "mime": "image/png",
+            "content": "PNG image data, 1276 x 6159, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1760329674,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11492050,
+            "name": "QQ图片20251013122726.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/goodbye-scpcn/QQ%E5%9B%BE%E7%89%8720251013122726.png",
+            "size": "530.09 kB (542813 Bytes)",
+            "size_bytes": 542813,
+            "mime": "image/png",
+            "content": "PNG image data, 1131 x 4066, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1760329713,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11492051,
+            "name": "QQ图片20251013122731.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/goodbye-scpcn/QQ%E5%9B%BE%E7%89%8720251013122731.png",
+            "size": "564.7 kB (578256 Bytes)",
+            "size_bytes": 578256,
+            "mime": "image/png",
+            "content": "PNG image data, 1106 x 3923, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1760329747,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11492052,
+            "name": "QQ图片20251013122734.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/goodbye-scpcn/QQ%E5%9B%BE%E7%89%8720251013122734.png",
+            "size": "465.57 kB (476745 Bytes)",
+            "size_bytes": 476745,
+            "mime": "image/png",
+            "content": "PNG image data, 1129 x 3330, 8-bit/color RGB, non-interlaced",
+            "author": 7465847,
+            "stamp": 1760329767,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460686415,
+    "rating": 5,
+    "forum_thread": 17341552,
+    "tags": [
+        "中分存档",
+        "原创",
+        "合著",
+        "故事",
+        "界外繁华",
+        "转载"
+    ],
+    "title": "我曾是一名SCP写手",
+    "sitemap_update": 1762408803000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9846755,
+            true
+        ],
+        [
+            6335947,
+            true
+        ],
+        [
+            9873610,
+            true
+        ],
+        [
+            9581894,
+            true
+        ],
+        [
+            9491856,
+            true
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,56 @@
+{
+    "name": "scp-cn-4010",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543668691,
+            "author": 6452551,
+            "stamp": 1777691556,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539886866,
+            "author": 9979304,
+            "stamp": 1763989422,
+            "flags": "A",
+            "commentary": "已新增标签：中分转载, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539886859,
+            "author": 9979304,
+            "stamp": 1763989410,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467081385,
+    "rating": -3,
+    "forum_thread": 17458016,
+    "tags": [
+        "dscp",
+        "中分转载",
+        "搬运"
+    ],
+    "title": "SCP-CN-4010",
+    "sitemap_update": 1777691556000,
+    "votings": [
+        [
+            9767729,
+            false
+        ],
+        [
+            9406477,
+            false
+        ],
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

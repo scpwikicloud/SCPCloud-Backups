@@ -1,0 +1,89 @@
+{
+    "name": "wu-yancheng1437-s-proposal",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543782736,
+            "author": 10252500,
+            "stamp": 1778165512,
+            "flags": "S",
+            "commentary": "一些措辞的修改"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543760989,
+            "author": 10252500,
+            "stamp": 1778048905,
+            "flags": "A",
+            "commentary": "已新增标签：梗, 美食。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543760799,
+            "author": 10252500,
+            "stamp": 1778047411,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543760622,
+            "author": 10252500,
+            "stamp": 1778046224,
+            "flags": "A",
+            "commentary": "已新增标签：archon。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543760610,
+            "author": 10252500,
+            "stamp": 1778046099,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, scp, 云国抽象社, 原创, 超现实部。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543760606,
+            "author": 10252500,
+            "stamp": 1778046064,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468621841,
+    "rating": 4,
+    "tags": [
+        "001提案",
+        "archon",
+        "scp",
+        "uv至上",
+        "云国抽象社",
+        "原创",
+        "梗",
+        "美食",
+        "超现实部"
+    ],
+    "title": "SCP-CLOUD-001 梗与烤糊的蛋挞",
+    "sitemap_update": 1778165512000,
+    "votings": [
+        [
+            10179253,
+            true
+        ],
+        [
+            10140214,
+            true
+        ],
+        [
+            10211565,
+            true
+        ],
+        [
+            10252500,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,47 @@
+{
+    "name": "scp-cloud-993",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1524644160,
+            "author": 3429159,
+            "stamp": 1726496790,
+            "flags": "A",
+            "commentary": "已新增标签：非原创。 移除标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1524264395,
+            "author": 8305255,
+            "stamp": 1724942211,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518876163,
+            "author": 3429159,
+            "stamp": 1710051643,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452958043,
+    "forum_thread": 16746833,
+    "tags": [
+        "keter",
+        "scp",
+        "非原创"
+    ],
+    "title": "SCP-Cl-993",
+    "sitemap_update": 1726496790000,
+    "votings": [
+        [
+            3429159,
+            true
+        ]
+    ],
+    "is_locked": false
+}

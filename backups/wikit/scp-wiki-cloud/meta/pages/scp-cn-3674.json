@@ -1,0 +1,53 @@
+{
+    "name": "scp-cn-3674",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543668524,
+            "author": 6452551,
+            "stamp": 1777691112,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540834255,
+            "author": 5111878,
+            "stamp": 1766318345,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 搬运, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540834193,
+            "author": 5111878,
+            "stamp": 1766318283,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467706724,
+    "rating": -2,
+    "forum_thread": 17495967,
+    "tags": [
+        "dscp",
+        "中分存档",
+        "搬运",
+        "神风文归档"
+    ],
+    "title": "SCP-CN-3674",
+    "sitemap_update": 1777691112000,
+    "votings": [
+        [
+            9884343,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

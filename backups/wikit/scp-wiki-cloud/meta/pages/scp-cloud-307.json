@@ -1,0 +1,75 @@
+{
+    "name": "scp-cloud-307",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1541019454,
+            "author": 8393776,
+            "stamp": 1766673163,
+            "flags": "S",
+            "commentary": "虫"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541019206,
+            "author": 8393776,
+            "stamp": 1766672791,
+            "flags": "S",
+            "commentary": "哦草我没加评分模块"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541019114,
+            "author": 8393776,
+            "stamp": 1766672650,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541018892,
+            "author": 8393776,
+            "stamp": 1766672336,
+            "flags": "A",
+            "commentary": "已新增标签：2026短文竞赛, 2026短文重盾, scp, uv至上, 人工智能, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541018713,
+            "author": 8393776,
+            "stamp": 1766672024,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467835641,
+    "rating": 3,
+    "forum_thread": 17498414,
+    "tags": [
+        "2026短文竞赛",
+        "2026短文重盾",
+        "scp",
+        "uv至上",
+        "人工智能",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-307",
+    "sitemap_update": 1766673163000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            9874148,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,88 @@
+{
+    "name": "scp-cloud-2232",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540976689,
+            "author": 9884343,
+            "stamp": 1766592407,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540976660,
+            "author": 9884343,
+            "stamp": 1766592337,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540976638,
+            "author": 9884343,
+            "stamp": 1766592309,
+            "flags": "F",
+            "commentary": "已上传文件 “IMG_20251218_205001_839.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540976621,
+            "author": 9884343,
+            "stamp": 1766592284,
+            "flags": "A",
+            "commentary": "已新增标签：2026短文竞赛, 2026短文铁幕, site-cn-76, 传送, 欢愉使者, 空间异常。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540976597,
+            "author": 9884343,
+            "stamp": 1766592248,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11707521,
+            "name": "IMG_20251218_205001_839.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2232/IMG_20251218_205001_839.jpg",
+            "size": "32.57 kB (33356 Bytes)",
+            "size_bytes": 33356,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 837x364, components 3",
+            "author": 9884343,
+            "stamp": 1766592309,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467801700,
+    "tags": [
+        "2026短文竞赛",
+        "2026短文铁幕",
+        "euclid",
+        "scp",
+        "site-cn-76",
+        "传送",
+        "欢愉使者",
+        "空间异常"
+    ],
+    "title": "SCP-Cloud-2232",
+    "sitemap_update": 1766592407000,
+    "votings": [
+        [
+            9929144,
+            true
+        ],
+        [
+            9874148,
+            true
+        ],
+        [
+            9769479,
+            true
+        ]
+    ],
+    "is_locked": false
+}

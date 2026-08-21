@@ -1,0 +1,64 @@
+{
+    "name": "special-shelter-measures",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543669185,
+            "author": 6452551,
+            "stamp": 1777692586,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542274005,
+            "author": 9533373,
+            "stamp": 1771931135,
+            "flags": "A",
+            "commentary": "移除标签：逆模因。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542273997,
+            "author": 9533373,
+            "stamp": 1771931116,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 逆模因。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542273991,
+            "author": 9533373,
+            "stamp": 1771931102,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542273987,
+            "author": 9533373,
+            "stamp": 1771931084,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468170024,
+    "rating": -1,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "搬运",
+        "故事"
+    ],
+    "title": "Special shelter measures",
+    "sitemap_update": 1777692586000,
+    "votings": [
+        [
+            8426220,
+            false
+        ]
+    ],
+    "is_locked": false
+}

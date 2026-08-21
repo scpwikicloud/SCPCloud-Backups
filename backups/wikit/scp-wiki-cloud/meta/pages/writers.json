@@ -1,0 +1,60 @@
+{
+    "name": "writers",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1215096595,
+            "author": 6518593,
+            "stamp": 1592987868,
+            "flags": "A",
+            "commentary": "已新增标签：方块博士writers。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1215033438,
+            "author": 6382461,
+            "stamp": 1592712386,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1215033295,
+            "author": 6382461,
+            "stamp": 1592711657,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 梅公馆。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1215033284,
+            "author": 6382461,
+            "stamp": 1592711587,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165104847,
+    "forum_thread": 13443492,
+    "tags": [
+        "原创",
+        "故事",
+        "方块博士writers",
+        "梅公馆"
+    ],
+    "title": "Writers博士沙雕时刻",
+    "sitemap_update": 1592987868000,
+    "votings": [
+        [
+            6225532,
+            false
+        ],
+        [
+            6410237,
+            true
+        ]
+    ],
+    "is_locked": false
+}

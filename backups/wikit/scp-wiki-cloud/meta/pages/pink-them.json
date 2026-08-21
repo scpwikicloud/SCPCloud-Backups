@@ -1,0 +1,52 @@
+{
+    "name": "pink-them",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1519421104,
+            "author": 8842990,
+            "stamp": 1712287190,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1519421052,
+            "author": 8842990,
+            "stamp": 1712287033,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 版式, 需更新。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519421043,
+            "author": 8842990,
+            "stamp": 1712287001,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453238159,
+    "rating": 2,
+    "forum_thread": 16764609,
+    "tags": [
+        "原创",
+        "版式",
+        "需更新"
+    ],
+    "title": "odoubluf的粉色版式（有Bug）",
+    "sitemap_update": 1712287190000,
+    "votings": [
+        [
+            8462980,
+            true
+        ],
+        [
+            8842990,
+            true
+        ]
+    ],
+    "is_locked": false
+}

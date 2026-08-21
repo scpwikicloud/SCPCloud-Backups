@@ -1,0 +1,80 @@
+{
+    "name": "collab:empty",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1542679716,
+            "author": 8393776,
+            "stamp": 1773569737,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542679595,
+            "author": 8393776,
+            "stamp": 1773569380,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542679581,
+            "author": 8393776,
+            "stamp": 1773569339,
+            "flags": "A",
+            "commentary": "已新增标签：合作。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542679573,
+            "author": 8393776,
+            "stamp": 1773569319,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542679559,
+            "author": 8393776,
+            "stamp": 1773569289,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468266756,
+    "rating": 5,
+    "forum_thread": 17624924,
+    "tags": [
+        "中心",
+        "合作",
+        "搬运"
+    ],
+    "title": "空白至上 中心页",
+    "sitemap_update": 1773569737000,
+    "votings": [
+        [
+            9458014,
+            true
+        ],
+        [
+            8893555,
+            true
+        ],
+        [
+            9863989,
+            true
+        ],
+        [
+            10255282,
+            true
+        ],
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

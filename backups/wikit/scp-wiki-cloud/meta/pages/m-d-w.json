@@ -1,0 +1,41 @@
+{
+    "name": "m-d-w",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1531511596,
+            "author": 9007460,
+            "stamp": 1755001557,
+            "flags": "A",
+            "commentary": "已新增标签：人事, 人事档案, 作者, 作者页, 原创, 设定。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531511576,
+            "author": 9007460,
+            "stamp": 1755001444,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460036408,
+    "tags": [
+        "人事",
+        "人事档案",
+        "作者",
+        "作者页",
+        "原创",
+        "设定"
+    ],
+    "title": "Maple-Dream的人事档案",
+    "sitemap_update": 1755001557000,
+    "votings": [
+        [
+            9321285,
+            true
+        ]
+    ],
+    "is_locked": false
+}

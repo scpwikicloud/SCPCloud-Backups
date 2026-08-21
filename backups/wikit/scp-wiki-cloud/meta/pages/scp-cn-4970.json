@@ -1,0 +1,104 @@
+{
+    "name": "scp-cn-4970",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1543669036,
+            "author": 6452551,
+            "stamp": 1777692237,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542501971,
+            "author": 9906554,
+            "stamp": 1772971617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542501769,
+            "author": 9906554,
+            "stamp": 1772971230,
+            "flags": "A",
+            "commentary": "已新增标签：越看越不对。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542501762,
+            "author": 9906554,
+            "stamp": 1772971195,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542501548,
+            "author": 9906554,
+            "stamp": 1772970556,
+            "flags": "A",
+            "commentary": "已新增标签：何意味, 神风文归档。 移除标签：像是神风, 归档。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542501535,
+            "author": 9906554,
+            "stamp": 1772970501,
+            "flags": "A",
+            "commentary": "已新增标签：像是神风。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542492029,
+            "author": 9906554,
+            "stamp": 1772931486,
+            "flags": "A",
+            "commentary": "已新增标签：ai嫌疑, scp, 归档。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542492017,
+            "author": 9906554,
+            "stamp": 1772931457,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542491983,
+            "author": 9906554,
+            "stamp": 1772931330,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468224659,
+    "rating": -2,
+    "tags": [
+        "ai嫌疑",
+        "dscp",
+        "euclid",
+        "scp",
+        "何意味",
+        "搬运",
+        "神风文归档",
+        "越看越不对"
+    ],
+    "title": "SCP-CN-4970",
+    "sitemap_update": 1777692237000,
+    "votings": [
+        [
+            9906554,
+            false
+        ],
+        [
+            8738413,
+            false
+        ]
+    ],
+    "is_locked": false
+}

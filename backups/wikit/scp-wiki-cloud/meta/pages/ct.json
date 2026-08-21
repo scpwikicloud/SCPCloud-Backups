@@ -1,0 +1,81 @@
+{
+    "name": "ct",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1362074954,
+            "author": 4530800,
+            "stamp": 1617723146,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362074924,
+            "author": 4530800,
+            "stamp": 1617722918,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362074860,
+            "author": 4530800,
+            "stamp": 1617722800,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308486313,
+    "rating": 9,
+    "forum_thread": 14042449,
+    "tags": [
+        "scp",
+        "原创",
+        "故事",
+        "管理竞选"
+    ],
+    "title": "CT的管理员参选演说",
+    "sitemap_update": 1617723146000,
+    "votings": [
+        [
+            5967235,
+            true
+        ],
+        [
+            6335947,
+            true
+        ],
+        [
+            6335314,
+            true
+        ],
+        [
+            4761754,
+            true
+        ],
+        [
+            6324658,
+            true
+        ],
+        [
+            6901254,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            4888797,
+            true
+        ],
+        [
+            6188400,
+            true
+        ]
+    ],
+    "is_locked": false
+}

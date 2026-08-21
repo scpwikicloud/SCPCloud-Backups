@@ -1,0 +1,89 @@
+{
+    "name": "scp-cloud-986",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543997216,
+            "author": 8096414,
+            "stamp": 1779046165,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543997202,
+            "author": 8096414,
+            "stamp": 1779046070,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543997182,
+            "author": 8096414,
+            "stamp": 1779045943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543997160,
+            "author": 8096414,
+            "stamp": 1779045760,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543997116,
+            "author": 8096414,
+            "stamp": 1779045514,
+            "flags": "A",
+            "commentary": "已新增标签：pjsk, scp, 别的音游什么巴拉巴拉的, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543997110,
+            "author": 8096414,
+            "stamp": 1779045486,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468678165,
+    "rating": 5,
+    "forum_thread": 17920165,
+    "tags": [
+        "pjsk",
+        "scp",
+        "别的音游什么巴拉巴拉的",
+        "原创"
+    ],
+    "title": "SCP- CLOUD-986 pjsk",
+    "sitemap_update": 1779046165000,
+    "votings": [
+        [
+            7932452,
+            true
+        ],
+        [
+            9862407,
+            true
+        ],
+        [
+            10138896,
+            true
+        ],
+        [
+            8096414,
+            true
+        ],
+        [
+            10140214,
+            true
+        ]
+    ],
+    "is_locked": false
+}

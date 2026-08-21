@@ -1,0 +1,31 @@
+{
+    "name": "fragment:front-page-gridcode",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1527838469,
+            "author": 7535291,
+            "stamp": 1739710083,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527838455,
+            "author": 7535291,
+            "stamp": 1739710048,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458454065,
+    "tags": [
+        "组件"
+    ],
+    "title": "fragment:front-page-gridcode",
+    "sitemap_update": 1739710083000,
+    "votings": [],
+    "is_locked": true
+}

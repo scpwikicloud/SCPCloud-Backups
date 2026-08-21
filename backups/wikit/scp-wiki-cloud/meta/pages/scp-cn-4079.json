@@ -1,0 +1,70 @@
+{
+    "name": "scp-cn-4079",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543668117,
+            "author": 6452551,
+            "stamp": 1777690067,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542279370,
+            "author": 8287166,
+            "stamp": 1771944450,
+            "flags": "A",
+            "commentary": "已新增标签：神风文归档, 转载。 移除标签：转载神风文归档。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542279361,
+            "author": 8287166,
+            "stamp": 1771944430,
+            "flags": "A",
+            "commentary": "已新增标签：转载神风文归档。 移除标签：神风文归档。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542279338,
+            "author": 8287166,
+            "stamp": 1771944348,
+            "flags": "A",
+            "commentary": "已新增标签：dv, 中分存档, 搬运, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542279309,
+            "author": 8287166,
+            "stamp": 1771944278,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468171039,
+    "rating": 0,
+    "tags": [
+        "dscp",
+        "dv",
+        "中分存档",
+        "搬运",
+        "神风文归档",
+        "转载"
+    ],
+    "title": "Scp Cn 4079",
+    "sitemap_update": 1777690067000,
+    "votings": [
+        [
+            9089385,
+            true
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,88 @@
+{
+    "name": "fragment:huanmeng-001-10",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1518349571,
+            "author": 9007460,
+            "stamp": 1708331138,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:huanmeng-is-001-tian\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1494843432,
+            "author": 7892243,
+            "stamp": 1661988777,
+            "flags": "M",
+            "commentary": "父页面设置为: \"\"."
+        },
+        {
+            "revision": 6,
+            "global_revision": 1493467083,
+            "author": 7892243,
+            "stamp": 1661850101,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1492605771,
+            "author": 7892243,
+            "stamp": 1661840969,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"fragment:scp-cloud-001-10\" 至 \"fragment:huanmeng-001-10\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1492587909,
+            "author": 7892243,
+            "stamp": 1661840692,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1492453706,
+            "author": 7892243,
+            "stamp": 1661839330,
+            "flags": "M",
+            "commentary": "父页面设置为: \"collab:huanmeng-is-001-tian\"."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1492448831,
+            "author": 7892243,
+            "stamp": 1661839272,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1492442740,
+            "author": 7892243,
+            "stamp": 1661839197,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1492439204,
+            "author": 7892243,
+            "stamp": 1661839158,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1433057530,
+    "parent": "collab:huanmeng-is-001-tian",
+    "tags": [
+        "段落"
+    ],
+    "title": "投票结果",
+    "sitemap_update": 1708331138000,
+    "votings": [],
+    "is_locked": false
+}

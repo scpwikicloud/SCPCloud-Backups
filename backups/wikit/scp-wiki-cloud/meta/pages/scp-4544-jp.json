@@ -1,0 +1,139 @@
+{
+    "name": "scp-4544-jp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1543668268,
+            "author": 6452551,
+            "stamp": 1777690508,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1542683417,
+            "author": 9533373,
+            "stamp": 1773579636,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1542683395,
+            "author": 9533373,
+            "stamp": 1773579596,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1541861681,
+            "author": 9533373,
+            "stamp": 1770634096,
+            "flags": "A",
+            "commentary": "已新增标签：jp, scp。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1541790961,
+            "author": 9533373,
+            "stamp": 1770279803,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1541790092,
+            "author": 9533373,
+            "stamp": 1770274033,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1541790086,
+            "author": 9533373,
+            "stamp": 1770273985,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541790069,
+            "author": 9533373,
+            "stamp": 1770273875,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541790064,
+            "author": 9533373,
+            "stamp": 1770273789,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541790028,
+            "author": 9533373,
+            "stamp": 1770273517,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, yellow, 搬运。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541790023,
+            "author": 9533373,
+            "stamp": 1770273467,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541790018,
+            "author": 9533373,
+            "stamp": 1770273423,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541790011,
+            "author": 9533373,
+            "stamp": 1770273364,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541790007,
+            "author": 9533373,
+            "stamp": 1770273333,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468095067,
+    "rating": -1,
+    "forum_thread": 17580456,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "jp",
+        "scp",
+        "yellow",
+        "搬运"
+    ],
+    "title": "SCP-4544-JP（机翻+原文）",
+    "sitemap_update": 1777690508000,
+    "votings": [
+        [
+            9533373,
+            false
+        ]
+    ],
+    "is_locked": false
+}

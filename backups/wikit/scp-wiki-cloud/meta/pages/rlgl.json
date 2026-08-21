@@ -1,0 +1,131 @@
+{
+    "name": "rlgl",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1357215735,
+            "author": 6240575,
+            "stamp": 1603808440,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1318547315,
+            "author": 6603529,
+            "stamp": 1598579858,
+            "flags": "A",
+            "commentary": "移除标签：精品。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1312003996,
+            "author": 6240575,
+            "stamp": 1598078463,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 精品。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1312003203,
+            "author": 6240575,
+            "stamp": 1598078444,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1261324359,
+    "rating": -16,
+    "forum_thread": 13664197,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CN-114514-J O5-01回到站点，发现收容失效！O5-01一声令下，十万MTF队员...",
+    "sitemap_update": 1603808440000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            6780414,
+            true
+        ],
+        [
+            6979631,
+            false
+        ],
+        [
+            6127045,
+            false
+        ],
+        [
+            7262242,
+            false
+        ],
+        [
+            6077090,
+            false
+        ],
+        [
+            6401471,
+            false
+        ],
+        [
+            6351354,
+            false
+        ],
+        [
+            7239770,
+            false
+        ],
+        [
+            4787097,
+            false
+        ],
+        [
+            6324658,
+            false
+        ],
+        [
+            9050032,
+            false
+        ],
+        [
+            9007460,
+            false
+        ],
+        [
+            6432694,
+            false
+        ],
+        [
+            7198635,
+            false
+        ],
+        [
+            5099361,
+            true
+        ],
+        [
+            6878659,
+            false
+        ],
+        [
+            5718313,
+            false
+        ],
+        [
+            6240575,
+            false
+        ],
+        [
+            6603529,
+            false
+        ]
+    ],
+    "is_locked": false
+}

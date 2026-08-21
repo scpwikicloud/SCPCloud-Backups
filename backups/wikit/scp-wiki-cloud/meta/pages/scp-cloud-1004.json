@@ -1,0 +1,55 @@
+{
+    "name": "scp-cloud-1004",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1528146015,
+            "author": 7271254,
+            "stamp": 1740828895,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528146010,
+            "author": 7271254,
+            "stamp": 1740828870,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528146006,
+            "author": 7271254,
+            "stamp": 1740828851,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458618345,
+    "rating": 3,
+    "forum_thread": 17054035,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-1004",
+    "sitemap_update": 1740828895000,
+    "votings": [
+        [
+            9110060,
+            true
+        ],
+        [
+            9743391,
+            true
+        ],
+        [
+            9664546,
+            true
+        ]
+    ],
+    "is_locked": false
+}

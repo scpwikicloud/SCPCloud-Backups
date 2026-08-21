@@ -1,0 +1,87 @@
+{
+    "name": "shenrenduanzi",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1541225176,
+            "author": 9552098,
+            "stamp": 1767343150,
+            "flags": "A",
+            "commentary": "已新增标签：合作, 故事。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541225064,
+            "author": 9552098,
+            "stamp": 1767342881,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 搞笑。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541225056,
+            "author": 9552098,
+            "stamp": 1767342841,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541225036,
+            "author": 9552098,
+            "stamp": 1767342685,
+            "flags": "F",
+            "commentary": "已上传文件 “神人段子一”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541225035,
+            "author": 9552098,
+            "stamp": 1767342684,
+            "flags": "F",
+            "commentary": "已上传文件 “神人段子一”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541225013,
+            "author": 9552098,
+            "stamp": 1767342502,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11712356,
+            "name": "神人段子一",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/shenrenduanzi/%E7%A5%9E%E4%BA%BA%E6%AE%B5%E5%AD%90%E4%B8%80",
+            "size": "1.09 MB (1143749 Bytes)",
+            "size_bytes": 1143749,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 144x144, segment length 16, Exif Standard: , baseline, precision 8, 640x9854, components 3",
+            "author": 9552098,
+            "stamp": 1767342685,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467954265,
+    "rating": -1,
+    "forum_thread": 17505291,
+    "tags": [
+        "dv至上",
+        "原创",
+        "合作",
+        "搞笑",
+        "故事"
+    ],
+    "title": "神人段子（持续更新中）",
+    "sitemap_update": 1767343150000,
+    "votings": [
+        [
+            8393776,
+            false
+        ]
+    ],
+    "is_locked": false
+}

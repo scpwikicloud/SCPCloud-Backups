@@ -1,0 +1,58 @@
+{
+    "name": "scp-cloud-2100",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1541227351,
+            "author": 9884343,
+            "stamp": 1767350591,
+            "flags": "A",
+            "commentary": "已新增标签：移情作用（存疑）。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539686198,
+            "author": 9884343,
+            "stamp": 1763394567,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 交通工具, 光照影响, 十一月之雨, 听觉影响, 异常移动, 日车仙人, 精神影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539686168,
+            "author": 9884343,
+            "stamp": 1763394528,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466914234,
+    "forum_thread": 17455795,
+    "tags": [
+        "euclid",
+        "scp",
+        "交通工具",
+        "光照影响",
+        "十一月之雨",
+        "听觉影响",
+        "异常移动",
+        "日车仙人",
+        "移情作用（存疑）",
+        "精神影响"
+    ],
+    "title": "SCP-Cloud-2100",
+    "sitemap_update": 1767350591000,
+    "votings": [
+        [
+            9819793,
+            true
+        ],
+        [
+            9863989,
+            true
+        ]
+    ],
+    "is_locked": false
+}

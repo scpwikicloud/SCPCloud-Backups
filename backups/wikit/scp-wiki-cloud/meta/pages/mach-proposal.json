@@ -1,0 +1,40 @@
+{
+    "name": "mach-proposal",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1515667027,
+            "author": 7274437,
+            "stamp": 1698935235,
+            "flags": "A",
+            "commentary": "已新增标签：反正没人看标签我就瞎写了, 提案, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1515666982,
+            "author": 7274437,
+            "stamp": 1698935149,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1451201535,
+    "rating": 1,
+    "forum_thread": 16496723,
+    "tags": [
+        "反正没人看标签我就瞎写了",
+        "提案",
+        "故事"
+    ],
+    "title": "Mach博士的提案：我，我们",
+    "sitemap_update": 1698935235000,
+    "votings": [
+        [
+            7890731,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,69 @@
+{
+    "name": "scp-cloud-844",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1517128383,
+            "author": 7274437,
+            "stamp": 1704288984,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, safe, scp, 原创, 宗教。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1517128377,
+            "author": 7274437,
+            "stamp": 1704288945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1517128346,
+            "author": 7274437,
+            "stamp": 1704288744,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1517128341,
+            "author": 7274437,
+            "stamp": 1704288716,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452022046,
+    "rating": 4,
+    "tags": [
+        "euclid",
+        "safe",
+        "scp",
+        "原创",
+        "宗教"
+    ],
+    "title": "SCP Cloud 844",
+    "sitemap_update": 1704288984000,
+    "votings": [
+        [
+            8236761,
+            true
+        ],
+        [
+            7274437,
+            true
+        ],
+        [
+            8410585,
+            true
+        ],
+        [
+            8842990,
+            true
+        ]
+    ],
+    "is_locked": false
+}

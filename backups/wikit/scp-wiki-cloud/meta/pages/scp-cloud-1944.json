@@ -1,0 +1,81 @@
+{
+    "name": "scp-cloud-1944",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532851804,
+            "author": 9894718,
+            "stamp": 1759922125,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, scp, uv至上, 整活。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532851315,
+            "author": 9894718,
+            "stamp": 1759921500,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532851276,
+            "author": 9894718,
+            "stamp": 1759921318,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460607553,
+    "rating": 7,
+    "forum_thread": 17322151,
+    "tags": [
+        "2025整活大赛",
+        "scp",
+        "uv至上",
+        "整活"
+    ],
+    "title": "SCP-Cloud-1944 雷区",
+    "sitemap_update": 1759922125000,
+    "votings": [
+        [
+            9897562,
+            true
+        ],
+        [
+            9859027,
+            false
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            9807361,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            9818644,
+            true
+        ],
+        [
+            8824993,
+            true
+        ],
+        [
+            9491856,
+            true
+        ],
+        [
+            9894718,
+            true
+        ]
+    ],
+    "is_locked": false
+}

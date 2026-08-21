@@ -1,0 +1,104 @@
+{
+    "name": "scp-cloud-126",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1527787260,
+            "author": 7535291,
+            "stamp": 1739476341,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"mlgb\" 至 \"scp-cloud-126\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1084479822,
+            "author": 6240575,
+            "stamp": 1588686362,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1084402500,
+            "author": 6329390,
+            "stamp": 1588596265,
+            "flags": "F",
+            "commentary": "已上传文件 “黑犀铠甲.jpg”。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1084277575,
+            "author": 6240575,
+            "stamp": 1588505767,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084275741,
+            "author": 6240575,
+            "stamp": 1588499152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084275733,
+            "author": 6240575,
+            "stamp": 1588499102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1084275194,
+            "author": 6240575,
+            "stamp": 1588496790,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9051150,
+            "name": "黑犀铠甲.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-126/%E9%BB%91%E7%8A%80%E9%93%A0%E7%94%B2.jpg",
+            "size": "32.92 kB (33715 Bytes)",
+            "size_bytes": 33715,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6329390,
+            "stamp": 1588596265,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1035036492,
+    "rating": 4,
+    "forum_thread": 13287451,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-126 黑犀铠甲",
+    "sitemap_update": 1739476341000,
+    "votings": [
+        [
+            6329904,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            8420958,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

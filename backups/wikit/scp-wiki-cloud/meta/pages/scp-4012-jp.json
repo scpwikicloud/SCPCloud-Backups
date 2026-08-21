@@ -1,0 +1,124 @@
+{
+    "name": "scp-4012-jp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1543669770,
+            "author": 6452551,
+            "stamp": 1777693766,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1542394532,
+            "author": 9533373,
+            "stamp": 1772512400,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1542394529,
+            "author": 9533373,
+            "stamp": 1772512369,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1542394526,
+            "author": 9533373,
+            "stamp": 1772512353,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542394483,
+            "author": 9533373,
+            "stamp": 1772512170,
+            "flags": "A",
+            "commentary": "移除标签：ai, ai文。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1542394472,
+            "author": 9533373,
+            "stamp": 1772512114,
+            "flags": "A",
+            "commentary": "已新增标签：ai, ai文。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1542394453,
+            "author": 9533373,
+            "stamp": 1772512027,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542394404,
+            "author": 9533373,
+            "stamp": 1772511931,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542394231,
+            "author": 9533373,
+            "stamp": 1772511351,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542394210,
+            "author": 9533373,
+            "stamp": 1772511291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542381530,
+            "author": 9533373,
+            "stamp": 1772444672,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542381509,
+            "author": 9533373,
+            "stamp": 1772444556,
+            "flags": "A",
+            "commentary": "已新增标签：jp, scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542381503,
+            "author": 9533373,
+            "stamp": 1772444527,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468192217,
+    "rating": 0,
+    "forum_thread": 17791104,
+    "tags": [
+        "dscp",
+        "jp",
+        "scp",
+        "搬运"
+    ],
+    "title": "（日分搬运）Scp 9899 チャージマン",
+    "sitemap_update": 1777693766000,
+    "votings": [],
+    "is_locked": false
+}

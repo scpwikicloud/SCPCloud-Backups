@@ -1,0 +1,68 @@
+{
+    "name": "survival-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1389380968,
+            "author": 7892243,
+            "stamp": 1646522611,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 爱死西皮基金会, 生存指南。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1389070727,
+            "author": 6678040,
+            "stamp": 1645791887,
+            "flags": "A",
+            "commentary": "已新增标签：怎么都不加标签啊（恼）, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388973209,
+            "author": 6335947,
+            "stamp": 1645278507,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331745439,
+    "tags": [
+        "原创",
+        "怎么都不加标签啊（恼）",
+        "故事",
+        "爱死西皮基金会",
+        "生存指南"
+    ],
+    "title": "爱死西皮基金会圈子生存指南",
+    "sitemap_update": 1646522611000,
+    "votings": [
+        [
+            6197154,
+            false
+        ],
+        [
+            9655412,
+            false
+        ],
+        [
+            7874533,
+            true
+        ],
+        [
+            6228833,
+            false
+        ],
+        [
+            7345516,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,76 @@
+{
+    "name": "lbs",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1198183873,
+            "author": 6240575,
+            "stamp": 1591794911,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1198159802,
+            "author": 6240575,
+            "stamp": 1591700443,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1198159796,
+            "author": 6240575,
+            "stamp": 1591700416,
+            "flags": "A",
+            "commentary": "已新增标签：中分荣耀, 原创, 背景故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1198159724,
+            "author": 6240575,
+            "stamp": 1591700139,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1148380643,
+    "rating": 6,
+    "forum_thread": 13442096,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "背景故事"
+    ],
+    "title": "卢博士的背景故事",
+    "sitemap_update": 1591794911000,
+    "votings": [
+        [
+            6127045,
+            true
+        ],
+        [
+            6173283,
+            true
+        ],
+        [
+            6324658,
+            true
+        ],
+        [
+            6317957,
+            true
+        ],
+        [
+            6212503,
+            true
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

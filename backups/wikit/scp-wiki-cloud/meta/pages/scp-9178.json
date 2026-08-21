@@ -1,0 +1,95 @@
+{
+    "name": "scp-9178",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543668038,
+            "author": 6452551,
+            "stamp": 1777689807,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541269765,
+            "author": 8724347,
+            "stamp": 1767591407,
+            "flags": "A",
+            "commentary": "已新增标签：神风, 神风文归档。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541239191,
+            "author": 8724347,
+            "stamp": 1767415585,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541239181,
+            "author": 8724347,
+            "stamp": 1767415550,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467957684,
+    "rating": -8,
+    "forum_thread": 17506398,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "搬运",
+        "神风",
+        "神风文归档"
+    ],
+    "title": "Scp 9178 不许上课睡觉！",
+    "sitemap_update": 1777689807000,
+    "votings": [
+        [
+            9533373,
+            false
+        ],
+        [
+            8391302,
+            false
+        ],
+        [
+            9655412,
+            false
+        ],
+        [
+            8178262,
+            false
+        ],
+        [
+            8972925,
+            true
+        ],
+        [
+            9718434,
+            false
+        ],
+        [
+            9682829,
+            false
+        ],
+        [
+            9901279,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

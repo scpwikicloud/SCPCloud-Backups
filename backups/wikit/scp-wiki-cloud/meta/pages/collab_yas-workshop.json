@@ -1,0 +1,141 @@
+{
+    "name": "collab:yas-workshop",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1543745011,
+            "author": 10252500,
+            "stamp": 1777974517,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1543745005,
+            "author": 10252500,
+            "stamp": 1777974475,
+            "flags": "F",
+            "commentary": "已上传文件 “抽象社（暂用图像）”。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1543745001,
+            "author": 10252500,
+            "stamp": 1777974458,
+            "flags": "F",
+            "commentary": "已删除文件 “抽象社（暂用图像）”。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1543744982,
+            "author": 10252500,
+            "stamp": 1777974384,
+            "flags": "F",
+            "commentary": "已上传文件 “抽象社（暂用图像）”。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1543744955,
+            "author": 10252500,
+            "stamp": 1777974274,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1543741345,
+            "author": 10252500,
+            "stamp": 1777969291,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1543738025,
+            "author": 10252500,
+            "stamp": 1777964668,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543736718,
+            "author": 10252500,
+            "stamp": 1777962473,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543736645,
+            "author": 10252500,
+            "stamp": 1777962370,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543735880,
+            "author": 10252500,
+            "stamp": 1777960017,
+            "flags": "A",
+            "commentary": "已新增标签：中心页, 云国抽象社, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543735849,
+            "author": 10252500,
+            "stamp": 1777959867,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543735836,
+            "author": 10252500,
+            "stamp": 1777959812,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11809724,
+            "name": "抽象社（暂用图像）",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/collab:yas-workshop/%E6%8A%BD%E8%B1%A1%E7%A4%BE%EF%BC%88%E6%9A%82%E7%94%A8%E5%9B%BE%E5%83%8F%EF%BC%89",
+            "size": "26.36 kB (26993 Bytes)",
+            "size_bytes": 26993,
+            "mime": "image/png",
+            "content": "PNG image data, 500 x 289, 8-bit/color RGBA, non-interlaced",
+            "author": 10252500,
+            "stamp": 1777974475,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468617674,
+    "rating": 3,
+    "tags": [
+        "uv至上",
+        "中心页",
+        "云国抽象社",
+        "原创"
+    ],
+    "title": "抽象社异常车间中心页",
+    "sitemap_update": 1777974517000,
+    "votings": [
+        [
+            9863989,
+            true
+        ],
+        [
+            10211565,
+            true
+        ],
+        [
+            10252500,
+            true
+        ]
+    ],
+    "is_locked": false
+}

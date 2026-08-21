@@ -1,0 +1,107 @@
+{
+    "name": "cn4000whiteflat",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543668594,
+            "author": 6452551,
+            "stamp": 1777691312,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540310884,
+            "author": 9869350,
+            "stamp": 1765073317,
+            "flags": "A",
+            "commentary": "已新增标签：cn4000, pending, scp, 原创, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540310865,
+            "author": 9869350,
+            "stamp": 1765073242,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467351458,
+    "rating": -15,
+    "forum_thread": 17481597,
+    "tags": [
+        "cn4000",
+        "dscp",
+        "pending",
+        "scp",
+        "原创",
+        "搬运"
+    ],
+    "title": "SCP-CN-4000：何为常态",
+    "sitemap_update": 1777691312000,
+    "votings": [
+        [
+            9533373,
+            false
+        ],
+        [
+            10177495,
+            false
+        ],
+        [
+            9859027,
+            false
+        ],
+        [
+            9879889,
+            false
+        ],
+        [
+            10180684,
+            false
+        ],
+        [
+            9701672,
+            false
+        ],
+        [
+            9797808,
+            false
+        ],
+        [
+            10164640,
+            false
+        ],
+        [
+            9658212,
+            false
+        ],
+        [
+            9562327,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            9790032,
+            false
+        ],
+        [
+            9795211,
+            false
+        ],
+        [
+            9877906,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

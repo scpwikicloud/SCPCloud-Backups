@@ -1,0 +1,59 @@
+{
+    "name": "scp-cn-1428-j",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543668382,
+            "author": 6452551,
+            "stamp": 1777690777,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540835461,
+            "author": 9884343,
+            "stamp": 1766320208,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540835427,
+            "author": 9884343,
+            "stamp": 1766320167,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 中分赛博琥珀, 瞧啊，是崭新的赛博琥珀！, 神风, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540835397,
+            "author": 9884343,
+            "stamp": 1766320130,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467707595,
+    "rating": -1,
+    "tags": [
+        "dscp",
+        "中分存档",
+        "中分赛博琥珀",
+        "搬运",
+        "瞧啊，是崭新的赛博琥珀！",
+        "神风",
+        "神风文归档"
+    ],
+    "title": "SCP-CN-1428-J：无标题",
+    "sitemap_update": 1777690777000,
+    "votings": [
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

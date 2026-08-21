@@ -1,0 +1,56 @@
+{
+    "name": "rules",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1533654309,
+            "author": 9808047,
+            "stamp": 1761479524,
+            "flags": "A",
+            "commentary": "已新增标签：dv, 原创, 文章, 规则怪谈。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1533654216,
+            "author": 9808047,
+            "stamp": 1761479498,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1461173388,
+    "forum_thread": 17393811,
+    "tags": [
+        "dv",
+        "原创",
+        "文章",
+        "规则怪谈"
+    ],
+    "title": "云分规则怪谈",
+    "sitemap_update": 1761479524000,
+    "votings": [
+        [
+            8756268,
+            false
+        ],
+        [
+            10013560,
+            false
+        ],
+        [
+            9903651,
+            false
+        ],
+        [
+            9759210,
+            false
+        ],
+        [
+            9888929,
+            false
+        ]
+    ],
+    "is_locked": false
+}

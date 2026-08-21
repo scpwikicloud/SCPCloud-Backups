@@ -1,0 +1,38 @@
+{
+    "name": "scp-cloud-275",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539679453,
+            "author": 10139052,
+            "stamp": 1763383159,
+            "flags": "A",
+            "commentary": "已新增标签：心理, 爱。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539679440,
+            "author": 10139052,
+            "stamp": 1763383139,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466909396,
+    "rating": 1,
+    "tags": [
+        "心理",
+        "爱"
+    ],
+    "title": "Scp Cloud 275",
+    "sitemap_update": 1763383159000,
+    "votings": [
+        [
+            10139052,
+            true
+        ]
+    ],
+    "is_locked": false
+}

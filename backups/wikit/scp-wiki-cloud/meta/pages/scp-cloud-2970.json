@@ -1,0 +1,55 @@
+{
+    "name": "scp-cloud-2970",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540034620,
+            "author": 9869257,
+            "stamp": 1764411081,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540020553,
+            "author": 9869257,
+            "stamp": 1764385672,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 已解明。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540020531,
+            "author": 9869257,
+            "stamp": 1764385647,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467166707,
+    "rating": -3,
+    "tags": [
+        "scp",
+        "原创",
+        "已解明"
+    ],
+    "title": "SCP-CLOUD-2970 已解明文档",
+    "sitemap_update": 1764411081000,
+    "votings": [
+        [
+            9859027,
+            false
+        ],
+        [
+            9873056,
+            false
+        ],
+        [
+            9828873,
+            false
+        ]
+    ],
+    "is_locked": false
+}

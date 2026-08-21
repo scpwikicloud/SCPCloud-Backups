@@ -1,0 +1,93 @@
+{
+    "name": "scp-5000-mtf",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1541651523,
+            "author": 9531329,
+            "stamp": 1769655001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540517867,
+            "author": 9531329,
+            "stamp": 1765460820,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540293259,
+            "author": 9531329,
+            "stamp": 1764988487,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540293236,
+            "author": 9531329,
+            "stamp": 1764988445,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540293229,
+            "author": 9531329,
+            "stamp": 1764988431,
+            "flags": "A",
+            "commentary": "已新增标签：mtf, scp-5000, uv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540293139,
+            "author": 9531329,
+            "stamp": 1764988382,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540293086,
+            "author": 9531329,
+            "stamp": 1764988273,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467346756,
+    "rating": 4,
+    "forum_thread": 17480563,
+    "tags": [
+        "mtf",
+        "scp",
+        "scp-5000",
+        "uv至上"
+    ],
+    "title": "SCP-5000的一些自设MTF",
+    "sitemap_update": 1769655001000,
+    "votings": [
+        [
+            9879889,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            10164640,
+            true
+        ],
+        [
+            9863989,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,130 @@
+{
+    "name": "scp-cce-001",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1075227758,
+            "author": 4142571,
+            "stamp": 1587643522,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1075227128,
+            "author": 4142571,
+            "stamp": 1587641647,
+            "flags": "A",
+            "commentary": "已新增标签：cc, scp-cce, 原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1075227108,
+            "author": 4142571,
+            "stamp": 1587641552,
+            "flags": "S",
+            "commentary": "修正"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075227097,
+            "author": 4142571,
+            "stamp": 1587641512,
+            "flags": "S",
+            "commentary": "修正图片问题"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075227093,
+            "author": 4142571,
+            "stamp": 1587641491,
+            "flags": "F",
+            "commentary": "附件 “element.jpg” 已重新命名为 “element.png”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075227089,
+            "author": 4142571,
+            "stamp": 1587641464,
+            "flags": "F",
+            "commentary": "已上传文件 “element.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075227082,
+            "author": 4142571,
+            "stamp": 1587641425,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075227016,
+            "author": 4142571,
+            "stamp": 1587641257,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9035962,
+            "name": "element.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cce-001/element.png",
+            "size": "13.92 kB (14255 Bytes)",
+            "size_bytes": 14255,
+            "mime": "image/png",
+            "content": "PNG image data, 100 x 96, 8-bit/color RGBA, non-interlaced",
+            "author": 4142571,
+            "stamp": 1587641464,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1026141721,
+    "rating": 6,
+    "forum_thread": 13263545,
+    "tags": [
+        "cc",
+        "scp-cce",
+        "原创",
+        "故事"
+    ],
+    "title": "SCP-CCE-001",
+    "sitemap_update": 1587643522000,
+    "votings": [
+        [
+            6225532,
+            true
+        ],
+        [
+            6323074,
+            true
+        ],
+        [
+            6126600,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            4955251,
+            false
+        ],
+        [
+            4888797,
+            true
+        ],
+        [
+            5714158,
+            true
+        ],
+        [
+            6204559,
+            true
+        ]
+    ],
+    "is_locked": false
+}

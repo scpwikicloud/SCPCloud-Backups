@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 4,
+            "global_revision": 1546147816,
+            "author": 10299126,
+            "stamp": 1787241755,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 何意味。"
+        },
+        {
             "revision": 3,
             "global_revision": 1546147576,
             "author": 10299126,
@@ -37,15 +45,11 @@
     ],
     "files": [],
     "page_id": 1469200501,
-    "rating": -2,
-    "forum_thread": 18328355,
-    "tags": [
-        "int赤到史了",
-        "搬运"
-    ],
-    "title": "SCP-CN-2504，但AI翻譯",
-    "sitemap_update": 1787241179000,
     "votings": [
+        [
+            8285797,
+            false
+        ],
         [
             10299126,
             false
@@ -55,5 +59,15 @@
             false
         ]
     ],
+    "rating": -3,
+    "forum_thread": 18328355,
+    "tags": [
+        "int赤到史了",
+        "scp",
+        "何意味",
+        "搬运"
+    ],
+    "title": "SCP-CN-2504，但AI翻譯",
+    "sitemap_update": 1787241755000,
     "is_locked": false
 }

@@ -1,0 +1,44 @@
+{
+    "name": "lofwyr",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532931432,
+            "author": 9701202,
+            "stamp": 1760116340,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:scpf-real-history\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532901755,
+            "author": 9701202,
+            "stamp": 1760077119,
+            "flags": "A",
+            "commentary": "已新增标签：lofwyr的历史, scp基金会社群历史, 搬运, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532901724,
+            "author": 9701202,
+            "stamp": 1760077095,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460638788,
+    "parent": "collab:scpf-real-history",
+    "forum_thread": 17329255,
+    "tags": [
+        "lofwyr的历史",
+        "scp基金会社群历史",
+        "搬运",
+        "翻译"
+    ],
+    "title": "Lofwyr的历史",
+    "sitemap_update": 1760116340000,
+    "votings": [],
+    "is_locked": false
+}

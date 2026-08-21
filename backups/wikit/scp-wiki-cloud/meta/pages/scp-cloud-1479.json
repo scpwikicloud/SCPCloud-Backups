@@ -1,0 +1,66 @@
+{
+    "name": "scp-cloud-1479",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531845411,
+            "author": 8199944,
+            "stamp": 1756483880,
+            "flags": "A",
+            "commentary": "已新增标签：hrt-2。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531845402,
+            "author": 8199944,
+            "stamp": 1756483861,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：hrt-2。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531845399,
+            "author": 8199944,
+            "stamp": 1756483849,
+            "flags": "A",
+            "commentary": "已新增标签：hrt-2。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531843407,
+            "author": 8199944,
+            "stamp": 1756476606,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531842708,
+            "author": 8199944,
+            "stamp": 1756474096,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460128383,
+    "forum_thread": 17599777,
+    "tags": [
+        "hrt-2",
+        "scp"
+    ],
+    "title": "SCP-Cloud-1479 “同化红雾”",
+    "sitemap_update": 1756483880000,
+    "votings": [
+        [
+            8199944,
+            true
+        ],
+        [
+            6780904,
+            true
+        ]
+    ],
+    "is_locked": false
+}

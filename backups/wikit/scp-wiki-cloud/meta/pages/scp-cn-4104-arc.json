@@ -1,0 +1,53 @@
+{
+    "name": "scp-cn-4104-arc",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543668807,
+            "author": 6452551,
+            "stamp": 1777691792,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541350445,
+            "author": 8393776,
+            "stamp": 1768099849,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搬运。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541350431,
+            "author": 8393776,
+            "stamp": 1768099752,
+            "flags": "A",
+            "commentary": "已新增标签：瞧啊，是崭新的赛博琥珀！, 神风, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541350423,
+            "author": 8393776,
+            "stamp": 1768099702,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467987689,
+    "rating": 0,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "搬运",
+        "瞧啊，是崭新的赛博琥珀！",
+        "神风",
+        "神风文归档"
+    ],
+    "title": "SCP-CN-4104",
+    "sitemap_update": 1777691792000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,97 @@
+{
+    "name": "understand-for-scp-cce-1000",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1362296920,
+            "author": 7239770,
+            "stamp": 1618489392,
+            "flags": "S",
+            "commentary": "修改错字"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1200662591,
+            "author": 6286770,
+            "stamp": 1592022617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1196900757,
+            "author": 6286770,
+            "stamp": 1591609023,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 解密scp-cl。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1196900753,
+            "author": 6286770,
+            "stamp": 1591609009,
+            "flags": "M",
+            "commentary": "父页面设置为: \"understand-for-all-scp-cl\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1196900722,
+            "author": 6286770,
+            "stamp": 1591608994,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1147136418,
+    "parent": "collab:understand-for-all-scp-cl",
+    "rating": 5,
+    "forum_thread": 13416712,
+    "tags": [
+        "原创",
+        "故事",
+        "解密scp-cl"
+    ],
+    "title": "解密：SCP-CCE-1000 枫",
+    "sitemap_update": 1618489392000,
+    "votings": [
+        [
+            6104332,
+            false
+        ],
+        [
+            9110060,
+            true
+        ],
+        [
+            6678040,
+            false
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            6038040,
+            true
+        ],
+        [
+            9656906,
+            true
+        ],
+        [
+            6286770,
+            true
+        ],
+        [
+            6204559,
+            true
+        ],
+        [
+            5714158,
+            true
+        ]
+    ],
+    "is_locked": false
+}

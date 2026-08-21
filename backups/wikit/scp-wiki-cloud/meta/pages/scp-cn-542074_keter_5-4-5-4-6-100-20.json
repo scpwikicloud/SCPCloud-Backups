@@ -1,0 +1,75 @@
+{
+    "name": "scp-cn-542074:keter:5-4-5-4-6-100-20",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1073012220,
+            "author": 6285297,
+            "stamp": 1586056454,
+            "flags": "F",
+            "commentary": "已上传文件 “恶灵骑士”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073012122,
+            "author": 6285297,
+            "stamp": 1586055764,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073011932,
+            "author": 6285297,
+            "stamp": 1586054736,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073011918,
+            "author": 6285297,
+            "stamp": 1586054656,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9011014,
+            "name": "恶灵骑士",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cn-542074:keter:5-4-5-4-6-100-20/%E6%81%B6%E7%81%B5%E9%AA%91%E5%A3%AB",
+            "size": "42.08 kB (43089 Bytes)",
+            "size_bytes": 43089,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6285297,
+            "stamp": 1586056454,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1024193367,
+    "forum_thread": 13211082,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "scp-cn-542074 -恶灵骑士",
+    "sitemap_update": 1586056454000,
+    "votings": [
+        [
+            6254233,
+            true
+        ],
+        [
+            5477258,
+            true
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

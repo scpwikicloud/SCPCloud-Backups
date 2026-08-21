@@ -1,0 +1,32 @@
+{
+    "name": "scp-cn-3065",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1523965996,
+            "author": 6452551,
+            "stamp": 1724054579,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523965980,
+            "author": 6452551,
+            "stamp": 1724054567,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456427807,
+    "rating": 0,
+    "tags": [
+        "dscp"
+    ],
+    "title": "SCP-CN-3065",
+    "sitemap_update": 1724054579000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,58 @@
+{
+    "name": "scp-cn-3287",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543668057,
+            "author": 6452551,
+            "stamp": 1777689859,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542579909,
+            "author": 9880358,
+            "stamp": 1773148302,
+            "flags": "A",
+            "commentary": "已新增标签：评分模块滚木了, 驼峰标题。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542579896,
+            "author": 9880358,
+            "stamp": 1773148241,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 作者神了, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542579891,
+            "author": 9880358,
+            "stamp": 1773148213,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468234371,
+    "forum_thread": 17613588,
+    "tags": [
+        "dscp",
+        "scp",
+        "作者神了",
+        "搬运",
+        "评分模块滚木了",
+        "驼峰标题"
+    ],
+    "title": "Scp Cn 3287",
+    "sitemap_update": 1777689859000,
+    "votings": [
+        [
+            8738413,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,93 @@
+{
+    "name": "scp-cn-10000-third",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1543668373,
+            "author": 6452551,
+            "stamp": 1777690755,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1542273320,
+            "author": 9533373,
+            "stamp": 1771928960,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541861676,
+            "author": 9533373,
+            "stamp": 1770634061,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541773863,
+            "author": 9533373,
+            "stamp": 1770191481,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541773717,
+            "author": 9533373,
+            "stamp": 1770191186,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541773708,
+            "author": 9533373,
+            "stamp": 1770191142,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541773704,
+            "author": 9533373,
+            "stamp": 1770191129,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468090919,
+    "rating": -2,
+    "forum_thread": 17579879,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-CN-10000，但是重写再重写版",
+    "sitemap_update": 1777690755000,
+    "votings": [
+        [
+            9533373,
+            false
+        ],
+        [
+            9846649,
+            true
+        ],
+        [
+            8893555,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

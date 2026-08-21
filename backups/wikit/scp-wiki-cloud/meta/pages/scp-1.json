@@ -1,0 +1,83 @@
+{
+    "name": "scp-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532434167,
+            "author": 9877518,
+            "stamp": 1758595784,
+            "flags": "A",
+            "commentary": "移除标签：指导。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532434071,
+            "author": 9877518,
+            "stamp": 1758595362,
+            "flags": "A",
+            "commentary": "已新增标签：dv。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532434067,
+            "author": 9877518,
+            "stamp": 1758595334,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532434065,
+            "author": 9877518,
+            "stamp": 1758595311,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460433263,
+    "rating": -6,
+    "forum_thread": 17253050,
+    "tags": [
+        "dv",
+        "故事"
+    ],
+    "title": "scp界最好笑的笑话一则（1）",
+    "sitemap_update": 1758595784000,
+    "votings": [
+        [
+            8467726,
+            true
+        ],
+        [
+            9746831,
+            false
+        ],
+        [
+            9556346,
+            false
+        ],
+        [
+            9326464,
+            false
+        ],
+        [
+            8998982,
+            false
+        ],
+        [
+            9581327,
+            false
+        ],
+        [
+            9491856,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

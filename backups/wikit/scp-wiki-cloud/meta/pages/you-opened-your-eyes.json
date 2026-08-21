@@ -1,0 +1,56 @@
+{
+    "name": "you-opened-your-eyes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539457307,
+            "author": 9884343,
+            "stamp": 1763114832,
+            "flags": "A",
+            "commentary": "已新增标签：你睁开眼。 移除标签：你睁开眼，但是…。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539457300,
+            "author": 9884343,
+            "stamp": 1763114819,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539457237,
+            "author": 9884343,
+            "stamp": 1763114773,
+            "flags": "A",
+            "commentary": "已新增标签：uv, 中心, 你睁开眼，但是…, 抽象基金会。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539457222,
+            "author": 9884343,
+            "stamp": 1763114744,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466736190,
+    "forum_thread": 17446647,
+    "tags": [
+        "uv",
+        "中心",
+        "你睁开眼",
+        "抽象基金会"
+    ],
+    "title": "你睁开眼，但是… 中心页",
+    "sitemap_update": 1763114832000,
+    "votings": [
+        [
+            9797808,
+            true
+        ]
+    ],
+    "is_locked": false
+}

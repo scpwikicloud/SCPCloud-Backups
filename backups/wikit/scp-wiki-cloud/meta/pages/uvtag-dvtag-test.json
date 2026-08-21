@@ -1,0 +1,40 @@
+{
+    "name": "uvtag-dvtag-test",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1362104878,
+            "author": 5498218,
+            "stamp": 1617884645,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362104858,
+            "author": 5498218,
+            "stamp": 1617884532,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, uv至上。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362104856,
+            "author": 5498218,
+            "stamp": 1617884515,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308495896,
+    "tags": [
+        "dv至上",
+        "uv至上"
+    ],
+    "title": "测试",
+    "sitemap_update": 1617884645000,
+    "votings": [],
+    "is_locked": true
+}

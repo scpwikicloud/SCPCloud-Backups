@@ -1,0 +1,56 @@
+{
+    "name": "tutorial",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543477217,
+            "author": 10208396,
+            "stamp": 1776771579,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543419287,
+            "author": 10208396,
+            "stamp": 1776528639,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 原创, 故事, 新手教程。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543419245,
+            "author": 10208396,
+            "stamp": 1776528522,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543419220,
+            "author": 10208396,
+            "stamp": 1776528465,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468517851,
+    "rating": -1,
+    "tags": [
+        "dv至上",
+        "原创",
+        "故事",
+        "新手教程"
+    ],
+    "title": "新手教程（bushi",
+    "sitemap_update": 1776771579000,
+    "votings": [
+        [
+            10140214,
+            false
+        ]
+    ],
+    "is_locked": false
+}

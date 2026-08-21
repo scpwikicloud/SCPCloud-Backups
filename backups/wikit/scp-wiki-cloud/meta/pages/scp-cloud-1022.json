@@ -1,0 +1,40 @@
+{
+    "name": "scp-cloud-1022",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532386652,
+            "author": 9869257,
+            "stamp": 1758370252,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 原创, 正常。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532383999,
+            "author": 9869257,
+            "stamp": 1758359993,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460422254,
+    "rating": 1,
+    "tags": [
+        "euclid",
+        "scp",
+        "原创",
+        "正常"
+    ],
+    "title": "SCP-CLOUD-1022",
+    "sitemap_update": 1758370252000,
+    "votings": [
+        [
+            9491856,
+            true
+        ]
+    ],
+    "is_locked": false
+}

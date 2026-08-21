@@ -1,0 +1,41 @@
+{
+    "name": "scp-cloud-1002",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1525325846,
+            "author": 8305255,
+            "stamp": 1729266641,
+            "flags": "T",
+            "commentary": "更正标题。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1524276024,
+            "author": 8305255,
+            "stamp": 1725011885,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1524275464,
+            "author": 9110822,
+            "stamp": 1725009163,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456609197,
+    "tags": [
+        "euclid",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-1002",
+    "sitemap_update": 1729266641000,
+    "votings": [],
+    "is_locked": false
+}

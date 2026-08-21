@@ -1,0 +1,47 @@
+{
+    "name": "scp-cn-4625",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543668971,
+            "author": 6452551,
+            "stamp": 1777692110,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541812093,
+            "author": 9869350,
+            "stamp": 1770385969,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp, 中分存档, 原创, 搞笑, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541812084,
+            "author": 9869350,
+            "stamp": 1770385930,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468100871,
+    "rating": 0,
+    "forum_thread": 17581322,
+    "tags": [
+        "dscp",
+        "safe",
+        "scp",
+        "中分存档",
+        "原创",
+        "搞笑",
+        "搬运"
+    ],
+    "title": "SCP-CN-4625",
+    "sitemap_update": 1777692110000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,65 @@
+{
+    "name": "verstappen-the-world-champion",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539465193,
+            "author": 9884343,
+            "stamp": 1763128713,
+            "flags": "A",
+            "commentary": "已新增标签：野史。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539459599,
+            "author": 9884343,
+            "stamp": 1763119194,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539369532,
+            "author": 9884343,
+            "stamp": 1763035593,
+            "flags": "A",
+            "commentary": "已新增标签：f1, uv, 原创, 搞笑, 故事, 红牛, 维斯塔潘。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539369523,
+            "author": 9884343,
+            "stamp": 1763035564,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466657984,
+    "rating": 2,
+    "forum_thread": 17445913,
+    "tags": [
+        "f1",
+        "uv",
+        "原创",
+        "搞笑",
+        "故事",
+        "红牛",
+        "维斯塔潘",
+        "野史"
+    ],
+    "title": "F1野史之维斯塔潘驾驶RB21创飞两台迈凯伦",
+    "sitemap_update": 1763128713000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9884343,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,56 @@
+{
+    "name": "scp-cloud-2088",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544084622,
+            "author": 9919199,
+            "stamp": 1779526307,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543494947,
+            "author": 9919199,
+            "stamp": 1776861632,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543494796,
+            "author": 9919199,
+            "stamp": 1776861132,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543494790,
+            "author": 9919199,
+            "stamp": 1776861115,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468548333,
+    "tags": [
+        "dv至上"
+    ],
+    "title": "SCP-Cloud-2088",
+    "sitemap_update": 1779526307000,
+    "votings": [
+        [
+            9919199,
+            true
+        ],
+        [
+            10323573,
+            true
+        ]
+    ],
+    "is_locked": false
+}

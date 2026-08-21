@@ -1,0 +1,44 @@
+{
+    "name": "cloud-all",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1198159584,
+            "author": 6286770,
+            "stamp": 1591699606,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1198159581,
+            "author": 6286770,
+            "stamp": 1591699594,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"sandbox-ploplo-cloud\" 至 \"cloud-all\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1198159525,
+            "author": 6286770,
+            "stamp": 1591699483,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1148380536,
+    "tags": [
+        "故事"
+    ],
+    "title": "云分所有页面",
+    "sitemap_update": 1591699606000,
+    "votings": [
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,51 @@
+{
+    "name": "adult:rectal-asphyxia",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539540924,
+            "author": 9979304,
+            "stamp": 1763278933,
+            "flags": "A",
+            "commentary": "已新增标签：成入内容, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539540912,
+            "author": 9979304,
+            "stamp": 1763278907,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466794235,
+    "rating": -4,
+    "forum_thread": 17449112,
+    "tags": [
+        "成入内容",
+        "搬运"
+    ],
+    "title": "（搬运）直肠窒息",
+    "sitemap_update": 1763278933000,
+    "votings": [
+        [
+            9740100,
+            false
+        ],
+        [
+            9786309,
+            false
+        ],
+        [
+            6780904,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

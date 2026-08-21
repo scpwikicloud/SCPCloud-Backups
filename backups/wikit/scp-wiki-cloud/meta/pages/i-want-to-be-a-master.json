@@ -1,0 +1,83 @@
+{
+    "name": "i-want-to-be-a-master",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1524323249,
+            "author": 7144335,
+            "stamp": 1725226019,
+            "flags": "S",
+            "commentary": "module rate"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1524306170,
+            "author": 8366274,
+            "stamp": 1725171048,
+            "flags": "A",
+            "commentary": "已新增标签：2024管理, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1524306169,
+            "author": 8366274,
+            "stamp": 1725171042,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1524306168,
+            "author": 8366274,
+            "stamp": 1725171030,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456618131,
+    "rating": 4,
+    "forum_thread": 16929448,
+    "tags": [
+        "2024管理",
+        "原创"
+    ],
+    "title": "我要上管",
+    "sitemap_update": 1725226019000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            9410832,
+            false
+        ],
+        [
+            9185502,
+            true
+        ],
+        [
+            9048737,
+            false
+        ],
+        [
+            5327510,
+            true
+        ],
+        [
+            8979477,
+            true
+        ],
+        [
+            8049583,
+            true
+        ],
+        [
+            8366274,
+            true
+        ]
+    ],
+    "is_locked": false
+}

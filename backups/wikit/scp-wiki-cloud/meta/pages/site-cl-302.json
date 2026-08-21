@@ -1,0 +1,48 @@
+{
+    "name": "site-cl-302",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532672357,
+            "author": 9110060,
+            "stamp": 1759602295,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532609036,
+            "author": 9110060,
+            "stamp": 1759431048,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532609029,
+            "author": 9110060,
+            "stamp": 1759431019,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532609022,
+            "author": 9110060,
+            "stamp": 1759430962,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460479986,
+    "forum_thread": 17284255,
+    "tags": [
+        "作者"
+    ],
+    "title": "Site -CL-302 主管人事档案",
+    "sitemap_update": 1759602295000,
+    "votings": [],
+    "is_locked": false
+}

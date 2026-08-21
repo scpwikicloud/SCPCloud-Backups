@@ -1,0 +1,56 @@
+{
+    "name": "lbw",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1198205262,
+            "author": 6240575,
+            "stamp": 1591879427,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1198205256,
+            "author": 6240575,
+            "stamp": 1591879390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1198181887,
+            "author": 6240575,
+            "stamp": 1591787339,
+            "flags": "A",
+            "commentary": "已新增标签：中分荣耀, 原创, 英雄图鉴。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1198181884,
+            "author": 6240575,
+            "stamp": 1591787319,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1148390224,
+    "rating": 1,
+    "forum_thread": 13420384,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "英雄图鉴"
+    ],
+    "title": "卢博士-YX",
+    "sitemap_update": 1591879427000,
+    "votings": [
+        [
+            6353411,
+            true
+        ]
+    ],
+    "is_locked": false
+}

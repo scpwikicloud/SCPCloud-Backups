@@ -1,0 +1,84 @@
+{
+    "name": "epstein",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1541353186,
+            "author": 9089449,
+            "stamp": 1768115963,
+            "flags": "A",
+            "commentary": "移除标签：dv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540787527,
+            "author": 9089449,
+            "stamp": 1766238862,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540787516,
+            "author": 9089449,
+            "stamp": 1766238845,
+            "flags": "A",
+            "commentary": "已新增标签：uiu, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540787487,
+            "author": 9089449,
+            "stamp": 1766238802,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467671446,
+    "rating": 6,
+    "forum_thread": 17494477,
+    "tags": [
+        "uiu",
+        "原创",
+        "故事"
+    ],
+    "title": "联邦调查局所属特异事故处关于爱泼斯坦案相关文件的公示",
+    "sitemap_update": 1768115963000,
+    "votings": [
+        [
+            9733029,
+            true
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            10164640,
+            true
+        ],
+        [
+            9581327,
+            true
+        ],
+        [
+            8393776,
+            false
+        ],
+        [
+            6745213,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            9869350,
+            true
+        ]
+    ],
+    "is_locked": false
+}

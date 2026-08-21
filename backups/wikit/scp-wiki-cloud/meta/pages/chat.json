@@ -1,0 +1,38 @@
+{
+    "name": "chat",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1539507050,
+            "author": 9869257,
+            "stamp": 1763212418,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539507044,
+            "author": 9869257,
+            "stamp": 1763212409,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466770772,
+    "forum_thread": 17448087,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "快捷聊天室",
+    "sitemap_update": 1763212418000,
+    "votings": [
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

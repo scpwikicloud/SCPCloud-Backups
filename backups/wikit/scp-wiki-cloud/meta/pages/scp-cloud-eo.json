@@ -1,0 +1,39 @@
+{
+    "name": "scp-cloud-eo",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1528188185,
+            "author": 6335947,
+            "stamp": 1741056565,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"elementalorange\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528182285,
+            "author": 9568107,
+            "stamp": 1741014850,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458630180,
+    "parent": "elementalorange",
+    "rating": -2,
+    "title": "SCP-Cloud-EO",
+    "sitemap_update": 1741056565000,
+    "votings": [
+        [
+            8983105,
+            false
+        ],
+        [
+            8576655,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,92 @@
+{
+    "name": "scp-cn-4041",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543668096,
+            "author": 6452551,
+            "stamp": 1777690004,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541710213,
+            "author": 8909013,
+            "stamp": 1769926659,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541710133,
+            "author": 8909013,
+            "stamp": 1769926269,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541710121,
+            "author": 8909013,
+            "stamp": 1769926219,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541710119,
+            "author": 8909013,
+            "stamp": 1769926196,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 中分搬运, 格式错乱, 连发三篇这一块。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541710105,
+            "author": 8909013,
+            "stamp": 1769926131,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468076069,
+    "rating": -5,
+    "forum_thread": 17579012,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "中分搬运",
+        "搬运",
+        "格式错乱",
+        "连发三篇这一块"
+    ],
+    "title": "Scp Cn 4041",
+    "sitemap_update": 1777690004000,
+    "votings": [
+        [
+            9860823,
+            false
+        ],
+        [
+            9533373,
+            false
+        ],
+        [
+            8178262,
+            false
+        ],
+        [
+            9906554,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

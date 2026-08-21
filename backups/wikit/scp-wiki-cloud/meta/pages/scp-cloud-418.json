@@ -1,0 +1,127 @@
+{
+    "name": "scp-cloud-418",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1540660315,
+            "author": 9929144,
+            "stamp": 1765967945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540660303,
+            "author": 9929144,
+            "stamp": 1765967936,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540222674,
+            "author": 9929144,
+            "stamp": 1764844718,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540222529,
+            "author": 9929144,
+            "stamp": 1764844383,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540222142,
+            "author": 9929144,
+            "stamp": 1764843611,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, goi, goi格式, scp, 原创, 孙笑川, 孙笑川吧, 抽像宇宙, 爱孙笑川tv。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540222107,
+            "author": 9929144,
+            "stamp": 1764843535,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540222085,
+            "author": 9929144,
+            "stamp": 1764843493,
+            "flags": "F",
+            "commentary": "已上传文件 “1”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540222061,
+            "author": 9929144,
+            "stamp": 1764843444,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11695586,
+            "name": "1",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-418/1",
+            "size": "22.36 kB (22896 Bytes)",
+            "size_bytes": 22896,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: , baseline, precision 8, 307x308, components 3",
+            "author": 9929144,
+            "stamp": 1764843493,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1467294910,
+    "rating": -6,
+    "forum_thread": 17479412,
+    "tags": [
+        "dv至上",
+        "goi",
+        "goi格式",
+        "scp",
+        "原创",
+        "孙笑川",
+        "孙笑川吧",
+        "抽像宇宙",
+        "爱孙笑川tv"
+    ],
+    "title": "Scp–Cloud–418 孙笑川鬼图生成器",
+    "sitemap_update": 1765967945000,
+    "votings": [
+        [
+            9879889,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            9873056,
+            false
+        ],
+        [
+            9780183,
+            false
+        ],
+        [
+            9863989,
+            false
+        ],
+        [
+            9485374,
+            false
+        ]
+    ],
+    "is_locked": false
+}

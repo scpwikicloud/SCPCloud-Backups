@@ -1,0 +1,46 @@
+{
+    "name": "frisk-offset-5",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1356619577,
+            "author": 6780414,
+            "stamp": 1602421759,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1356619553,
+            "author": 6780414,
+            "stamp": 1602421691,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1356619517,
+            "author": 6780414,
+            "stamp": 1602421603,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1305273715,
+    "rating": -2,
+    "title": "SCP-Cloud-26478308",
+    "sitemap_update": 1602421759000,
+    "votings": [
+        [
+            6780414,
+            false
+        ],
+        [
+            6518593,
+            false
+        ]
+    ],
+    "is_locked": false
+}

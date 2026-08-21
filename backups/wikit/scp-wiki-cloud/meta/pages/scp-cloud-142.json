@@ -1,0 +1,80 @@
+{
+    "name": "scp-cloud-142",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1513295594,
+            "author": 8746675,
+            "stamp": 1692951509,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1513295519,
+            "author": 8746675,
+            "stamp": 1692951103,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1513295499,
+            "author": 8746675,
+            "stamp": 1692951016,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1513294020,
+            "author": 8746675,
+            "stamp": 1692945828,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1513293982,
+            "author": 8746675,
+            "stamp": 1692945719,
+            "flags": "S",
+            "commentary": "修复错误点"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1513293945,
+            "author": 8746675,
+            "stamp": 1692945608,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449555119,
+    "rating": -1,
+    "forum_thread": 16287580,
+    "tags": [
+        "keter",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-142 - 电子鸡瘟",
+    "sitemap_update": 1692951509000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            8746675,
+            true
+        ],
+        [
+            8375717,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,113 @@
+{
+    "name": "scp-cloud-1899",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1537379747,
+            "author": 9681840,
+            "stamp": 1762007216,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1537379409,
+            "author": 9681840,
+            "stamp": 1762007166,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1537378506,
+            "author": 9681840,
+            "stamp": 1762007042,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1537376283,
+            "author": 9681840,
+            "stamp": 1762006723,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1537374820,
+            "author": 9681840,
+            "stamp": 1762006507,
+            "flags": "A",
+            "commentary": "已新增标签：uv, uv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537374628,
+            "author": 9681840,
+            "stamp": 1762006480,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 世袭制, 原创, 学生, 时空, 未来。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1537374351,
+            "author": 9681840,
+            "stamp": 1762006440,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1464823036,
+    "rating": 6,
+    "forum_thread": 17419240,
+    "tags": [
+        "scp",
+        "uv",
+        "uv至上",
+        "世袭制",
+        "原创",
+        "学生",
+        "时空",
+        "未来"
+    ],
+    "title": "SCP-Cloud-1899 “沽名钓誉臭傻逼超天才套装”",
+    "sitemap_update": 1762007216000,
+    "votings": [
+        [
+            8193741,
+            false
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            6335947,
+            true
+        ],
+        [
+            9785619,
+            true
+        ],
+        [
+            9681840,
+            true
+        ],
+        [
+            9873610,
+            true
+        ],
+        [
+            9885617,
+            true
+        ],
+        [
+            9851514,
+            true
+        ]
+    ],
+    "is_locked": false
+}

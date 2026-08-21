@@ -1,0 +1,114 @@
+{
+    "name": "green",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1364760612,
+            "author": 6027217,
+            "stamp": 1619609458,
+            "flags": "A",
+            "commentary": "Added tags: 截图."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1364756561,
+            "author": 6027217,
+            "stamp": 1619587194,
+            "flags": "A",
+            "commentary": "Added tags: 自up."
+        },
+        {
+            "revision": 3,
+            "global_revision": 1364756557,
+            "author": 6027217,
+            "stamp": 1619587173,
+            "flags": "A",
+            "commentary": "Added tags: 不管是up还是down就管是赞算了, 当然dv下也可以."
+        },
+        {
+            "revision": 2,
+            "global_revision": 1364756549,
+            "author": 6027217,
+            "stamp": 1619587092,
+            "flags": "A",
+            "commentary": "Added tags: dv至上."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1364756460,
+            "author": 6027217,
+            "stamp": 1619586717,
+            "flags": "A",
+            "commentary": "Added tags: 绿桶."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1364756449,
+            "author": 6027217,
+            "stamp": 1619586687,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1310918868,
+    "forum_thread": 14078467,
+    "tags": [
+        "dv至上",
+        "不管是up还是down就管是赞算了",
+        "当然dv下也可以",
+        "截图",
+        "绿桶",
+        "自up"
+    ],
+    "title": "《绿桶语录-第一卷》",
+    "sitemap_update": 1619609458000,
+    "votings": [
+        [
+            6027217,
+            true
+        ],
+        [
+            6446060,
+            true
+        ],
+        [
+            6077090,
+            true
+        ],
+        [
+            6595963,
+            true
+        ],
+        [
+            2960074,
+            true
+        ],
+        [
+            7256110,
+            false
+        ],
+        [
+            6432947,
+            true
+        ],
+        [
+            6432694,
+            true
+        ],
+        [
+            7149070,
+            true
+        ],
+        [
+            6190503,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

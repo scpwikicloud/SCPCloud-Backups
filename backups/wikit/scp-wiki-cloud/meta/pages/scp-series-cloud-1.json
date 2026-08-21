@@ -1,0 +1,42 @@
+{
+    "name": "scp-series-cloud-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1528162858,
+            "author": 9460744,
+            "stamp": 1740903521,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1528162827,
+            "author": 9460744,
+            "stamp": 1740903512,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528162808,
+            "author": 9460744,
+            "stamp": 1740903405,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458624230,
+    "forum_thread": 17056100,
+    "title": "Scp Series Cloud 1",
+    "sitemap_update": 1740903521000,
+    "votings": [
+        [
+            9158361,
+            true
+        ]
+    ],
+    "is_locked": false
+}

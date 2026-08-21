@@ -1,0 +1,87 @@
+{
+    "name": "scp-cn-4721",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543668986,
+            "author": 6452551,
+            "stamp": 1777692143,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541221566,
+            "author": 8909013,
+            "stamp": 1767325980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541221514,
+            "author": 8909013,
+            "stamp": 1767325686,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 中分搬运, 态度诚恳这一块, 搬运, 神风文？。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541221503,
+            "author": 8909013,
+            "stamp": 1767325654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541221494,
+            "author": 8909013,
+            "stamp": 1767325603,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541221483,
+            "author": 8909013,
+            "stamp": 1767325493,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467953250,
+    "rating": -4,
+    "forum_thread": 17505141,
+    "tags": [
+        "dscp",
+        "scp",
+        "中分搬运",
+        "态度诚恳这一块",
+        "搬运",
+        "神风文？"
+    ],
+    "title": "SCP-CN-4721",
+    "sitemap_update": 1777692143000,
+    "votings": [
+        [
+            8909013,
+            false
+        ],
+        [
+            8178262,
+            false
+        ],
+        [
+            9869350,
+            false
+        ],
+        [
+            9885617,
+            false
+        ]
+    ],
+    "is_locked": false
+}

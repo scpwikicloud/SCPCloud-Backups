@@ -1,0 +1,63 @@
+{
+    "name": "scp-cloud-1049",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539383327,
+            "author": 9554304,
+            "stamp": 1763043836,
+            "flags": "A",
+            "commentary": "已新增标签：鞋教。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539145548,
+            "author": 9554304,
+            "stamp": 1762600259,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537262040,
+            "author": 9554304,
+            "stamp": 1761989552,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1537261775,
+            "author": 9554304,
+            "stamp": 1761989513,
+            "flags": "N",
+            "commentary": "SCP-CLOUD-1049"
+        }
+    ],
+    "files": [],
+    "page_id": 1464713781,
+    "rating": -3,
+    "forum_thread": 17422535,
+    "tags": [
+        "scp",
+        "鞋教"
+    ],
+    "title": "SCP-CLOUD-0441",
+    "sitemap_update": 1763043836000,
+    "votings": [
+        [
+            9808735,
+            false
+        ],
+        [
+            8159914,
+            false
+        ],
+        [
+            9780183,
+            false
+        ]
+    ],
+    "is_locked": false
+}

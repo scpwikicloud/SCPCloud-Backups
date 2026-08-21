@@ -1,0 +1,62 @@
+{
+    "name": "scp-cloud-1983",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531781496,
+            "author": 9469192,
+            "stamp": 1756220172,
+            "flags": "A",
+            "commentary": "已新增标签：玩具熊的五夜后宫, 老登。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531780189,
+            "author": 9469192,
+            "stamp": 1756216390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531780125,
+            "author": 9469192,
+            "stamp": 1756216246,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531780109,
+            "author": 9469192,
+            "stamp": 1756216209,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460110734,
+    "rating": 2,
+    "forum_thread": 17234117,
+    "tags": [
+        "safe",
+        "scp",
+        "原创",
+        "玩具熊的五夜后宫",
+        "老登"
+    ],
+    "title": "SCP-Cloud-1983",
+    "sitemap_update": 1756220172000,
+    "votings": [
+        [
+            9731169,
+            true
+        ],
+        [
+            9786309,
+            true
+        ]
+    ],
+    "is_locked": false
+}

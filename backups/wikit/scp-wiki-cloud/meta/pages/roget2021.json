@@ -1,0 +1,44 @@
+{
+    "name": "roget2021",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532931419,
+            "author": 9701202,
+            "stamp": 1760116274,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:scpf-real-history\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532901325,
+            "author": 9701202,
+            "stamp": 1760076853,
+            "flags": "A",
+            "commentary": "已新增标签：2021年roget删文事件, scp基金会社群历史, 搬运, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532901294,
+            "author": 9701202,
+            "stamp": 1760076830,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460638393,
+    "parent": "collab:scpf-real-history",
+    "forum_thread": 17329242,
+    "tags": [
+        "2021年roget删文事件",
+        "scp基金会社群历史",
+        "搬运",
+        "翻译"
+    ],
+    "title": "2021年Roget删文事件",
+    "sitemap_update": 1760116274000,
+    "votings": [],
+    "is_locked": false
+}

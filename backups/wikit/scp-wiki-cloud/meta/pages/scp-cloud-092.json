@@ -1,0 +1,39 @@
+{
+    "name": "scp-cloud-092",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1362104456,
+            "author": 6330521,
+            "stamp": 1617882514,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362104447,
+            "author": 6330521,
+            "stamp": 1617882465,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308495741,
+    "rating": -2,
+    "forum_thread": 14681136,
+    "title": "SCP-CLOUD-092",
+    "sitemap_update": 1617882514000,
+    "votings": [
+        [
+            7892243,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,66 @@
+{
+    "name": "scp-cloud-1945",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539813043,
+            "author": 9743391,
+            "stamp": 1763819392,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532555708,
+            "author": 9743391,
+            "stamp": 1759220014,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, dv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532555688,
+            "author": 9743391,
+            "stamp": 1759219891,
+            "flags": "A",
+            "commentary": "已新增标签：dv, euclid, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532555682,
+            "author": 9743391,
+            "stamp": 1759219866,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460467718,
+    "rating": -1,
+    "forum_thread": 17268147,
+    "tags": [
+        "2025整活大赛",
+        "dv",
+        "dv至上",
+        "euclid",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-1945",
+    "sitemap_update": 1763819392000,
+    "votings": [
+        [
+            9622470,
+            false
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            9491856,
+            false
+        ]
+    ],
+    "is_locked": false
+}

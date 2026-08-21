@@ -1,0 +1,86 @@
+{
+    "name": "security-clearance-levels",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1525405677,
+            "author": 9444831,
+            "stamp": 1729675008,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 2"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525402934,
+            "author": 9444632,
+            "stamp": 1729660678,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525402897,
+            "author": 9444632,
+            "stamp": 1729660284,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525339552,
+            "author": 7646601,
+            "stamp": 1729341143,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 2"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525338690,
+            "author": 7646601,
+            "stamp": 1729336962,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1524271853,
+            "author": 9104084,
+            "stamp": 1724986172,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362052346,
+            "author": 6240575,
+            "stamp": 1617612583,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362052337,
+            "author": 6240575,
+            "stamp": 1617612519,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308478525,
+    "forum_thread": 14065052,
+    "title": "安保许可等级",
+    "sitemap_update": 1729675008000,
+    "votings": [
+        [
+            7646601,
+            false
+        ],
+        [
+            6317957,
+            true
+        ]
+    ],
+    "is_locked": false
+}

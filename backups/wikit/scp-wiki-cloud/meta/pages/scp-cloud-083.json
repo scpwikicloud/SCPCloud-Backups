@@ -1,0 +1,76 @@
+{
+    "name": "scp-cloud-083",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1519575319,
+            "author": 8019668,
+            "stamp": 1712930624,
+            "flags": "S",
+            "commentary": "根据站务帖，改名为SCP-CL-083"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1497233741,
+            "author": 8019668,
+            "stamp": 1667829611,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1497233733,
+            "author": 8019668,
+            "stamp": 1667829571,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 认知危害。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1497210529,
+            "author": 8019668,
+            "stamp": 1667733803,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1437057163,
+    "rating": 4,
+    "forum_thread": 15368512,
+    "tags": [
+        "scp",
+        "原创",
+        "认知危害"
+    ],
+    "title": "SCP-CLOUD-083",
+    "sitemap_update": 1712930624000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            8343202,
+            true
+        ],
+        [
+            7146864,
+            true
+        ],
+        [
+            8333186,
+            false
+        ],
+        [
+            8353401,
+            true
+        ],
+        [
+            8075294,
+            true
+        ]
+    ],
+    "is_locked": false
+}

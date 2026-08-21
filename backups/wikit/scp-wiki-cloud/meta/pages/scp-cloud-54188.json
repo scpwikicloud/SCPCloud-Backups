@@ -1,0 +1,78 @@
+{
+    "name": "scp-cloud-54188",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1075371813,
+            "author": 6329904,
+            "stamp": 1588055100,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075371781,
+            "author": 6329904,
+            "stamp": 1588054975,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075371776,
+            "author": 6329904,
+            "stamp": 1588054950,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026216348,
+    "forum_thread": 13275102,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-54188",
+    "sitemap_update": 1588055100000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            6104332,
+            false
+        ],
+        [
+            6112421,
+            false
+        ],
+        [
+            6323074,
+            false
+        ],
+        [
+            10239998,
+            false
+        ],
+        [
+            6283036,
+            false
+        ],
+        [
+            5849082,
+            false
+        ],
+        [
+            6680051,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

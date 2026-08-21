@@ -1,0 +1,74 @@
+{
+    "name": "scp-cn-4023-arc",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543668714,
+            "author": 6452551,
+            "stamp": 1777691596,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541283845,
+            "author": 8393776,
+            "stamp": 1767685686,
+            "flags": "A",
+            "commentary": "已新增标签：哇还有略猫区。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541283834,
+            "author": 8393776,
+            "stamp": 1767685575,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541283824,
+            "author": 8393776,
+            "stamp": 1767685493,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp, 何意味, 搬运, 瞧啊，是崭新的赛博琥珀！, 神风, 神风文归档。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541283818,
+            "author": 8393776,
+            "stamp": 1767685447,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467969242,
+    "rating": -2,
+    "forum_thread": 17556916,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "何意味",
+        "哇还有略猫区",
+        "搬运",
+        "瞧啊，是崭新的赛博琥珀！",
+        "神风",
+        "神风文归档"
+    ],
+    "title": "SCP-CN-4023",
+    "sitemap_update": 1777691596000,
+    "votings": [
+        [
+            9879889,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

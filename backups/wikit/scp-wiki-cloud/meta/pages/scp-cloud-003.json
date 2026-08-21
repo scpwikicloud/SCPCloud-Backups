@@ -1,0 +1,136 @@
+{
+    "name": "scp-cloud-003",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1050970356,
+            "author": 6023623,
+            "stamp": 1585124229,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 人形scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1050961580,
+            "author": 6179656,
+            "stamp": 1585099069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1050961528,
+            "author": 6179656,
+            "stamp": 1585098989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1050961523,
+            "author": 6179656,
+            "stamp": 1585098965,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1002312614,
+    "rating": -7,
+    "forum_thread": 13179675,
+    "tags": [
+        "scp",
+        "人形scp",
+        "原创"
+    ],
+    "title": "SCP-cloud-003 文件泄露者",
+    "sitemap_update": 1585124229000,
+    "votings": [
+        [
+            4886285,
+            false
+        ],
+        [
+            5813810,
+            false
+        ],
+        [
+            8377838,
+            true
+        ],
+        [
+            6104332,
+            false
+        ],
+        [
+            6649761,
+            false
+        ],
+        [
+            9752615,
+            false
+        ],
+        [
+            8213972,
+            false
+        ],
+        [
+            5985702,
+            false
+        ],
+        [
+            6156231,
+            false
+        ],
+        [
+            6306637,
+            false
+        ],
+        [
+            6169114,
+            false
+        ],
+        [
+            6401471,
+            true
+        ],
+        [
+            6150792,
+            true
+        ],
+        [
+            9812480,
+            false
+        ],
+        [
+            5350064,
+            true
+        ],
+        [
+            6159447,
+            false
+        ],
+        [
+            6042443,
+            true
+        ],
+        [
+            6308686,
+            true
+        ],
+        [
+            6155697,
+            false
+        ],
+        [
+            5279445,
+            true
+        ],
+        [
+            6133807,
+            false
+        ]
+    ],
+    "is_locked": false
+}

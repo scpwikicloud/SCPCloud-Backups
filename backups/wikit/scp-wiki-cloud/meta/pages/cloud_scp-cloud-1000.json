@@ -1,0 +1,70 @@
+{
+    "name": "cloud:scp-cloud-1000",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1460817640,
+            "author": 7677049,
+            "stamp": 1651637395,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1460815044,
+            "author": 7677049,
+            "stamp": 1651629549,
+            "flags": "A",
+            "commentary": "已新增标签：搞笑scp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1460814765,
+            "author": 7677049,
+            "stamp": 1651628661,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1460814744,
+            "author": 7677049,
+            "stamp": 1651628490,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1460813761,
+            "author": 7677049,
+            "stamp": 1651625690,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cloud-1000\" 至 \"cloud:scp-cloud-1000\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1460813708,
+            "author": 7677049,
+            "stamp": 1651625575,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1402764382,
+    "forum_thread": 15084272,
+    "tags": [
+        "原创",
+        "搞笑scp"
+    ],
+    "title": "SCP-CLOUD-1000",
+    "sitemap_update": 1651637395000,
+    "votings": [
+        [
+            8017462,
+            true
+        ]
+    ],
+    "is_locked": false
+}

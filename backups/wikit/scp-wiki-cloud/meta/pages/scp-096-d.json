@@ -1,0 +1,261 @@
+{
+    "name": "scp-096-d",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 25,
+            "global_revision": 1539681981,
+            "author": 9531329,
+            "stamp": 1763387381,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1539681965,
+            "author": 9531329,
+            "stamp": 1763387353,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1532749392,
+            "author": 9531329,
+            "stamp": 1759766681,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1532713951,
+            "author": 9531329,
+            "stamp": 1759754002,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1532594097,
+            "author": 9531329,
+            "stamp": 1759377453,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1532594020,
+            "author": 9531329,
+            "stamp": 1759377315,
+            "flags": "F",
+            "commentary": "已上传文件 “一名MTF-红右手正在测试GOC提供的弹药”。"
+        },
+        {
+            "revision": 19,
+            "global_revision": 1532593484,
+            "author": 9531329,
+            "stamp": 1759375444,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1532593471,
+            "author": 9531329,
+            "stamp": 1759375398,
+            "flags": "F",
+            "commentary": "已上传文件 “参与处决的红右手”。"
+        },
+        {
+            "revision": 17,
+            "global_revision": 1532593011,
+            "author": 9531329,
+            "stamp": 1759373883,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1532592956,
+            "author": 9531329,
+            "stamp": 1759373723,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1532592949,
+            "author": 9531329,
+            "stamp": 1759373693,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1532592893,
+            "author": 9531329,
+            "stamp": 1759373616,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1532511187,
+            "author": 9531329,
+            "stamp": 1758985363,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1532511176,
+            "author": 9531329,
+            "stamp": 1758985313,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531695891,
+            "author": 9531329,
+            "stamp": 1755843573,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531695874,
+            "author": 9531329,
+            "stamp": 1755843514,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531695853,
+            "author": 9531329,
+            "stamp": 1755843469,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531695606,
+            "author": 9531329,
+            "stamp": 1755842177,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531695586,
+            "author": 9531329,
+            "stamp": 1755842029,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531694065,
+            "author": 9531329,
+            "stamp": 1755834573,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531694055,
+            "author": 9531329,
+            "stamp": 1755834483,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531694054,
+            "author": 9531329,
+            "stamp": 1755834447,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531693820,
+            "author": 9531329,
+            "stamp": 1755832949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531693786,
+            "author": 9531329,
+            "stamp": 1755832749,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 二创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531693783,
+            "author": 9531329,
+            "stamp": 1755832727,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531693761,
+            "author": 9531329,
+            "stamp": 1755832703,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11477658,
+            "name": "一名MTF-红右手正在测试GOC提供的弹药",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-096-d/%E4%B8%80%E5%90%8DMTF-%E7%BA%A2%E5%8F%B3%E6%89%8B%E6%AD%A3%E5%9C%A8%E6%B5%8B%E8%AF%95GOC%E6%8F%90%E4%BE%9B%E7%9A%84%E5%BC%B9%E8%8D%AF",
+            "size": "1.98 MB (2080880 Bytes)",
+            "size_bytes": 2080880,
+            "mime": "image/png",
+            "content": "PNG image data, 2508 x 1515, 8-bit/color RGBA, non-interlaced",
+            "author": 9531329,
+            "stamp": 1759377315,
+            "internal_version": 1
+        },
+        {
+            "file_id": 11477642,
+            "name": "参与处决的红右手",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-096-d/%E5%8F%82%E4%B8%8E%E5%A4%84%E5%86%B3%E7%9A%84%E7%BA%A2%E5%8F%B3%E6%89%8B",
+            "size": "3.04 MB (3189480 Bytes)",
+            "size_bytes": 3189480,
+            "mime": "image/png",
+            "content": "PNG image data, 1772 x 2243, 8-bit/color RGBA, non-interlaced",
+            "author": 9531329,
+            "stamp": 1759375399,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1460091672,
+    "rating": 2,
+    "forum_thread": 17220958,
+    "tags": [
+        "scp",
+        "uv至上",
+        "二创"
+    ],
+    "title": "SCP-096-D处决方案",
+    "sitemap_update": 1763387381000,
+    "votings": [
+        [
+            9531329,
+            true
+        ],
+        [
+            9837823,
+            true
+        ]
+    ],
+    "is_locked": false
+}

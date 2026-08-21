@@ -1,0 +1,132 @@
+{
+    "name": "scp-cloud-778",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1532595497,
+            "author": 9880018,
+            "stamp": 1759383232,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1532569676,
+            "author": 7535291,
+            "stamp": 1759280567,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1532569661,
+            "author": 7535291,
+            "stamp": 1759280491,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1532569636,
+            "author": 7535291,
+            "stamp": 1759280326,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1532569622,
+            "author": 7535291,
+            "stamp": 1759280230,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1532569577,
+            "author": 7535291,
+            "stamp": 1759279989,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：文档。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1532569573,
+            "author": 7535291,
+            "stamp": 1759279951,
+            "flags": "A",
+            "commentary": "已新增标签：up至上, 原创, 文档。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532569568,
+            "author": 7535291,
+            "stamp": 1759279922,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532569555,
+            "author": 7535291,
+            "stamp": 1759279871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532569552,
+            "author": 7535291,
+            "stamp": 1759279845,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532569548,
+            "author": 7535291,
+            "stamp": 1759279819,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532562274,
+            "author": 9880018,
+            "stamp": 1759245031,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460469298,
+    "rating": 4,
+    "forum_thread": 17321522,
+    "tags": [
+        "scp",
+        "up至上",
+        "原创"
+    ],
+    "title": "SCP-Cloud-778-芬达冰箱",
+    "sitemap_update": 1759383232000,
+    "votings": [
+        [
+            9880018,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            9873610,
+            true
+        ],
+        [
+            9287782,
+            true
+        ]
+    ],
+    "is_locked": false
+}

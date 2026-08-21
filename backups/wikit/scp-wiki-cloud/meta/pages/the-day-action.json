@@ -1,0 +1,75 @@
+{
+    "name": "the-day-action",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532259911,
+            "author": 8449090,
+            "stamp": 1757728998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532259904,
+            "author": 8449090,
+            "stamp": 1757728978,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532252839,
+            "author": 8449090,
+            "stamp": 1757693750,
+            "flags": "A",
+            "commentary": "移除标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532252821,
+            "author": 8449090,
+            "stamp": 1757693663,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 原创, 故事, 机动特遣队, 行动。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532252383,
+            "author": 8449090,
+            "stamp": 1757692144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532252372,
+            "author": 8449090,
+            "stamp": 1757692050,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460385532,
+    "tags": [
+        "uv至上",
+        "原创",
+        "机动特遣队",
+        "行动"
+    ],
+    "title": "The Day Action",
+    "sitemap_update": 1757728998000,
+    "votings": [
+        [
+            9531329,
+            true
+        ],
+        [
+            9491856,
+            true
+        ]
+    ],
+    "is_locked": false
+}

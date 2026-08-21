@@ -1,0 +1,42 @@
+{
+    "name": "rac",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531426485,
+            "author": 9808047,
+            "stamp": 1754569473,
+            "flags": "A",
+            "commentary": "已新增标签：rac, 原创, 物品, 装备。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531426478,
+            "author": 9808047,
+            "stamp": 1754569437,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531426175,
+            "author": 9808047,
+            "stamp": 1754567880,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460016377,
+    "tags": [
+        "rac",
+        "原创",
+        "物品",
+        "装备"
+    ],
+    "title": "RAC装备列表（持续更新）",
+    "sitemap_update": 1754569473000,
+    "votings": [],
+    "is_locked": false
+}

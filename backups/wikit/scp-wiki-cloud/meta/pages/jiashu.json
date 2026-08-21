@@ -1,0 +1,50 @@
+{
+    "name": "jiashu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1480153430,
+            "author": 6323470,
+            "stamp": 1661015846,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1480153416,
+            "author": 6323470,
+            "stamp": 1661015795,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1420875989,
+    "rating": 4,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "手紙",
+    "sitemap_update": 1661015846000,
+    "votings": [
+        [
+            6335947,
+            true
+        ],
+        [
+            6348077,
+            true
+        ],
+        [
+            7274437,
+            true
+        ],
+        [
+            8109443,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fragment:front-page-header",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1527838444,
+            "author": 7535291,
+            "stamp": 1739710029,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527838352,
+            "author": 7535291,
+            "stamp": 1739709944,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527822339,
+            "author": 7535291,
+            "stamp": 1739645118,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458449643,
+    "tags": [
+        "组件"
+    ],
+    "title": "fragment:front-page-header",
+    "sitemap_update": 1739710029000,
+    "votings": [],
+    "is_locked": true
+}

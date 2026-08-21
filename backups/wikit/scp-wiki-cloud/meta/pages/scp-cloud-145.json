@@ -1,0 +1,58 @@
+{
+    "name": "scp-cloud-145",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1524654557,
+            "author": 8305255,
+            "stamp": 1726542761,
+            "flags": "A",
+            "commentary": "已新增标签：safe。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518617372,
+            "author": 9007460,
+            "stamp": 1708992509,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518617361,
+            "author": 9007460,
+            "stamp": 1708992398,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 本质促动, 概念, 现实扭曲, 超形上学部。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518617357,
+            "author": 9007460,
+            "stamp": 1708992362,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452829732,
+    "tags": [
+        "safe",
+        "scp",
+        "原创",
+        "本质促动",
+        "概念",
+        "现实扭曲",
+        "超形上学部"
+    ],
+    "title": "SCP-CL-145",
+    "sitemap_update": 1726542761000,
+    "votings": [
+        [
+            8305255,
+            false
+        ]
+    ],
+    "is_locked": false
+}

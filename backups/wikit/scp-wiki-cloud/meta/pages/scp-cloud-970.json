@@ -1,0 +1,54 @@
+{
+    "name": "scp-cloud-970",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531545124,
+            "author": 9656880,
+            "stamp": 1755094185,
+            "flags": "A",
+            "commentary": "已新增标签：dficfscp。 移除标签：dficf基金会。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531545014,
+            "author": 9656880,
+            "stamp": 1755093987,
+            "flags": "A",
+            "commentary": "已新增标签：dficf基金会, scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531544417,
+            "author": 9656880,
+            "stamp": 1755092651,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460054928,
+    "forum_thread": 17186156,
+    "tags": [
+        "dficfscp",
+        "scp"
+    ],
+    "title": "SCP-CLOUD-970",
+    "sitemap_update": 1755094185000,
+    "votings": [
+        [
+            9656880,
+            true
+        ],
+        [
+            9790032,
+            true
+        ],
+        [
+            9822126,
+            true
+        ]
+    ],
+    "is_locked": false
+}

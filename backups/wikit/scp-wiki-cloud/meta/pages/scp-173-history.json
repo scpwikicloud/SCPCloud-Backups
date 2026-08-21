@@ -1,0 +1,44 @@
+{
+    "name": "scp-173-history",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532931517,
+            "author": 9701202,
+            "stamp": 1760116631,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:scpf-real-history\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532902576,
+            "author": 9701202,
+            "stamp": 1760077574,
+            "flags": "A",
+            "commentary": "已新增标签：scp-173的历史, scp基金会社群历史, 搬运, 翻译。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532902542,
+            "author": 9701202,
+            "stamp": 1760077554,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460639530,
+    "parent": "collab:scpf-real-history",
+    "forum_thread": 17329282,
+    "tags": [
+        "scp-173的历史",
+        "scp基金会社群历史",
+        "搬运",
+        "翻译"
+    ],
+    "title": "SCP-173的历史",
+    "sitemap_update": 1760116631000,
+    "votings": [],
+    "is_locked": false
+}

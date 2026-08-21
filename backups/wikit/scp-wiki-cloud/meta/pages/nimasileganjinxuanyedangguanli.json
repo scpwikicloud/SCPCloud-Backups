@@ -1,0 +1,111 @@
+{
+    "name": "nimasileganjinxuanyedangguanli",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1524644172,
+            "author": 7144335,
+            "stamp": 1726496874,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1524644167,
+            "author": 7144335,
+            "stamp": 1726496838,
+            "flags": "A",
+            "commentary": "移除标签：屏蔽。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1524640560,
+            "author": 6452551,
+            "stamp": 1726484154,
+            "flags": "A",
+            "commentary": "已新增标签：屏蔽。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1524277269,
+            "author": 7144335,
+            "stamp": 1725017844,
+            "flags": "A",
+            "commentary": "已新增标签：2024管理, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1524277267,
+            "author": 7144335,
+            "stamp": 1725017832,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456609967,
+    "rating": 7,
+    "forum_thread": 16927994,
+    "tags": [
+        "2024管理",
+        "原创"
+    ],
+    "title": "我要当管理",
+    "sitemap_update": 1726496874000,
+    "votings": [
+        [
+            6452551,
+            false
+        ],
+        [
+            6452551,
+            false
+        ],
+        [
+            5327510,
+            true
+        ],
+        [
+            8979477,
+            true
+        ],
+        [
+            8738352,
+            true
+        ],
+        [
+            9375252,
+            true
+        ],
+        [
+            9133501,
+            true
+        ],
+        [
+            8280481,
+            false
+        ],
+        [
+            8096210,
+            true
+        ],
+        [
+            8408005,
+            true
+        ],
+        [
+            7144335,
+            true
+        ],
+        [
+            7144335,
+            true
+        ],
+        [
+            3429159,
+            true
+        ]
+    ],
+    "is_locked": false
+}

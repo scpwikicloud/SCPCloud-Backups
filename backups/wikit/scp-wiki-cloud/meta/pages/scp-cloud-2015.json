@@ -1,0 +1,83 @@
+{
+    "name": "scp-cloud-2015",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1543676446,
+            "author": 8598968,
+            "stamp": 1777713148,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543676400,
+            "author": 8598968,
+            "stamp": 1777712950,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543676381,
+            "author": 8598968,
+            "stamp": 1777712877,
+            "flags": "F",
+            "commentary": "已上传文件 “豆包”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543676373,
+            "author": 8598968,
+            "stamp": 1777712819,
+            "flags": "A",
+            "commentary": "已新增标签：豆包。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543676369,
+            "author": 8598968,
+            "stamp": 1777712805,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11807061,
+            "name": "豆包",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-2015/%E8%B1%86%E5%8C%85",
+            "size": "229.1 kB (234601 Bytes)",
+            "size_bytes": 234601,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2026:05:02 17:03:00, width=1080], baseline, precision 8, 1080x1068, components 3",
+            "author": 8598968,
+            "stamp": 1777712877,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468604609,
+    "forum_thread": 18123602,
+    "tags": [
+        "原创",
+        "豆包"
+    ],
+    "title": "Scp Cloud-2015",
+    "sitemap_update": 1777713148000,
+    "votings": [
+        [
+            10486976,
+            false
+        ],
+        [
+            9891518,
+            true
+        ],
+        [
+            10280952,
+            false
+        ]
+    ],
+    "is_locked": false
+}

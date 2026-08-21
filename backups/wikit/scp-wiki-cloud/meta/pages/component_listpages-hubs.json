@@ -1,0 +1,31 @@
+{
+    "name": "component:listpages-hubs",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1508344641,
+            "author": 6452551,
+            "stamp": 1678168809,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508344635,
+            "author": 6452551,
+            "stamp": 1678168761,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446588853,
+    "tags": [
+        "组件"
+    ],
+    "title": "中心页 Listpages 表格",
+    "sitemap_update": 1678168809000,
+    "votings": [],
+    "is_locked": false
+}

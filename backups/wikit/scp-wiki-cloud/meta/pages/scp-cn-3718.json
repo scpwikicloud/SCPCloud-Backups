@@ -1,0 +1,71 @@
+{
+    "name": "scp-cn-3718",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543668537,
+            "author": 6452551,
+            "stamp": 1777691157,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1542929936,
+            "author": 9906554,
+            "stamp": 1774535055,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, uv至上, 中分留档, 心智影响, 搬运。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1542929926,
+            "author": 9906554,
+            "stamp": 1774534996,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542929906,
+            "author": 9906554,
+            "stamp": 1774534896,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542929899,
+            "author": 9906554,
+            "stamp": 1774534863,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542929892,
+            "author": 9906554,
+            "stamp": 1774534826,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468365492,
+    "rating": 0,
+    "forum_thread": 17656580,
+    "tags": [
+        "dscp",
+        "euclid",
+        "scp",
+        "uv至上",
+        "中分留档",
+        "心智影响",
+        "搬运"
+    ],
+    "title": "SCP-CN-3718",
+    "sitemap_update": 1777691157000,
+    "votings": [],
+    "is_locked": false
+}

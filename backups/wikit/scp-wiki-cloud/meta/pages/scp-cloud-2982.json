@@ -1,0 +1,81 @@
+{
+    "name": "scp-cloud-2982",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543646134,
+            "author": 9533373,
+            "stamp": 1777614130,
+            "flags": "A",
+            "commentary": "已新增标签：keter。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1543643383,
+            "author": 9533373,
+            "stamp": 1777607345,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1543639867,
+            "author": 9533373,
+            "stamp": 1777599771,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 并非原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1543639706,
+            "author": 9533373,
+            "stamp": 1777599471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543639598,
+            "author": 9533373,
+            "stamp": 1777599235,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543639586,
+            "author": 9533373,
+            "stamp": 1777599202,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468593433,
+    "rating": 3,
+    "forum_thread": 17825167,
+    "tags": [
+        "keter",
+        "scp",
+        "原创",
+        "并非原创"
+    ],
+    "title": "SCP-CLOUD-2982",
+    "sitemap_update": 1777614130000,
+    "votings": [
+        [
+            9802978,
+            true
+        ],
+        [
+            10280952,
+            true
+        ],
+        [
+            9786309,
+            true
+        ]
+    ],
+    "is_locked": false
+}

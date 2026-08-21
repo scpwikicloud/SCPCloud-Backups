@@ -1,0 +1,73 @@
+{
+    "name": "scp10000",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543668175,
+            "author": 6452551,
+            "stamp": 1777690254,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1542929346,
+            "author": 9906554,
+            "stamp": 1774532369,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542929335,
+            "author": 9906554,
+            "stamp": 1774532334,
+            "flags": "A",
+            "commentary": "已新增标签：10k赛都结束了为什么我还不知道, 何意味, 搬运, 神风, 神风文归档, 赛博琥珀。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542929325,
+            "author": 9906554,
+            "stamp": 1774532275,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468365382,
+    "rating": -2,
+    "forum_thread": 17661947,
+    "tags": [
+        "10k赛都结束了为什么我还不知道",
+        "dscp",
+        "dv至上",
+        "何意味",
+        "搬运",
+        "神风",
+        "神风文归档",
+        "赛博琥珀"
+    ],
+    "title": "scp10000-一名保安的过去",
+    "sitemap_update": 1777690254000,
+    "votings": [
+        [
+            8178262,
+            false
+        ],
+        [
+            10179253,
+            true
+        ],
+        [
+            9906554,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

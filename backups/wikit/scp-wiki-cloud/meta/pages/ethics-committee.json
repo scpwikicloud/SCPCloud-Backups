@@ -1,0 +1,62 @@
+{
+    "name": "ethics-committee",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1084541395,
+            "author": 6329988,
+            "stamp": 1588843859,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084539252,
+            "author": 6329988,
+            "stamp": 1588838184,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084539239,
+            "author": 6329988,
+            "stamp": 1588838154,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1084539228,
+            "author": 6329988,
+            "stamp": 1588838119,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1035244034,
+    "forum_thread": 13295913,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "伦理道德委员会的灯泡计划",
+    "sitemap_update": 1588843859000,
+    "votings": [
+        [
+            4291882,
+            false
+        ],
+        [
+            6190503,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

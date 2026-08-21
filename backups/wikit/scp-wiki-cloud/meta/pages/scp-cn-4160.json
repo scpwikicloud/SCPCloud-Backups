@@ -1,0 +1,67 @@
+{
+    "name": "scp-cn-4160",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543668142,
+            "author": 6452551,
+            "stamp": 1777690130,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541810302,
+            "author": 9533373,
+            "stamp": 1770380343,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541806394,
+            "author": 9533373,
+            "stamp": 1770363369,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541806377,
+            "author": 9533373,
+            "stamp": 1770363275,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541806359,
+            "author": 9533373,
+            "stamp": 1770363179,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541806355,
+            "author": 9533373,
+            "stamp": 1770363159,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468099470,
+    "rating": 0,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP- CN- 4160",
+    "sitemap_update": 1777690130000,
+    "votings": [],
+    "is_locked": false
+}

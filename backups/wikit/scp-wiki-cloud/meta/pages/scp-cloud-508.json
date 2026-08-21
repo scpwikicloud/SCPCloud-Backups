@@ -1,0 +1,83 @@
+{
+    "name": "scp-cloud-508",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1544485463,
+            "author": 9880018,
+            "stamp": 1780788662,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544485365,
+            "author": 9880018,
+            "stamp": 1780787703,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532595408,
+            "author": 9880018,
+            "stamp": 1759382871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532585027,
+            "author": 9880018,
+            "stamp": 1759333631,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532585018,
+            "author": 9880018,
+            "stamp": 1759333589,
+            "flags": "A",
+            "commentary": "已新增标签：#原创。 移除标签：#ycuang。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532585010,
+            "author": 9880018,
+            "stamp": 1759333562,
+            "flags": "A",
+            "commentary": "已新增标签：#up至上, #ycuang, scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532584957,
+            "author": 9880018,
+            "stamp": 1759333376,
+            "flags": "N",
+            "commentary": "#SCP #uv"
+        }
+    ],
+    "files": [],
+    "page_id": 1460474530,
+    "rating": 2,
+    "tags": [
+        "#up至上",
+        "#原创",
+        "scp"
+    ],
+    "title": "SCP-Cloud-508",
+    "sitemap_update": 1780788662000,
+    "votings": [
+        [
+            9880018,
+            true
+        ],
+        [
+            9531329,
+            true
+        ]
+    ],
+    "is_locked": false
+}

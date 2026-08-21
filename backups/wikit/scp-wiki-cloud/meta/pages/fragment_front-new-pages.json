@@ -1,0 +1,31 @@
+{
+    "name": "fragment:front-new-pages",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1527838580,
+            "author": 7535291,
+            "stamp": 1739710204,
+            "flags": "A",
+            "commentary": "已新增标签：组件。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527838567,
+            "author": 7535291,
+            "stamp": 1739710175,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458454125,
+    "tags": [
+        "组件"
+    ],
+    "title": "fragment:front-new-pages",
+    "sitemap_update": 1739710204000,
+    "votings": [],
+    "is_locked": true
+}

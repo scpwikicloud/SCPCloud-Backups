@@ -1,0 +1,61 @@
+{
+    "name": "goc-scp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532435488,
+            "author": 9877518,
+            "stamp": 1758602843,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532435481,
+            "author": 9877518,
+            "stamp": 1758602801,
+            "flags": "A",
+            "commentary": "已新增标签：dv, 原创, 故事, 猎奇。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532435476,
+            "author": 9877518,
+            "stamp": 1758602778,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460433642,
+    "rating": -4,
+    "forum_thread": 17254367,
+    "tags": [
+        "dv",
+        "原创",
+        "故事",
+        "猎奇"
+    ],
+    "title": "GOC就是路边一条（SCP基金会这招太狠了）",
+    "sitemap_update": 1758602843000,
+    "votings": [
+        [
+            8467726,
+            false
+        ],
+        [
+            9785619,
+            false
+        ],
+        [
+            10179253,
+            false
+        ],
+        [
+            9759210,
+            false
+        ]
+    ],
+    "is_locked": false
+}

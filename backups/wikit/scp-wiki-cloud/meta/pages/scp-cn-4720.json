@@ -1,0 +1,50 @@
+{
+    "name": "scp-cn-4720",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543950754,
+            "author": 10156562,
+            "stamp": 1778899049,
+            "flags": "A",
+            "commentary": "已新增标签：神风文归档。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543950725,
+            "author": 10156562,
+            "stamp": 1778898933,
+            "flags": "A",
+            "commentary": "已新增标签：dscp, scp, 搬运, 神风。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543950718,
+            "author": 10156562,
+            "stamp": 1778898912,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468670678,
+    "rating": -1,
+    "forum_thread": 17910432,
+    "tags": [
+        "dscp",
+        "scp",
+        "搬运",
+        "神风",
+        "神风文归档"
+    ],
+    "title": "SCP-CN-4720",
+    "sitemap_update": 1778899049000,
+    "votings": [
+        [
+            10138896,
+            false
+        ]
+    ],
+    "is_locked": false
+}

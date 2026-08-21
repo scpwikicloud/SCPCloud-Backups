@@ -1,0 +1,90 @@
+{
+    "name": "scp-cloud-340",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1544454899,
+            "author": 10141077,
+            "stamp": 1780659678,
+            "flags": "A",
+            "commentary": "移除标签：114514。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1544424642,
+            "author": 10141077,
+            "stamp": 1780498075,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1544424540,
+            "author": 10141077,
+            "stamp": 1780497780,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544424527,
+            "author": 10141077,
+            "stamp": 1780497721,
+            "flags": "A",
+            "commentary": "已新增标签：114514, uv至上, 临床腔, 讽刺。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544424514,
+            "author": 10141077,
+            "stamp": 1780497670,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544424498,
+            "author": 10141077,
+            "stamp": 1780497626,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468802654,
+    "rating": 5,
+    "forum_thread": 17996870,
+    "tags": [
+        "scp",
+        "uv至上",
+        "临床腔",
+        "原创",
+        "讽刺"
+    ],
+    "title": "SCP-Cloud-340 临床腔",
+    "sitemap_update": 1780659678000,
+    "votings": [
+        [
+            10275224,
+            true
+        ],
+        [
+            10179253,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            9503739,
+            true
+        ],
+        [
+            10252500,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,77 @@
+{
+    "name": "dflcf175",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1531504021,
+            "author": 9822126,
+            "stamp": 1754968763,
+            "flags": "S T",
+            "commentary": "第一次写文档"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531503998,
+            "author": 9822126,
+            "stamp": 1754968655,
+            "flags": "A",
+            "commentary": "已新增标签：dficfscp。 移除标签：dflcfscp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531503914,
+            "author": 9822126,
+            "stamp": 1754968415,
+            "flags": "A",
+            "commentary": "已新增标签：dflcfscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531503907,
+            "author": 9822126,
+            "stamp": 1754968391,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531503891,
+            "author": 9822126,
+            "stamp": 1754968336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531503806,
+            "author": 9822126,
+            "stamp": 1754967919,
+            "flags": "N",
+            "commentary": "这是我第一次写项目，还请指教"
+        }
+    ],
+    "files": [],
+    "page_id": 1460033872,
+    "forum_thread": 17183284,
+    "tags": [
+        "dficfscp"
+    ],
+    "title": "DFICF175-海，故障的海",
+    "sitemap_update": 1754968763000,
+    "votings": [
+        [
+            9314093,
+            false
+        ],
+        [
+            9822173,
+            true
+        ],
+        [
+            9822126,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,72 @@
+{
+    "name": "scp-curse",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544105602,
+            "author": 8348682,
+            "stamp": 1779607554,
+            "flags": "A",
+            "commentary": "已新增标签：thaumiel, 已解明。 移除标签：thaumiel已解明。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544105591,
+            "author": 8348682,
+            "stamp": 1779607517,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, scp, thaumiel已解明, uv至上, 严肃, 原创, 基金会制, 屑懒, 异常事件, 界外繁华。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544105583,
+            "author": 8348682,
+            "stamp": 1779607485,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468704593,
+    "rating": 5,
+    "forum_thread": 17948647,
+    "tags": [
+        "001提案",
+        "scp",
+        "thaumiel",
+        "uv至上",
+        "严肃",
+        "原创",
+        "基金会制",
+        "屑懒",
+        "已解明",
+        "异常事件",
+        "界外繁华"
+    ],
+    "title": "OutlinedCloud的提案 - 新人的第一篇SCP诅咒",
+    "sitemap_update": 1779607554000,
+    "votings": [
+        [
+            10364185,
+            true
+        ],
+        [
+            10280217,
+            true
+        ],
+        [
+            10138896,
+            true
+        ],
+        [
+            9701445,
+            true
+        ],
+        [
+            10252500,
+            true
+        ]
+    ],
+    "is_locked": false
+}

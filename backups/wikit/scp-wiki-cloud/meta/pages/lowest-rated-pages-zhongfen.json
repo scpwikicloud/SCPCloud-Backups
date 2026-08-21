@@ -1,0 +1,54 @@
+{
+    "name": "lowest-rated-pages-zhongfen",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543760640,
+            "author": 9533373,
+            "stamp": 1778046340,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1543760633,
+            "author": 9533373,
+            "stamp": 1778046285,
+            "flags": "A",
+            "commentary": "已新增标签：搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1543760623,
+            "author": 9533373,
+            "stamp": 1778046234,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468621845,
+    "rating": -1,
+    "forum_thread": 17861478,
+    "tags": [
+        "搬运"
+    ],
+    "title": "最低评分的页面，但中分",
+    "sitemap_update": 1778046340000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            9919707,
+            true
+        ],
+        [
+            10140214,
+            false
+        ]
+    ],
+    "is_locked": false
+}

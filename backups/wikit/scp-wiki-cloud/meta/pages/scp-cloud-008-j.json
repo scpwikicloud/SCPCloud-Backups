@@ -1,0 +1,70 @@
+{
+    "name": "scp-cloud-008-j",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1532714177,
+            "author": 9869257,
+            "stamp": 1759754370,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532387445,
+            "author": 9869257,
+            "stamp": 1758372721,
+            "flags": "A",
+            "commentary": "已新增标签：ikun, joke, scp, 原创, 猎奇。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532387231,
+            "author": 9869257,
+            "stamp": 1758372116,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460423143,
+    "rating": -2,
+    "forum_thread": 17319420,
+    "tags": [
+        "ikun",
+        "joke",
+        "scp",
+        "原创",
+        "猎奇"
+    ],
+    "title": "SCP-CLOUD-008-J",
+    "sitemap_update": 1759754370000,
+    "votings": [
+        [
+            9556346,
+            false
+        ],
+        [
+            6706976,
+            false
+        ],
+        [
+            10248001,
+            true
+        ],
+        [
+            9189284,
+            false
+        ],
+        [
+            9321029,
+            true
+        ],
+        [
+            9058493,
+            false
+        ]
+    ],
+    "is_locked": false
+}

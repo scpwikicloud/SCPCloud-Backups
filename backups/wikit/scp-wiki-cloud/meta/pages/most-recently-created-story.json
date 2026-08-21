@@ -1,0 +1,40 @@
+{
+    "name": "most-recently-created-story",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1537743933,
+            "author": 6335947,
+            "stamp": 1762065516,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1537743925,
+            "author": 6335947,
+            "stamp": 1762065503,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1528158864,
+            "author": 6335947,
+            "stamp": 1740887856,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458622541,
+    "forum_thread": 17185960,
+    "tags": [
+        "管理"
+    ],
+    "title": "最近新增的故事页面",
+    "sitemap_update": 1762065516000,
+    "votings": [],
+    "is_locked": false
+}

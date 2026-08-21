@@ -1,0 +1,69 @@
+{
+    "name": "tales-cloud-by-page-name",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1532275698,
+            "author": 6335947,
+            "stamp": 1757791883,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532275693,
+            "author": 6335947,
+            "stamp": 1757791821,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1508345286,
+            "author": 6452551,
+            "stamp": 1678174139,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1508344460,
+            "author": 6452551,
+            "stamp": 1678167467,
+            "flags": "M",
+            "commentary": "父页面设置为: \"foundation-tales-cloud\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508344457,
+            "author": 6452551,
+            "stamp": 1678167435,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508344451,
+            "author": 6452551,
+            "stamp": 1678167316,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446588784,
+    "tags": [
+        "中心",
+        "原创"
+    ],
+    "title": "云国分部故事列表-按页面名称",
+    "sitemap_update": 1757791883000,
+    "votings": [
+        [
+            8305255,
+            true
+        ]
+    ],
+    "is_locked": false
+}

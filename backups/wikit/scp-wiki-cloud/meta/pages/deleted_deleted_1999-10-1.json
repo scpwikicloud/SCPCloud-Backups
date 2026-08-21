@@ -1,0 +1,73 @@
+{
+    "name": "deleted:deleted:1999-10-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1544227487,
+            "author": 9524086,
+            "stamp": 1779974611,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"deleted:1999-10-1\" 至 \"deleted:deleted:1999-10-1\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1544227464,
+            "author": 9524086,
+            "stamp": 1779974595,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"1999-10-1\" 至 \"deleted:1999-10-1\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1532794429,
+            "author": 9524086,
+            "stamp": 1759825241,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1532794421,
+            "author": 9524086,
+            "stamp": 1759825209,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532794352,
+            "author": 9524086,
+            "stamp": 1759824981,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532794333,
+            "author": 9524086,
+            "stamp": 1759824867,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 已解明。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532794330,
+            "author": 9524086,
+            "stamp": 1759824833,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460573393,
+    "rating": 0,
+    "tags": [
+        "scp",
+        "已解明"
+    ],
+    "title": "SCP-CLOUD-1999-EX地球保卫战",
+    "sitemap_update": 1779974611000,
+    "votings": [],
+    "is_locked": false
+}

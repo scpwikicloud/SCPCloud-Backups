@@ -1,0 +1,71 @@
+{
+    "name": "forum:start",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1537796187,
+            "author": 6335947,
+            "stamp": 1762073417,
+            "flags": "A",
+            "commentary": "已新增标签：基础。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1527787846,
+            "author": 7535291,
+            "stamp": 1739479376,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1527787841,
+            "author": 7535291,
+            "stamp": 1739479365,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1379774561,
+            "author": 5721026,
+            "stamp": 1633092422,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1362050265,
+            "author": 6335947,
+            "stamp": 1617602724,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1048420438,
+            "author": 4704446,
+            "stamp": 1584118643,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 835653196,
+            "author": 4704446,
+            "stamp": 1557742148,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 790493166,
+    "tags": [
+        "基础"
+    ],
+    "title": "论坛区",
+    "sitemap_update": 1762073417000,
+    "votings": [],
+    "is_locked": false
+}

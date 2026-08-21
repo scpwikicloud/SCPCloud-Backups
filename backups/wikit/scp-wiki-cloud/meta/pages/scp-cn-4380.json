@@ -1,0 +1,44 @@
+{
+    "name": "scp-cn-4380",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543668915,
+            "author": 6452551,
+            "stamp": 1777691988,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542368133,
+            "author": 7465847,
+            "stamp": 1772368340,
+            "flags": "A",
+            "commentary": "已新增标签：中分存档, 搬运, 转载。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542368126,
+            "author": 7465847,
+            "stamp": 1772368294,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468188648,
+    "rating": 0,
+    "forum_thread": 17599064,
+    "tags": [
+        "dscp",
+        "中分存档",
+        "搬运",
+        "转载"
+    ],
+    "title": "SCP-CN-4380",
+    "sitemap_update": 1777691988000,
+    "votings": [],
+    "is_locked": false
+}

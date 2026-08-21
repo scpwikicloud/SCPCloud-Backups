@@ -1,0 +1,56 @@
+{
+    "name": "scp-cn-8339",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543669101,
+            "author": 6452551,
+            "stamp": 1777692368,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541861718,
+            "author": 9533373,
+            "stamp": 1770634144,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541790053,
+            "author": 9533373,
+            "stamp": 1770273699,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541790047,
+            "author": 9533373,
+            "stamp": 1770273672,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468095074,
+    "rating": -1,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-CN-8339",
+    "sitemap_update": 1777692368000,
+    "votings": [
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

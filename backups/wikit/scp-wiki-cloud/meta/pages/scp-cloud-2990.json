@@ -1,0 +1,62 @@
+{
+    "name": "scp-cloud-2990",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1539474897,
+            "author": 10139052,
+            "stamp": 1763145714,
+            "flags": "A",
+            "commentary": "移除标签：梦幻, 治愈。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1539474881,
+            "author": 10139052,
+            "stamp": 1763145694,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1539474038,
+            "author": 10139052,
+            "stamp": 1763144196,
+            "flags": "A",
+            "commentary": "已新增标签：哲学, 梦幻, 治愈。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1539474028,
+            "author": 10139052,
+            "stamp": 1763144164,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1466747955,
+    "rating": 1,
+    "forum_thread": 17451854,
+    "tags": [
+        "哲学"
+    ],
+    "title": "SCP-CLOUD-2990",
+    "sitemap_update": 1763145714000,
+    "votings": [
+        [
+            10139052,
+            true
+        ],
+        [
+            9887950,
+            true
+        ],
+        [
+            9884343,
+            false
+        ]
+    ],
+    "is_locked": false
+}

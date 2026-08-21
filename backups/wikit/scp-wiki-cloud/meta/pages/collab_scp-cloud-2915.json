@@ -1,0 +1,69 @@
+{
+    "name": "collab:scp-cloud-2915",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1540825996,
+            "author": 9884343,
+            "stamp": 1766304430,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540825821,
+            "author": 9884343,
+            "stamp": 1766304189,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540079609,
+            "author": 9884343,
+            "stamp": 1764504589,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540079572,
+            "author": 9884343,
+            "stamp": 1764504517,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp, site-132, 十一月之雨, 合作。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540079551,
+            "author": 9884343,
+            "stamp": 1764504485,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467204162,
+    "forum_thread": 17466824,
+    "tags": [
+        "safe",
+        "scp",
+        "site-132",
+        "十一月之雨",
+        "合作"
+    ],
+    "title": "SCP-Cloud-2915",
+    "sitemap_update": 1766304430000,
+    "votings": [
+        [
+            9780183,
+            true
+        ],
+        [
+            9863989,
+            true
+        ]
+    ],
+    "is_locked": false
+}

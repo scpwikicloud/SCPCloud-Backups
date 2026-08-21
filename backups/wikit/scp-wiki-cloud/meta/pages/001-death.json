@@ -1,0 +1,114 @@
+{
+    "name": "001-death",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1538509896,
+            "author": 9681840,
+            "stamp": 1762356985,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1538509495,
+            "author": 9681840,
+            "stamp": 1762356925,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1538506768,
+            "author": 9681840,
+            "stamp": 1762356509,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, scp, 原创, 故事。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1538506429,
+            "author": 9681840,
+            "stamp": 1762356453,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1538504960,
+            "author": 9681840,
+            "stamp": 1762356229,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1538503355,
+            "author": 9681840,
+            "stamp": 1762356001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1538503174,
+            "author": 9681840,
+            "stamp": 1762355969,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1538502679,
+            "author": 9681840,
+            "stamp": 1762355894,
+            "flags": "F",
+            "commentary": "已上传文件 “1762355634251.png”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1538496028,
+            "author": 9681840,
+            "stamp": 1762354889,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11649976,
+            "name": "1762355634251.png",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/001-death/1762355634251.png",
+            "size": "4.22 MB (4427776 Bytes)",
+            "size_bytes": 4427776,
+            "mime": "image/png",
+            "content": "PNG image data, 2508 x 1672, 8-bit/color RGB, non-interlaced",
+            "author": 9681840,
+            "stamp": 1762355894,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1465894394,
+    "rating": 2,
+    "forum_thread": 17445101,
+    "tags": [
+        "001提案",
+        "scp",
+        "原创",
+        "故事"
+    ],
+    "title": "Dr.Consisses的提案：基金会已亡",
+    "sitemap_update": 1762356985000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            9772664,
+            true
+        ]
+    ],
+    "is_locked": false
+}

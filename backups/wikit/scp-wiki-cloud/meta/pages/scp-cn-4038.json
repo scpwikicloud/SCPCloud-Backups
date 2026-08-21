@@ -1,0 +1,48 @@
+{
+    "name": "scp-cn-4038",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1543668786,
+            "author": 6452551,
+            "stamp": 1777691720,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1542596648,
+            "author": 9880358,
+            "stamp": 1773234060,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1542596646,
+            "author": 9880358,
+            "stamp": 1773234040,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468238927,
+    "rating": 1,
+    "forum_thread": 17614484,
+    "tags": [
+        "dscp",
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-CN-4038",
+    "sitemap_update": 1777691720000,
+    "votings": [
+        [
+            8738413,
+            true
+        ]
+    ],
+    "is_locked": false
+}

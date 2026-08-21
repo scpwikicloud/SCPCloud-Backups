@@ -1,0 +1,132 @@
+{
+    "name": "scp-cloud-983-c",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1542280661,
+            "author": 9531329,
+            "stamp": 1771947251,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1542280640,
+            "author": 9531329,
+            "stamp": 1771947163,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1540665271,
+            "author": 9531329,
+            "stamp": 1765973928,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1540665142,
+            "author": 9531329,
+            "stamp": 1765973841,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1540647740,
+            "author": 9531329,
+            "stamp": 1765923547,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1540647737,
+            "author": 9531329,
+            "stamp": 1765923511,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1540609876,
+            "author": 9531329,
+            "stamp": 1765685146,
+            "flags": "A",
+            "commentary": "已新增标签：o5-3, scp, uv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1540609870,
+            "author": 9531329,
+            "stamp": 1765685102,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540609865,
+            "author": 9531329,
+            "stamp": 1765685067,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540609845,
+            "author": 9531329,
+            "stamp": 1765684942,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467562416,
+    "rating": 8,
+    "forum_thread": 17490386,
+    "tags": [
+        "o5-3",
+        "scp",
+        "uv至上"
+    ],
+    "title": "SCP-Cloud-983-C-幻象与梦的重生?",
+    "sitemap_update": 1771947251000,
+    "votings": [
+        [
+            9510898,
+            true
+        ],
+        [
+            9859027,
+            true
+        ],
+        [
+            9746831,
+            true
+        ],
+        [
+            9314093,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            9503739,
+            true
+        ],
+        [
+            9894670,
+            true
+        ],
+        [
+            9877906,
+            true
+        ]
+    ],
+    "is_locked": false
+}

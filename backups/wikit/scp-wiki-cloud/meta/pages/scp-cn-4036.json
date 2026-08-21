@@ -1,0 +1,83 @@
+{
+    "name": "scp-cn-4036",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1543668084,
+            "author": 6452551,
+            "stamp": 1777689959,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541727796,
+            "author": 9906554,
+            "stamp": 1769960412,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541727772,
+            "author": 9906554,
+            "stamp": 1769960315,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 何意味, 奖池还在累加, 搬运, 神风, 神风文归档, 神风连发这一块, 赛博琥珀。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541727754,
+            "author": 9906554,
+            "stamp": 1769960250,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468077574,
+    "rating": -6,
+    "forum_thread": 17579019,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "scp",
+        "何意味",
+        "奖池还在累加",
+        "搬运",
+        "神风",
+        "神风文归档",
+        "神风连发这一块",
+        "赛博琥珀"
+    ],
+    "title": "Scp Cn 4036",
+    "sitemap_update": 1777689959000,
+    "votings": [
+        [
+            9713991,
+            false
+        ],
+        [
+            9860823,
+            false
+        ],
+        [
+            8732146,
+            false
+        ],
+        [
+            9906554,
+            false
+        ],
+        [
+            9786309,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

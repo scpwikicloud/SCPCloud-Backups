@@ -1,0 +1,42 @@
+{
+    "name": "scp-cloud-235",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1532707526,
+            "author": 9792384,
+            "stamp": 1759731565,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532707522,
+            "author": 9792384,
+            "stamp": 1759731520,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460503985,
+    "rating": 1,
+    "title": "SCP-CLOUD-235",
+    "sitemap_update": 1759731565000,
+    "votings": [
+        [
+            9135122,
+            true
+        ],
+        [
+            9851562,
+            false
+        ],
+        [
+            9941439,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,95 @@
+{
+    "name": "spc-cloud-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1541378587,
+            "author": 8724347,
+            "stamp": 1768277044,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1541206568,
+            "author": 8724347,
+            "stamp": 1767240600,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1541206517,
+            "author": 8724347,
+            "stamp": 1767240283,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 打鲨鱼, 打鲨鱼中心。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541206508,
+            "author": 8724347,
+            "stamp": 1767240236,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541206489,
+            "author": 8724347,
+            "stamp": 1767240141,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541206469,
+            "author": 8724347,
+            "stamp": 1767239996,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541206430,
+            "author": 8724347,
+            "stamp": 1767239787,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541206392,
+            "author": 8724347,
+            "stamp": 1767239616,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467949902,
+    "forum_thread": 17504719,
+    "tags": [
+        "中心",
+        "打鲨鱼",
+        "打鲨鱼中心"
+    ],
+    "title": "SPC 中心页",
+    "sitemap_update": 1768277044000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            10133162,
+            true
+        ],
+        [
+            9799674,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,52 @@
+{
+    "name": "zhapian",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1544407928,
+            "author": 10195449,
+            "stamp": 1780413591,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 新闻。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544407866,
+            "author": 10195449,
+            "stamp": 1780413385,
+            "flags": "A",
+            "commentary": "已新增标签：dvdvdv, 你掉进陷阱了, 贵公子谢谢你的9178亿美金。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544407849,
+            "author": 10195449,
+            "stamp": 1780413349,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1468798702,
+    "tags": [
+        "dvdvdv",
+        "你掉进陷阱了",
+        "故事",
+        "新闻",
+        "贵公子谢谢你的9178亿美金"
+    ],
+    "title": "震惊，大型诈骗团伙竟通过一虚拟写作网站对某集团贵公子进行诈骗",
+    "sitemap_update": 1780413591000,
+    "votings": [
+        [
+            10390939,
+            false
+        ],
+        [
+            10298682,
+            false
+        ]
+    ],
+    "is_locked": false
+}

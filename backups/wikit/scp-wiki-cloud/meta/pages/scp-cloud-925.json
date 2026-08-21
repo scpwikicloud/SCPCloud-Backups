@@ -1,0 +1,76 @@
+{
+    "name": "scp-cloud-925",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1531754062,
+            "author": 9469192,
+            "stamp": 1756098944,
+            "flags": "A",
+            "commentary": "已新增标签：keter。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531730581,
+            "author": 9469192,
+            "stamp": 1755996210,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531730579,
+            "author": 9469192,
+            "stamp": 1755996191,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531730445,
+            "author": 9469192,
+            "stamp": 1755995169,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460099564,
+    "rating": 4,
+    "forum_thread": 17226847,
+    "tags": [
+        "keter",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-925",
+    "sitemap_update": 1756098944000,
+    "votings": [
+        [
+            9110060,
+            true
+        ],
+        [
+            9681840,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            9646672,
+            true
+        ],
+        [
+            9491856,
+            true
+        ],
+        [
+            9808047,
+            false
+        ]
+    ],
+    "is_locked": false
+}

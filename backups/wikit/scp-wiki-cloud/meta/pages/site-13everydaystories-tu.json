@@ -1,0 +1,76 @@
+{
+    "name": "site-13everydaystories-tu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1358949816,
+            "author": 6184120,
+            "stamp": 1610134641,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1358949807,
+            "author": 6184120,
+            "stamp": 1610134609,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 非广告。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1358949803,
+            "author": 6184120,
+            "stamp": 1610134590,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1358661123,
+            "author": 6184120,
+            "stamp": 1608834701,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1358641820,
+            "author": 6184120,
+            "stamp": 1608739600,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1306311280,
+    "rating": 4,
+    "forum_thread": 13973116,
+    "tags": [
+        "原创",
+        "故事",
+        "非广告"
+    ],
+    "title": "site-13的日常（2",
+    "sitemap_update": 1610134641000,
+    "votings": [
+        [
+            6317957,
+            true
+        ],
+        [
+            6190503,
+            true
+        ],
+        [
+            6833642,
+            true
+        ],
+        [
+            4216903,
+            true
+        ]
+    ],
+    "is_locked": false
+}

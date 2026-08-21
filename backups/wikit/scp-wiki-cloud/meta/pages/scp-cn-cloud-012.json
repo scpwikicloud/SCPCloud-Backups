@@ -1,0 +1,72 @@
+{
+    "name": "scp-cn-cloud-012",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1084389322,
+            "author": 6140401,
+            "stamp": 1588563273,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1084389275,
+            "author": 6140401,
+            "stamp": 1588563051,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075218483,
+            "author": 6140401,
+            "stamp": 1587610098,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1066972150,
+            "author": 6140401,
+            "stamp": 1585731738,
+            "flags": "A",
+            "commentary": "已新增标签：esp, scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1066972131,
+            "author": 6140401,
+            "stamp": 1585731688,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1018212150,
+    "rating": 1,
+    "forum_thread": 13288885,
+    "tags": [
+        "esp",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CN-CLOUD-012/ESP-07",
+    "sitemap_update": 1588563273000,
+    "votings": [
+        [
+            9785619,
+            true
+        ],
+        [
+            6175807,
+            true
+        ],
+        [
+            6256227,
+            false
+        ]
+    ],
+    "is_locked": false
+}

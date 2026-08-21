@@ -1,0 +1,69 @@
+{
+    "name": "its-stakes",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1358957093,
+            "author": 6158388,
+            "stamp": 1610160178,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1358943484,
+            "author": 6158388,
+            "stamp": 1610115637,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1358355694,
+            "author": 6158388,
+            "stamp": 1607681764,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1358355547,
+            "author": 6158388,
+            "stamp": 1607680853,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1358320844,
+            "author": 6158388,
+            "stamp": 1607578475,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1358320801,
+            "author": 6158388,
+            "stamp": 1607578448,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1306151865,
+    "forum_thread": 13900960,
+    "tags": [
+        "故事"
+    ],
+    "title": "他的赌注",
+    "sitemap_update": 1610160178000,
+    "votings": [
+        [
+            6247582,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,128 @@
+{
+    "name": "fragment:huanmeng-001-11",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 13,
+            "global_revision": 1518349611,
+            "author": 9007460,
+            "stamp": 1708331289,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:huanmeng-is-001-tian\"."
+        },
+        {
+            "revision": 12,
+            "global_revision": 1494845928,
+            "author": 7892243,
+            "stamp": 1661998686,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1493462927,
+            "author": 7892243,
+            "stamp": 1661850075,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1492805567,
+            "author": 7892243,
+            "stamp": 1661843070,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1492804159,
+            "author": 7892243,
+            "stamp": 1661843052,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1492802753,
+            "author": 7892243,
+            "stamp": 1661843036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1492799499,
+            "author": 7892243,
+            "stamp": 1661842998,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1492797202,
+            "author": 7892243,
+            "stamp": 1661842967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1492791024,
+            "author": 7892243,
+            "stamp": 1661842895,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1492782596,
+            "author": 7892243,
+            "stamp": 1661842708,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1492782586,
+            "author": 7892243,
+            "stamp": 1661842679,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1492768341,
+            "author": 7892243,
+            "stamp": 1661842421,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1492765765,
+            "author": 7892243,
+            "stamp": 1661842391,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1492762230,
+            "author": 7892243,
+            "stamp": 1661842355,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1433380141,
+    "parent": "collab:huanmeng-is-001-tian",
+    "tags": [
+        "段落"
+    ],
+    "title": "协议通过",
+    "sitemap_update": 1708331289000,
+    "votings": [],
+    "is_locked": false
+}

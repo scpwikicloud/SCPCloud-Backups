@@ -1,0 +1,147 @@
+{
+    "name": "scp-cloud-120",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1508351209,
+            "author": 8305255,
+            "stamp": 1678200866,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1084493430,
+            "author": 5967510,
+            "stamp": 1588736329,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1084478035,
+            "author": 6329904,
+            "stamp": 1588681179,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1084478031,
+            "author": 6329904,
+            "stamp": 1588681155,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1084403964,
+            "author": 6329904,
+            "stamp": 1588601422,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1084401383,
+            "author": 6329904,
+            "stamp": 1588592654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1084401335,
+            "author": 6329904,
+            "stamp": 1588592623,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。 移除标签： s。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1084401328,
+            "author": 6329904,
+            "stamp": 1588592588,
+            "flags": "A",
+            "commentary": "已新增标签：s。 移除标签： scp, 原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1084401316,
+            "author": 6329904,
+            "stamp": 1588592523,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1084391336,
+            "author": 6329904,
+            "stamp": 1588570974,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084390940,
+            "author": 5967510,
+            "stamp": 1588569662,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084390628,
+            "author": 6329904,
+            "stamp": 1588568624,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1084390622,
+            "author": 6329904,
+            "stamp": 1588568595,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1035140608,
+    "rating": 2,
+    "forum_thread": 13289051,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-120 帝皇铠甲",
+    "sitemap_update": 1678200866000,
+    "votings": [
+        [
+            6140401,
+            true
+        ],
+        [
+            6329904,
+            true
+        ],
+        [
+            6402265,
+            true
+        ],
+        [
+            5967510,
+            false
+        ],
+        [
+            9667538,
+            false
+        ],
+        [
+            9321029,
+            true
+        ]
+    ],
+    "is_locked": false
+}

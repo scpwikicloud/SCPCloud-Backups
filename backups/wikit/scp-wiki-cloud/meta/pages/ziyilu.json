@@ -1,0 +1,68 @@
+{
+    "name": "ziyilu",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1540213577,
+            "author": 8420958,
+            "stamp": 1764826488,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1540213551,
+            "author": 8420958,
+            "stamp": 1764826432,
+            "flags": "A",
+            "commentary": "已新增标签：乡坊志异, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1540213510,
+            "author": 8420958,
+            "stamp": 1764826348,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467288092,
+    "rating": 6,
+    "forum_thread": 17477919,
+    "tags": [
+        "乡坊志异",
+        "原创",
+        "故事"
+    ],
+    "title": "乡坊志异——章邰传",
+    "sitemap_update": 1764826488000,
+    "votings": [
+        [
+            9746831,
+            true
+        ],
+        [
+            6335947,
+            true
+        ],
+        [
+            9929144,
+            true
+        ],
+        [
+            10127899,
+            true
+        ],
+        [
+            9503739,
+            true
+        ],
+        [
+            8420958,
+            true
+        ]
+    ],
+    "is_locked": false
+}

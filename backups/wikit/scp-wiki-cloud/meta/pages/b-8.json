@@ -1,0 +1,90 @@
+{
+    "name": "b-8",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1543669302,
+            "author": 6452551,
+            "stamp": 1777692862,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1541308087,
+            "author": 9929144,
+            "stamp": 1767839865,
+            "flags": "A",
+            "commentary": "已新增标签：区庄。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1541308082,
+            "author": 9929144,
+            "stamp": 1767839807,
+            "flags": "A",
+            "commentary": "已新增标签：抽像宇宙。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1541308078,
+            "author": 9929144,
+            "stamp": 1767839746,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1541308071,
+            "author": 9929144,
+            "stamp": 1767839679,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, 搬运, 自己搬运自己的文这一块, 🐛🐛🐛🐛🐛🐛🐛🐛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1541308064,
+            "author": 9929144,
+            "stamp": 1767839629,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1467976478,
+    "tags": [
+        "dscp",
+        "dv至上",
+        "区庄",
+        "抽像宇宙",
+        "搬运",
+        "自己搬运自己的文这一块",
+        "🐛🐛🐛🐛🐛🐛🐛🐛"
+    ],
+    "title": "区庄居民档案：KLW547",
+    "sitemap_update": 1777692862000,
+    "votings": [
+        [
+            9879889,
+            false
+        ],
+        [
+            9929144,
+            false
+        ],
+        [
+            8393776,
+            false
+        ],
+        [
+            9884343,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

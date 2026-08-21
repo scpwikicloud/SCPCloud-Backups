@@ -1,0 +1,65 @@
+{
+    "name": "scp-cloud-425",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1544219393,
+            "author": 10365489,
+            "stamp": 1779966420,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1544219338,
+            "author": 10365489,
+            "stamp": 1779966353,
+            "flags": "F",
+            "commentary": "已上传文件 “Image_1779884066232_384.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1544181869,
+            "author": 10365489,
+            "stamp": 1779900426,
+            "flags": "A",
+            "commentary": "已新增标签：kards, scp, 原创, 模因。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1544181845,
+            "author": 10365489,
+            "stamp": 1779900381,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11826727,
+            "name": "Image_1779884066232_384.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-cloud-425/Image_1779884066232_384.jpg",
+            "size": "36 kB (36867 Bytes)",
+            "size_bytes": 36867,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , width=0], baseline, precision 8, 441x622, components 3",
+            "author": 10365489,
+            "stamp": 1779966353,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1468723532,
+    "rating": 0,
+    "forum_thread": 17967858,
+    "tags": [
+        "kards",
+        "scp",
+        "原创",
+        "模因"
+    ],
+    "title": "Scp Cloud 425",
+    "sitemap_update": 1779966420000,
+    "votings": [],
+    "is_locked": false
+}

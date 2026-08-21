@@ -1,0 +1,44 @@
+{
+    "name": "173",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1215276581,
+            "author": 6303777,
+            "stamp": 1593603742,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 烂文, 生草, 讽刺。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1215276567,
+            "author": 6303777,
+            "stamp": 1593603685,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165219431,
+    "forum_thread": 13475691,
+    "tags": [
+        "原创",
+        "烂文",
+        "生草",
+        "讽刺"
+    ],
+    "title": "173の制作方法",
+    "sitemap_update": 1593603742000,
+    "votings": [
+        [
+            10179253,
+            true
+        ],
+        [
+            7169775,
+            true
+        ]
+    ],
+    "is_locked": false
+}

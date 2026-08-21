@@ -1,0 +1,75 @@
+{
+    "name": "no-delete",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1532563056,
+            "author": 8366274,
+            "stamp": 1759247349,
+            "flags": "A",
+            "commentary": "已新增标签：7813不删文竞赛。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1532563013,
+            "author": 8366274,
+            "stamp": 1759247223,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1532562996,
+            "author": 8366274,
+            "stamp": 1759247180,
+            "flags": "A",
+            "commentary": "已新增标签：2025整活大赛, dv。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1532562986,
+            "author": 8366274,
+            "stamp": 1759247142,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460469371,
+    "forum_thread": 17270017,
+    "tags": [
+        "2025整活大赛",
+        "7813不删文竞赛",
+        "dv"
+    ],
+    "title": "7813夏季征文：不删文",
+    "sitemap_update": 1759247349000,
+    "votings": [
+        [
+            7932452,
+            false
+        ],
+        [
+            9793667,
+            true
+        ],
+        [
+            8085427,
+            false
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9581894,
+            false
+        ],
+        [
+            9869350,
+            false
+        ]
+    ],
+    "is_locked": false
+}

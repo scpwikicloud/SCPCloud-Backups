@@ -1,0 +1,41 @@
+{
+    "name": "scp-cl-1524",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1530268937,
+            "author": 9561469,
+            "stamp": 1748351208,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1530268927,
+            "author": 9561469,
+            "stamp": 1748351169,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530268884,
+            "author": 9561469,
+            "stamp": 1748350944,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459734801,
+    "title": "SCP-CL-1937",
+    "sitemap_update": 1748351208000,
+    "votings": [
+        [
+            8305255,
+            false
+        ]
+    ],
+    "is_locked": false
+}

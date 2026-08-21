@@ -1,0 +1,150 @@
+{
+    "name": "csw",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1367460649,
+            "author": 7045981,
+            "stamp": 1628333021,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1358359195,
+            "author": 6335947,
+            "stamp": 1607699759,
+            "flags": "A",
+            "commentary": "已新增标签：设定中心。 移除标签：故事。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1358359185,
+            "author": 6335947,
+            "stamp": 1607699653,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1356489097,
+            "author": 6335947,
+            "stamp": 1602163297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1356488967,
+            "author": 6335947,
+            "stamp": 1602163022,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1356301525,
+            "author": 6335947,
+            "stamp": 1601793593,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1356024470,
+            "author": 6335947,
+            "stamp": 1600885203,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1356024467,
+            "author": 6335947,
+            "stamp": 1600885193,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1356024457,
+            "author": 6335947,
+            "stamp": 1600885144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1356024450,
+            "author": 6335947,
+            "stamp": 1600885069,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1356024441,
+            "author": 6335947,
+            "stamp": 1600885020,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1355953328,
+            "author": 6335947,
+            "stamp": 1600606661,
+            "flags": "A",
+            "commentary": "移除标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1355942302,
+            "author": 6335947,
+            "stamp": 1600581390,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1355941416,
+            "author": 6335947,
+            "stamp": 1600577633,
+            "flags": "A",
+            "commentary": "已新增标签：中心页, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1355941413,
+            "author": 6335947,
+            "stamp": 1600577610,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1304894163,
+    "forum_thread": 13965569,
+    "tags": [
+        "中心页",
+        "设定中心"
+    ],
+    "title": "CSW社团中心页",
+    "sitemap_update": 1628333021000,
+    "votings": [
+        [
+            6104332,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

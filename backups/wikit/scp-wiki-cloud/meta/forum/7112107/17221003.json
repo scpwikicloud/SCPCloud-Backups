@@ -1,0 +1,54 @@
+{
+    "title": "精品！",
+    "id": 17221003,
+    "description": "",
+    "last": 1756223171,
+    "lastUser": 9158361,
+    "started": 1755874520,
+    "startedUser": 9321285,
+    "postsNum": 3,
+    "sticky": true,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7153223,
+            "title": "精品！",
+            "poster": 9321285,
+            "stamp": 1755874520,
+            "lastEdit": 1756129444,
+            "lastEditBy": 9321285,
+            "revisions": [
+                {
+                    "title": "精品！",
+                    "author": 9321285,
+                    "id": 8661642,
+                    "stamp": 1756129444
+                },
+                {
+                    "title": "精品！",
+                    "author": 9321285,
+                    "id": 8649061,
+                    "stamp": 1755874520
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7164293,
+            "title": "Re: 精品！",
+            "poster": 9681840,
+            "stamp": 1756116257,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7170025,
+            "title": "Re: 精品！",
+            "poster": 9158361,
+            "stamp": 1756223171,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

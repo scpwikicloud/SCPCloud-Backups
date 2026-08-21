@@ -1,0 +1,50 @@
+{
+    "name": "scp-cloud-068",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1508351148,
+            "author": 8305255,
+            "stamp": 1678200497,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1461546173,
+            "author": 7501293,
+            "stamp": 1654254815,
+            "flags": "T",
+            "commentary": "您已成功地回复本页至修订版本编号 0"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1461423048,
+            "author": 8017462,
+            "stamp": 1654093966,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1461376047,
+            "author": 8055541,
+            "stamp": 1653918037,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1403102894,
+    "rating": -1,
+    "title": "Scp-Cloud-068-3  失去",
+    "sitemap_update": 1678200497000,
+    "votings": [
+        [
+            4726378,
+            false
+        ]
+    ],
+    "is_locked": false
+}

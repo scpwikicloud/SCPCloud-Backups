@@ -1,0 +1,187 @@
+{
+    "name": "scp-cloud-054",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1508351077,
+            "author": 8305255,
+            "stamp": 1678200313,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1459480044,
+            "author": 5721026,
+            "stamp": 1647939004,
+            "flags": "A",
+            "commentary": "移除标签：不搞奇奇怪怪的标签了，绝对的, 众神俱乐部, 奇怪的标签多了起来, 好像出现了奇奇怪怪的标签, 我不是大帅比, 溜了, 觉得好就down吧。"
+        },
+        {
+            "revision": 12,
+            "global_revision": 1217750417,
+            "author": 6269192,
+            "stamp": 1593777934,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 10"
+        },
+        {
+            "revision": 11,
+            "global_revision": 1217744219,
+            "author": 6280229,
+            "stamp": 1593757282,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1215012028,
+            "author": 6498153,
+            "stamp": 1592619717,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1215012010,
+            "author": 6498153,
+            "stamp": 1592619665,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1215000776,
+            "author": 6240575,
+            "stamp": 1592573440,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1214992093,
+            "author": 6498153,
+            "stamp": 1592532258,
+            "flags": "A",
+            "commentary": "已新增标签：觉得好就down吧。 移除标签：觉得好还是down吧。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1214992088,
+            "author": 6498153,
+            "stamp": 1592532215,
+            "flags": "A",
+            "commentary": "已新增标签：觉得好还是down吧。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1214990466,
+            "author": 6498153,
+            "stamp": 1592524803,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1214979680,
+            "author": 6498153,
+            "stamp": 1592484274,
+            "flags": "A",
+            "commentary": "已新增标签：奇怪的标签多了起来, 我不是大帅比。 移除标签：我是大帅比。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1214936764,
+            "author": 6498153,
+            "stamp": 1592474658,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1214936719,
+            "author": 6498153,
+            "stamp": 1592474598,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 不搞奇奇怪怪的标签了，绝对的, 众神俱乐部, 原创, 好像出现了奇奇怪怪的标签, 我是大帅比, 溜了。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1214924813,
+            "author": 6498153,
+            "stamp": 1592474460,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1214856136,
+            "author": 6498153,
+            "stamp": 1592471981,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1164962470,
+    "rating": -10,
+    "forum_thread": 13441419,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-054 神不会死",
+    "sitemap_update": 1678200313000,
+    "votings": [
+        [
+            9839285,
+            false
+        ],
+        [
+            7045981,
+            false
+        ],
+        [
+            6139213,
+            false
+        ],
+        [
+            6285604,
+            false
+        ],
+        [
+            6874010,
+            false
+        ],
+        [
+            5612590,
+            false
+        ],
+        [
+            6293445,
+            false
+        ],
+        [
+            6306406,
+            false
+        ],
+        [
+            5918838,
+            false
+        ],
+        [
+            9843992,
+            false
+        ],
+        [
+            10088015,
+            true
+        ],
+        [
+            6498153,
+            false
+        ]
+    ],
+    "is_locked": false
+}

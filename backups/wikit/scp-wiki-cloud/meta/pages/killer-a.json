@@ -1,0 +1,102 @@
+{
+    "name": "killer-a",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1217750374,
+            "author": 6269192,
+            "stamp": 1593777711,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 4"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1217744208,
+            "author": 6280229,
+            "stamp": 1593757240,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1215144390,
+            "author": 6189245,
+            "stamp": 1593137928,
+            "flags": "A",
+            "commentary": "已新增标签：killer收容物, scp, 原创, 地下杀手协会, 日博士（bushi。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1215144372,
+            "author": 6189245,
+            "stamp": 1593137855,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1215144301,
+            "author": 6189245,
+            "stamp": 1593137765,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1215144283,
+            "author": 6189245,
+            "stamp": 1593137657,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1215144280,
+            "author": 6189245,
+            "stamp": 1593137643,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165152555,
+    "rating": -2,
+    "forum_thread": 13456408,
+    "tags": [
+        "killer收容物",
+        "scp",
+        "原创",
+        "地下杀手协会",
+        "日博士（bushi"
+    ],
+    "title": "Killer-A",
+    "sitemap_update": 1593777711000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            5266566,
+            false
+        ],
+        [
+            6127045,
+            false
+        ],
+        [
+            6401471,
+            true
+        ],
+        [
+            6264761,
+            false
+        ],
+        [
+            7446814,
+            true
+        ]
+    ],
+    "is_locked": false
+}

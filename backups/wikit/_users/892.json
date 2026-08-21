@@ -38,7 +38,7 @@
         "wikidot_user_since": 1615035840,
         "account_type": "free",
         "activity": 3,
-        "fetched_at": 1787242205792,
+        "fetched_at": 1787329732968,
         "user_id": 7308956
     },
     "7309107": {
@@ -49,5 +49,17 @@
         "activity": 1,
         "fetched_at": 1787271446583,
         "user_id": 7309107
+    },
+    "7311852": {
+        "full_name": "DoctorZhao",
+        "username": "doctorzhao",
+        "real_name": "[数据删除]",
+        "gender": "male",
+        "from": "南京，中国",
+        "wikidot_user_since": 1615198440,
+        "account_type": "free",
+        "activity": 2,
+        "fetched_at": 1787329968487,
+        "user_id": 7311852
     }
 }

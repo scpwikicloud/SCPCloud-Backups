@@ -1,0 +1,153 @@
+{
+    "name": "tonk-s-guide",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1089112551,
+            "author": 5967510,
+            "stamp": 1589382537,
+            "flags": "S",
+            "commentary": "改错字"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1054603777,
+            "author": 6275819,
+            "stamp": 1585375327,
+            "flags": "A",
+            "commentary": "已新增标签：写作, 民间指导, 玩梗。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1051097261,
+            "author": 3264570,
+            "stamp": 1585318803,
+            "flags": "S",
+            "commentary": "添加了评分模块"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1051042489,
+            "author": 3264570,
+            "stamp": 1585281977,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1051041698,
+            "author": 3264570,
+            "stamp": 1585280591,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1051041498,
+            "author": 3264570,
+            "stamp": 1585280229,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1051041374,
+            "author": 3264570,
+            "stamp": 1585279975,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1051041263,
+            "author": 3264570,
+            "stamp": 1585279745,
+            "flags": "F",
+            "commentary": "已上传文件 “天道仪内部.jpg”。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1051041244,
+            "author": 3264570,
+            "stamp": 1585279705,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1051041196,
+            "author": 3264570,
+            "stamp": 1585279616,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 指导, 最新。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1051041154,
+            "author": 3264570,
+            "stamp": 1585279593,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 8991356,
+            "name": "天道仪内部.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/tonk-s-guide/%E5%A4%A9%E9%81%93%E4%BB%AA%E5%86%85%E9%83%A8.jpg",
+            "size": "20.03 kB (20508 Bytes)",
+            "size_bytes": 20508,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 3264570,
+            "stamp": 1585279745,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1002359575,
+    "rating": 7,
+    "forum_thread": 13185043,
+    "tags": [
+        "写作",
+        "原创",
+        "指导",
+        "故事",
+        "最新",
+        "民间指导",
+        "玩梗"
+    ],
+    "title": "一份指导，或者是一个云小鬼的喋喋不休",
+    "sitemap_update": 1589382537000,
+    "votings": [
+        [
+            6225532,
+            true
+        ],
+        [
+            6239908,
+            true
+        ],
+        [
+            10011959,
+            true
+        ],
+        [
+            6159447,
+            true
+        ],
+        [
+            8819205,
+            true
+        ],
+        [
+            6155697,
+            true
+        ],
+        [
+            6264761,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,74 @@
+{
+    "name": "scp-cloud-5000",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1198205008,
+            "author": 6398031,
+            "stamp": 1591878720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1198204874,
+            "author": 6398031,
+            "stamp": 1591878312,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1198204828,
+            "author": 6398031,
+            "stamp": 1591878216,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1198204783,
+            "author": 6398031,
+            "stamp": 1591878115,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1198204761,
+            "author": 6398031,
+            "stamp": 1591878014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1198204716,
+            "author": 6398031,
+            "stamp": 1591877798,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1198204658,
+            "author": 6398031,
+            "stamp": 1591877649,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1148399192,
+    "forum_thread": 13430813,
+    "title": "SCP-Cloud-5000",
+    "sitemap_update": 1591878720000,
+    "votings": [
+        [
+            6398031,
+            true
+        ]
+    ],
+    "is_locked": false
+}

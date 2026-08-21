@@ -1,0 +1,37 @@
+{
+    "name": "scp-cn-3560",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1523571834,
+            "author": 6452551,
+            "stamp": 1723215187,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523571829,
+            "author": 6452551,
+            "stamp": 1723215177,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456146637,
+    "rating": 1,
+    "tags": [
+        "dscp"
+    ],
+    "title": "SCP-CN-3560",
+    "sitemap_update": 1723215187000,
+    "votings": [
+        [
+            7308956,
+            true
+        ]
+    ],
+    "is_locked": false
+}

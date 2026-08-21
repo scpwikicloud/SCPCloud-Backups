@@ -1,0 +1,39 @@
+{
+    "name": "scp-7479",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1495295516,
+            "author": 8245356,
+            "stamp": 1662803144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1495295462,
+            "author": 8245356,
+            "stamp": 1662802910,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1435791124,
+    "rating": 0,
+    "forum_thread": 15169509,
+    "title": "SCP-7479红色恶魔",
+    "sitemap_update": 1662803144000,
+    "votings": [
+        [
+            8245356,
+            true
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,47 @@
+{
+    "title": "水帖区",
+    "id": 16928184,
+    "description": "3",
+    "last": 1738935956,
+    "lastUser": 8708081,
+    "started": 1725076529,
+    "startedUser": 8049583,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6639122,
+            "title": "水帖区",
+            "poster": 8049583,
+            "stamp": 1725076529,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6649337,
+            "title": "Re: 水帖区",
+            "poster": 8979477,
+            "stamp": 1725886622,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6739539,
+            "title": "Re: 水帖区",
+            "poster": 3689828,
+            "stamp": 1732711935,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6807839,
+            "title": "Re: 水帖区",
+            "poster": 8708081,
+            "stamp": 1738935956,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

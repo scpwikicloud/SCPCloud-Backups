@@ -1,0 +1,79 @@
+{
+    "name": "magic1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1519291228,
+            "author": 8280481,
+            "stamp": 1711839818,
+            "flags": "A",
+            "commentary": "已新增标签：esp, 作者没文化。 移除标签：作者没文化esp。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1519291227,
+            "author": 8280481,
+            "stamp": 1711839811,
+            "flags": "A",
+            "commentary": "已新增标签：作者没文化esp。 移除标签：esp。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1084264191,
+            "author": 6140401,
+            "stamp": 1588463411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1084263790,
+            "author": 6140401,
+            "stamp": 1588462314,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1084246413,
+            "author": 6140401,
+            "stamp": 1588407578,
+            "flags": "A",
+            "commentary": "已新增标签：esp, 原创, 奇术, 故事, 瞎编乱造, 设定补充。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1084246402,
+            "author": 6140401,
+            "stamp": 1588407533,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1035022429,
+    "forum_thread": 13285311,
+    "tags": [
+        "esp",
+        "作者没文化",
+        "原创",
+        "奇术",
+        "故事",
+        "瞎编乱造",
+        "设定补充"
+    ],
+    "title": "补充设定:奇术处理装置",
+    "sitemap_update": 1711839818000,
+    "votings": [
+        [
+            6104332,
+            true
+        ],
+        [
+            6329390,
+            true
+        ]
+    ],
+    "is_locked": false
+}

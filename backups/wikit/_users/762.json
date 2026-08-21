@@ -18,7 +18,7 @@
         "wikidot_user_since": 1584586740,
         "account_type": "free",
         "activity": 3,
-        "fetched_at": 1787242275790,
+        "fetched_at": 1787340628355,
         "user_id": 6243991
     },
     "6244036": {
@@ -31,6 +31,15 @@
         "activity": 3,
         "fetched_at": 1787291070046,
         "user_id": 6244036
+    },
+    "6247484": {
+        "full_name": "ONEGHOST",
+        "username": "oneghost",
+        "wikidot_user_since": 1584665580,
+        "account_type": "free",
+        "activity": 0,
+        "fetched_at": 1787333860122,
+        "user_id": 6247484
     },
     "6247582": {
         "full_name": "U-Coocoo",
@@ -65,6 +74,17 @@
         "fetched_at": 1787251797247,
         "user_id": 6247701
     },
+    "6248012": {
+        "full_name": "Garych - kaokao",
+        "username": "garych-kaokao",
+        "real_name": "[数据删除][数据删除]霖",
+        "birthday": 877996800000,
+        "wikidot_user_since": 1584675660,
+        "account_type": "free",
+        "activity": 3,
+        "fetched_at": 1787333859849,
+        "user_id": 6248012
+    },
     "6248724": {
         "full_name": "Shinomika",
         "username": "shinomika",
@@ -74,7 +94,7 @@
         "wikidot_user_since": 1584690180,
         "account_type": "free",
         "activity": 0,
-        "fetched_at": 1787248561803,
+        "fetched_at": 1787339335522,
         "user_id": 6248724
     }
 }

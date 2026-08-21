@@ -1,0 +1,47 @@
+{
+    "name": "scp-cloud-933",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1524263907,
+            "author": 8305255,
+            "stamp": 1724940657,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523913093,
+            "author": 8305255,
+            "stamp": 1723983453,
+            "flags": "T",
+            "commentary": "更正标题。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519281169,
+            "author": 8121101,
+            "stamp": 1711785418,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453157328,
+    "forum_thread": 16910263,
+    "tags": [
+        "safe",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-933",
+    "sitemap_update": 1724940657000,
+    "votings": [
+        [
+            9854410,
+            false
+        ]
+    ],
+    "is_locked": false
+}

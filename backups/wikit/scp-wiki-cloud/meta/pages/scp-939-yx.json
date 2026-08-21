@@ -1,0 +1,62 @@
+{
+    "name": "scp-939-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1198185791,
+            "author": 6470364,
+            "stamp": 1591801472,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1196903063,
+            "author": 6470364,
+            "stamp": 1591617143,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1196902526,
+            "author": 6470364,
+            "stamp": 1591615146,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1147137339,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "英雄图鉴"
+    ],
+    "title": "SCP-939-YX",
+    "sitemap_update": 1591801472000,
+    "votings": [
+        [
+            5189088,
+            false
+        ],
+        [
+            7262242,
+            false
+        ],
+        [
+            6324658,
+            false
+        ],
+        [
+            6470364,
+            false
+        ],
+        [
+            6286770,
+            false
+        ]
+    ],
+    "is_locked": false
+}

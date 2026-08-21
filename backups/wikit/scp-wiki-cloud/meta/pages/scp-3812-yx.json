@@ -1,0 +1,54 @@
+{
+    "name": "scp-3812-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1192021555,
+            "author": 6212503,
+            "stamp": 1591432648,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1191908170,
+            "author": 6212503,
+            "stamp": 1591430044,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1191803224,
+            "author": 6476055,
+            "stamp": 1591421151,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1142067223,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "英雄图鉴"
+    ],
+    "title": "SCP-3812-YX",
+    "sitemap_update": 1591432648000,
+    "votings": [
+        [
+            6470364,
+            false
+        ],
+        [
+            6476055,
+            true
+        ],
+        [
+            6088403,
+            false
+        ]
+    ],
+    "is_locked": false
+}

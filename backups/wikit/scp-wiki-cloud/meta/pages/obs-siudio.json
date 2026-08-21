@@ -1,0 +1,54 @@
+{
+    "name": "obs-siudio",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1223866325,
+            "author": 6280229,
+            "stamp": 1593920022,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1183446250,
+            "author": 6323514,
+            "stamp": 1590920382,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1182885764,
+            "author": 6323514,
+            "stamp": 1590896932,
+            "flags": "A",
+            "commentary": "已新增标签：指导, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1182885754,
+            "author": 6323514,
+            "stamp": 1590896885,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1133225484,
+    "forum_thread": 13398137,
+    "tags": [
+        "原创",
+        "指导",
+        "故事"
+    ],
+    "sitemap_update": 1593920022000,
+    "votings": [
+        [
+            6127045,
+            true
+        ]
+    ],
+    "is_locked": false
+}

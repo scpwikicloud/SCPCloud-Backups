@@ -1,0 +1,46 @@
+{
+    "name": "fragment:scp-cn-3000-01",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1050799810,
+            "author": 5240708,
+            "stamp": 1584670112,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1050799606,
+            "author": 5240708,
+            "stamp": 1584669839,
+            "flags": "M",
+            "commentary": "父页面设置为: \"scp-cn-3000\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1050799590,
+            "author": 5240708,
+            "stamp": 1584669811,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1002217841,
+    "parent": "scp-cn-3000",
+    "title": "SCP-CN-3000",
+    "sitemap_update": 1584670112000,
+    "votings": [
+        [
+            7146864,
+            false
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

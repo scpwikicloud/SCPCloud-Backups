@@ -1,0 +1,55 @@
+{
+    "title": "新人报到",
+    "id": 17797744,
+    "description": "",
+    "last": 1777289513,
+    "lastUser": 10140214,
+    "started": 1777186760,
+    "startedUser": 10252500,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7921514,
+            "title": "新人报到",
+            "poster": 10252500,
+            "stamp": 1777186760,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7921852,
+                    "title": "Re: 新人报到",
+                    "poster": 10208396,
+                    "stamp": 1777192411,
+                    "lastEdit": 1777195284,
+                    "lastEditBy": 10208396,
+                    "revisions": [
+                        {
+                            "title": "Re: 新人报到",
+                            "author": 10208396,
+                            "id": 9492021,
+                            "stamp": 1777195284
+                        },
+                        {
+                            "title": "Re: 新人报到",
+                            "author": 10208396,
+                            "id": 9491842,
+                            "stamp": 1777192411
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "id": 7927160,
+                    "title": "Re: 新人报到",
+                    "poster": 10140214,
+                    "stamp": 1777289513,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "rotate",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1527637895,
+            "author": 8305255,
+            "stamp": 1738933138,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527637845,
+            "author": 8305255,
+            "stamp": 1738932873,
+            "flags": "S",
+            "commentary": "地下黑色→地下黑市"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527637071,
+            "author": 7535291,
+            "stamp": 1738929284,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527637044,
+            "author": 7535291,
+            "stamp": 1738929170,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527637035,
+            "author": 7535291,
+            "stamp": 1738929150,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458379192,
+    "forum_thread": 17905138,
+    "tags": [
+        "管理"
+    ],
+    "title": "云分主管理员列表",
+    "sitemap_update": 1738933138000,
+    "votings": [],
+    "is_locked": true
+}

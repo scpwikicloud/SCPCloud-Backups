@@ -1,0 +1,45 @@
+{
+    "name": "scp-cn-3078",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1523965855,
+            "author": 6452551,
+            "stamp": 1724054411,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523907805,
+            "author": 6452551,
+            "stamp": 1723955158,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523907801,
+            "author": 6452551,
+            "stamp": 1723955150,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456383045,
+    "rating": 1,
+    "tags": [
+        "dscp"
+    ],
+    "title": "SCP-CN-3078",
+    "sitemap_update": 1724054411000,
+    "votings": [
+        [
+            7309107,
+            true
+        ]
+    ],
+    "is_locked": false
+}

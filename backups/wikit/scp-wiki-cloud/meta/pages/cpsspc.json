@@ -1,0 +1,132 @@
+{
+    "name": "cpsspc",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1515308513,
+            "author": 7274437,
+            "stamp": 1698164060,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1515308437,
+            "author": 7274437,
+            "stamp": 1698163682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1515308394,
+            "author": 7274437,
+            "stamp": 1698163617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1515231270,
+            "author": 7274437,
+            "stamp": 1697966623,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1515122559,
+            "author": 7890731,
+            "stamp": 1697625936,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1509268293,
+            "author": 7274437,
+            "stamp": 1680627482,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1509268270,
+            "author": 7274437,
+            "stamp": 1680627343,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1509248302,
+            "author": 7274437,
+            "stamp": 1680578237,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1509242409,
+            "author": 7274437,
+            "stamp": 1680541941,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 打鲨鱼中心, 故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1509242400,
+            "author": 7274437,
+            "stamp": 1680541917,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1509242382,
+            "author": 7274437,
+            "stamp": 1680541770,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1509242377,
+            "author": 7274437,
+            "stamp": 1680541745,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1447181232,
+    "rating": 4,
+    "forum_thread": 16412018,
+    "tags": [
+        "中心",
+        "打鲨鱼中心",
+        "故事"
+    ],
+    "title": "云拳击系统",
+    "sitemap_update": 1698164060000,
+    "votings": [
+        [
+            6452551,
+            true
+        ],
+        [
+            7274437,
+            true
+        ],
+        [
+            8049583,
+            true
+        ],
+        [
+            7890731,
+            true
+        ]
+    ],
+    "is_locked": false
+}

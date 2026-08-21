@@ -1,0 +1,118 @@
+{
+    "name": "scp-cloud-1940",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1064238915,
+            "author": 6150792,
+            "stamp": 1585653737,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1064238890,
+            "author": 6150792,
+            "stamp": 1585653668,
+            "flags": "A",
+            "commentary": "已新增标签：反面教材, 讽刺, 龙傲天。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1064238859,
+            "author": 6150792,
+            "stamp": 1585653544,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1064238823,
+            "author": 6150792,
+            "stamp": 1585653410,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1064238393,
+            "author": 6150792,
+            "stamp": 1585652254,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1064238384,
+            "author": 6150792,
+            "stamp": 1585652226,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1064238367,
+            "author": 6150792,
+            "stamp": 1585652171,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1064238353,
+            "author": 6150792,
+            "stamp": 1585652118,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1064238143,
+            "author": 6150792,
+            "stamp": 1585651515,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 恶搞。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1064238134,
+            "author": 6150792,
+            "stamp": 1585651487,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1015494625,
+    "forum_thread": 13197034,
+    "tags": [
+        "scp",
+        "原创",
+        "反面教材",
+        "恶搞",
+        "讽刺",
+        "龙傲天"
+    ],
+    "title": "SPC CLOUD D P S   龙傲天",
+    "sitemap_update": 1585653737000,
+    "votings": [
+        [
+            6264210,
+            false
+        ],
+        [
+            6150792,
+            false
+        ],
+        [
+            9326464,
+            true
+        ],
+        [
+            4888797,
+            false
+        ]
+    ],
+    "is_locked": false
+}

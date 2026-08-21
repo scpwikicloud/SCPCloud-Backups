@@ -1,0 +1,111 @@
+{
+    "name": "scp-cloud-021",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1508350930,
+            "author": 8305255,
+            "stamp": 1678199530,
+            "flags": "S",
+            "commentary": "我添加评分模组"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1388938683,
+            "author": 6126538,
+            "stamp": 1645157848,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1388927358,
+            "author": 6126538,
+            "stamp": 1645105258,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1388927236,
+            "author": 6126538,
+            "stamp": 1645104897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1388927208,
+            "author": 6126538,
+            "stamp": 1645104775,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388927204,
+            "author": 6126538,
+            "stamp": 1645104747,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331721878,
+    "rating": -4,
+    "forum_thread": 14652472,
+    "title": "Scp Cloud 021",
+    "sitemap_update": 1678199530000,
+    "votings": [
+        [
+            7642233,
+            true
+        ],
+        [
+            8305255,
+            false
+        ],
+        [
+            9673036,
+            false
+        ],
+        [
+            6979631,
+            true
+        ],
+        [
+            6169516,
+            true
+        ],
+        [
+            9886669,
+            false
+        ],
+        [
+            9171385,
+            false
+        ],
+        [
+            6126538,
+            true
+        ],
+        [
+            7362228,
+            false
+        ],
+        [
+            8128287,
+            false
+        ],
+        [
+            7403038,
+            false
+        ],
+        [
+            7884248,
+            false
+        ]
+    ],
+    "is_locked": false
+}

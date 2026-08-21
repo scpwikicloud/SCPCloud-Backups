@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 12,
+            "global_revision": 1546170557,
+            "author": 7277638,
+            "stamp": 1787308549,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 11,
             "global_revision": 1546145265,
             "author": 7277638,
@@ -101,6 +109,16 @@
     ],
     "files": [],
     "page_id": 1469194387,
+    "votings": [
+        [
+            7277638,
+            false
+        ],
+        [
+            10335993,
+            false
+        ]
+    ],
     "rating": -2,
     "forum_thread": 18327682,
     "tags": [
@@ -114,16 +132,6 @@
         "魔怔"
     ],
     "title": "Scp-Cloud-076-mbti魔怔狗",
-    "sitemap_update": 1787236185000,
-    "votings": [
-        [
-            7277638,
-            false
-        ],
-        [
-            10335993,
-            false
-        ]
-    ],
+    "sitemap_update": 1787308549000,
     "is_locked": false
 }

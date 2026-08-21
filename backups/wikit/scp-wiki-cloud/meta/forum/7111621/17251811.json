@@ -1,0 +1,85 @@
+{
+    "title": "新人草稿",
+    "id": 17251811,
+    "description": "我自己都不知道自己写的什么",
+    "last": 1760620357,
+    "lastUser": 9786733,
+    "started": 1758377109,
+    "startedUser": 9786733,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7203091,
+            "title": "新人草稿",
+            "poster": 9786733,
+            "stamp": 1758377109,
+            "lastEdit": 1758423389,
+            "lastEditBy": 9786733,
+            "revisions": [
+                {
+                    "title": "新人草稿",
+                    "author": 9786733,
+                    "id": 8707735,
+                    "stamp": 1758423389
+                },
+                {
+                    "title": "新人草稿",
+                    "author": 9786733,
+                    "id": 8706810,
+                    "stamp": 1758377752
+                },
+                {
+                    "title": "新人草稿",
+                    "author": 9786733,
+                    "id": 8706796,
+                    "stamp": 1758377109
+                }
+            ],
+            "children": [
+                {
+                    "id": 7278761,
+                    "title": "Re: 新人草稿",
+                    "poster": 9655412,
+                    "stamp": 1759833884,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7270280,
+            "title": "Re: 新人草稿",
+            "poster": 9637665,
+            "stamp": 1759741018,
+            "lastEdit": 1759741138,
+            "lastEditBy": 9637665,
+            "revisions": [
+                {
+                    "title": "Re: 新人草稿",
+                    "author": 9637665,
+                    "id": 8779299,
+                    "stamp": 1759741138
+                },
+                {
+                    "title": "Re: 新人草稿",
+                    "author": 9637665,
+                    "id": 8779283,
+                    "stamp": 1759741018
+                }
+            ],
+            "children": [
+                {
+                    "id": 7317222,
+                    "title": "Re: 新人草稿",
+                    "poster": 9786733,
+                    "stamp": 1760620357,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

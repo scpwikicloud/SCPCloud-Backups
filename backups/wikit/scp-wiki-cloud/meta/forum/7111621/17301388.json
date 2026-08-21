@@ -1,0 +1,55 @@
+{
+    "title": "新人第一篇文",
+    "id": 17301388,
+    "description": "",
+    "last": 1760175762,
+    "lastUser": 9759210,
+    "started": 1759647051,
+    "startedUser": 9759210,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7262033,
+            "title": "新人第一篇文",
+            "poster": 9759210,
+            "stamp": 1759647051,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7270265,
+            "title": "Re: 新人第一篇文",
+            "poster": 9637665,
+            "stamp": 1759740836,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7296195,
+                    "title": "Re: 新人第一篇文",
+                    "poster": 9759210,
+                    "stamp": 1760175762,
+                    "lastEdit": 1760180286,
+                    "lastEditBy": 9759210,
+                    "revisions": [
+                        {
+                            "title": "Re: 新人第一篇文",
+                            "author": 9759210,
+                            "id": 8807215,
+                            "stamp": 1760180286
+                        },
+                        {
+                            "title": "Re: 新人第一篇文",
+                            "author": 9759210,
+                            "id": 8806967,
+                            "stamp": 1760175762
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

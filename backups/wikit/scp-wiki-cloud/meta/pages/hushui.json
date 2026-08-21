@@ -1,0 +1,54 @@
+{
+    "name": "hushui",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1362048666,
+            "author": 6326265,
+            "stamp": 1617594344,
+            "flags": "S",
+            "commentary": "把“热度”二字改到链接后面"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362048581,
+            "author": 6470364,
+            "stamp": 1617594016,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308477243,
+    "rating": 5,
+    "forum_thread": 14041535,
+    "tags": [
+        "管理竞选"
+    ],
+    "title": "失败主义的成功理论",
+    "sitemap_update": 1617594344000,
+    "votings": [
+        [
+            6335947,
+            true
+        ],
+        [
+            6326265,
+            true
+        ],
+        [
+            6335314,
+            true
+        ],
+        [
+            6188400,
+            true
+        ],
+        [
+            6323514,
+            true
+        ]
+    ],
+    "is_locked": false
+}

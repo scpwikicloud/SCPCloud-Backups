@@ -1,0 +1,53 @@
+{
+    "name": "heritage-entry4",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1362150306,
+            "author": 4725766,
+            "stamp": 1617998638,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 1"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1217744180,
+            "author": 6280229,
+            "stamp": 1593757115,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073466989,
+            "author": 4259571,
+            "stamp": 1586865212,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073466882,
+            "author": 4259571,
+            "stamp": 1586865164,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024510997,
+    "title": "SCP-Cloud-089 传承条目(伪)",
+    "sitemap_update": 1617998638000,
+    "votings": [
+        [
+            6498153,
+            true
+        ],
+        [
+            7789907,
+            false
+        ]
+    ],
+    "is_locked": false
+}

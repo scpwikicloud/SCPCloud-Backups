@@ -1,0 +1,122 @@
+{
+    "name": "scp-cloud-085",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1508351177,
+            "author": 8305255,
+            "stamp": 1678200634,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1494900450,
+            "author": 7892243,
+            "stamp": 1662129001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1494900426,
+            "author": 7892243,
+            "stamp": 1662128910,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1479865130,
+            "author": 7892243,
+            "stamp": 1660174647,
+            "flags": "A",
+            "commentary": "已新增标签：173, 不灭孽蜥, 最初之作, 雕像。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1479865114,
+            "author": 7892243,
+            "stamp": 1660174606,
+            "flags": "A",
+            "commentary": "已新增标签：cloud, cn, scp, 书籍异常, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1479865102,
+            "author": 7892243,
+            "stamp": 1660174575,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1479865093,
+            "author": 7892243,
+            "stamp": 1660174549,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1420696341,
+    "rating": -10,
+    "forum_thread": 15085708,
+    "tags": [
+        "173",
+        "cloud",
+        "cn",
+        "scp",
+        "不灭孽蜥",
+        "书籍异常",
+        "原创",
+        "最初之作",
+        "雕像"
+    ],
+    "title": "《SCP基金会：从入门到精通》",
+    "sitemap_update": 1678200634000,
+    "votings": [
+        [
+            8032486,
+            false
+        ],
+        [
+            9533373,
+            false
+        ],
+        [
+            8317416,
+            false
+        ],
+        [
+            8389488,
+            false
+        ],
+        [
+            10280952,
+            false
+        ],
+        [
+            9575183,
+            false
+        ],
+        [
+            6942049,
+            false
+        ],
+        [
+            8075294,
+            false
+        ],
+        [
+            9019193,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

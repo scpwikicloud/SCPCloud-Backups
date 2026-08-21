@@ -1,0 +1,64 @@
+{
+    "name": "scp-cloud-500",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1366791721,
+            "author": 4297985,
+            "stamp": 1625073200,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上。 移除标签：uv为荣。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1366791715,
+            "author": 4297985,
+            "stamp": 1625073126,
+            "flags": "A",
+            "commentary": "已新增标签：neutralized, scp, uv为荣。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1366791710,
+            "author": 4297985,
+            "stamp": 1625073092,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1312262107,
+    "rating": 1,
+    "forum_thread": 14133996,
+    "tags": [
+        "neutralized",
+        "scp",
+        "uv至上"
+    ],
+    "title": "SCP-Cloud-500",
+    "sitemap_update": 1625073200000,
+    "votings": [
+        [
+            8660572,
+            false
+        ],
+        [
+            7274437,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            9862467,
+            true
+        ],
+        [
+            9491856,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,97 @@
+{
+    "name": "understand-for-scp-cloud-007",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1196901945,
+            "author": 6286770,
+            "stamp": 1591613293,
+            "flags": "M",
+            "commentary": "父页面设置为: \"understand-for-all-scp-cl\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1196901933,
+            "author": 6286770,
+            "stamp": 1591613225,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 解密scp-cl。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1196901926,
+            "author": 6286770,
+            "stamp": 1591613202,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1147136995,
+    "parent": "collab:understand-for-all-scp-cl",
+    "rating": 9,
+    "forum_thread": 13414555,
+    "tags": [
+        "原创",
+        "故事",
+        "解密scp-cl"
+    ],
+    "title": "解密：SCP-Cloud-007",
+    "sitemap_update": 1591613293000,
+    "votings": [
+        [
+            6140401,
+            false
+        ],
+        [
+            6104332,
+            false
+        ],
+        [
+            6240794,
+            true
+        ],
+        [
+            6678040,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            6324658,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            6398031,
+            true
+        ],
+        [
+            6369458,
+            true
+        ],
+        [
+            9491856,
+            true
+        ],
+        [
+            6240575,
+            true
+        ],
+        [
+            6286770,
+            true
+        ],
+        [
+            6603529,
+            true
+        ]
+    ],
+    "is_locked": false
+}

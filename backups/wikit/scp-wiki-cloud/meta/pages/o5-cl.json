@@ -1,0 +1,134 @@
+{
+    "name": "o5-cl",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 12,
+            "global_revision": 1518494431,
+            "author": 7890731,
+            "stamp": 1708603234,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1518494427,
+            "author": 7890731,
+            "stamp": 1708603217,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1518323181,
+            "author": 9007460,
+            "stamp": 1708222571,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1518315057,
+            "author": 9007460,
+            "stamp": 1708185533,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1518314990,
+            "author": 9007460,
+            "stamp": 1708185285,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1518314978,
+            "author": 9007460,
+            "stamp": 1708185240,
+            "flags": "A",
+            "commentary": "已新增标签：o5-cl议会, 中心页, 设定。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1518314967,
+            "author": 9007460,
+            "stamp": 1708185190,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1518314960,
+            "author": 9007460,
+            "stamp": 1708185164,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518314939,
+            "author": 9007460,
+            "stamp": 1708185036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518314815,
+            "author": 9007460,
+            "stamp": 1708184669,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1518314799,
+            "author": 9007460,
+            "stamp": 1708184612,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1518314760,
+            "author": 9007460,
+            "stamp": 1708184363,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1518314530,
+            "author": 9007460,
+            "stamp": 1708183516,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452650541,
+    "rating": 2,
+    "forum_thread": 17036892,
+    "tags": [
+        "o5-cl议会",
+        "中心页",
+        "原创",
+        "故事",
+        "设定"
+    ],
+    "title": "O5-CL议会中心页",
+    "sitemap_update": 1708603234000,
+    "votings": [
+        [
+            10013560,
+            true
+        ],
+        [
+            9007460,
+            true
+        ]
+    ],
+    "is_locked": false
+}

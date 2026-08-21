@@ -1,0 +1,52 @@
+{
+    "name": "cn-wenren-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1193473622,
+            "author": 6410237,
+            "stamp": 1591517396,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1193473529,
+            "author": 6410237,
+            "stamp": 1591517158,
+            "flags": "S",
+            "commentary": "添加了一些小部分"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1193429648,
+            "author": 6410237,
+            "stamp": 1591515408,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1143678493,
+    "rating": 2,
+    "forum_thread": 13412348,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "英雄图鉴"
+    ],
+    "title": "闻人-YX",
+    "sitemap_update": 1591517396000,
+    "votings": [
+        [
+            6324658,
+            true
+        ],
+        [
+            6528038,
+            true
+        ]
+    ],
+    "is_locked": false
+}

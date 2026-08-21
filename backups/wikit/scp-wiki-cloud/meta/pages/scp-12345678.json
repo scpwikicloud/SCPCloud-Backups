@@ -1,0 +1,34 @@
+{
+    "name": "scp-12345678",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1459548494,
+            "author": 7949165,
+            "stamp": 1648198823,
+            "flags": "S",
+            "commentary": "这个很简单"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1459548474,
+            "author": 7949165,
+            "stamp": 1648198701,
+            "flags": "N",
+            "commentary": "十分简单的文件"
+        }
+    ],
+    "files": [],
+    "page_id": 1401948825,
+    "forum_thread": 14641123,
+    "title": "SCP-12345678",
+    "sitemap_update": 1648198823000,
+    "votings": [
+        [
+            6745213,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,117 @@
+{
+    "name": "mailbox-s-gospel",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1048315759,
+            "author": 6165739,
+            "stamp": 1583961426,
+            "flags": "A",
+            "commentary": "已新增标签：绿桶。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1048314815,
+            "author": 6165739,
+            "stamp": 1583957481,
+            "flags": "A",
+            "commentary": "已新增标签：故事, 福音。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1048300570,
+            "author": 3264570,
+            "stamp": 1583913477,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 最新。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1048299997,
+            "author": 3264570,
+            "stamp": 1583911625,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 999859364,
+    "forum_thread": 13136099,
+    "tags": [
+        "原创",
+        "故事",
+        "最新",
+        "福音",
+        "绿桶"
+    ],
+    "title": "《邮筒福音》节选",
+    "sitemap_update": 1583961426000,
+    "votings": [
+        [
+            6150188,
+            false
+        ],
+        [
+            5195483,
+            false
+        ],
+        [
+            6254233,
+            false
+        ],
+        [
+            6173283,
+            false
+        ],
+        [
+            8159914,
+            false
+        ],
+        [
+            6286719,
+            false
+        ],
+        [
+            6981514,
+            false
+        ],
+        [
+            7954278,
+            false
+        ],
+        [
+            7855130,
+            false
+        ],
+        [
+            7217507,
+            false
+        ],
+        [
+            8576655,
+            false
+        ],
+        [
+            3264570,
+            false
+        ],
+        [
+            5288551,
+            false
+        ],
+        [
+            6166618,
+            false
+        ],
+        [
+            4861204,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

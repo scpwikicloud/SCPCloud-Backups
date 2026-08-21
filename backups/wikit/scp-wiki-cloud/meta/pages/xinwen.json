@@ -1,0 +1,56 @@
+{
+    "name": "xinwen",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1527750230,
+            "author": 9314093,
+            "stamp": 1739340102,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527750228,
+            "author": 9314093,
+            "stamp": 1739340043,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 中举, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527750123,
+            "author": 9314093,
+            "stamp": 1739339751,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458420411,
+    "rating": 1,
+    "forum_thread": 17043666,
+    "tags": [
+        "scp",
+        "中举",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-368",
+    "sitemap_update": 1739340102000,
+    "votings": [
+        [
+            7271254,
+            true
+        ],
+        [
+            7535291,
+            true
+        ],
+        [
+            9568107,
+            false
+        ]
+    ],
+    "is_locked": false
+}

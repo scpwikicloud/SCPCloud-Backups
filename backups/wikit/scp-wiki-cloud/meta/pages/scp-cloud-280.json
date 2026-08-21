@@ -1,0 +1,103 @@
+{
+    "name": "scp-cloud-280",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1513992971,
+            "author": 7071305,
+            "stamp": 1694942574,
+            "flags": "A",
+            "commentary": "已新增标签：机密分级。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1512930049,
+            "author": 8676821,
+            "stamp": 1691762819,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1512194150,
+            "author": 8676821,
+            "stamp": 1689152635,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1512194130,
+            "author": 8676821,
+            "stamp": 1689152558,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1512194064,
+            "author": 8676821,
+            "stamp": 1689152431,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1512193969,
+            "author": 8676821,
+            "stamp": 1689151967,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1512193886,
+            "author": 8676821,
+            "stamp": 1689151719,
+            "flags": "A",
+            "commentary": "已新增标签：奖励之神。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1512193857,
+            "author": 8676821,
+            "stamp": 1689151608,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512193842,
+            "author": 8676821,
+            "stamp": 1689151514,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449007182,
+    "rating": 1,
+    "forum_thread": 16156661,
+    "tags": [
+        "奖励之神",
+        "机密分级"
+    ],
+    "title": "Scp Cloud 280奖励之神",
+    "sitemap_update": 1694942574000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            9731169,
+            true
+        ],
+        [
+            8676821,
+            true
+        ]
+    ],
+    "is_locked": false
+}

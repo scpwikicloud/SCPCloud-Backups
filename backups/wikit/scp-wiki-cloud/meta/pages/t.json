@@ -1,0 +1,41 @@
+{
+    "name": "t",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1479527393,
+            "author": 8032486,
+            "stamp": 1659531331,
+            "flags": "A",
+            "commentary": "已新增标签：广告, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1479527383,
+            "author": 8032486,
+            "stamp": 1659531310,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1420461272,
+    "tags": [
+        "广告",
+        "故事"
+    ],
+    "title": "公开推站",
+    "sitemap_update": 1659531331000,
+    "votings": [
+        [
+            8032486,
+            true
+        ],
+        [
+            7198635,
+            false
+        ]
+    ],
+    "is_locked": false
+}

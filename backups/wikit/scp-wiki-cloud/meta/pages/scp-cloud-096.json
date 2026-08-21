@@ -1,0 +1,116 @@
+{
+    "name": "scp-cloud-096",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1508351193,
+            "author": 8305255,
+            "stamp": 1678200723,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1460092970,
+            "author": 7888148,
+            "stamp": 1649829463,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1460092962,
+            "author": 7888148,
+            "stamp": 1649829386,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1460092953,
+            "author": 7888148,
+            "stamp": 1649829326,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 加急, 原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1460092900,
+            "author": 7888148,
+            "stamp": 1649829215,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1460091311,
+            "author": 7888148,
+            "stamp": 1649820742,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1460091282,
+            "author": 7888148,
+            "stamp": 1649820576,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1460091273,
+            "author": 7888148,
+            "stamp": 1649820525,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1460091261,
+            "author": 7888148,
+            "stamp": 1649820443,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1402258918,
+    "rating": -2,
+    "forum_thread": 14621883,
+    "tags": [
+        "scp",
+        "加急",
+        "原创"
+    ],
+    "title": "Scp Cloud 096 1926",
+    "sitemap_update": 1678200723000,
+    "votings": [
+        [
+            7765082,
+            false
+        ],
+        [
+            7677049,
+            false
+        ],
+        [
+            8983105,
+            true
+        ],
+        [
+            8382698,
+            false
+        ],
+        [
+            6228833,
+            false
+        ],
+        [
+            7888148,
+            true
+        ]
+    ],
+    "is_locked": false
+}

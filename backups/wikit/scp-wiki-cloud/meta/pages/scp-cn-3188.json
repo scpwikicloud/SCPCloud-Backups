@@ -1,0 +1,32 @@
+{
+    "name": "scp-cn-3188",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1523559696,
+            "author": 6452551,
+            "stamp": 1723138839,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523559692,
+            "author": 6452551,
+            "stamp": 1723138823,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456143249,
+    "rating": 0,
+    "tags": [
+        "dscp"
+    ],
+    "title": "SCP-CN-3188",
+    "sitemap_update": 1723138839000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,46 @@
+{
+    "name": "scp-cloud-022",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1460239127,
+            "author": 7508779,
+            "stamp": 1650352553,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1444980944,
+            "author": 7508779,
+            "stamp": 1647777722,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1444973199,
+            "author": 7508779,
+            "stamp": 1647777680,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1387429985,
+    "forum_thread": 15062356,
+    "title": "SCP Cloud 022",
+    "sitemap_update": 1650352553000,
+    "votings": [
+        [
+            7938578,
+            true
+        ],
+        [
+            7905777,
+            false
+        ]
+    ],
+    "is_locked": false
+}

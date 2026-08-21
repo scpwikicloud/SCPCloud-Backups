@@ -1,0 +1,63 @@
+{
+    "name": "forum:recent-posts",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1528133318,
+            "author": 7504264,
+            "stamp": 1740767322,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1528133290,
+            "author": 7504264,
+            "stamp": 1740767235,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1364916822,
+            "author": 6240794,
+            "stamp": 1620237628,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1364916805,
+            "author": 6240794,
+            "stamp": 1620237525,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1364916791,
+            "author": 6240794,
+            "stamp": 1620237445,
+            "flags": "A",
+            "commentary": "已新增标签：管理。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 835653198,
+            "author": 4704446,
+            "stamp": 1557742148,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 790493168,
+    "tags": [
+        "管理"
+    ],
+    "title": "最近的帖子",
+    "sitemap_update": 1740767322000,
+    "votings": [],
+    "is_locked": false
+}

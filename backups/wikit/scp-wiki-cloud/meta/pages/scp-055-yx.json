@@ -1,0 +1,65 @@
+{
+    "name": "scp-055-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1192867782,
+            "author": 6175508,
+            "stamp": 1591454222,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1192867772,
+            "author": 6175508,
+            "stamp": 1591454182,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1192833324,
+            "author": 6175508,
+            "stamp": 1591453325,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1192795972,
+            "author": 6175508,
+            "stamp": 1591452504,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1192776035,
+            "author": 6175508,
+            "stamp": 1591452207,
+            "flags": "A",
+            "commentary": "已新增标签：中分荣耀, 原创, 英雄图鉴。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1192771052,
+            "author": 6175508,
+            "stamp": 1591452128,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1143029786,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "英雄图鉴"
+    ],
+    "title": "SCP 055-YX",
+    "sitemap_update": 1591454222000,
+    "votings": [],
+    "is_locked": false
+}

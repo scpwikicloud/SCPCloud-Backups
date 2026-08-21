@@ -1,0 +1,74 @@
+{
+    "name": "jk",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1033910535,
+            "author": 4761736,
+            "stamp": 1579063761,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 925192975,
+            "author": 5495167,
+            "stamp": 1567377810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 904595053,
+            "author": 5495167,
+            "stamp": 1566363332,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 888698801,
+            "author": 5495167,
+            "stamp": 1563006758,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 888697433,
+            "author": 5495167,
+            "stamp": 1563006695,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 842834520,
+    "forum_thread": 12220857,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CU-74110",
+    "sitemap_update": 1579063761000,
+    "votings": [
+        [
+            9650794,
+            true
+        ],
+        [
+            3290685,
+            true
+        ],
+        [
+            4761736,
+            true
+        ],
+        [
+            5495167,
+            true
+        ]
+    ],
+    "is_locked": false
+}

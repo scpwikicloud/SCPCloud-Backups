@@ -1,0 +1,98 @@
+{
+    "name": "2077",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1527455735,
+            "author": 8490037,
+            "stamp": 1737979736,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1527455620,
+            "author": 8490037,
+            "stamp": 1737979336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1527455569,
+            "author": 8490037,
+            "stamp": 1737978984,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1527455561,
+            "author": 8490037,
+            "stamp": 1737978926,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1527455467,
+            "author": 8490037,
+            "stamp": 1737978360,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1458319355,
+    "rating": -8,
+    "forum_thread": 17026728,
+    "tags": [
+        "原创"
+    ],
+    "title": "绿色邮筒不该杀",
+    "sitemap_update": 1737979736000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            9509079,
+            false
+        ],
+        [
+            8909013,
+            false
+        ],
+        [
+            9135122,
+            false
+        ],
+        [
+            8159914,
+            false
+        ],
+        [
+            9413762,
+            false
+        ],
+        [
+            8490037,
+            false
+        ],
+        [
+            9313547,
+            false
+        ],
+        [
+            8686792,
+            false
+        ],
+        [
+            9443485,
+            true
+        ]
+    ],
+    "is_locked": false
+}

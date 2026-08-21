@@ -1,0 +1,69 @@
+{
+    "name": "yldxz04",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1495525133,
+            "author": 7892243,
+            "stamp": 1663488689,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1495519682,
+            "author": 7892243,
+            "stamp": 1663473073,
+            "flags": "M",
+            "commentary": "父页面设置为: \"collab:075zhuanji\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1495519681,
+            "author": 7892243,
+            "stamp": 1663473054,
+            "flags": "A",
+            "commentary": "已新增标签：meta, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1495519672,
+            "author": 7892243,
+            "stamp": 1663473024,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1435928606,
+    "parent": "collab:075zhuanji",
+    "rating": -4,
+    "forum_thread": 15672524,
+    "tags": [
+        "meta",
+        "原创",
+        "故事"
+    ],
+    "title": "墨菲不想去破案了",
+    "sitemap_update": 1663488689000,
+    "votings": [
+        [
+            9075617,
+            false
+        ],
+        [
+            9192166,
+            false
+        ],
+        [
+            9134657,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

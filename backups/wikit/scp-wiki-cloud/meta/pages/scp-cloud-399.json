@@ -1,0 +1,69 @@
+{
+    "name": "scp-cloud-399",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1513993087,
+            "author": 7071305,
+            "stamp": 1694942936,
+            "flags": "A",
+            "commentary": "已新增标签：safe。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1388875087,
+            "author": 6120541,
+            "stamp": 1644912689,
+            "flags": "A",
+            "commentary": "已新增标签：scp, ☁️, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388874752,
+            "author": 6120541,
+            "stamp": 1644911284,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331696865,
+    "rating": 2,
+    "forum_thread": 14488692,
+    "tags": [
+        "safe",
+        "scp",
+        "☁️",
+        "原创"
+    ],
+    "title": "SCP-COULD-399",
+    "sitemap_update": 1694942936000,
+    "votings": [
+        [
+            4886285,
+            true
+        ],
+        [
+            8366882,
+            true
+        ],
+        [
+            7874533,
+            true
+        ],
+        [
+            6348925,
+            true
+        ],
+        [
+            7198635,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

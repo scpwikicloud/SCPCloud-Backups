@@ -1,0 +1,47 @@
+{
+    "title": "报道",
+    "id": 18030057,
+    "description": "如题。",
+    "last": 1781787632,
+    "lastUser": 10140214,
+    "started": 1781749133,
+    "startedUser": 10386631,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 8291064,
+            "title": "报道",
+            "poster": 10386631,
+            "stamp": 1781749133,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 8291893,
+                    "title": "Re: 报道",
+                    "poster": 10140214,
+                    "stamp": 1781787632,
+                    "lastEdit": 1781787912,
+                    "lastEditBy": 10140214,
+                    "revisions": [
+                        {
+                            "title": "Re: 报道",
+                            "author": 10140214,
+                            "id": 9879533,
+                            "stamp": 1781787912
+                        },
+                        {
+                            "title": "Re: 报道",
+                            "author": 10140214,
+                            "id": 9879510,
+                            "stamp": 1781787632
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

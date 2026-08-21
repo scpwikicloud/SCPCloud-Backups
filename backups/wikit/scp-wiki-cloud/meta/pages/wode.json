@@ -1,0 +1,101 @@
+{
+    "name": "wode",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1495519193,
+            "author": 7892243,
+            "stamp": 1663471358,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1494927054,
+            "author": 7892243,
+            "stamp": 1662208417,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1494855581,
+            "author": 7892243,
+            "stamp": 1662032942,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1494855574,
+            "author": 7892243,
+            "stamp": 1662032891,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1494855457,
+            "author": 7892243,
+            "stamp": 1662032654,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 中心页, 原创, 故事, 无悔的宿命。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1494855439,
+            "author": 7892243,
+            "stamp": 1662032546,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1494855238,
+            "author": 7892243,
+            "stamp": 1662032048,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1494855182,
+            "author": 7892243,
+            "stamp": 1662031927,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1494855140,
+            "author": 7892243,
+            "stamp": 1662031802,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1435449399,
+    "forum_thread": 15193024,
+    "tags": [
+        "scp",
+        "中心页",
+        "原创",
+        "故事",
+        "无悔的宿命"
+    ],
+    "title": "无悔的宿命·中心页",
+    "sitemap_update": 1663471358000,
+    "votings": [
+        [
+            8317416,
+            true
+        ],
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

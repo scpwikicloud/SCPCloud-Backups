@@ -1,0 +1,74 @@
+{
+    "name": "want-to-change",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1223363221,
+            "author": 6280229,
+            "stamp": 1593914441,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1215096308,
+            "author": 6330521,
+            "stamp": 1592986506,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1215096275,
+            "author": 6330521,
+            "stamp": 1592986474,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 建议, 故事, 非故事。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1215096271,
+            "author": 6330521,
+            "stamp": 1592986455,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1215096187,
+            "author": 6330521,
+            "stamp": 1592986239,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1215096011,
+            "author": 6330521,
+            "stamp": 1592985409,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1215095953,
+            "author": 6330521,
+            "stamp": 1592985195,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165128671,
+    "forum_thread": 13451920,
+    "tags": [
+        "原创",
+        "建议",
+        "故事",
+        "非故事"
+    ],
+    "sitemap_update": 1593914441000,
+    "votings": [],
+    "is_locked": false
+}

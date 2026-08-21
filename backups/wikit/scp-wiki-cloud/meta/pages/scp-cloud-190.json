@@ -1,0 +1,74 @@
+{
+    "name": "scp-cloud-190",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1495341631,
+            "author": 7558128,
+            "stamp": 1662951633,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1495341620,
+            "author": 7558128,
+            "stamp": 1662951578,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1495341327,
+            "author": 7558128,
+            "stamp": 1662950695,
+            "flags": "A",
+            "commentary": "已新增标签：scp。 移除标签：电搖。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1495341324,
+            "author": 7558128,
+            "stamp": 1662950669,
+            "flags": "A",
+            "commentary": "已新增标签：电搖。 移除标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1495341295,
+            "author": 7558128,
+            "stamp": 1662950498,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1495321485,
+            "author": 7558128,
+            "stamp": 1662886942,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1435804917,
+    "rating": -2,
+    "forum_thread": 15173320,
+    "tags": [
+        "scp"
+    ],
+    "title": "SCP-Cloud-190",
+    "sitemap_update": 1662951633000,
+    "votings": [
+        [
+            7898494,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

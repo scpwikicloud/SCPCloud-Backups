@@ -1,0 +1,62 @@
+{
+    "name": "scp-cloud-996",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1459483822,
+            "author": 6373322,
+            "stamp": 1647955196,
+            "flags": "A",
+            "commentary": "已新增标签：scp, thaumiel, 人形生物, 原创, 形态改变。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1459483820,
+            "author": 6373322,
+            "stamp": 1647955182,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1401916453,
+    "rating": -2,
+    "forum_thread": 14939597,
+    "tags": [
+        "scp",
+        "thaumiel",
+        "人形生物",
+        "原创",
+        "形态改变"
+    ],
+    "title": "SCP-CLOUD-996",
+    "sitemap_update": 1647955196000,
+    "votings": [
+        [
+            4886285,
+            true
+        ],
+        [
+            6678040,
+            false
+        ],
+        [
+            7883964,
+            false
+        ],
+        [
+            8174641,
+            true
+        ],
+        [
+            5721026,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

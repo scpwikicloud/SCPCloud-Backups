@@ -1,0 +1,67 @@
+{
+    "name": "scp-cloud-070",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1480070964,
+            "author": 7892243,
+            "stamp": 1660698222,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1480070567,
+            "author": 7892243,
+            "stamp": 1660696615,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1479962469,
+            "author": 7892243,
+            "stamp": 1660396224,
+            "flags": "A",
+            "commentary": "已新增标签：scp, x, 原创, 恩里克-费尔南, 数学性, 枫叶。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1479962461,
+            "author": 7892243,
+            "stamp": 1660396159,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1420766557,
+    "rating": 3,
+    "forum_thread": 15095451,
+    "tags": [
+        "scp",
+        "x",
+        "原创",
+        "恩里克-费尔南",
+        "数学性",
+        "枫叶"
+    ],
+    "title": "Scp Cloud 070",
+    "sitemap_update": 1660698222000,
+    "votings": [
+        [
+            9007460,
+            true
+        ],
+        [
+            7451591,
+            true
+        ],
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

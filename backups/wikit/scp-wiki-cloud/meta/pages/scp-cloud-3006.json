@@ -1,0 +1,58 @@
+{
+    "name": "scp-cloud-3006",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531390264,
+            "author": 9808047,
+            "stamp": 1754384680,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531371254,
+            "author": 9808047,
+            "stamp": 1754299338,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531371249,
+            "author": 9808047,
+            "stamp": 1754299323,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460001135,
+    "forum_thread": 17176007,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-3006南山校长",
+    "sitemap_update": 1754384680000,
+    "votings": [
+        [
+            9769340,
+            true
+        ],
+        [
+            9581894,
+            true
+        ],
+        [
+            9795211,
+            true
+        ],
+        [
+            9808047,
+            true
+        ]
+    ],
+    "is_locked": false
+}

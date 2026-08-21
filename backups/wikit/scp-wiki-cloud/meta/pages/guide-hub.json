@@ -1,0 +1,126 @@
+{
+    "name": "guide-hub",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1223364092,
+            "author": 6280229,
+            "stamp": 1593914461,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1201638936,
+            "author": 5967510,
+            "stamp": 1592046972,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1201638923,
+            "author": 5967510,
+            "stamp": 1592046886,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1063419829,
+            "author": 6275819,
+            "stamp": 1585569213,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1060571585,
+            "author": 6275819,
+            "stamp": 1585490230,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1060571552,
+            "author": 6275819,
+            "stamp": 1585490159,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"guide\" 至 \"guide-hub\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1054966515,
+            "author": 6275819,
+            "stamp": 1585384221,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1054738542,
+            "author": 6275819,
+            "stamp": 1585377600,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1054638984,
+            "author": 6275819,
+            "stamp": 1585375954,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 民间指导。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1054630691,
+            "author": 6275819,
+            "stamp": 1585375830,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1054612570,
+            "author": 6275819,
+            "stamp": 1585375464,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1005914589,
+    "forum_thread": 13188222,
+    "tags": [
+        "中心",
+        "故事",
+        "民间指导"
+    ],
+    "sitemap_update": 1593914461000,
+    "votings": [
+        [
+            2803929,
+            true
+        ],
+        [
+            6179656,
+            true
+        ],
+        [
+            5948673,
+            true
+        ],
+        [
+            6155697,
+            true
+        ],
+        [
+            4888797,
+            true
+        ]
+    ],
+    "is_locked": false
+}

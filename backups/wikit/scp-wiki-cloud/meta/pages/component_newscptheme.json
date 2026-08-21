@@ -1,0 +1,36 @@
+{
+    "name": "component:newscptheme",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 845613474,
+            "author": 4704446,
+            "stamp": 1558256173,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 835655152,
+            "author": 4704446,
+            "stamp": 1557742437,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 835654447,
+            "author": 4704446,
+            "stamp": 1557742320,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 790494355,
+    "title": "Newscptheme",
+    "sitemap_update": 1558256173000,
+    "votings": [],
+    "is_locked": false
+}

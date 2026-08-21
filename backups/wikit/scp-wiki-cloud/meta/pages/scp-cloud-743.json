@@ -1,0 +1,61 @@
+{
+    "name": "scp-cloud-743",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1366065831,
+            "author": 6285604,
+            "stamp": 1622214753,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1366065788,
+            "author": 6285604,
+            "stamp": 1622214495,
+            "flags": "A",
+            "commentary": "已新增标签：scp, uv至上, 原创, 机密分级。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1366065767,
+            "author": 6285604,
+            "stamp": 1622214401,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1311868777,
+    "rating": 4,
+    "forum_thread": 14109078,
+    "tags": [
+        "scp",
+        "uv至上",
+        "原创",
+        "机密分级"
+    ],
+    "title": "SCP-CLOUD-743",
+    "sitemap_update": 1622214753000,
+    "votings": [
+        [
+            4886285,
+            true
+        ],
+        [
+            6432947,
+            true
+        ],
+        [
+            7149070,
+            true
+        ],
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

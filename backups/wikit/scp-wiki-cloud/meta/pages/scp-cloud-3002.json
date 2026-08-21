@@ -1,0 +1,56 @@
+{
+    "name": "scp-cloud-3002",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531411476,
+            "author": 9808047,
+            "stamp": 1754486300,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531365527,
+            "author": 9808047,
+            "stamp": 1754272113,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531365521,
+            "author": 9808047,
+            "stamp": 1754272076,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531365433,
+            "author": 9808047,
+            "stamp": 1754271554,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531365417,
+            "author": 9808047,
+            "stamp": 1754271466,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459999499,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-3003多才多艺遥控器",
+    "sitemap_update": 1754486300000,
+    "votings": [],
+    "is_locked": false
+}

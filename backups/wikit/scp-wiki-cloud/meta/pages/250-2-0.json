@@ -1,0 +1,67 @@
+{
+    "name": "250-2-0",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1461979473,
+            "author": 8042430,
+            "stamp": 1655255431,
+            "flags": "A",
+            "commentary": "已新增标签：sb, 原创, 故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1461979472,
+            "author": 8042430,
+            "stamp": 1655255417,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1461979466,
+            "author": 8042430,
+            "stamp": 1655255392,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1403513260,
+    "forum_thread": 14891246,
+    "tags": [
+        "sb",
+        "原创",
+        "故事"
+    ],
+    "title": "独立宣言2.0",
+    "sitemap_update": 1655255431000,
+    "votings": [
+        [
+            6140091,
+            false
+        ],
+        [
+            8042430,
+            true
+        ],
+        [
+            6979631,
+            true
+        ],
+        [
+            6228833,
+            true
+        ],
+        [
+            7643786,
+            true
+        ],
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

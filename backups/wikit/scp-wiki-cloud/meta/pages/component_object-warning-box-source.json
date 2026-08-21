@@ -1,0 +1,33 @@
+{
+    "name": "component:object-warning-box-source",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1440371534,
+            "author": 7892243,
+            "stamp": 1647742152,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1440337754,
+            "author": 7892243,
+            "stamp": 1647741854,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1382800091,
+    "title": "Object Warning Box Source",
+    "sitemap_update": 1647742152000,
+    "votings": [
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

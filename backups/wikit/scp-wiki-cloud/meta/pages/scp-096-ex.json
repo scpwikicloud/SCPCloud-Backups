@@ -1,0 +1,90 @@
+{
+    "name": "scp-096-ex",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1508483243,
+            "author": 8049583,
+            "stamp": 1678516835,
+            "flags": "A",
+            "commentary": "已新增标签：解密。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1508483231,
+            "author": 8049583,
+            "stamp": 1678516767,
+            "flags": "A",
+            "commentary": "已新增标签：营销式解密。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1506781472,
+            "author": 8049583,
+            "stamp": 1674375350,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 艺术作品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1505527737,
+            "author": 8049583,
+            "stamp": 1672298106,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1505527728,
+            "author": 8049583,
+            "stamp": 1672298085,
+            "flags": "F",
+            "commentary": "已上传文件 “862B837E-078A-4B30-AFFE-3B91C136290A.jpeg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1505527720,
+            "author": 8049583,
+            "stamp": 1672298060,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10288393,
+            "name": "862B837E-078A-4B30-AFFE-3B91C136290A.jpeg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-096-ex/862B837E-078A-4B30-AFFE-3B91C136290A.jpeg",
+            "size": "266.44 kB (272839 Bytes)",
+            "size_bytes": 272839,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: , baseline, precision 8, 909x2142, components 3",
+            "author": 8049583,
+            "stamp": 1672298085,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1444713051,
+    "forum_thread": 15496229,
+    "tags": [
+        "原创",
+        "故事",
+        "艺术作品",
+        "营销式解密",
+        "解密"
+    ],
+    "title": "SCP-096的解密",
+    "sitemap_update": 1678516835000,
+    "votings": [
+        [
+            10179253,
+            false
+        ],
+        [
+            8437582,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,101 @@
+{
+    "name": "scp-cloud-699",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1526035737,
+            "author": 8305255,
+            "stamp": 1732939194,
+            "flags": "A",
+            "commentary": "已新增标签：thaumiel。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1525630951,
+            "author": 5985702,
+            "stamp": 1730822092,
+            "flags": "A",
+            "commentary": "已新增标签：武器, 请给up而非down。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1525535299,
+            "author": 5985702,
+            "stamp": 1730419321,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1525535286,
+            "author": 5985702,
+            "stamp": 1730419221,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1525529595,
+            "author": 5985702,
+            "stamp": 1730384961,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1525529339,
+            "author": 5985702,
+            "stamp": 1730383676,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1525529127,
+            "author": 5985702,
+            "stamp": 1730382479,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1525529124,
+            "author": 5985702,
+            "stamp": 1730382461,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1525529076,
+            "author": 5985702,
+            "stamp": 1730382153,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1457235632,
+    "rating": 2,
+    "tags": [
+        "scp",
+        "thaumiel",
+        "原创",
+        "武器",
+        "请给up而非down"
+    ],
+    "title": "SCP-Cloud-699",
+    "sitemap_update": 1732939194000,
+    "votings": [
+        [
+            4951855,
+            true
+        ],
+        [
+            9604211,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,33 @@
+{
+    "name": "scp-123456",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1459548886,
+            "author": 7949165,
+            "stamp": 1648199944,
+            "flags": "S",
+            "commentary": "千万不要去淫乱"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1459548740,
+            "author": 7949165,
+            "stamp": 1648199543,
+            "flags": "N",
+            "commentary": "色色的关系，只能看世界"
+        }
+    ],
+    "files": [],
+    "page_id": 1401948964,
+    "title": "SCP-123456",
+    "sitemap_update": 1648199944000,
+    "votings": [
+        [
+            6745213,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,61 @@
+{
+    "name": "scp-cloud-1127",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1531353775,
+            "author": 9751210,
+            "stamp": 1754206121,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531353763,
+            "author": 9751210,
+            "stamp": 1754206048,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531353723,
+            "author": 9751210,
+            "stamp": 1754205864,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531353709,
+            "author": 9751210,
+            "stamp": 1754205781,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531353701,
+            "author": 9751210,
+            "stamp": 1754205746,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459997140,
+    "title": "SCP-Cloud-1127-Infinite cup",
+    "sitemap_update": 1754206121000,
+    "votings": [
+        [
+            9751210,
+            true
+        ],
+        [
+            9810120,
+            false
+        ]
+    ],
+    "is_locked": false
+}

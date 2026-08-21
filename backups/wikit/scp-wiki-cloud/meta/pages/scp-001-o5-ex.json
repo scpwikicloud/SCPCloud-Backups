@@ -1,0 +1,98 @@
+{
+    "name": "scp-001-o5-ex",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1508483235,
+            "author": 8049583,
+            "stamp": 1678516793,
+            "flags": "A",
+            "commentary": "已新增标签：营销式解密, 解密。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1506826370,
+            "author": 8049583,
+            "stamp": 1674544803,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 艺术作品。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1506826365,
+            "author": 8049583,
+            "stamp": 1674544787,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1506826297,
+            "author": 8049583,
+            "stamp": 1674544651,
+            "flags": "F",
+            "commentary": "已上传文件 “FE847FCB-CED6-472E-BF2D-FDA121697A73.jpeg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1506826291,
+            "author": 8049583,
+            "stamp": 1674544638,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10309492,
+            "name": "FE847FCB-CED6-472E-BF2D-FDA121697A73.jpeg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/scp-001-o5-ex/FE847FCB-CED6-472E-BF2D-FDA121697A73.jpeg",
+            "size": "288.82 kB (295754 Bytes)",
+            "size_bytes": 295754,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, segment length 16, Exif Standard: , baseline, precision 8, 1038x3072, components 3",
+            "author": 8049583,
+            "stamp": 1674544651,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1445635336,
+    "forum_thread": 15561243,
+    "tags": [
+        "原创",
+        "故事",
+        "艺术作品",
+        "营销式解密",
+        "解密"
+    ],
+    "title": "SCP-001工厂的解密",
+    "sitemap_update": 1678516793000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            8085427,
+            false
+        ],
+        [
+            5457285,
+            false
+        ],
+        [
+            5457285,
+            false
+        ],
+        [
+            7274437,
+            false
+        ],
+        [
+            7198635,
+            false
+        ]
+    ],
+    "is_locked": false
+}

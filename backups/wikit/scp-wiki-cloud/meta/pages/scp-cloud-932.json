@@ -1,0 +1,42 @@
+{
+    "name": "scp-cloud-932",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1524263912,
+            "author": 8305255,
+            "stamp": 1724940677,
+            "flags": "A",
+            "commentary": "已新增标签：safe, scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523913104,
+            "author": 8305255,
+            "stamp": 1723983494,
+            "flags": "T",
+            "commentary": "更正标题。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1519281091,
+            "author": 8121101,
+            "stamp": 1711785017,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1453157289,
+    "forum_thread": 16781417,
+    "tags": [
+        "safe",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-932",
+    "sitemap_update": 1724940677000,
+    "votings": [],
+    "is_locked": false
+}

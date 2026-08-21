@@ -1,0 +1,111 @@
+{
+    "name": "scp-cloud-020",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1060183008,
+            "author": 6276778,
+            "stamp": 1585481449,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1060168787,
+            "author": 6276778,
+            "stamp": 1585480503,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1060156426,
+            "author": 6276778,
+            "stamp": 1585480252,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1060148767,
+            "author": 6276778,
+            "stamp": 1585480120,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1060078262,
+            "author": 6276778,
+            "stamp": 1585479034,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1011363948,
+    "rating": -12,
+    "forum_thread": 13191457,
+    "title": "SCP-cloud-020",
+    "sitemap_update": 1585481449000,
+    "votings": [
+        [
+            9785619,
+            false
+        ],
+        [
+            6401471,
+            false
+        ],
+        [
+            6179656,
+            false
+        ],
+        [
+            6874010,
+            false
+        ],
+        [
+            10275224,
+            false
+        ],
+        [
+            10280952,
+            false
+        ],
+        [
+            7198635,
+            false
+        ],
+        [
+            9599788,
+            false
+        ],
+        [
+            8366274,
+            true
+        ],
+        [
+            8904197,
+            false
+        ],
+        [
+            6166618,
+            false
+        ],
+        [
+            7169775,
+            false
+        ],
+        [
+            4861204,
+            false
+        ],
+        [
+            6286770,
+            false
+        ]
+    ],
+    "is_locked": false
+}

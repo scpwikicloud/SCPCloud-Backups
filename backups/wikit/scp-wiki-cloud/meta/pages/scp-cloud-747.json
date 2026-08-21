@@ -3,6 +3,22 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 9,
+            "global_revision": 1546175229,
+            "author": 4001012,
+            "stamp": 1787321502,
+            "flags": "A",
+            "commentary": "已新增标签：模因。"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1546175186,
+            "author": 4001012,
+            "stamp": 1787321485,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 7,
             "global_revision": 1542976844,
             "author": 4001012,
@@ -82,17 +98,6 @@
         }
     ],
     "page_id": 1468277494,
-    "rating": 4,
-    "forum_thread": 17673165,
-    "tags": [
-        "keter",
-        "scp",
-        "uv",
-        "原创",
-        "认知偏差"
-    ],
-    "title": "SCP-Cloud-747 不存在的战报",
-    "sitemap_update": 1774715148000,
     "votings": [
         [
             10179253,
@@ -111,5 +116,17 @@
             true
         ]
     ],
+    "rating": 4,
+    "forum_thread": 17673165,
+    "tags": [
+        "keter",
+        "scp",
+        "uv",
+        "原创",
+        "模因",
+        "认知偏差"
+    ],
+    "title": "SCP-Cloud-747 不存在的战报",
+    "sitemap_update": 1787321502000,
     "is_locked": false
 }

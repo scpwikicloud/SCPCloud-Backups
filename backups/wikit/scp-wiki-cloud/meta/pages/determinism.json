@@ -1,0 +1,70 @@
+{
+    "name": "determinism",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1366045964,
+            "author": 6240794,
+            "stamp": 1622183475,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1366045935,
+            "author": 6240794,
+            "stamp": 1622183285,
+            "flags": "A",
+            "commentary": "已新增标签：uv至上, 决定论, 原创, 彩桶, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1366045923,
+            "author": 6240794,
+            "stamp": 1622183234,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1311852893,
+    "rating": 4,
+    "forum_thread": 14108878,
+    "tags": [
+        "uv至上",
+        "决定论",
+        "原创",
+        "彩桶",
+        "故事"
+    ],
+    "title": "拉普拉斯妖",
+    "sitemap_update": 1622183475000,
+    "votings": [
+        [
+            6283036,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            6856607,
+            true
+        ],
+        [
+            7149070,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            8312589,
+            false
+        ]
+    ],
+    "is_locked": false
+}

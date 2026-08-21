@@ -1,0 +1,54 @@
+{
+    "name": "scp-cloud-1524",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1530268944,
+            "author": 9561469,
+            "stamp": 1748351240,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上, scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1530268903,
+            "author": 9561469,
+            "stamp": 1748351063,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459734803,
+    "forum_thread": 17142619,
+    "tags": [
+        "dv至上",
+        "scp"
+    ],
+    "title": "Scp Cloud 1524",
+    "sitemap_update": 1748351240000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            9755289,
+            true
+        ],
+        [
+            9780183,
+            true
+        ],
+        [
+            8366274,
+            false
+        ],
+        [
+            9604211,
+            false
+        ]
+    ],
+    "is_locked": false
+}

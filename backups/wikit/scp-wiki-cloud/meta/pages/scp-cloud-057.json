@@ -1,0 +1,106 @@
+{
+    "name": "scp-cloud-057",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1508351086,
+            "author": 8305255,
+            "stamp": 1678200354,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1389103689,
+            "author": 7892243,
+            "stamp": 1645954119,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1389103679,
+            "author": 7892243,
+            "stamp": 1645954082,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1389103676,
+            "author": 7892243,
+            "stamp": 1645954060,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1389103668,
+            "author": 7892243,
+            "stamp": 1645954001,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1388877286,
+            "author": 7892243,
+            "stamp": 1644917864,
+            "flags": "A",
+            "commentary": "已新增标签：scp, ☁, 原创, 废话文学, 模因。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388877274,
+            "author": 7892243,
+            "stamp": 1644917785,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331697505,
+    "rating": -7,
+    "forum_thread": 14541324,
+    "tags": [
+        "scp",
+        "☁",
+        "原创",
+        "废话文学",
+        "模因"
+    ],
+    "title": "Scp Cloud 057",
+    "sitemap_update": 1678200354000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            8317416,
+            false
+        ],
+        [
+            6856607,
+            false
+        ],
+        [
+            9007460,
+            false
+        ],
+        [
+            7071305,
+            false
+        ],
+        [
+            7198635,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

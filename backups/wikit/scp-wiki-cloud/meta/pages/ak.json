@@ -1,0 +1,51 @@
+{
+    "name": "ak",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1459515278,
+            "author": 7752318,
+            "stamp": 1648053737,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1459515243,
+            "author": 7752318,
+            "stamp": 1648053545,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1401935047,
+    "rating": 4,
+    "forum_thread": 14585749,
+    "tags": [
+        "scp",
+        "搬运"
+    ],
+    "title": "SCP-EN-050",
+    "sitemap_update": 1648053737000,
+    "votings": [
+        [
+            7845197,
+            true
+        ],
+        [
+            7903241,
+            true
+        ],
+        [
+            5721026,
+            true
+        ],
+        [
+            6162825,
+            true
+        ]
+    ],
+    "is_locked": false
+}

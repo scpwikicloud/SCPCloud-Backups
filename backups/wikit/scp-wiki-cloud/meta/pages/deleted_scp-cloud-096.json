@@ -1,0 +1,206 @@
+{
+    "name": "deleted:scp-cloud-096",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1362105884,
+            "author": 5498218,
+            "stamp": 1617889477,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cloud-096\" 至 \"deleted:scp-cloud-096\"."
+        },
+        {
+            "revision": 13,
+            "global_revision": 1358670132,
+            "author": 6780414,
+            "stamp": 1608897003,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1358654303,
+            "author": 6780414,
+            "stamp": 1608804504,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1358497528,
+            "author": 6780414,
+            "stamp": 1608280887,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1358471596,
+            "author": 6780414,
+            "stamp": 1608159668,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1358462035,
+            "author": 6780414,
+            "stamp": 1608111548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1358462002,
+            "author": 6780414,
+            "stamp": 1608111512,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1358461896,
+            "author": 6780414,
+            "stamp": 1608111159,
+            "flags": "A",
+            "commentary": "已新增标签：down, 请留评论。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1358442312,
+            "author": 6780414,
+            "stamp": 1608034539,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1358441566,
+            "author": 6780414,
+            "stamp": 1608032110,
+            "flags": "A",
+            "commentary": "已新增标签：视觉性。 移除标签：性, 视觉。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1358440138,
+            "author": 6780414,
+            "stamp": 1608025493,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1358439899,
+            "author": 6780414,
+            "stamp": 1608024339,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 人形生物, 原创, 性, 活物, 视觉, 认知危害。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1358425095,
+            "author": 6780414,
+            "stamp": 1607952596,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1358425057,
+            "author": 6780414,
+            "stamp": 1607952340,
+            "flags": "F",
+            "commentary": "已上传文件 “u=2526624468,2597089093&fm=11&gp=0.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1358425047,
+            "author": 6780414,
+            "stamp": 1607952250,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9457090,
+            "name": "u=2526624468,2597089093&fm=11&gp=0.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/deleted:scp-cloud-096/u%3D2526624468%2C2597089093%26fm%3D11%26gp%3D0.jpg",
+            "size": "36.18 kB (37048 Bytes)",
+            "size_bytes": 37048,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6780414,
+            "stamp": 1607952340,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1306195633,
+    "forum_thread": 13941204,
+    "tags": [
+        "down",
+        "euclid",
+        "scp",
+        "人形生物",
+        "原创",
+        "活物",
+        "视觉性",
+        "认知危害",
+        "请留评论"
+    ],
+    "title": "SCP-Cloud-096",
+    "sitemap_update": 1617889477000,
+    "votings": [
+        [
+            6444453,
+            false
+        ],
+        [
+            6780414,
+            false
+        ],
+        [
+            6983394,
+            false
+        ],
+        [
+            7146864,
+            false
+        ],
+        [
+            6831321,
+            false
+        ],
+        [
+            4761754,
+            false
+        ],
+        [
+            6317957,
+            false
+        ],
+        [
+            6432947,
+            false
+        ],
+        [
+            7198635,
+            false
+        ],
+        [
+            6833642,
+            false
+        ],
+        [
+            7892243,
+            false
+        ],
+        [
+            4216903,
+            false
+        ]
+    ],
+    "is_locked": false
+}

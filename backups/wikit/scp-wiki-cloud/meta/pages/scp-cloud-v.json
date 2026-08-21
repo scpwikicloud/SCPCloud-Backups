@@ -1,0 +1,46 @@
+{
+    "name": "scp-cloud-v",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1298755024,
+            "author": 6479225,
+            "stamp": 1596030021,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1267111652,
+            "author": 6479225,
+            "stamp": 1595425066,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1267106188,
+            "author": 6479225,
+            "stamp": 1595424875,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1216808418,
+    "forum_thread": 13581571,
+    "title": "SCP-Cloud-β",
+    "sitemap_update": 1596030021000,
+    "votings": [
+        [
+            6317957,
+            false
+        ],
+        [
+            6603529,
+            false
+        ]
+    ],
+    "is_locked": false
+}

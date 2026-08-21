@@ -1,0 +1,126 @@
+{
+    "name": "site-cn-cloud-41",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 11,
+            "global_revision": 1084386478,
+            "author": 6140401,
+            "stamp": 1588551566,
+            "flags": "A",
+            "commentary": "已新增标签：esp。 移除标签： esp协会。"
+        },
+        {
+            "revision": 10,
+            "global_revision": 1084386427,
+            "author": 6140401,
+            "stamp": 1588551226,
+            "flags": "A",
+            "commentary": "已新增标签：esp协会。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1084271166,
+            "author": 6140401,
+            "stamp": 1588483564,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1084271154,
+            "author": 6140401,
+            "stamp": 1588483508,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1075422113,
+            "author": 6140401,
+            "stamp": 1588161355,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1075265591,
+            "author": 6140401,
+            "stamp": 1587796689,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1075265577,
+            "author": 6140401,
+            "stamp": 1587796642,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075264346,
+            "author": 6140401,
+            "stamp": 1587791688,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075264343,
+            "author": 6140401,
+            "stamp": 1587791663,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075263473,
+            "author": 6140401,
+            "stamp": 1587787798,
+            "flags": "A",
+            "commentary": "已新增标签：site-cn-cloud-41, 中心页, 合作。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075263447,
+            "author": 6140401,
+            "stamp": 1587787617,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075263436,
+            "author": 6140401,
+            "stamp": 1587787517,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026154678,
+    "rating": 2,
+    "forum_thread": 13398036,
+    "tags": [
+        "esp",
+        "site-cn-cloud-41",
+        "中心页",
+        "合作",
+        "故事"
+    ],
+    "title": "Site-CN-Cloud-41",
+    "sitemap_update": 1588551566000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            6323074,
+            true
+        ]
+    ],
+    "is_locked": false
+}

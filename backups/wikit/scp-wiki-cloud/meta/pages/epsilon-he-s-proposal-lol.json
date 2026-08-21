@@ -1,0 +1,107 @@
+{
+    "name": "epsilon-he-s-proposal-lol",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1073528150,
+            "author": 5634761,
+            "stamp": 1586916907,
+            "flags": "A",
+            "commentary": "已新增标签：meta。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1073527748,
+            "author": 5634761,
+            "stamp": 1586916464,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1073527620,
+            "author": 5634761,
+            "stamp": 1586916358,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, epsilonhe, lol, scp, 原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073527555,
+            "author": 5634761,
+            "stamp": 1586916307,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073527500,
+            "author": 5634761,
+            "stamp": 1586916288,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073527494,
+            "author": 5634761,
+            "stamp": 1586916265,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024561694,
+    "rating": -7,
+    "forum_thread": 13244335,
+    "tags": [
+        "001提案",
+        "epsilonhe",
+        "lol",
+        "meta",
+        "scp",
+        "原创"
+    ],
+    "title": "代号：Epsilon He的提案1",
+    "sitemap_update": 1586916907000,
+    "votings": [
+        [
+            2803929,
+            false
+        ],
+        [
+            6450258,
+            false
+        ],
+        [
+            5634761,
+            false
+        ],
+        [
+            6743683,
+            false
+        ],
+        [
+            3733731,
+            true
+        ],
+        [
+            7903241,
+            false
+        ],
+        [
+            9859613,
+            false
+        ],
+        [
+            6286770,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

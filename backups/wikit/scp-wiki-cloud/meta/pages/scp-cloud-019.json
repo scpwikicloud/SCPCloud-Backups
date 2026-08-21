@@ -1,0 +1,107 @@
+{
+    "name": "scp-cloud-019",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1508350925,
+            "author": 8305255,
+            "stamp": 1678199506,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 8,
+            "global_revision": 1420684205,
+            "author": 7508779,
+            "stamp": 1647428583,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1420681467,
+            "author": 7508779,
+            "stamp": 1647428540,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1389198367,
+            "author": 7892243,
+            "stamp": 1646468664,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1389173550,
+            "author": 7508779,
+            "stamp": 1646323462,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1389173516,
+            "author": 7508779,
+            "stamp": 1646323288,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1389173451,
+            "author": 7508779,
+            "stamp": 1646323038,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1389173434,
+            "author": 7508779,
+            "stamp": 1646322904,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1389173385,
+            "author": 7508779,
+            "stamp": 1646322562,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1389009104,
+            "author": 7508779,
+            "stamp": 1645447132,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331756388,
+    "rating": 0,
+    "forum_thread": 14550603,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "Scp Cloud 019“瑶光”",
+    "sitemap_update": 1678199506000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            7938578,
+            true
+        ]
+    ],
+    "is_locked": false
+}

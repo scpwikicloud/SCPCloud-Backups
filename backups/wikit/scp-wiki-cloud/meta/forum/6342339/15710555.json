@@ -1,0 +1,55 @@
+{
+    "title": "系列一可以修改了！",
+    "id": 15710555,
+    "description": "",
+    "last": 1678002940,
+    "lastUser": 6452551,
+    "started": 1678000774,
+    "startedUser": 8305255,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6002552,
+            "title": "系列一可以修改了！",
+            "poster": 8305255,
+            "stamp": 1678000774,
+            "lastEdit": 1678003565,
+            "lastEditBy": 8305255,
+            "revisions": [
+                {
+                    "title": "系列一可以修改了！",
+                    "author": 8305255,
+                    "id": 7289782,
+                    "stamp": 1678003565
+                },
+                {
+                    "title": "系列一可以修改了！",
+                    "author": 8305255,
+                    "id": 7289724,
+                    "stamp": 1678000774
+                }
+            ],
+            "children": [
+                {
+                    "id": 6002587,
+                    "title": "Re: 系列一可以修改了！",
+                    "poster": 6452551,
+                    "stamp": 1678002918,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 6002588,
+                    "title": "Re: 系列一可以修改了！",
+                    "poster": 6452551,
+                    "stamp": 1678002940,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

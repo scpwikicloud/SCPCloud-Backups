@@ -1,0 +1,123 @@
+{
+    "name": "scp-cloud-777",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1365777990,
+            "author": 7318709,
+            "stamp": 1621761115,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1365762036,
+            "author": 7318709,
+            "stamp": 1621678203,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1365761997,
+            "author": 7318709,
+            "stamp": 1621678008,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1365761990,
+            "author": 7318709,
+            "stamp": 1621677971,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1365761869,
+            "author": 7318709,
+            "stamp": 1621677509,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1365761866,
+            "author": 7318709,
+            "stamp": 1621677489,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1365761794,
+            "author": 7318709,
+            "stamp": 1621677107,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1311641191,
+    "rating": 10,
+    "forum_thread": 14105087,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-CLOUD-777",
+    "sitemap_update": 1621761115000,
+    "votings": [
+        [
+            7318709,
+            true
+        ],
+        [
+            6285604,
+            false
+        ],
+        [
+            6169516,
+            true
+        ],
+        [
+            6860875,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            9531329,
+            true
+        ],
+        [
+            7428834,
+            true
+        ],
+        [
+            6432947,
+            true
+        ],
+        [
+            7362516,
+            true
+        ],
+        [
+            7149070,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            7169775,
+            true
+        ]
+    ],
+    "is_locked": false
+}

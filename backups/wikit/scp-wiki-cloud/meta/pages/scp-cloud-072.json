@@ -1,0 +1,97 @@
+{
+    "name": "scp-cloud-072",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1508351155,
+            "author": 8305255,
+            "stamp": 1678200533,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1495967203,
+            "author": 7892243,
+            "stamp": 1664693201,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1495967095,
+            "author": 7892243,
+            "stamp": 1664692976,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1495967047,
+            "author": 7892243,
+            "stamp": 1664692815,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1495966999,
+            "author": 7892243,
+            "stamp": 1664692765,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1495917572,
+            "author": 7892243,
+            "stamp": 1664539496,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1495913087,
+            "author": 7892243,
+            "stamp": 1664527895,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 云小鬼, 原创, 梗。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1495913084,
+            "author": 7892243,
+            "stamp": 1664527856,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1436192018,
+    "rating": 3,
+    "forum_thread": 17594497,
+    "tags": [
+        "scp",
+        "云小鬼",
+        "原创",
+        "梗"
+    ],
+    "title": "SCP-Cloud-072",
+    "sitemap_update": 1678200533000,
+    "votings": [
+        [
+            3383100,
+            true
+        ],
+        [
+            10179253,
+            true
+        ],
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

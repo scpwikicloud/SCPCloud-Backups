@@ -1,0 +1,118 @@
+{
+    "name": "backroom",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1479389185,
+            "author": 7892243,
+            "stamp": 1659086724,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1479359012,
+            "author": 7892243,
+            "stamp": 1658973723,
+            "flags": "A",
+            "commentary": "已新增标签：迭代。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1479358997,
+            "author": 7892243,
+            "stamp": 1658973654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1462295678,
+            "author": 7892243,
+            "stamp": 1656113914,
+            "flags": "A",
+            "commentary": "已新增标签：backroom, 原创, 后室, 故事。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1462295370,
+            "author": 7892243,
+            "stamp": 1656112747,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1462295363,
+            "author": 7892243,
+            "stamp": 1656112724,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1462295292,
+            "author": 7892243,
+            "stamp": 1656112686,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1462295248,
+            "author": 7892243,
+            "stamp": 1656112539,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1462295240,
+            "author": 7892243,
+            "stamp": 1656112468,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1403715583,
+    "rating": 4,
+    "forum_thread": 14918200,
+    "tags": [
+        "backroom",
+        "原创",
+        "后室",
+        "故事",
+        "迭代"
+    ],
+    "title": "关于Backroom的研究调查",
+    "sitemap_update": 1659086724000,
+    "votings": [
+        [
+            9731169,
+            true
+        ],
+        [
+            8128287,
+            false
+        ],
+        [
+            8096210,
+            true
+        ],
+        [
+            9772664,
+            true
+        ],
+        [
+            8909314,
+            true
+        ],
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

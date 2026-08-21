@@ -1,0 +1,32 @@
+{
+    "name": "scp-cn-3905",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1523858772,
+            "author": 6452551,
+            "stamp": 1723869225,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523858693,
+            "author": 6452551,
+            "stamp": 1723869102,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456347618,
+    "rating": 0,
+    "tags": [
+        "dscp"
+    ],
+    "title": "SCP-CN-3905",
+    "sitemap_update": 1723869225000,
+    "votings": [],
+    "is_locked": false
+}

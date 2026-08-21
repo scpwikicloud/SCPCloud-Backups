@@ -1,0 +1,48 @@
+{
+    "title": "AntiMeme的提案",
+    "id": 18288786,
+    "description": "",
+    "last": 1786450541,
+    "lastUser": 8546623,
+    "started": 1786251047,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 8933974,
+            "title": "6",
+            "poster": 10453329,
+            "stamp": 1786251131,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 8934013,
+            "title": "",
+            "poster": 8546623,
+            "stamp": 1786252178,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 8934130,
+                    "title": "复制下面这个格式就行了",
+                    "poster": 10364668,
+                    "stamp": 1786259111,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 8973626,
+            "title": "",
+            "poster": 8546623,
+            "stamp": 1786450541,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "name": "scp-cloud-065",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1459771336,
+            "author": 7957653,
+            "stamp": 1648963317,
+            "flags": "A",
+            "commentary": "已新增标签：114514, 原创, 瞎几把写。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1459771312,
+            "author": 7957653,
+            "stamp": 1648963225,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1459771308,
+            "author": 7957653,
+            "stamp": 1648963205,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1402047424,
+    "rating": 0,
+    "forum_thread": 14592227,
+    "tags": [
+        "114514",
+        "scp",
+        "原创",
+        "瞎几把写"
+    ],
+    "title": "SCP-CLOUD-065",
+    "sitemap_update": 1648963317000,
+    "votings": [
+        [
+            7677049,
+            true
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

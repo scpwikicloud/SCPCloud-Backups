@@ -1,0 +1,97 @@
+{
+    "name": "scp-cl-1941-cl-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1311174923,
+            "author": 6324658,
+            "stamp": 1596871880,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1311172927,
+            "author": 6324658,
+            "stamp": 1596861352,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1311172849,
+            "author": 6324658,
+            "stamp": 1596861244,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1311172660,
+            "author": 6324658,
+            "stamp": 1596860321,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1311172657,
+            "author": 6324658,
+            "stamp": 1596860299,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事, 解密。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1311172615,
+            "author": 6324658,
+            "stamp": 1596860140,
+            "flags": "A",
+            "commentary": "已新增标签：解密scp-cl。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311172607,
+            "author": 6324658,
+            "stamp": 1596860094,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1311172588,
+            "author": 6324658,
+            "stamp": 1596859978,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1260670543,
+    "rating": 1,
+    "forum_thread": 13628287,
+    "tags": [
+        "原创",
+        "故事",
+        "解密",
+        "解密scp-cl"
+    ],
+    "title": "解密SCP-CL-1941",
+    "sitemap_update": 1596871880000,
+    "votings": [
+        [
+            6104332,
+            true
+        ],
+        [
+            7239770,
+            true
+        ],
+        [
+            6324658,
+            false
+        ]
+    ],
+    "is_locked": false
+}

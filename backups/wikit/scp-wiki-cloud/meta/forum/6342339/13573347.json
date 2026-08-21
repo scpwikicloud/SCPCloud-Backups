@@ -1,0 +1,85 @@
+{
+    "title": "梅公馆客服",
+    "id": 13573347,
+    "description": "",
+    "last": 1598516902,
+    "lastUser": 6104332,
+    "started": 1595397927,
+    "startedUser": 6351354,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4725979,
+            "title": "梅公馆客服",
+            "poster": 6351354,
+            "stamp": 1595397927,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4727217,
+            "title": "不知道算不算骚扰",
+            "poster": 6104332,
+            "stamp": 1595506739,
+            "lastEdit": 1595506768,
+            "lastEditBy": 6104332,
+            "revisions": [
+                {
+                    "title": "不知道算不算骚扰",
+                    "author": 6104332,
+                    "id": 5694558,
+                    "stamp": 1595506768
+                },
+                {
+                    "title": "不知道算不算骚扰",
+                    "author": 6104332,
+                    "id": 5694557,
+                    "stamp": 1595506739
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 4728156,
+            "title": "回楼上",
+            "poster": 6351354,
+            "stamp": 1595584917,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4740578,
+            "title": "",
+            "poster": 6678040,
+            "stamp": 1596765115,
+            "lastEdit": 1607433170,
+            "lastEditBy": 6678040,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 6678040,
+                    "id": 5849350,
+                    "stamp": 1607433170
+                },
+                {
+                    "title": "Re: 梅公馆客服",
+                    "author": 6678040,
+                    "id": 5712890,
+                    "stamp": 1596765115
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 4759873,
+            "title": "Re: 梅公馆客服",
+            "poster": 6104332,
+            "stamp": 1598516902,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

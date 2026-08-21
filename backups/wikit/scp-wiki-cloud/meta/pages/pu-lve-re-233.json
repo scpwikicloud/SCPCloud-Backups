@@ -1,0 +1,55 @@
+{
+    "name": "pu-lve-re-233",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1459664947,
+            "author": 7855130,
+            "stamp": 1648623289,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1394547939,
+            "author": 7855130,
+            "stamp": 1647005626,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1394547929,
+            "author": 7855130,
+            "stamp": 1647005501,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1394547925,
+            "author": 7855130,
+            "stamp": 1647005485,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1337116712,
+    "rating": -1,
+    "forum_thread": 14557238,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "论如何气死Pulvere",
+    "sitemap_update": 1648623289000,
+    "votings": [
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

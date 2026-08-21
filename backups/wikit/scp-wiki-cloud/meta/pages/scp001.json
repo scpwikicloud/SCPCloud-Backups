@@ -1,0 +1,102 @@
+{
+    "name": "scp001",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1311010067,
+            "author": 6225532,
+            "stamp": 1596252242,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1311010034,
+            "author": 6225532,
+            "stamp": 1596252186,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1311009988,
+            "author": 6225532,
+            "stamp": 1596252096,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1311009974,
+            "author": 6225532,
+            "stamp": 1596252041,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1311009958,
+            "author": 6225532,
+            "stamp": 1596251989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1308938430,
+            "author": 6479225,
+            "stamp": 1596206274,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1258525661,
+    "rating": -7,
+    "forum_thread": 13604943,
+    "tags": [
+        "故事"
+    ],
+    "title": "核爆黑曼巴",
+    "sitemap_update": 1596252242000,
+    "votings": [
+        [
+            6225532,
+            false
+        ],
+        [
+            6283036,
+            false
+        ],
+        [
+            6678040,
+            false
+        ],
+        [
+            6317957,
+            false
+        ],
+        [
+            6285237,
+            false
+        ],
+        [
+            6474719,
+            true
+        ],
+        [
+            6773225,
+            false
+        ],
+        [
+            6382461,
+            false
+        ],
+        [
+            6240575,
+            false
+        ]
+    ],
+    "is_locked": false
+}

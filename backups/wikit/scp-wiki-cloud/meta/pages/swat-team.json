@@ -1,0 +1,125 @@
+{
+    "name": "swat-team",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 9,
+            "global_revision": 1073159069,
+            "author": 6165739,
+            "stamp": 1586490297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1073017528,
+            "author": 6155697,
+            "stamp": 1586078792,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1073017520,
+            "author": 6155697,
+            "stamp": 1586078761,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1064237671,
+            "author": 6165739,
+            "stamp": 1585649753,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1064237329,
+            "author": 6165739,
+            "stamp": 1585648713,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 故事, 民间指导, 特警队。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1064231399,
+            "author": 6165739,
+            "stamp": 1585633077,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1064231360,
+            "author": 6165739,
+            "stamp": 1585632949,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1064231207,
+            "author": 6165739,
+            "stamp": 1585632181,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1064231193,
+            "author": 6165739,
+            "stamp": 1585632107,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1064231172,
+            "author": 6165739,
+            "stamp": 1585631970,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1015491076,
+    "forum_thread": 13196969,
+    "tags": [
+        "scp",
+        "原创",
+        "故事",
+        "民间指导",
+        "特警队"
+    ],
+    "title": "云国警察局特警队 中心页",
+    "sitemap_update": 1586490297000,
+    "votings": [
+        [
+            6283036,
+            false
+        ],
+        [
+            5619450,
+            true
+        ],
+        [
+            6150792,
+            true
+        ],
+        [
+            6166434,
+            false
+        ],
+        [
+            5279445,
+            true
+        ],
+        [
+            4888797,
+            true
+        ]
+    ],
+    "is_locked": false
+}

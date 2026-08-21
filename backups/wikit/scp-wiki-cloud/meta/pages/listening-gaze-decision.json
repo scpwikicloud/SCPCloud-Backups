@@ -1,0 +1,106 @@
+{
+    "name": "listening-gaze-decision",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1459479962,
+            "author": 5721026,
+            "stamp": 1647938737,
+            "flags": "A",
+            "commentary": "移除标签：lgd基金会, scp基金会决定层面, scp基金会高管。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1050833109,
+            "author": 6165739,
+            "stamp": 1584769693,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1048481926,
+            "author": 6165739,
+            "stamp": 1584260382,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1048481838,
+            "author": 6165739,
+            "stamp": 1584260143,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1048481643,
+            "author": 6155697,
+            "stamp": 1584259651,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1048444351,
+            "author": 6165739,
+            "stamp": 1584178958,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1048443999,
+            "author": 6165739,
+            "stamp": 1584177864,
+            "flags": "A",
+            "commentary": "已新增标签：lgd基金会, scp基金会决定层面, scp基金会高管, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1048443973,
+            "author": 6165739,
+            "stamp": 1584177757,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 999948301,
+    "rating": 6,
+    "forum_thread": 13147873,
+    "tags": [
+        "故事"
+    ],
+    "title": "LGD基金会",
+    "sitemap_update": 1647938737000,
+    "votings": [
+        [
+            6027217,
+            true
+        ],
+        [
+            5706474,
+            true
+        ],
+        [
+            6139906,
+            true
+        ],
+        [
+            6155697,
+            true
+        ],
+        [
+            6165739,
+            true
+        ],
+        [
+            6175508,
+            true
+        ]
+    ],
+    "is_locked": false
+}

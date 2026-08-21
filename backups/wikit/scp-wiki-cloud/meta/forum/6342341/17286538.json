@@ -1,0 +1,80 @@
+{
+    "title": "聊天室",
+    "id": 17286538,
+    "description": "",
+    "last": 1786675862,
+    "lastUser": 10335993,
+    "started": 1759459211,
+    "startedUser": null,
+    "postsNum": 8,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7246151,
+            "title": "",
+            "poster": 6335947,
+            "stamp": 1759459230,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7257361,
+            "title": "",
+            "poster": 9805864,
+            "stamp": 1759591991,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7357229,
+            "title": "",
+            "poster": 9820730,
+            "stamp": 1761402694,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7357232,
+                    "title": "",
+                    "poster": 9820730,
+                    "stamp": 1761402783,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7443721,
+            "title": "",
+            "poster": 8824993,
+            "stamp": 1764514061,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7478699,
+            "title": "",
+            "poster": 9877906,
+            "stamp": 1766517846,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 8810873,
+            "title": "",
+            "poster": 10297811,
+            "stamp": 1785474883,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 9025907,
+            "title": "",
+            "poster": 10335993,
+            "stamp": 1786675862,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "fragment:collab:ngc-4826-and-cebturiesgod-2",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1087770514,
+            "author": 6285237,
+            "stamp": 1589354898,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1087744577,
+            "author": 6285237,
+            "stamp": 1589354451,
+            "flags": "M",
+            "commentary": "父页面设置为: \"fragment:collab:ngc-4826-and-cebturiesgod-1\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1087741466,
+            "author": 6285237,
+            "stamp": 1589354403,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1038350246,
+    "parent": "fragment:collab:ngc-4826-and-cebturiesgod-1",
+    "forum_thread": 13470944,
+    "title": "事件！事件！",
+    "sitemap_update": 1589354898000,
+    "votings": [
+        [
+            6326265,
+            false
+        ],
+        [
+            6269192,
+            true
+        ],
+        [
+            6190503,
+            true
+        ]
+    ],
+    "is_locked": false
+}

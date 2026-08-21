@@ -1,0 +1,95 @@
+{
+    "name": "scp-cloud-1079",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1529565679,
+            "author": 9525819,
+            "stamp": 1745623256,
+            "flags": "S",
+            "commentary": "爆代码了，修一下"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1529550865,
+            "author": 9525819,
+            "stamp": 1745591730,
+            "flags": "A",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1529550864,
+            "author": 9525819,
+            "stamp": 1745591728,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1529550860,
+            "author": 9525819,
+            "stamp": 1745591654,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1529550843,
+            "author": 9525819,
+            "stamp": 1745591536,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459360323,
+    "rating": 9,
+    "forum_thread": 17100932,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP ClOUD 1079 也许是deepseek？",
+    "sitemap_update": 1745623256000,
+    "votings": [
+        [
+            9509079,
+            true
+        ],
+        [
+            6335947,
+            true
+        ],
+        [
+            9544715,
+            true
+        ],
+        [
+            9559154,
+            true
+        ],
+        [
+            9302920,
+            true
+        ],
+        [
+            6308686,
+            true
+        ],
+        [
+            9121003,
+            true
+        ],
+        [
+            8366274,
+            true
+        ],
+        [
+            8632097,
+            true
+        ]
+    ],
+    "is_locked": false
+}

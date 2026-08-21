@@ -1,0 +1,40 @@
+{
+    "name": "lm",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1459480051,
+            "author": 5721026,
+            "stamp": 1647939036,
+            "flags": "A",
+            "commentary": "已新增标签：故事。 移除标签：不加故事标签, 信, 就不上首页, 耶~。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1359831932,
+            "author": 6317957,
+            "stamp": 1613190560,
+            "flags": "A",
+            "commentary": "已新增标签：不加故事标签, 信, 原创, 就不上首页, 耶~。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1359831869,
+            "author": 6317957,
+            "stamp": 1613190444,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1306893403,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "一封给你的信",
+    "sitemap_update": 1647939036000,
+    "votings": [],
+    "is_locked": false
+}

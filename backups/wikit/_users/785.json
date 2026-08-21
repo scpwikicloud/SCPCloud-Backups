@@ -19,7 +19,7 @@
         "wikidot_user_since": 1589176680,
         "account_type": "free",
         "activity": 2,
-        "fetched_at": 1787242289792,
+        "fetched_at": 1787329264028,
         "user_id": 6432947
     },
     "6433147": {
@@ -52,5 +52,23 @@
         "activity": 2,
         "fetched_at": 1787248364788,
         "user_id": 6434214
+    },
+    "6436677": {
+        "full_name": "maidx",
+        "username": "maidx",
+        "wikidot_user_since": 1589263980,
+        "account_type": "free",
+        "activity": 1,
+        "fetched_at": 1787329732964,
+        "user_id": 6436677
+    },
+    "6437096": {
+        "full_name": "ThePrince15",
+        "username": "theprince15",
+        "wikidot_user_since": 1589272860,
+        "account_type": "free",
+        "activity": 0,
+        "fetched_at": 1787333932256,
+        "user_id": 6437096
     }
 }

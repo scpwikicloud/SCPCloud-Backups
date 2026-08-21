@@ -1,0 +1,66 @@
+{
+    "name": "scp-cloud-400",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1461316596,
+            "author": 7905777,
+            "stamp": 1653704307,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1461316579,
+            "author": 7905777,
+            "stamp": 1653704181,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1403067118,
+    "forum_thread": 16710590,
+    "title": "SCP-CLOUD-400",
+    "sitemap_update": 1653704307000,
+    "votings": [
+        [
+            4886285,
+            false
+        ],
+        [
+            9752615,
+            false
+        ],
+        [
+            8509644,
+            false
+        ],
+        [
+            10307852,
+            false
+        ],
+        [
+            9883889,
+            false
+        ],
+        [
+            6483328,
+            false
+        ],
+        [
+            5365255,
+            false
+        ],
+        [
+            8887920,
+            false
+        ],
+        [
+            9604211,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,87 @@
+{
+    "name": "scp-cloud-018",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1388666915,
+            "author": 7477854,
+            "stamp": 1644134531,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1388666889,
+            "author": 7477854,
+            "stamp": 1644134312,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1388666884,
+            "author": 7477854,
+            "stamp": 1644134283,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388666869,
+            "author": 7477854,
+            "stamp": 1644134154,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331614137,
+    "rating": 5,
+    "forum_thread": 14486147,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-018 星罗棋布",
+    "sitemap_update": 1644134531000,
+    "votings": [
+        [
+            7905848,
+            true
+        ],
+        [
+            8177125,
+            true
+        ],
+        [
+            8213972,
+            true
+        ],
+        [
+            8051356,
+            true
+        ],
+        [
+            8128287,
+            true
+        ],
+        [
+            7198635,
+            false
+        ],
+        [
+            7903445,
+            true
+        ],
+        [
+            9884343,
+            true
+        ],
+        [
+            7789907,
+            false
+        ]
+    ],
+    "is_locked": false
+}

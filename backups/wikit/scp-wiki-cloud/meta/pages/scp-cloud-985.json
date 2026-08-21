@@ -1,0 +1,451 @@
+{
+    "name": "scp-cloud-985",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 53,
+            "global_revision": 1531213602,
+            "author": 9782475,
+            "stamp": 1753606413,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 52,
+            "global_revision": 1531212265,
+            "author": 9782475,
+            "stamp": 1753601762,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 51,
+            "global_revision": 1531212256,
+            "author": 9782475,
+            "stamp": 1753601682,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 50,
+            "global_revision": 1531196539,
+            "author": 9782475,
+            "stamp": 1753530146,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 49,
+            "global_revision": 1531196286,
+            "author": 9782475,
+            "stamp": 1753529297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 48,
+            "global_revision": 1531196234,
+            "author": 9782475,
+            "stamp": 1753529039,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 47,
+            "global_revision": 1531196231,
+            "author": 9782475,
+            "stamp": 1753529016,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 46,
+            "global_revision": 1531196225,
+            "author": 9782475,
+            "stamp": 1753528979,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 45,
+            "global_revision": 1531196214,
+            "author": 9782475,
+            "stamp": 1753528945,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 44,
+            "global_revision": 1531196205,
+            "author": 9782475,
+            "stamp": 1753528901,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 43,
+            "global_revision": 1531196172,
+            "author": 9782475,
+            "stamp": 1753528802,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 42,
+            "global_revision": 1531196136,
+            "author": 9782475,
+            "stamp": 1753528704,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 41,
+            "global_revision": 1531195902,
+            "author": 9782475,
+            "stamp": 1753527832,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 40,
+            "global_revision": 1531195867,
+            "author": 9782475,
+            "stamp": 1753527658,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 39,
+            "global_revision": 1531176135,
+            "author": 9782475,
+            "stamp": 1753431129,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 38,
+            "global_revision": 1531176121,
+            "author": 9782475,
+            "stamp": 1753431074,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 37,
+            "global_revision": 1531175870,
+            "author": 9782475,
+            "stamp": 1753429295,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 36,
+            "global_revision": 1531175487,
+            "author": 9782475,
+            "stamp": 1753427623,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 35,
+            "global_revision": 1531175015,
+            "author": 9782475,
+            "stamp": 1753425658,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 34,
+            "global_revision": 1531174927,
+            "author": 9782475,
+            "stamp": 1753425250,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 33,
+            "global_revision": 1531174922,
+            "author": 9782475,
+            "stamp": 1753425218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 32,
+            "global_revision": 1531174844,
+            "author": 9782475,
+            "stamp": 1753424922,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 31,
+            "global_revision": 1531174839,
+            "author": 9782475,
+            "stamp": 1753424865,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 30,
+            "global_revision": 1531174819,
+            "author": 9782475,
+            "stamp": 1753424762,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 29,
+            "global_revision": 1531174551,
+            "author": 9782475,
+            "stamp": 1753423478,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 28,
+            "global_revision": 1531174492,
+            "author": 9782475,
+            "stamp": 1753423157,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 27,
+            "global_revision": 1531174480,
+            "author": 9782475,
+            "stamp": 1753423100,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1531174474,
+            "author": 9782475,
+            "stamp": 1753423057,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 25,
+            "global_revision": 1531174463,
+            "author": 9782475,
+            "stamp": 1753422981,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 24,
+            "global_revision": 1531174453,
+            "author": 9782475,
+            "stamp": 1753422927,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1531174448,
+            "author": 9782475,
+            "stamp": 1753422897,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1531174445,
+            "author": 9782475,
+            "stamp": 1753422871,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1531174442,
+            "author": 9782475,
+            "stamp": 1753422845,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1531174425,
+            "author": 9782475,
+            "stamp": 1753422735,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1531174420,
+            "author": 9782475,
+            "stamp": 1753422698,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1531174334,
+            "author": 9782475,
+            "stamp": 1753422361,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1531174322,
+            "author": 9782475,
+            "stamp": 1753422282,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1531174311,
+            "author": 9782475,
+            "stamp": 1753422234,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1531174305,
+            "author": 9782475,
+            "stamp": 1753422204,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1531174290,
+            "author": 9782475,
+            "stamp": 1753422114,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1531174135,
+            "author": 9782475,
+            "stamp": 1753421195,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1531174129,
+            "author": 9782475,
+            "stamp": 1753421146,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1531174117,
+            "author": 9782475,
+            "stamp": 1753421086,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1531174110,
+            "author": 9782475,
+            "stamp": 1753421007,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1531173970,
+            "author": 9782475,
+            "stamp": 1753420218,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1531173920,
+            "author": 9782475,
+            "stamp": 1753420064,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1531173836,
+            "author": 9782475,
+            "stamp": 1753419729,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1531173738,
+            "author": 9782475,
+            "stamp": 1753419211,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1531173716,
+            "author": 9782475,
+            "stamp": 1753419103,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1531173668,
+            "author": 9782475,
+            "stamp": 1753418924,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1531173443,
+            "author": 9782475,
+            "stamp": 1753418366,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1531173430,
+            "author": 9782475,
+            "stamp": 1753418297,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531173418,
+            "author": 9782475,
+            "stamp": 1753418265,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531173386,
+            "author": 9782475,
+            "stamp": 1753418150,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1459960587,
+    "rating": 1,
+    "forum_thread": 17171386,
+    "title": "权威教育模因",
+    "sitemap_update": 1753606413000,
+    "votings": [
+        [
+            9782475,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,57 @@
+{
+    "name": "scp-cloud-981",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1523913126,
+            "author": 8305255,
+            "stamp": 1723983637,
+            "flags": "T",
+            "commentary": "更正标题。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1511598595,
+            "author": 8424059,
+            "stamp": 1687785674,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1511326215,
+            "author": 8424059,
+            "stamp": 1686925875,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1511316197,
+            "author": 8424059,
+            "stamp": 1686892579,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1511315856,
+            "author": 8424059,
+            "stamp": 1686891220,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1448490149,
+    "title": "SCP-Cloud-981",
+    "sitemap_update": 1723983637000,
+    "votings": [
+        [
+            9731169,
+            true
+        ]
+    ],
+    "is_locked": false
+}

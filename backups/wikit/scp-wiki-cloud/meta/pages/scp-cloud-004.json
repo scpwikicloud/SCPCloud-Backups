@@ -1,0 +1,525 @@
+{
+    "name": "scp-cloud-004",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 27,
+            "global_revision": 1527786424,
+            "author": 7535291,
+            "stamp": 1739471501,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 26,
+            "global_revision": 1527786403,
+            "author": 7535291,
+            "stamp": 1739471345,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"scp-cloud-006\" 至 \"scp-cloud-004\"."
+        },
+        {
+            "revision": 25,
+            "global_revision": 1508350868,
+            "author": 8305255,
+            "stamp": 1678199394,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 24,
+            "global_revision": 1364972154,
+            "author": 6190503,
+            "stamp": 1620471253,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 23,
+            "global_revision": 1364972105,
+            "author": 6190503,
+            "stamp": 1620470936,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1358760373,
+            "author": 6190503,
+            "stamp": 1609322305,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1358760362,
+            "author": 6190503,
+            "stamp": 1609322201,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1358760354,
+            "author": 6190503,
+            "stamp": 1609322115,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 19,
+            "global_revision": 1358597154,
+            "author": 6190503,
+            "stamp": 1608538179,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 18,
+            "global_revision": 1358597145,
+            "author": 6190503,
+            "stamp": 1608538135,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1357279253,
+            "author": 6317957,
+            "stamp": 1604105937,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1084395020,
+            "author": 6190503,
+            "stamp": 1588580631,
+            "flags": "A",
+            "commentary": "已新增标签：ibescp。"
+        },
+        {
+            "revision": 15,
+            "global_revision": 1084196960,
+            "author": 6190503,
+            "stamp": 1588309557,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1080687654,
+            "author": 6190503,
+            "stamp": 1588256456,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1079012232,
+            "author": 6190503,
+            "stamp": 1588233181,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1078956225,
+            "author": 6190503,
+            "stamp": 1588232611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1078926141,
+            "author": 6190503,
+            "stamp": 1588232190,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1078911064,
+            "author": 6190503,
+            "stamp": 1588231965,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1078901737,
+            "author": 6190503,
+            "stamp": 1588231862,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1078879369,
+            "author": 6190503,
+            "stamp": 1588231699,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1078862155,
+            "author": 6190503,
+            "stamp": 1588231574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1078857040,
+            "author": 6190503,
+            "stamp": 1588231535,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1078849624,
+            "author": 6190503,
+            "stamp": 1588231480,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1078812691,
+            "author": 6190503,
+            "stamp": 1588231073,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创, 角色扮演给👴🏻爬。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1078762271,
+            "author": 6190503,
+            "stamp": 1588230698,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1078743699,
+            "author": 6190503,
+            "stamp": 1588230524,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1078730825,
+            "author": 6190503,
+            "stamp": 1588230324,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1078723295,
+            "author": 6190503,
+            "stamp": 1588230212,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1029532764,
+    "rating": -26,
+    "forum_thread": 13279929,
+    "tags": [
+        "ibescp",
+        "scp",
+        "原创",
+        "角色扮演给👴🏻爬"
+    ],
+    "title": "SCP-CLOUD-004",
+    "sitemap_update": 1739471501000,
+    "votings": [
+        [
+            9894140,
+            false
+        ],
+        [
+            8305255,
+            false
+        ],
+        [
+            8767711,
+            false
+        ],
+        [
+            7914610,
+            true
+        ],
+        [
+            6535410,
+            true
+        ],
+        [
+            7867501,
+            false
+        ],
+        [
+            9892575,
+            false
+        ],
+        [
+            6649761,
+            false
+        ],
+        [
+            6268737,
+            false
+        ],
+        [
+            8213972,
+            false
+        ],
+        [
+            8246045,
+            false
+        ],
+        [
+            9774539,
+            false
+        ],
+        [
+            8963351,
+            true
+        ],
+        [
+            5515230,
+            false
+        ],
+        [
+            6756441,
+            false
+        ],
+        [
+            7665887,
+            false
+        ],
+        [
+            6169516,
+            false
+        ],
+        [
+            7262242,
+            false
+        ],
+        [
+            6077090,
+            false
+        ],
+        [
+            7508779,
+            true
+        ],
+        [
+            7938785,
+            false
+        ],
+        [
+            6874010,
+            false
+        ],
+        [
+            10243250,
+            true
+        ],
+        [
+            9718301,
+            true
+        ],
+        [
+            9796880,
+            false
+        ],
+        [
+            8089394,
+            true
+        ],
+        [
+            9812480,
+            false
+        ],
+        [
+            9413377,
+            false
+        ],
+        [
+            8819205,
+            true
+        ],
+        [
+            9504061,
+            true
+        ],
+        [
+            9767102,
+            false
+        ],
+        [
+            9873610,
+            false
+        ],
+        [
+            8972925,
+            false
+        ],
+        [
+            7274437,
+            false
+        ],
+        [
+            8128287,
+            false
+        ],
+        [
+            6308686,
+            true
+        ],
+        [
+            8353401,
+            false
+        ],
+        [
+            8998982,
+            false
+        ],
+        [
+            6999214,
+            true
+        ],
+        [
+            9555945,
+            false
+        ],
+        [
+            9599788,
+            false
+        ],
+        [
+            3371391,
+            false
+        ],
+        [
+            8198452,
+            true
+        ],
+        [
+            8366274,
+            false
+        ],
+        [
+            5967510,
+            true
+        ],
+        [
+            9923504,
+            false
+        ],
+        [
+            6269342,
+            false
+        ],
+        [
+            9313151,
+            false
+        ],
+        [
+            8087295,
+            false
+        ],
+        [
+            7042272,
+            true
+        ],
+        [
+            9026348,
+            false
+        ],
+        [
+            9828558,
+            true
+        ],
+        [
+            10208396,
+            false
+        ],
+        [
+            7308662,
+            false
+        ],
+        [
+            6745213,
+            true
+        ],
+        [
+            7774600,
+            false
+        ],
+        [
+            6292655,
+            false
+        ],
+        [
+            7643786,
+            true
+        ],
+        [
+            9802999,
+            false
+        ],
+        [
+            5421798,
+            false
+        ],
+        [
+            2782606,
+            false
+        ],
+        [
+            7558128,
+            true
+        ],
+        [
+            6347429,
+            false
+        ],
+        [
+            9104084,
+            false
+        ],
+        [
+            7566030,
+            true
+        ],
+        [
+            6240575,
+            true
+        ],
+        [
+            6088403,
+            false
+        ],
+        [
+            9425180,
+            false
+        ],
+        [
+            9525819,
+            true
+        ],
+        [
+            7905777,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,41 @@
+{
+    "name": "scp-cloud-cn-2000-jp",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1215109839,
+            "author": 6479225,
+            "stamp": 1592996288,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1215109766,
+            "author": 6479225,
+            "stamp": 1592995956,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1215109727,
+            "author": 6479225,
+            "stamp": 1592995742,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1165140767,
+    "title": "SCP-Cloud-CN-2000-JP：史诗降神",
+    "sitemap_update": 1592996288000,
+    "votings": [
+        [
+            6317957,
+            false
+        ]
+    ],
+    "is_locked": false
+}

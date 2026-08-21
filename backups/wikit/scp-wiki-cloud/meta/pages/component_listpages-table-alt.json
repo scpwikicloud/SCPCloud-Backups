@@ -1,0 +1,31 @@
+{
+    "name": "component:listpages-table-alt",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1033910592,
+            "author": 4761736,
+            "stamp": 1579064060,
+            "flags": "A",
+            "commentary": "已新增标签：这是个什么玩意。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 881025098,
+            "author": 4540724,
+            "stamp": 1562476304,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 835214203,
+    "tags": [
+        "这是个什么玩意"
+    ],
+    "title": "Listpages Table Alt",
+    "sitemap_update": 1579064060000,
+    "votings": [],
+    "is_locked": false
+}

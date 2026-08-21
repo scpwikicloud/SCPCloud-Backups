@@ -1,0 +1,88 @@
+{
+    "name": "fragment:huanmeng-001-12",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1518349590,
+            "author": 9007460,
+            "stamp": 1708331214,
+            "flags": "M",
+            "commentary": "将父页面设置为: \"collab:huanmeng-is-001-tian\"."
+        },
+        {
+            "revision": 7,
+            "global_revision": 1494845923,
+            "author": 7892243,
+            "stamp": 1661998645,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1494843471,
+            "author": 7892243,
+            "stamp": 1661988893,
+            "flags": "M",
+            "commentary": "父页面设置为: \"\"."
+        },
+        {
+            "revision": 5,
+            "global_revision": 1493476077,
+            "author": 7892243,
+            "stamp": 1661850151,
+            "flags": "A",
+            "commentary": "已新增标签：段落。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1492815509,
+            "author": 7892243,
+            "stamp": 1661843205,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1492813645,
+            "author": 7892243,
+            "stamp": 1661843181,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1492809165,
+            "author": 7892243,
+            "stamp": 1661843122,
+            "flags": "M",
+            "commentary": "父页面设置为: \"collab:huanmeng-is-001-tian\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1492728631,
+            "author": 7892243,
+            "stamp": 1661841940,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1492728621,
+            "author": 7892243,
+            "stamp": 1661841912,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1433346607,
+    "parent": "collab:huanmeng-is-001-tian",
+    "tags": [
+        "段落"
+    ],
+    "title": "协议否决",
+    "sitemap_update": 1708331214000,
+    "votings": [],
+    "is_locked": false
+}

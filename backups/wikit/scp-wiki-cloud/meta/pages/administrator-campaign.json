@@ -1,0 +1,158 @@
+{
+    "name": "administrator-campaign",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 14,
+            "global_revision": 1362166695,
+            "author": 6326265,
+            "stamp": 1618068434,
+            "flags": "S",
+            "commentary": "加上漏字"
+        },
+        {
+            "revision": 13,
+            "global_revision": 1362075557,
+            "author": 6335947,
+            "stamp": 1617724964,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1362070947,
+            "author": 6335947,
+            "stamp": 1617706797,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1362048778,
+            "author": 6335947,
+            "stamp": 1617594739,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1362037552,
+            "author": 6335947,
+            "stamp": 1617544347,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1362037544,
+            "author": 6335947,
+            "stamp": 1617544330,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1362035032,
+            "author": 6335947,
+            "stamp": 1617530398,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1362035023,
+            "author": 6335947,
+            "stamp": 1617530351,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1362035005,
+            "author": 6335947,
+            "stamp": 1617530266,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1362034982,
+            "author": 6335947,
+            "stamp": 1617530129,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1362034965,
+            "author": 6335947,
+            "stamp": 1617530036,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1362034848,
+            "author": 6335947,
+            "stamp": 1617529310,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1362034627,
+            "author": 6335947,
+            "stamp": 1617528363,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362034615,
+            "author": 6335947,
+            "stamp": 1617528296,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362034496,
+            "author": 6335947,
+            "stamp": 1617527496,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308474252,
+    "forum_thread": 14041174,
+    "title": "管理员竞选页",
+    "sitemap_update": 1618068434000,
+    "votings": [
+        [
+            6713400,
+            true
+        ],
+        [
+            5498218,
+            true
+        ],
+        [
+            6317957,
+            true
+        ],
+        [
+            5037208,
+            true
+        ],
+        [
+            6190503,
+            true
+        ],
+        [
+            6603529,
+            true
+        ]
+    ],
+    "is_locked": false
+}

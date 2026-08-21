@@ -1,0 +1,124 @@
+{
+    "name": "dnm",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 7,
+            "global_revision": 1084503624,
+            "author": 6240575,
+            "stamp": 1588757219,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1084479435,
+            "author": 6240575,
+            "stamp": 1588685151,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1084237475,
+            "author": 6240575,
+            "stamp": 1588400077,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1078684391,
+            "author": 6240575,
+            "stamp": 1588229631,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1078684334,
+            "author": 6240575,
+            "stamp": 1588229574,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1078684315,
+            "author": 6240575,
+            "stamp": 1588229551,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1078660682,
+            "author": 6240575,
+            "stamp": 1588228245,
+            "flags": "F",
+            "commentary": "已上传文件 “nmsl”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1078650161,
+            "author": 6240575,
+            "stamp": 1588228090,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 9044837,
+            "name": "nmsl",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/dnm/nmsl",
+            "size": "14.69 kB (15045 Bytes)",
+            "size_bytes": 15045,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6240575,
+            "stamp": 1588228245,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1029460008,
+    "rating": 8,
+    "forum_thread": 13279796,
+    "title": "Nmsl-38 祖安机动特遣队页面",
+    "sitemap_update": 1588757219000,
+    "votings": [
+        [
+            6663776,
+            true
+        ],
+        [
+            6651773,
+            true
+        ],
+        [
+            7550753,
+            true
+        ],
+        [
+            7047022,
+            true
+        ],
+        [
+            9100566,
+            true
+        ],
+        [
+            6521150,
+            true
+        ],
+        [
+            6286770,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

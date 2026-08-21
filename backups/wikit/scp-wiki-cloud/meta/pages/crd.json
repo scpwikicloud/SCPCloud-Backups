@@ -1,0 +1,62 @@
+{
+    "name": "crd",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1371987939,
+            "author": 6317957,
+            "stamp": 1629618385,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1371987496,
+            "author": 6317957,
+            "stamp": 1629615855,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1212239567,
+            "author": 5967510,
+            "stamp": 1592396090,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1212198162,
+            "author": 6317957,
+            "stamp": 1592394602,
+            "flags": "A",
+            "commentary": "已新增标签：crd频道, 中心页, 资料库。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1212187103,
+            "author": 6317957,
+            "stamp": 1592394413,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1162304005,
+    "tags": [
+        "crd频道",
+        "中心页",
+        "资料库"
+    ],
+    "title": "CRD频道资料库",
+    "sitemap_update": 1629618385000,
+    "votings": [
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

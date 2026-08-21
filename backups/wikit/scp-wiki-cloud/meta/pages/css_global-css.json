@@ -1,0 +1,26 @@
+{
+    "name": "css:global-css",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 0,
+            "global_revision": 835653219,
+            "author": 4704446,
+            "stamp": 1557742149,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 790493189,
+    "parent": "css:_home",
+    "title": "Global CSS",
+    "sitemap_update": 1557742149000,
+    "votings": [
+        [
+            7146864,
+            false
+        ]
+    ],
+    "is_locked": false
+}

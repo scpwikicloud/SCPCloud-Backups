@@ -1,0 +1,141 @@
+{
+    "name": "cyberdinz",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1495376365,
+            "author": 7633035,
+            "stamp": 1663045769,
+            "flags": "A",
+            "commentary": "已新增标签：down爆我，谢谢。"
+        },
+        {
+            "revision": 9,
+            "global_revision": 1495376203,
+            "author": 7633035,
+            "stamp": 1663045539,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1495376196,
+            "author": 7633035,
+            "stamp": 1663045502,
+            "flags": "A",
+            "commentary": "已新增标签：丁真, 原创, 故事。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1495376191,
+            "author": 7633035,
+            "stamp": 1663045476,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1495376042,
+            "author": 7633035,
+            "stamp": 1663045363,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1495375897,
+            "author": 7633035,
+            "stamp": 1663044831,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1495375824,
+            "author": 7633035,
+            "stamp": 1663044644,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1495375816,
+            "author": 7633035,
+            "stamp": 1663044611,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1495375615,
+            "author": 7633035,
+            "stamp": 1663043989,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1495375607,
+            "author": 7633035,
+            "stamp": 1663043901,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1495375411,
+            "author": 7633035,
+            "stamp": 1663043570,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1435835902,
+    "rating": -6,
+    "forum_thread": 15184146,
+    "tags": [
+        "down爆我，谢谢",
+        "丁真",
+        "原创",
+        "故事"
+    ],
+    "title": "赛博丁真",
+    "sitemap_update": 1663045769000,
+    "votings": [
+        [
+            6979631,
+            false
+        ],
+        [
+            8295495,
+            true
+        ],
+        [
+            6348077,
+            false
+        ],
+        [
+            7274437,
+            false
+        ],
+        [
+            8128287,
+            false
+        ],
+        [
+            8181853,
+            false
+        ],
+        [
+            7633035,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

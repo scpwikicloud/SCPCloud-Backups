@@ -1,0 +1,60 @@
+{
+    "name": "cs",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1202459701,
+            "author": 6317957,
+            "stamp": 1592062523,
+            "flags": "A",
+            "commentary": "已新增标签：云分革命部。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1193362573,
+            "author": 6317957,
+            "stamp": 1591513768,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1193334945,
+            "author": 6317957,
+            "stamp": 1591513195,
+            "flags": "A",
+            "commentary": "已新增标签：c007, 原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1193331023,
+            "author": 6317957,
+            "stamp": 1591513129,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1143580197,
+    "forum_thread": 13414453,
+    "tags": [
+        "c007",
+        "云分革命部",
+        "原创",
+        "故事"
+    ],
+    "title": "传说",
+    "sitemap_update": 1592062523000,
+    "votings": [
+        [
+            6104332,
+            true
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

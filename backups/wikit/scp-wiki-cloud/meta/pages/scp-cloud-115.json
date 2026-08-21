@@ -1,0 +1,89 @@
+{
+    "name": "scp-cloud-115",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1498047006,
+            "author": 6682340,
+            "stamp": 1670321440,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1498046966,
+            "author": 6682340,
+            "stamp": 1670321395,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1498046960,
+            "author": 6682340,
+            "stamp": 1670321358,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1498045936,
+            "author": 6682340,
+            "stamp": 1670317025,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1498045924,
+            "author": 6682340,
+            "stamp": 1670317002,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 不可摧毁, 原创, 未收容。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1498045908,
+            "author": 6682340,
+            "stamp": 1670316931,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1437529163,
+    "rating": -3,
+    "forum_thread": 15435257,
+    "tags": [
+        "scp",
+        "不可摧毁",
+        "原创",
+        "未收容"
+    ],
+    "title": "SCP-CLOUD-115-它就跟闪电一样",
+    "sitemap_update": 1670321440000,
+    "votings": [
+        [
+            6104332,
+            false
+        ],
+        [
+            8333186,
+            false
+        ],
+        [
+            8437582,
+            true
+        ],
+        [
+            8186146,
+            false
+        ],
+        [
+            8382698,
+            false
+        ]
+    ],
+    "is_locked": false
+}

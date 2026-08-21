@@ -1,0 +1,88 @@
+{
+    "name": "family-who-knows",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1508908744,
+            "author": 8236761,
+            "stamp": 1679676546,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1508908684,
+            "author": 8236761,
+            "stamp": 1679676202,
+            "flags": "M",
+            "commentary": "父页面设置为: \"scp-cloud-742\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1508908546,
+            "author": 8236761,
+            "stamp": 1679675810,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1508908517,
+            "author": 8236761,
+            "stamp": 1679675647,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1508908457,
+            "author": 8236761,
+            "stamp": 1679675529,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508908448,
+            "author": 8236761,
+            "stamp": 1679675503,
+            "flags": "F",
+            "commentary": "已上传文件 “Fruit Warrior”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508908427,
+            "author": 8236761,
+            "stamp": 1679675416,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10355330,
+            "name": "Fruit Warrior",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/family-who-knows/Fruit%20Warrior",
+            "size": "794.16 kB (813224 Bytes)",
+            "size_bytes": 813224,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , datetime=2023:03:19 16:59:03, width=0], baseline, precision 8, 1200x2000, components 3",
+            "author": 8236761,
+            "stamp": 1679675503,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1446966478,
+    "parent": "scp-cloud-742",
+    "rating": 1,
+    "title": "Family Who Knows",
+    "sitemap_update": 1679676546000,
+    "votings": [
+        [
+            7318709,
+            true
+        ]
+    ],
+    "is_locked": false
+}

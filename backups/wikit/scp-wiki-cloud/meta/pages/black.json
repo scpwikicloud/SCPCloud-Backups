@@ -1,0 +1,83 @@
+{
+    "name": "black",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1523791261,
+            "author": 8366274,
+            "stamp": 1723731651,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1512816773,
+            "author": 8366274,
+            "stamp": 1691418740,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1512482096,
+            "author": 8366274,
+            "stamp": 1690261383,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1512482093,
+            "author": 8366274,
+            "stamp": 1690261357,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1512482087,
+            "author": 8366274,
+            "stamp": 1690261325,
+            "flags": "A",
+            "commentary": "已新增标签：001, ██, ███, ██████。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1512482067,
+            "author": 8366274,
+            "stamp": 1690261169,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1449133243,
+    "rating": 3,
+    "forum_thread": 16373425,
+    "tags": [
+        "001",
+        "scp",
+        "██",
+        "███",
+        "██████",
+        "原创"
+    ],
+    "title": "SCP-CL-00█",
+    "sitemap_update": 1723731651000,
+    "votings": [
+        [
+            6780904,
+            true
+        ],
+        [
+            8993137,
+            true
+        ],
+        [
+            7009447,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,33 @@
+{
+    "name": "scp-4444",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1073625294,
+            "author": 6329988,
+            "stamp": 1587000593,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073625136,
+            "author": 6329988,
+            "stamp": 1587000294,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024645934,
+    "title": "SCP－Cloud－4444－肯基基",
+    "sitemap_update": 1587000593000,
+    "votings": [
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,67 @@
+{
+    "name": "die",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1518494755,
+            "author": 7890731,
+            "stamp": 1708604165,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1517127377,
+            "author": 8657683,
+            "stamp": 1704283649,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1517127374,
+            "author": 8657683,
+            "stamp": 1704283628,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1452021872,
+    "rating": 4,
+    "forum_thread": 16603869,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "有人吗",
+    "sitemap_update": 1708604165000,
+    "votings": [
+        [
+            8781995,
+            true
+        ],
+        [
+            8236761,
+            true
+        ],
+        [
+            8978134,
+            true
+        ],
+        [
+            8575737,
+            true
+        ],
+        [
+            8842990,
+            true
+        ],
+        [
+            3429159,
+            false
+        ]
+    ],
+    "is_locked": false
+}

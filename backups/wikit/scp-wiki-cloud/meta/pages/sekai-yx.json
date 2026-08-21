@@ -1,0 +1,90 @@
+{
+    "name": "sekai-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1389383779,
+            "author": 7892243,
+            "stamp": 1646540092,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1389383776,
+            "author": 7892243,
+            "stamp": 1646540050,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1389383763,
+            "author": 7892243,
+            "stamp": 1646539908,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1389383757,
+            "author": 7892243,
+            "stamp": 1646539859,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1389383755,
+            "author": 7892243,
+            "stamp": 1646539847,
+            "flags": "A",
+            "commentary": "已新增标签：中分荣耀, 原创, 杀死我们的神, 色开, 英雄图鉴。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1389383751,
+            "author": 7892243,
+            "stamp": 1646539793,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1332007003,
+    "forum_thread": 14551181,
+    "tags": [
+        "scp",
+        "中分荣耀",
+        "原创",
+        "杀死我们的神",
+        "色开",
+        "英雄图鉴"
+    ],
+    "title": "色开-YX",
+    "sitemap_update": 1646540092000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            7919789,
+            false
+        ],
+        [
+            7198635,
+            false
+        ],
+        [
+            6072093,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

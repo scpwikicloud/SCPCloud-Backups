@@ -1,0 +1,43 @@
+{
+    "name": "scp-cloud-024",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1508350939,
+            "author": 8305255,
+            "stamp": 1678199554,
+            "flags": "S",
+            "commentary": "添加评分模组"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1388923176,
+            "author": 7892698,
+            "stamp": 1645090281,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1331720033,
+    "rating": -3,
+    "forum_thread": 14547655,
+    "title": "Scp Cloud 024",
+    "sitemap_update": 1678199554000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            6240493,
+            false
+        ],
+        [
+            6778094,
+            false
+        ]
+    ],
+    "is_locked": false
+}

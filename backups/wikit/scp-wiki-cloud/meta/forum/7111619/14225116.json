@@ -1,0 +1,72 @@
+{
+    "title": "新人报道",
+    "id": 14225116,
+    "description": "就这样就可以了！？",
+    "last": 1642729479,
+    "lastUser": 6317957,
+    "started": 1634061193,
+    "startedUser": 6940862,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5106574,
+            "title": "新人报道",
+            "poster": 6940862,
+            "stamp": 1634061193,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5109510,
+            "title": "Re: 新人报道",
+            "poster": 6678040,
+            "stamp": 1634387832,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5149920,
+                    "title": "Re: 新人报道",
+                    "poster": 7169775,
+                    "stamp": 1638872378,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 5182194,
+            "title": "Re: 新人报道",
+            "poster": 7296164,
+            "stamp": 1642728242,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5182204,
+                    "title": "Re: 新人报道",
+                    "poster": 6317957,
+                    "stamp": 1642729479,
+                    "lastEdit": 1642729503,
+                    "lastEditBy": 6317957,
+                    "revisions": [
+                        {
+                            "title": "Re: 新人报道",
+                            "author": 6317957,
+                            "id": 6318946,
+                            "stamp": 1642729503
+                        },
+                        {
+                            "title": "Re: 新人报道",
+                            "author": 6317957,
+                            "id": 6318945,
+                            "stamp": 1642729479
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

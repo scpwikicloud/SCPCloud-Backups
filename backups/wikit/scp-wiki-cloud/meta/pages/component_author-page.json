@@ -1,0 +1,160 @@
+{
+    "name": "component:author-page",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 16,
+            "global_revision": 1075219063,
+            "author": 4888797,
+            "stamp": 1587611919,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1075219041,
+            "author": 4888797,
+            "stamp": 1587611813,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:wors\" 至 \"component:author-page\"."
+        },
+        {
+            "revision": 14,
+            "global_revision": 1075218994,
+            "author": 4888797,
+            "stamp": 1587611591,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1075218922,
+            "author": 4888797,
+            "stamp": 1587611520,
+            "flags": "R",
+            "commentary": "您已成功地重新命名本页: \"component:author-page\" 至 \"component:wors\"."
+        },
+        {
+            "revision": 12,
+            "global_revision": 1075218911,
+            "author": 4888797,
+            "stamp": 1587611460,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1075217384,
+            "author": 4888797,
+            "stamp": 1587606720,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 10,
+            "global_revision": 1075203591,
+            "author": 4888797,
+            "stamp": 1587564215,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1075203541,
+            "author": 4888797,
+            "stamp": 1587564017,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1075203506,
+            "author": 4888797,
+            "stamp": 1587563855,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1075203486,
+            "author": 4888797,
+            "stamp": 1587563763,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1075203196,
+            "author": 4888797,
+            "stamp": 1587562727,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1075202765,
+            "author": 4888797,
+            "stamp": 1587561320,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075202713,
+            "author": 4888797,
+            "stamp": 1587561276,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075202310,
+            "author": 4888797,
+            "stamp": 1587559999,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075199907,
+            "author": 4888797,
+            "stamp": 1587551757,
+            "flags": "A",
+            "commentary": "已新增标签：作者。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075199901,
+            "author": 4888797,
+            "stamp": 1587551727,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075199857,
+            "author": 4888797,
+            "stamp": 1587551671,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026128924,
+    "tags": [
+        "作者"
+    ],
+    "title": "云端梦",
+    "sitemap_update": 1587611919000,
+    "votings": [
+        [
+            6159447,
+            true
+        ],
+        [
+            7198635,
+            true
+        ]
+    ],
+    "is_locked": false
+}

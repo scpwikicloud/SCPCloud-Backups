@@ -1,0 +1,60 @@
+{
+    "name": "scp-000-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1192782566,
+            "author": 6175508,
+            "stamp": 1591452313,
+            "flags": "A",
+            "commentary": "已新增标签：相啸魔。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1192068605,
+            "author": 6212503,
+            "stamp": 1591433027,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1191804467,
+            "author": 5700655,
+            "stamp": 1591425173,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1142067807,
+    "forum_thread": 13412050,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "相啸魔",
+        "英雄图鉴"
+    ],
+    "title": "SCP-000-YX",
+    "sitemap_update": 1591452313000,
+    "votings": [
+        [
+            8317416,
+            false
+        ],
+        [
+            6324658,
+            true
+        ],
+        [
+            5708439,
+            true
+        ],
+        [
+            6175508,
+            true
+        ]
+    ],
+    "is_locked": false
+}

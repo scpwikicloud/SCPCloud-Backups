@@ -1,0 +1,42 @@
+{
+    "name": "contest-archive-cloud",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1508343881,
+            "author": 6452551,
+            "stamp": 1678162814,
+            "flags": "M",
+            "commentary": "父页面设置为: \"foundation-tales-cloud\"."
+        },
+        {
+            "revision": 1,
+            "global_revision": 1508343624,
+            "author": 6452551,
+            "stamp": 1678161268,
+            "flags": "A",
+            "commentary": "已新增标签：中心, 原创, 竞赛。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1508343114,
+            "author": 6452551,
+            "stamp": 1678157036,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1446588286,
+    "parent": "foundation-tales-cloud-old",
+    "tags": [
+        "中心",
+        "原创",
+        "竞赛"
+    ],
+    "title": "云国分部征文竞赛",
+    "sitemap_update": 1678162814000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,55 @@
+{
+    "name": "scp-3844-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1196903382,
+            "author": 6324658,
+            "stamp": 1591618458,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1196903290,
+            "author": 6324658,
+            "stamp": 1591618183,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1194424066,
+            "author": 6324658,
+            "stamp": 1591538980,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1194423946,
+            "author": 6324658,
+            "stamp": 1591538838,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1144669355,
+    "rating": 1,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "英雄图鉴"
+    ],
+    "title": "SCP-3844-YX",
+    "sitemap_update": 1591618458000,
+    "votings": [
+        [
+            6603529,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,41 @@
+{
+    "title": "新人报道",
+    "id": 18029866,
+    "description": "",
+    "last": 1781837728,
+    "lastUser": 10267554,
+    "started": 1781697374,
+    "startedUser": 10267554,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 8290599,
+            "title": "新人报道",
+            "poster": 10267554,
+            "stamp": 1781697374,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 8292272,
+                    "title": "Re: 新人报道",
+                    "poster": 10140214,
+                    "stamp": 1781791289,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 8295064,
+                            "title": "Re: 新人报道",
+                            "poster": 10267554,
+                            "stamp": 1781837728,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

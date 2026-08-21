@@ -1,0 +1,90 @@
+{
+    "name": "scp-999-yingxiong",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1192012778,
+            "author": 6212503,
+            "stamp": 1591432577,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1191805075,
+            "author": 6189245,
+            "stamp": 1591427306,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1191803401,
+            "author": 6189245,
+            "stamp": 1591421671,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1191803049,
+            "author": 6189245,
+            "stamp": 1591420650,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1191803043,
+            "author": 6189245,
+            "stamp": 1591420626,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1191802965,
+            "author": 6189245,
+            "stamp": 1591420308,
+            "flags": "A",
+            "commentary": "已新增标签：坦克, 辅助。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1191802960,
+            "author": 6189245,
+            "stamp": 1591420285,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1142067079,
+    "rating": 3,
+    "forum_thread": 13408887,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "坦克",
+        "英雄图鉴",
+        "辅助"
+    ],
+    "title": "SCP-999-YX",
+    "sitemap_update": 1591432577000,
+    "votings": [
+        [
+            6324658,
+            true
+        ],
+        [
+            6329988,
+            true
+        ],
+        [
+            7446814,
+            true
+        ]
+    ],
+    "is_locked": false
+}

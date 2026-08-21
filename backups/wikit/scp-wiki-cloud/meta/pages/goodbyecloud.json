@@ -1,0 +1,77 @@
+{
+    "name": "goodbyecloud",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1192419136,
+            "author": 6140401,
+            "stamp": 1591441073,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1191801942,
+            "author": 6140401,
+            "stamp": 1591417109,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1191801875,
+            "author": 6140401,
+            "stamp": 1591416755,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1191801862,
+            "author": 6140401,
+            "stamp": 1591416690,
+            "flags": "A",
+            "commentary": "已新增标签：esp, lq, 原创, 故事, 离别。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1191801827,
+            "author": 6140401,
+            "stamp": 1591416661,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1142066523,
+    "forum_thread": 13408740,
+    "tags": [
+        "esp",
+        "lq",
+        "原创",
+        "故事",
+        "离别"
+    ],
+    "title": "LQ的告辞信",
+    "sitemap_update": 1591441073000,
+    "votings": [
+        [
+            6239908,
+            true
+        ],
+        [
+            6212503,
+            true
+        ],
+        [
+            6818166,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

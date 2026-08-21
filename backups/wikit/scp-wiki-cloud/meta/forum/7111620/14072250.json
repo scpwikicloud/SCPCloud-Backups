@@ -1,0 +1,72 @@
+{
+    "title": "是否撞车",
+    "id": 14072250,
+    "description": "",
+    "last": 1755336225,
+    "lastUser": 9158361,
+    "started": 1619252966,
+    "startedUser": 6836563,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4962007,
+            "title": "是否撞车",
+            "poster": 6836563,
+            "stamp": 1619252966,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6892859,
+                    "title": "Re: 是否撞车",
+                    "poster": 9525819,
+                    "stamp": 1743170049,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7124384,
+                            "title": "Re: 是否撞车",
+                            "poster": 9158361,
+                            "stamp": 1755336225,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5009082,
+            "title": "Re: 是否撞车",
+            "poster": 6283036,
+            "stamp": 1624186328,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5009865,
+            "title": "Re: 是否撞车",
+            "poster": 7198635,
+            "stamp": 1624280663,
+            "lastEdit": 1624280686,
+            "lastEditBy": 7198635,
+            "revisions": [
+                {
+                    "title": "Re: 是否撞车",
+                    "author": 7198635,
+                    "id": 6084930,
+                    "stamp": 1624280686
+                },
+                {
+                    "title": "Re: 是否撞车",
+                    "author": 7198635,
+                    "id": 6084929,
+                    "stamp": 1624280663
+                }
+            ],
+            "children": []
+        }
+    ]
+}

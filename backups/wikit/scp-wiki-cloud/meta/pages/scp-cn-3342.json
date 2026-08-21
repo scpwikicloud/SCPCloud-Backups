@@ -1,0 +1,40 @@
+{
+    "name": "scp-cn-3342",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1523467510,
+            "author": 6452551,
+            "stamp": 1722841505,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1523467349,
+            "author": 6452551,
+            "stamp": 1722840326,
+            "flags": "A",
+            "commentary": "已新增标签：dscp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1523467346,
+            "author": 6452551,
+            "stamp": 1722840305,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1456086541,
+    "rating": 0,
+    "tags": [
+        "dscp"
+    ],
+    "title": "SCP-CN-3342",
+    "sitemap_update": 1722841505000,
+    "votings": [],
+    "is_locked": false
+}

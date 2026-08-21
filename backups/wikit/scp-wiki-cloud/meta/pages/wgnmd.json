@@ -1,0 +1,158 @@
+{
+    "name": "wgnmd",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1223871950,
+            "author": 6280229,
+            "stamp": 1593920184,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1075366500,
+            "author": 6240575,
+            "stamp": 1588037721,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075285015,
+            "author": 6240575,
+            "stamp": 1587873542,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075285006,
+            "author": 6140401,
+            "stamp": 1587873518,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075284994,
+            "author": 6140401,
+            "stamp": 1587873471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075284348,
+            "author": 6240575,
+            "stamp": 1587871255,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075284294,
+            "author": 6240575,
+            "stamp": 1587871155,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026162573,
+    "forum_thread": 13268396,
+    "tags": [
+        "原创",
+        "指导",
+        "故事"
+    ],
+    "sitemap_update": 1593920184000,
+    "votings": [
+        [
+            6140401,
+            true
+        ],
+        [
+            6225532,
+            true
+        ],
+        [
+            6104332,
+            true
+        ],
+        [
+            6329904,
+            true
+        ],
+        [
+            6239902,
+            true
+        ],
+        [
+            6239908,
+            true
+        ],
+        [
+            4786854,
+            true
+        ],
+        [
+            6179656,
+            true
+        ],
+        [
+            4915133,
+            true
+        ],
+        [
+            5612590,
+            true
+        ],
+        [
+            6330521,
+            true
+        ],
+        [
+            6173033,
+            true
+        ],
+        [
+            4941754,
+            true
+        ],
+        [
+            5591457,
+            true
+        ],
+        [
+            6283046,
+            true
+        ],
+        [
+            6264761,
+            true
+        ],
+        [
+            6369458,
+            true
+        ],
+        [
+            6401939,
+            true
+        ],
+        [
+            4888797,
+            true
+        ],
+        [
+            6240575,
+            true
+        ],
+        [
+            6204559,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,82 @@
+{
+    "name": "random:random",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1518514519,
+            "author": 7890731,
+            "stamp": 1708696975,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1518514502,
+            "author": 7890731,
+            "stamp": 1708696896,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1518514478,
+            "author": 7890731,
+            "stamp": 1708696838,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1311018154,
+            "author": 5634761,
+            "stamp": 1596291112,
+            "flags": "S",
+            "commentary": "您已成功地回复本页至修订版本编号 0"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1219792627,
+            "author": 6280229,
+            "stamp": 1593871929,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073137329,
+            "author": 4704446,
+            "stamp": 1586418796,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024255984,
+    "forum_thread": 13241380,
+    "title": "Random",
+    "sitemap_update": 1708696975000,
+    "votings": [
+        [
+            8305255,
+            true
+        ],
+        [
+            5634761,
+            true
+        ],
+        [
+            7890731,
+            true
+        ],
+        [
+            6240605,
+            true
+        ],
+        [
+            6286770,
+            true
+        ]
+    ],
+    "is_locked": false
+}

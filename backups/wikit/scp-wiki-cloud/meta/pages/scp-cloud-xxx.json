@@ -1,0 +1,46 @@
+{
+    "name": "scp-cloud-xxx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1073717451,
+            "author": 6158388,
+            "stamp": 1587131887,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073717385,
+            "author": 6158388,
+            "stamp": 1587131628,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024718326,
+    "forum_thread": 13254301,
+    "title": "SCP-Cloud-001",
+    "sitemap_update": 1587131887000,
+    "votings": [
+        [
+            4886285,
+            false
+        ],
+        [
+            10214239,
+            true
+        ],
+        [
+            8983105,
+            false
+        ],
+        [
+            9640643,
+            false
+        ]
+    ],
+    "is_locked": false
+}

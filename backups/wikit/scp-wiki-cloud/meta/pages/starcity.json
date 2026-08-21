@@ -1,0 +1,71 @@
+{
+    "name": "starcity",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1460359400,
+            "author": 6649761,
+            "stamp": 1650458773,
+            "flags": "F",
+            "commentary": "已上传文件 “starcity”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1460359391,
+            "author": 6649761,
+            "stamp": 1650458719,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1460359386,
+            "author": 6649761,
+            "stamp": 1650458704,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 10052435,
+            "name": "starcity",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/starcity/starcity",
+            "size": "227.56 kB (233024 Bytes)",
+            "size_bytes": 233024,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, JFIF standard 1.01",
+            "author": 6649761,
+            "stamp": 1650458773,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1402450163,
+    "rating": 2,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "星城",
+    "sitemap_update": 1650458773000,
+    "votings": [
+        [
+            7677049,
+            true
+        ],
+        [
+            6228833,
+            true
+        ],
+        [
+            7512927,
+            false
+        ],
+        [
+            7892243,
+            true
+        ]
+    ],
+    "is_locked": false
+}

@@ -10,7 +10,7 @@
         "wikidot_user_since": 1689155340,
         "account_type": "free",
         "activity": 3,
-        "fetched_at": 1787242595055,
+        "fetched_at": 1787333860024,
         "user_id": 8683675
     },
     "8685027": {
@@ -22,6 +22,16 @@
         "fetched_at": 1787304394053,
         "user_id": 8685027
     },
+    "8686792": {
+        "full_name": "Victor Martin Petter",
+        "username": "victor-martin-petter",
+        "from": "地球 沙发上",
+        "wikidot_user_since": 1689306300,
+        "account_type": "free",
+        "activity": 2,
+        "fetched_at": 1787330502528,
+        "user_id": 8686792
+    },
     "8690414": {
         "full_name": "Inherited treasures",
         "username": "inherited-treasures",
@@ -30,5 +40,15 @@
         "activity": 1,
         "fetched_at": 1787248416793,
         "user_id": 8690414
+    },
+    "8690632": {
+        "full_name": "MarkedZero",
+        "username": "markedzero",
+        "birthday": 295488000000,
+        "wikidot_user_since": 1689508980,
+        "account_type": "free",
+        "activity": 0,
+        "fetched_at": 1787329047547,
+        "user_id": 8690632
     }
 }

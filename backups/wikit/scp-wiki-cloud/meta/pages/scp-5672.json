@@ -1,0 +1,38 @@
+{
+    "name": "scp-5672",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1495293218,
+            "author": 8245356,
+            "stamp": 1662795873,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1495293146,
+            "author": 8245356,
+            "stamp": 1662795610,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1435789938,
+    "rating": 0,
+    "title": "SCP-5672被子",
+    "sitemap_update": 1662795873000,
+    "votings": [
+        [
+            8245356,
+            true
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

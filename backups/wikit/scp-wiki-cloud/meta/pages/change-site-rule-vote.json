@@ -1,0 +1,299 @@
+{
+    "name": "change-site-rule-vote",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1362168633,
+            "author": 5498218,
+            "stamp": 1618075532,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1362168610,
+            "author": 5498218,
+            "stamp": 1618075455,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1362146044,
+            "author": 5498218,
+            "stamp": 1617978109,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1362106188,
+            "author": 5498218,
+            "stamp": 1617890531,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1362105810,
+            "author": 5498218,
+            "stamp": 1617889246,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1362105790,
+            "author": 5498218,
+            "stamp": 1617889186,
+            "flags": "A",
+            "commentary": "已新增标签：指导。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1362105782,
+            "author": 5498218,
+            "stamp": 1617889114,
+            "flags": "A",
+            "commentary": "已新增标签：政策。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1362105767,
+            "author": 5498218,
+            "stamp": 1617889022,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1362105764,
+            "author": 5498218,
+            "stamp": 1617889000,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1362105757,
+            "author": 5498218,
+            "stamp": 1617888968,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1362105743,
+            "author": 5498218,
+            "stamp": 1617888895,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1308496084,
+    "rating": 24,
+    "forum_thread": 14045939,
+    "tags": [
+        "指导",
+        "政策"
+    ],
+    "title": "对于更新“站规”页面的投票",
+    "sitemap_update": 1618075532000,
+    "votings": [
+        [
+            6140401,
+            true
+        ],
+        [
+            6225532,
+            false
+        ],
+        [
+            6104332,
+            true
+        ],
+        [
+            7045981,
+            true
+        ],
+        [
+            7318709,
+            true
+        ],
+        [
+            7646489,
+            true
+        ],
+        [
+            6283036,
+            true
+        ],
+        [
+            6518998,
+            true
+        ],
+        [
+            4530800,
+            true
+        ],
+        [
+            6330244,
+            true
+        ],
+        [
+            6713400,
+            true
+        ],
+        [
+            6678040,
+            false
+        ],
+        [
+            6663793,
+            true
+        ],
+        [
+            6127045,
+            false
+        ],
+        [
+            5498218,
+            true
+        ],
+        [
+            7550753,
+            true
+        ],
+        [
+            6335947,
+            true
+        ],
+        [
+            6326265,
+            true
+        ],
+        [
+            7262242,
+            true
+        ],
+        [
+            6335314,
+            true
+        ],
+        [
+            7047022,
+            true
+        ],
+        [
+            6860875,
+            false
+        ],
+        [
+            6351354,
+            true
+        ],
+        [
+            7239770,
+            false
+        ],
+        [
+            6411077,
+            true
+        ],
+        [
+            4915183,
+            false
+        ],
+        [
+            6810557,
+            true
+        ],
+        [
+            6790321,
+            true
+        ],
+        [
+            7447951,
+            false
+        ],
+        [
+            8819205,
+            true
+        ],
+        [
+            6432947,
+            true
+        ],
+        [
+            6264399,
+            true
+        ],
+        [
+            6432694,
+            false
+        ],
+        [
+            7149070,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            5932653,
+            true
+        ],
+        [
+            5591457,
+            true
+        ],
+        [
+            5967510,
+            true
+        ],
+        [
+            6306406,
+            false
+        ],
+        [
+            5654777,
+            true
+        ],
+        [
+            6264761,
+            true
+        ],
+        [
+            5721026,
+            false
+        ],
+        [
+            6836563,
+            true
+        ],
+        [
+            7275798,
+            false
+        ],
+        [
+            7374732,
+            true
+        ],
+        [
+            6323514,
+            true
+        ],
+        [
+            6441099,
+            true
+        ],
+        [
+            5149997,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,103 @@
+{
+    "name": "immortal",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1359973150,
+            "author": 6678040,
+            "stamp": 1613729841,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1359676779,
+            "author": 6158388,
+            "stamp": 1612793342,
+            "flags": "A",
+            "commentary": "已新增标签：爱死西皮。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1359676742,
+            "author": 6158388,
+            "stamp": 1612793182,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1359676716,
+            "author": 6158388,
+            "stamp": 1612793056,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1359676153,
+            "author": 6158388,
+            "stamp": 1612790697,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1359647730,
+            "author": 6158388,
+            "stamp": 1612705005,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1359647726,
+            "author": 6158388,
+            "stamp": 1612704988,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1359627319,
+            "author": 6158388,
+            "stamp": 1612602060,
+            "flags": "A",
+            "commentary": "已新增标签：故事。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1359627317,
+            "author": 6158388,
+            "stamp": 1612602047,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1306772892,
+    "rating": -1,
+    "forum_thread": 13996149,
+    "tags": [
+        "故事",
+        "爱死西皮"
+    ],
+    "title": "轮回的不朽",
+    "sitemap_update": 1613729841000,
+    "votings": [
+        [
+            6335947,
+            true
+        ],
+        [
+            6831321,
+            false
+        ],
+        [
+            7241591,
+            false
+        ]
+    ],
+    "is_locked": false
+}

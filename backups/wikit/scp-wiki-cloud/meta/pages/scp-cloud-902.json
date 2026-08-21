@@ -1,0 +1,61 @@
+{
+    "name": "scp-cloud-902",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1513993416,
+            "author": 7071305,
+            "stamp": 1694943705,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 机密分级, 精神影响, 认知危害。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1506552915,
+            "author": 8208520,
+            "stamp": 1673767623,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1445497569,
+    "rating": -6,
+    "forum_thread": 15545956,
+    "tags": [
+        "scp",
+        "机密分级",
+        "精神影响",
+        "认知危害"
+    ],
+    "title": "SCP-CLOUD-902 终极丰饶",
+    "sitemap_update": 1694943705000,
+    "votings": [
+        [
+            8208520,
+            false
+        ],
+        [
+            8305255,
+            false
+        ],
+        [
+            8557123,
+            false
+        ],
+        [
+            8437582,
+            false
+        ],
+        [
+            8887920,
+            false
+        ],
+        [
+            10365489,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,84 @@
+{
+    "name": "scp-cn-2612",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 6,
+            "global_revision": 1495801191,
+            "author": 7898494,
+            "stamp": 1664161408,
+            "flags": "A",
+            "commentary": "已新增标签：酩酊街。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1495801110,
+            "author": 7898494,
+            "stamp": 1664161271,
+            "flags": "A",
+            "commentary": "移除标签：猿创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1495801105,
+            "author": 7898494,
+            "stamp": 1664161230,
+            "flags": "A",
+            "commentary": "已新增标签：猿创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1495801086,
+            "author": 7898494,
+            "stamp": 1664161192,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1495801077,
+            "author": 7898494,
+            "stamp": 1664161129,
+            "flags": "A",
+            "commentary": "已新增标签：scp。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1495662313,
+            "author": 7898494,
+            "stamp": 1663807014,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1495641731,
+            "author": 7898494,
+            "stamp": 1663743743,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1436016422,
+    "rating": 0,
+    "forum_thread": 15208126,
+    "tags": [
+        "scp",
+        "原创",
+        "酩酊街"
+    ],
+    "title": "SCP-CN-2612",
+    "sitemap_update": 1664161408000,
+    "votings": [
+        [
+            8128287,
+            false
+        ],
+        [
+            7898494,
+            true
+        ]
+    ],
+    "is_locked": false
+}

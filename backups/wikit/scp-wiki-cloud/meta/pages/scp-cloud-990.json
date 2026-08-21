@@ -1,0 +1,91 @@
+{
+    "name": "scp-cloud-990",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1460200935,
+            "author": 7920033,
+            "stamp": 1650177037,
+            "flags": "A",
+            "commentary": "移除标签：原创, 复仇。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1460200895,
+            "author": 7920033,
+            "stamp": 1650176820,
+            "flags": "A",
+            "commentary": "移除标签：烂文。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1460200877,
+            "author": 7920033,
+            "stamp": 1650176757,
+            "flags": "A",
+            "commentary": "已新增标签：meta, scp, 医院, 原创, 复仇, 尸体, 恶意灵体, 烂文, 规则类怪谈。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1460200765,
+            "author": 7920033,
+            "stamp": 1650176366,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1402324364,
+    "rating": -3,
+    "forum_thread": 16310108,
+    "tags": [
+        "meta",
+        "scp",
+        "医院",
+        "尸体",
+        "恶意灵体",
+        "规则类怪谈"
+    ],
+    "title": "SCP-CLOUD-990",
+    "sitemap_update": 1650177037000,
+    "votings": [
+        [
+            4886285,
+            true
+        ],
+        [
+            9673036,
+            false
+        ],
+        [
+            7665887,
+            false
+        ],
+        [
+            7677049,
+            false
+        ],
+        [
+            6228833,
+            true
+        ],
+        [
+            7744997,
+            false
+        ],
+        [
+            9782475,
+            true
+        ],
+        [
+            7892243,
+            false
+        ],
+        [
+            7905777,
+            false
+        ]
+    ],
+    "is_locked": false
+}

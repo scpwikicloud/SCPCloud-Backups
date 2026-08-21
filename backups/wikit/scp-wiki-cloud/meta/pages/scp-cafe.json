@@ -1,0 +1,82 @@
+{
+    "name": "scp-cafe",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1073834587,
+            "author": 6133858,
+            "stamp": 1587177505,
+            "flags": "A",
+            "commentary": "已新增标签：垃圾。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1073834291,
+            "author": 6133858,
+            "stamp": 1587175888,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1073834218,
+            "author": 6133858,
+            "stamp": 1587175610,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1073834138,
+            "author": 6133858,
+            "stamp": 1587175180,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 咖啡店, 故事, 李明博我们爱你。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1073834128,
+            "author": 6133858,
+            "stamp": 1587175126,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1024828952,
+    "rating": 5,
+    "forum_thread": 13251573,
+    "tags": [
+        "原创",
+        "咖啡店",
+        "垃圾",
+        "故事",
+        "李明博我们爱你"
+    ],
+    "title": "影生",
+    "sitemap_update": 1587177505000,
+    "votings": [
+        [
+            6307283,
+            true
+        ],
+        [
+            6225532,
+            true
+        ],
+        [
+            6319697,
+            true
+        ],
+        [
+            6369458,
+            true
+        ],
+        [
+            6240575,
+            true
+        ]
+    ],
+    "is_locked": false
+}

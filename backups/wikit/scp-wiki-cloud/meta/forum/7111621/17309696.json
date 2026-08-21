@@ -1,0 +1,56 @@
+{
+    "title": "新人的第一篇",
+    "id": 17309696,
+    "description": "//幽灵，那个游荡在基金会站点间的幽灵。//",
+    "last": 1760197555,
+    "lastUser": 9871945,
+    "started": 1759746548,
+    "startedUser": 9871945,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7270859,
+            "title": "新人的第一篇",
+            "poster": 9871945,
+            "stamp": 1759746548,
+            "lastEdit": 1760197493,
+            "lastEditBy": 9871945,
+            "revisions": [
+                {
+                    "title": "新人的第一篇",
+                    "author": 9871945,
+                    "id": 8808262,
+                    "stamp": 1760197493
+                },
+                {
+                    "title": "新人的第一篇",
+                    "author": 9871945,
+                    "id": 8779900,
+                    "stamp": 1759746548
+                }
+            ],
+            "children": [
+                {
+                    "id": 7290237,
+                    "title": "Re: 新人的第一篇",
+                    "poster": 9407779,
+                    "stamp": 1760051067,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7297399,
+                            "title": "Re: 新人的第一篇",
+                            "poster": 9871945,
+                            "stamp": 1760197555,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

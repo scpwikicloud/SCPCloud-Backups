@@ -1,0 +1,48 @@
+{
+    "title": "这里可以水贴吗",
+    "id": 14146605,
+    "description": "",
+    "last": 1629960103,
+    "lastUser": 7169775,
+    "started": 1626954880,
+    "startedUser": 7208479,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5033598,
+            "title": "这里可以水贴吗",
+            "poster": 7208479,
+            "stamp": 1626954880,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5036180,
+            "title": "Re: 这里可以水贴吗",
+            "poster": 6678040,
+            "stamp": 1627263774,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5066686,
+                    "title": "Re: 这里可以水贴吗",
+                    "poster": 7169775,
+                    "stamp": 1629960103,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 5041377,
+            "title": "Re: 这里可以水贴吗",
+            "poster": 6240794,
+            "stamp": 1627754204,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

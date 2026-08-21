@@ -1,0 +1,83 @@
+{
+    "title": "封禁区",
+    "id": 14042899,
+    "description": "封禁一个用户后，请在此加以说明",
+    "last": 1743737711,
+    "lastUser": 8305255,
+    "started": 1617800703,
+    "startedUser": 5498218,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": true,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4948780,
+            "title": "封禁区",
+            "poster": 5498218,
+            "stamp": 1617800703,
+            "lastEdit": 1617806652,
+            "lastEditBy": 5498218,
+            "revisions": [
+                {
+                    "title": "封禁区",
+                    "author": 5498218,
+                    "id": 6000342,
+                    "stamp": 1617806652
+                },
+                {
+                    "title": "封禁区",
+                    "author": 5498218,
+                    "id": 6000227,
+                    "stamp": 1617801163
+                },
+                {
+                    "title": "封禁区",
+                    "author": 5498218,
+                    "id": 6000224,
+                    "stamp": 1617800703
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 4948865,
+            "title": "Agent FartBoy-封禁",
+            "poster": 5498218,
+            "stamp": 1617806844,
+            "lastEdit": 1620523842,
+            "lastEditBy": 5498218,
+            "revisions": [
+                {
+                    "title": "Agent FartBoy-封禁",
+                    "author": 5498218,
+                    "id": 6036366,
+                    "stamp": 1620523842
+                },
+                {
+                    "title": "Agent FartBoy-封禁",
+                    "author": 5498218,
+                    "id": 6000344,
+                    "stamp": 1617806844
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 4954278,
+            "title": "AfterInfinity_Bili——移除成员资格",
+            "poster": 5498218,
+            "stamp": 1618383498,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6909321,
+            "title": "wuyuhaoyoi —— 严重警告",
+            "poster": 8305255,
+            "stamp": 1743737711,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "la-fina-venko",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 847811641,
+            "author": 3741648,
+            "stamp": 1559875634,
+            "flags": "A",
+            "commentary": "已新增标签：doktoro-esperanto, eo, fina-venko, k-klaso-scenaro, originala, scp。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 847811616,
+            "author": 3741648,
+            "stamp": 1559875515,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 802268310,
+    "forum_thread": 12042981,
+    "tags": [
+        "doktoro-esperanto",
+        "eo",
+        "fina-venko",
+        "k-klaso-scenaro",
+        "originala",
+        "scp"
+    ],
+    "title": "SCP-Finvenko",
+    "sitemap_update": 1559875634000,
+    "votings": [
+        [
+            8305255,
+            false
+        ],
+        [
+            4357011,
+            false
+        ],
+        [
+            3740635,
+            false
+        ],
+        [
+            7198635,
+            false
+        ],
+        [
+            6212503,
+            false
+        ],
+        [
+            4704446,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,180 @@
+{
+    "name": "cnm",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 8,
+            "global_revision": 1075172308,
+            "author": 6240575,
+            "stamp": 1587471023,
+            "flags": "A",
+            "commentary": "已新增标签：001提案, scp, 原创。"
+        },
+        {
+            "revision": 7,
+            "global_revision": 1075171989,
+            "author": 6240575,
+            "stamp": 1587470112,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 6,
+            "global_revision": 1075171884,
+            "author": 6240575,
+            "stamp": 1587469773,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 5,
+            "global_revision": 1075066313,
+            "author": 6240575,
+            "stamp": 1587359356,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1075064139,
+            "author": 6240575,
+            "stamp": 1587354592,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1075064110,
+            "author": 6240575,
+            "stamp": 1587354514,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075064100,
+            "author": 6240575,
+            "stamp": 1587354482,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075063992,
+            "author": 6240575,
+            "stamp": 1587354138,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075063983,
+            "author": 6240575,
+            "stamp": 1587354117,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026027806,
+    "rating": 22,
+    "forum_thread": 13451711,
+    "tags": [
+        "001提案",
+        "scp",
+        "原创"
+    ],
+    "title": "SCP-Cloud-001 披着萌新皮的大佬",
+    "sitemap_update": 1587471023000,
+    "votings": [
+        [
+            7228670,
+            true
+        ],
+        [
+            9320190,
+            true
+        ],
+        [
+            6450258,
+            true
+        ],
+        [
+            5398742,
+            true
+        ],
+        [
+            6678040,
+            true
+        ],
+        [
+            6874010,
+            true
+        ],
+        [
+            8225694,
+            true
+        ],
+        [
+            4761754,
+            true
+        ],
+        [
+            8367098,
+            true
+        ],
+        [
+            8613272,
+            true
+        ],
+        [
+            7274437,
+            true
+        ],
+        [
+            9630520,
+            true
+        ],
+        [
+            9648085,
+            true
+        ],
+        [
+            6279742,
+            true
+        ],
+        [
+            9555945,
+            true
+        ],
+        [
+            6190503,
+            true
+        ],
+        [
+            4888797,
+            true
+        ],
+        [
+            6043113,
+            true
+        ],
+        [
+            6240575,
+            true
+        ],
+        [
+            5936011,
+            true
+        ],
+        [
+            6286770,
+            true
+        ],
+        [
+            6204559,
+            true
+        ]
+    ],
+    "is_locked": false
+}

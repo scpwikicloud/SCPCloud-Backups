@@ -1,0 +1,100 @@
+{
+    "name": "scp-yx",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1192069796,
+            "author": 6212503,
+            "stamp": 1591433472,
+            "flags": "A",
+            "commentary": "已新增标签：原创。"
+        },
+        {
+            "revision": 4,
+            "global_revision": 1192069788,
+            "author": 6324658,
+            "stamp": 1591433450,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1192069459,
+            "author": 6324658,
+            "stamp": 1591433119,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1192069442,
+            "author": 6324658,
+            "stamp": 1591433057,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1192061829,
+            "author": 6324658,
+            "stamp": 1591432964,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1192047072,
+            "author": 6324658,
+            "stamp": 1591432850,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1142309150,
+    "rating": 6,
+    "forum_thread": 13409303,
+    "tags": [
+        "中分荣耀",
+        "原创",
+        "英雄图鉴"
+    ],
+    "title": "大乘虚怀苦-YX",
+    "sitemap_update": 1591433472000,
+    "votings": [
+        [
+            7919789,
+            false
+        ],
+        [
+            6882482,
+            true
+        ],
+        [
+            6479225,
+            true
+        ],
+        [
+            6470364,
+            true
+        ],
+        [
+            6329988,
+            true
+        ],
+        [
+            6258646,
+            true
+        ],
+        [
+            6204559,
+            true
+        ],
+        [
+            7789907,
+            true
+        ]
+    ],
+    "is_locked": false
+}

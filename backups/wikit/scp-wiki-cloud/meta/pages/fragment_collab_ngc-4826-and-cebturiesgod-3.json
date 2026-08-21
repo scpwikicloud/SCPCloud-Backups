@@ -1,0 +1,55 @@
+{
+    "name": "fragment:collab:ngc-4826-and-cebturiesgod-3",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1087781825,
+            "author": 6285237,
+            "stamp": 1589355403,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1087770827,
+            "author": 6285237,
+            "stamp": 1589355144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1087762478,
+            "author": 6285237,
+            "stamp": 1589354751,
+            "flags": "M",
+            "commentary": "父页面设置为: \"fragment:collab:ngc-4826-and-cebturiesgod-2\"."
+        },
+        {
+            "revision": 0,
+            "global_revision": 1087756588,
+            "author": 6285237,
+            "stamp": 1589354647,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1038365321,
+    "parent": "fragment:collab:ngc-4826-and-cebturiesgod-2",
+    "forum_thread": 13367142,
+    "title": "最终一战",
+    "sitemap_update": 1589355403000,
+    "votings": [
+        [
+            6265009,
+            false
+        ],
+        [
+            6190503,
+            true
+        ]
+    ],
+    "is_locked": false
+}

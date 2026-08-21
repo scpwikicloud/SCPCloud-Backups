@@ -1,0 +1,55 @@
+{
+    "name": "scp-cloud-061",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1478814478,
+            "author": 7855130,
+            "stamp": 1657416584,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1478814384,
+            "author": 7855130,
+            "stamp": 1657415964,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 原创。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1478814373,
+            "author": 7855130,
+            "stamp": 1657415895,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1420056806,
+    "rating": 1,
+    "forum_thread": 15001162,
+    "tags": [
+        "scp",
+        "原创"
+    ],
+    "title": "Scp-Cloud-061",
+    "sitemap_update": 1657416584000,
+    "votings": [
+        [
+            9802365,
+            false
+        ],
+        [
+            7643786,
+            true
+        ],
+        [
+            9728709,
+            true
+        ]
+    ],
+    "is_locked": false
+}

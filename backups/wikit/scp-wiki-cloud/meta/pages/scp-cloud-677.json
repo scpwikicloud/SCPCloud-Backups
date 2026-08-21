@@ -1,0 +1,95 @@
+{
+    "name": "scp-cloud-677",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1365678681,
+            "author": 7149070,
+            "stamp": 1621380163,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1364851825,
+            "author": 7149070,
+            "stamp": 1620034649,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1364851812,
+            "author": 7149070,
+            "stamp": 1620034626,
+            "flags": "A",
+            "commentary": "已新增标签：scp, 伟大云教, 原创, 就瞎云, 认真写文。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1364851788,
+            "author": 7149070,
+            "stamp": 1620034571,
+            "flags": "N",
+            "commentary": "发篇烂文"
+        }
+    ],
+    "files": [],
+    "page_id": 1310948940,
+    "rating": -4,
+    "forum_thread": 14082500,
+    "tags": [
+        "dv至上",
+        "scp",
+        "伟大云教",
+        "原创",
+        "就瞎云",
+        "认真写文"
+    ],
+    "title": "SCP-CL-677",
+    "sitemap_update": 1621380163000,
+    "votings": [
+        [
+            6283036,
+            false
+        ],
+        [
+            7366797,
+            false
+        ],
+        [
+            7239770,
+            false
+        ],
+        [
+            6432947,
+            true
+        ],
+        [
+            7451591,
+            false
+        ],
+        [
+            9841404,
+            true
+        ],
+        [
+            7062915,
+            false
+        ],
+        [
+            4955251,
+            true
+        ],
+        [
+            6190503,
+            false
+        ],
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

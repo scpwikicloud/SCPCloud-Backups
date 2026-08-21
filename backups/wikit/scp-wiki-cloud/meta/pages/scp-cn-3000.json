@@ -1,0 +1,36 @@
+{
+    "name": "scp-cn-3000",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1071349304,
+            "author": 3740635,
+            "stamp": 1585819253,
+            "flags": "A",
+            "commentary": "您已成功地回复本页至修订版本编号 0"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1071348127,
+            "author": 3740635,
+            "stamp": 1585819238,
+            "flags": "A",
+            "commentary": "已新增标签：scp2000contenst。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1050799446,
+            "author": 5240708,
+            "stamp": 1584669471,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1002217760,
+    "title": "SCP-CN-3000",
+    "sitemap_update": 1585819253000,
+    "votings": [],
+    "is_locked": false
+}

@@ -1,0 +1,84 @@
+{
+    "name": "gurusili",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1301864594,
+            "author": 6283036,
+            "stamp": 1596075667,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1301854619,
+            "author": 6283036,
+            "stamp": 1596075490,
+            "flags": "A",
+            "commentary": "已新增标签：云分杀guru竞赛, 故事, 玉米。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1301846778,
+            "author": 6283036,
+            "stamp": 1596075369,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1251452889,
+    "rating": 8,
+    "forum_thread": 13597238,
+    "tags": [
+        "云分杀guru竞赛",
+        "故事",
+        "玉米"
+    ],
+    "title": "guru死了",
+    "sitemap_update": 1596075667000,
+    "votings": [
+        [
+            6372892,
+            true
+        ],
+        [
+            6283036,
+            true
+        ],
+        [
+            5706474,
+            true
+        ],
+        [
+            6222558,
+            true
+        ],
+        [
+            6678040,
+            true
+        ],
+        [
+            5964915,
+            true
+        ],
+        [
+            6649888,
+            true
+        ],
+        [
+            6432694,
+            true
+        ],
+        [
+            7198635,
+            true
+        ],
+        [
+            6622558,
+            false
+        ]
+    ],
+    "is_locked": false
+}

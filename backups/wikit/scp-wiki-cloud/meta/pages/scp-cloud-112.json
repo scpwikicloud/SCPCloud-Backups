@@ -1,0 +1,64 @@
+{
+    "name": "scp-cloud-112",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1527453409,
+            "author": 8305255,
+            "stamp": 1737966668,
+            "flags": "A",
+            "commentary": "已新增标签：euclid, scp, 原创。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1511363096,
+            "author": 8433366,
+            "stamp": 1687073261,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1510542133,
+            "author": 8433366,
+            "stamp": 1685177658,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1510542067,
+            "author": 8433366,
+            "stamp": 1685177471,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1510542054,
+            "author": 8433366,
+            "stamp": 1685177419,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1447908973,
+    "rating": 1,
+    "forum_thread": 15912721,
+    "tags": [
+        "euclid",
+        "scp",
+        "原创"
+    ],
+    "title": "Scp Cloud 112 黑雾",
+    "sitemap_update": 1737966668000,
+    "votings": [
+        [
+            8433366,
+            true
+        ]
+    ],
+    "is_locked": false
+}

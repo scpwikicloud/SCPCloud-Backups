@@ -1,0 +1,82 @@
+{
+    "name": "scp-cloud-314",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 3,
+            "global_revision": 1075245941,
+            "author": 6329988,
+            "stamp": 1587715144,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1075245884,
+            "author": 6329988,
+            "stamp": 1587715035,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1075245779,
+            "author": 6329988,
+            "stamp": 1587714741,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1075245763,
+            "author": 6329988,
+            "stamp": 1587714688,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1026148224,
+    "forum_thread": 13443406,
+    "title": "SCP－Cloud－314",
+    "sitemap_update": 1587715144000,
+    "votings": [
+        [
+            7592851,
+            false
+        ],
+        [
+            7646601,
+            false
+        ],
+        [
+            9631154,
+            false
+        ],
+        [
+            9792384,
+            true
+        ],
+        [
+            9302920,
+            false
+        ],
+        [
+            9532434,
+            false
+        ],
+        [
+            9469192,
+            false
+        ],
+        [
+            6286770,
+            false
+        ],
+        [
+            7905777,
+            false
+        ]
+    ],
+    "is_locked": false
+}

@@ -1,0 +1,70 @@
+{
+    "name": "cloud-1",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 5,
+            "global_revision": 1367440980,
+            "author": 4888797,
+            "stamp": 1628216648,
+            "flags": "M",
+            "commentary": "父页面设置为: \"cloud-0\"."
+        },
+        {
+            "revision": 4,
+            "global_revision": 1367440957,
+            "author": 7045981,
+            "stamp": 1628216448,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 3,
+            "global_revision": 1367440914,
+            "author": 7045981,
+            "stamp": 1628216096,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1367428392,
+            "author": 7045981,
+            "stamp": 1628178352,
+            "flags": "A",
+            "commentary": "已新增标签：补充材料。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1367428328,
+            "author": 7045981,
+            "stamp": 1628178016,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1367428258,
+            "author": 7045981,
+            "stamp": 1628177609,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1312516749,
+    "parent": "cloud-0",
+    "forum_thread": 17159832,
+    "tags": [
+        "补充材料"
+    ],
+    "title": "Cloud-1",
+    "sitemap_update": 1628216648000,
+    "votings": [
+        [
+            7892243,
+            false
+        ]
+    ],
+    "is_locked": false
+}

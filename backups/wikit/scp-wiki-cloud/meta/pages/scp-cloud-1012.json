@@ -1,0 +1,49 @@
+{
+    "name": "scp-cloud-1012",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1531420858,
+            "author": 9808047,
+            "stamp": 1754542111,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1531420850,
+            "author": 9808047,
+            "stamp": 1754542087,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1531411860,
+            "author": 9808047,
+            "stamp": 1754488317,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1460012845,
+    "title": "Scp Cloud 1012-通天代",
+    "sitemap_update": 1754542111000,
+    "votings": [
+        [
+            9822451,
+            false
+        ],
+        [
+            9321285,
+            false
+        ],
+        [
+            8155489,
+            false
+        ]
+    ],
+    "is_locked": false
+}

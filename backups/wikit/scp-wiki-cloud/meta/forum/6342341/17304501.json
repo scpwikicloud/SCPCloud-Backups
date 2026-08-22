@@ -1,0 +1,40 @@
+{
+    "title": "我的站员叫林南之按下按钮，蛆从天降",
+    "id": 17304501,
+    "description": "",
+    "last": 1759802258,
+    "lastUser": 9888929,
+    "started": 1759684260,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7265393,
+            "title": "",
+            "poster": 7465847,
+            "stamp": 1759684416,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7272021,
+                    "title": "",
+                    "poster": 9423616,
+                    "stamp": 1759757641,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7275906,
+            "title": "新秀竞赛被删的文搬到这了吗",
+            "poster": 9888929,
+            "stamp": 1759802258,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

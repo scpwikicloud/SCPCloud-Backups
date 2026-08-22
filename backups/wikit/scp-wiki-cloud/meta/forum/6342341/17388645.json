@@ -1,0 +1,40 @@
+{
+    "title": "YF聊天记录检测",
+    "id": 17388645,
+    "description": "",
+    "last": 1761397568,
+    "lastUser": 9746831,
+    "started": 1761388732,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7356508,
+            "title": "",
+            "poster": 9818644,
+            "stamp": 1761388763,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7356634,
+                    "title": "",
+                    "poster": 9323975,
+                    "stamp": 1761391170,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7356949,
+            "title": "",
+            "poster": 9746831,
+            "stamp": 1761397568,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

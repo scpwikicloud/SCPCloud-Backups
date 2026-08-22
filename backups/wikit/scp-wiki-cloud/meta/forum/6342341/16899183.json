@@ -1,0 +1,65 @@
+{
+    "title": "被遗忘的基金会",
+    "id": 16899183,
+    "description": "",
+    "last": 1759838493,
+    "lastUser": 9859827,
+    "started": 1722841109,
+    "startedUser": null,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6589047,
+            "title": "",
+            "poster": 7318709,
+            "stamp": 1723032697,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6643458,
+            "title": "",
+            "poster": 6030713,
+            "stamp": 1725383336,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6644297,
+            "title": "没啥用",
+            "poster": 8049583,
+            "stamp": 1725530891,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6765620,
+                    "title": "Re: 没啥用",
+                    "poster": 6452551,
+                    "stamp": 1735819920,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 6765622,
+                            "title": "Re: 没啥用",
+                            "poster": 6452551,
+                            "stamp": 1735819997,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7279246,
+            "title": "",
+            "poster": 9859827,
+            "stamp": 1759838493,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

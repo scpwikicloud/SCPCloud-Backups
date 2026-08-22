@@ -1,0 +1,69 @@
+{
+    "title": "指导中心",
+    "id": 13188222,
+    "description": "",
+    "last": 1587539035,
+    "lastUser": 4888797,
+    "started": 1585386484,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4568683,
+            "title": "",
+            "poster": 4725766,
+            "stamp": 1585386500,
+            "lastEdit": 1585392359,
+            "lastEditBy": 4725766,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 4725766,
+                    "id": 5481126,
+                    "stamp": 1585392359
+                },
+                {
+                    "title": "",
+                    "author": 4725766,
+                    "id": 5481003,
+                    "stamp": 1585386500
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 4568819,
+            "title": "竟然有人来整合了！",
+            "poster": 5948673,
+            "stamp": 1585394801,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4608171,
+            "title": "",
+            "poster": 4888797,
+            "stamp": 1587539035,
+            "lastEdit": 1587539049,
+            "lastEditBy": 4888797,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 4888797,
+                    "id": 5533593,
+                    "stamp": 1587539049
+                },
+                {
+                    "title": "",
+                    "author": 4888797,
+                    "id": 5533592,
+                    "stamp": 1587539035
+                }
+            ],
+            "children": []
+        }
+    ]
+}

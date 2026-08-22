@@ -1,0 +1,38 @@
+{
+    "title": "今日旧闻001",
+    "id": 13446244,
+    "description": "",
+    "last": 1592799152,
+    "lastUser": 6348546,
+    "started": 1592799092,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4696213,
+            "title": "",
+            "poster": 6348546,
+            "stamp": 1592799152,
+            "lastEdit": 1592799771,
+            "lastEditBy": 6348546,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 6348546,
+                    "id": 5651758,
+                    "stamp": 1592799771
+                },
+                {
+                    "title": "",
+                    "author": 6348546,
+                    "id": 5651738,
+                    "stamp": 1592799152
+                }
+            ],
+            "children": []
+        }
+    ]
+}

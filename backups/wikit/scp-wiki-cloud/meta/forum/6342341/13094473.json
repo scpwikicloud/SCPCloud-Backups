@@ -1,0 +1,62 @@
+{
+    "title": "《基金会生存手册》",
+    "id": 13094473,
+    "description": "",
+    "last": 1630758157,
+    "lastUser": 6860875,
+    "started": 1583076173,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4533194,
+            "title": "指正",
+            "poster": 6075660,
+            "stamp": 1583432249,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4542201,
+            "title": "",
+            "poster": 6027217,
+            "stamp": 1583929630,
+            "lastEdit": 1619184341,
+            "lastEditBy": 6027217,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 6027217,
+                    "id": 6017527,
+                    "stamp": 1619184341
+                },
+                {
+                    "title": "",
+                    "author": 6027217,
+                    "id": 5444942,
+                    "stamp": 1583929630
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 4564879,
+            "title": "",
+            "poster": 6179656,
+            "stamp": 1585187047,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5075356,
+            "title": "",
+            "poster": 6860875,
+            "stamp": 1630758157,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

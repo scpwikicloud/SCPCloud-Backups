@@ -1,0 +1,81 @@
+{
+    "title": "故人已逝",
+    "id": 16982204,
+    "description": "",
+    "last": 1731096723,
+    "lastUser": 9331062,
+    "started": 1730628303,
+    "startedUser": null,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6724417,
+            "title": "暮色四合世间尘，黄昏之时无故人",
+            "poster": 8693677,
+            "stamp": 1730628641,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6724560,
+            "title": "文章缺少铺垫",
+            "poster": 9324968,
+            "stamp": 1730641723,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6724572,
+                    "title": "Re: 文章缺少铺垫",
+                    "poster": 7344601,
+                    "stamp": 1730643009,
+                    "lastEdit": 1732504921,
+                    "lastEditBy": 8305255,
+                    "revisions": [
+                        {
+                            "title": "Re: 文章缺少铺垫",
+                            "author": 8305255,
+                            "id": 8167919,
+                            "stamp": 1732504921
+                        },
+                        {
+                            "title": "Re: 文章缺少铺垫",
+                            "author": 7344601,
+                            "id": 8151592,
+                            "stamp": 1730643009
+                        }
+                    ],
+                    "children": [
+                        {
+                            "id": 6724960,
+                            "title": "Re: 文章缺少铺垫",
+                            "poster": 9313547,
+                            "stamp": 1730716519,
+                            "revisions": [],
+                            "children": [
+                                {
+                                    "id": 6727365,
+                                    "title": "辟谣",
+                                    "poster": 9331062,
+                                    "stamp": 1731096723,
+                                    "revisions": [],
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6726913,
+                            "title": "Re: 文章缺少铺垫",
+                            "poster": 7318709,
+                            "stamp": 1731032354,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

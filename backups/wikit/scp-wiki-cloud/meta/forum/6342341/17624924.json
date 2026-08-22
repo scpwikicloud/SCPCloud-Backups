@@ -1,0 +1,38 @@
+{
+    "title": "空白至上 中心页",
+    "id": 17624924,
+    "description": "",
+    "last": 1773569587,
+    "lastUser": 8393776,
+    "started": 1773569535,
+    "startedUser": null,
+    "postsNum": 1,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7630501,
+            "title": "这不是作者帖",
+            "poster": 8393776,
+            "stamp": 1773569587,
+            "lastEdit": 1773569598,
+            "lastEditBy": 8393776,
+            "revisions": [
+                {
+                    "title": "这不是作者帖",
+                    "author": 8393776,
+                    "id": 9187280,
+                    "stamp": 1773569598
+                },
+                {
+                    "title": "这不是作者帖",
+                    "author": 8393776,
+                    "id": 9187279,
+                    "stamp": 1773569587
+                }
+            ],
+            "children": []
+        }
+    ]
+}

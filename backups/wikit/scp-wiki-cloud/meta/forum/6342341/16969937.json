@@ -1,0 +1,64 @@
+{
+    "title": "とある兄弟のファンアート",
+    "id": 16969937,
+    "description": "",
+    "last": 1729411814,
+    "lastUser": 9407819,
+    "started": 1729328633,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6705598,
+            "title": "职员帖：警告",
+            "poster": 7144335,
+            "stamp": 1729328670,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6705635,
+                    "title": "Re: 职员帖：警告",
+                    "poster": 8049583,
+                    "stamp": 1729333218,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 6705662,
+                    "title": "Re: 职员帖：警告",
+                    "poster": 7646601,
+                    "stamp": 1729338342,
+                    "lastEdit": 1729338355,
+                    "lastEditBy": 7646601,
+                    "revisions": [
+                        {
+                            "title": "Re: 职员帖：警告",
+                            "author": 7646601,
+                            "id": 8129310,
+                            "stamp": 1729338355
+                        },
+                        {
+                            "title": "Re: 职员帖：警告",
+                            "author": 7646601,
+                            "id": 8129309,
+                            "stamp": 1729338342
+                        }
+                    ],
+                    "children": [
+                        {
+                            "id": 6709561,
+                            "title": "Re: 职员帖：警告",
+                            "poster": 9407819,
+                            "stamp": 1729411814,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

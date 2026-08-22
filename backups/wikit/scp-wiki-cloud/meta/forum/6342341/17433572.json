@@ -1,0 +1,31 @@
+{
+    "title": "云国银行",
+    "id": 17433572,
+    "description": "",
+    "last": 1766507712,
+    "lastUser": 1899481,
+    "started": 1762245171,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7405307,
+            "title": "首楼",
+            "poster": 6335947,
+            "stamp": 1762245225,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7478589,
+            "title": "二编",
+            "poster": 1899481,
+            "stamp": 1766507712,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "我的奋斗",
+    "id": 14462765,
+    "description": "",
+    "last": 1642983323,
+    "lastUser": 7265481,
+    "started": 1642666080,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5181636,
+            "title": "什么，要三战了？",
+            "poster": 6317957,
+            "stamp": 1642666115,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5184210,
+            "title": "操蛋，我的也出了",
+            "poster": 7265481,
+            "stamp": 1642983323,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

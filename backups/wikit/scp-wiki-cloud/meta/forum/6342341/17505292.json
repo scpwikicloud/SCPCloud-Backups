@@ -1,0 +1,89 @@
+{
+    "title": "日车仙人外传：神枪折断之时",
+    "id": 17505292,
+    "description": "",
+    "last": 1767528381,
+    "lastUser": 9884343,
+    "started": 1767343045,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7487214,
+            "title": "作者帖",
+            "poster": 9884343,
+            "stamp": 1767343273,
+            "lastEdit": 1767363628,
+            "lastEditBy": 9884343,
+            "revisions": [
+                {
+                    "title": "作者帖",
+                    "author": 9884343,
+                    "id": 9021186,
+                    "stamp": 1767363628
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9884343,
+                    "id": 9021185,
+                    "stamp": 1767363595
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9884343,
+                    "id": 9020855,
+                    "stamp": 1767345999
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9884343,
+                    "id": 9020836,
+                    "stamp": 1767344412
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9884343,
+                    "id": 9020820,
+                    "stamp": 1767343273
+                }
+            ],
+            "children": [
+                {
+                    "id": 7488381,
+                    "title": "Re: 作者帖",
+                    "poster": 8393776,
+                    "stamp": 1767444304,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7489226,
+                            "title": "Re: 作者帖",
+                            "poster": 9884343,
+                            "stamp": 1767528381,
+                            "lastEdit": 1767528548,
+                            "lastEditBy": 9884343,
+                            "revisions": [
+                                {
+                                    "title": "Re: 作者帖",
+                                    "author": 9884343,
+                                    "id": 9023492,
+                                    "stamp": 1767528548
+                                },
+                                {
+                                    "title": "Re: 作者帖",
+                                    "author": 9884343,
+                                    "id": 9023483,
+                                    "stamp": 1767528381
+                                }
+                            ],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

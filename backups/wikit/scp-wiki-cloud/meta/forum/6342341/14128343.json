@@ -1,0 +1,54 @@
+{
+    "title": "基金会镜像",
+    "id": 14128343,
+    "description": "",
+    "last": 1624268115,
+    "lastUser": 6190503,
+    "started": 1624185217,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5009074,
+            "title": "",
+            "poster": 6283036,
+            "stamp": 1624185800,
+            "lastEdit": 1624185835,
+            "lastEditBy": 6283036,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 6283036,
+                    "id": 6083867,
+                    "stamp": 1624185835
+                },
+                {
+                    "title": "",
+                    "author": 6283036,
+                    "id": 6083865,
+                    "stamp": 1624185800
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 5009110,
+            "title": "",
+            "poster": 6335947,
+            "stamp": 1624188452,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5009756,
+            "title": "",
+            "poster": 6190503,
+            "stamp": 1624268115,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "公告",
+    "id": 13485028,
+    "description": "",
+    "last": 1597144515,
+    "lastUser": 6222558,
+    "started": 1593778707,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4708459,
+            "title": "",
+            "poster": 6592438,
+            "stamp": 1593818047,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4709174,
+            "title": "",
+            "poster": 6204559,
+            "stamp": 1593858312,
+            "lastEdit": 1605245641,
+            "lastEditBy": 6204559,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 6204559,
+                    "id": 5818209,
+                    "stamp": 1605245641
+                },
+                {
+                    "title": "",
+                    "author": 6204559,
+                    "id": 5669681,
+                    "stamp": 1593858312
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 4709237,
+            "title": "",
+            "poster": 6212503,
+            "stamp": 1593863807,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4709724,
+            "title": "干得漂亮",
+            "poster": 6283046,
+            "stamp": 1593902332,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4744515,
+            "title": "",
+            "poster": 6222558,
+            "stamp": 1597144515,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

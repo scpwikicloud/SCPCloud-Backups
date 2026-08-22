@@ -1,0 +1,87 @@
+{
+    "title": "基金会精选行",
+    "id": 17447431,
+    "description": "",
+    "last": 1764303794,
+    "lastUser": 9851562,
+    "started": 1763182940,
+    "startedUser": null,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7424329,
+            "title": "作者贴",
+            "poster": 9851562,
+            "stamp": 1763183303,
+            "lastEdit": 1763187114,
+            "lastEditBy": 9851562,
+            "revisions": [
+                {
+                    "title": "作者贴",
+                    "author": 9851562,
+                    "id": 8945755,
+                    "stamp": 1763187114
+                },
+                {
+                    "title": "作者贴",
+                    "author": 9851562,
+                    "id": 8945643,
+                    "stamp": 1763185286
+                },
+                {
+                    "title": "",
+                    "author": 9851562,
+                    "id": 8945601,
+                    "stamp": 1763183303
+                }
+            ],
+            "children": [
+                {
+                    "id": 7425078,
+                    "title": "Re: 作者贴",
+                    "poster": 9873701,
+                    "stamp": 1763212958,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7425207,
+                            "title": "Re: 作者贴",
+                            "poster": 9851562,
+                            "stamp": 1763216687,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7424906,
+            "title": "",
+            "poster": 9746831,
+            "stamp": 1763201400,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7435684,
+            "title": "一些疑惑的地方。",
+            "poster": 7071305,
+            "stamp": 1763861235,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7439380,
+                    "title": "Re: 一些疑惑的地方。",
+                    "poster": 9851562,
+                    "stamp": 1764303794,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

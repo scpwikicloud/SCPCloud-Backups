@@ -1,0 +1,81 @@
+{
+    "title": "DSSQ_IS_GOD",
+    "id": 17229291,
+    "description": "",
+    "last": 1761565068,
+    "lastUser": 9772664,
+    "started": 1756100991,
+    "startedUser": null,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7167277,
+            "title": "很难不赞同",
+            "poster": 9681840,
+            "stamp": 1756181520,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7168735,
+                    "title": "Re: 很难不赞同",
+                    "poster": 9772664,
+                    "stamp": 1756204120,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7168134,
+            "title": "",
+            "poster": 9321285,
+            "stamp": 1756191576,
+            "lastEdit": 1756191609,
+            "lastEditBy": 9321285,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9321285,
+                    "id": 8665102,
+                    "stamp": 1756191609
+                },
+                {
+                    "title": "",
+                    "author": 9321285,
+                    "id": 8665100,
+                    "stamp": 1756191576
+                }
+            ],
+            "children": [
+                {
+                    "id": 7168301,
+                    "title": "",
+                    "poster": 9772664,
+                    "stamp": 1756194973,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7334639,
+            "title": "正确的",
+            "poster": 9780183,
+            "stamp": 1760981585,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7365944,
+                    "title": "Re: 正确的",
+                    "poster": 9772664,
+                    "stamp": 1761565068,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

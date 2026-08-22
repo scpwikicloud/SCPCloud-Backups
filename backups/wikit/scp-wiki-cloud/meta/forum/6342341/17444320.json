@@ -1,0 +1,47 @@
+{
+    "title": "魔男少女",
+    "id": 17444320,
+    "description": "",
+    "last": 1762874458,
+    "lastUser": 9746831,
+    "started": 1762872760,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7421699,
+            "title": "",
+            "poster": 7491554,
+            "stamp": 1762872881,
+            "lastEdit": 1762876639,
+            "lastEditBy": 7491554,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 7491554,
+                    "id": 8942115,
+                    "stamp": 1762876639
+                },
+                {
+                    "title": "",
+                    "author": 7491554,
+                    "id": 8942047,
+                    "stamp": 1762872881
+                }
+            ],
+            "children": [
+                {
+                    "id": 7421725,
+                    "title": "",
+                    "poster": 9746831,
+                    "stamp": 1762874458,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "梦到啥写啥",
+    "id": 17252144,
+    "description": "",
+    "last": 1761990496,
+    "lastUser": 9767580,
+    "started": 1758427385,
+    "startedUser": null,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7203814,
+            "title": "+3",
+            "poster": 9605332,
+            "stamp": 1758427616,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7203817,
+                    "title": "Re: +3",
+                    "poster": 9767580,
+                    "stamp": 1758427671,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7203821,
+                            "title": "Re: +3",
+                            "poster": 9605332,
+                            "stamp": 1758427935,
+                            "revisions": [],
+                            "children": [
+                                {
+                                    "id": 7203825,
+                                    "title": "Re: +3",
+                                    "poster": 9767580,
+                                    "stamp": 1758428100,
+                                    "revisions": [],
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7388667,
+            "title": "",
+            "poster": 9630405,
+            "stamp": 1761990303,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7388683,
+                    "title": "",
+                    "poster": 9767580,
+                    "stamp": 1761990496,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

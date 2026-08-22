@@ -1,0 +1,32 @@
+{
+    "title": "我",
+    "id": 17504972,
+    "description": "",
+    "last": 1767287636,
+    "lastUser": 9767729,
+    "started": 1767287412,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7486737,
+            "title": "我草好文啊",
+            "poster": 8304348,
+            "stamp": 1767287497,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7486741,
+                    "title": "感谢，其实我也没想写什么",
+                    "poster": 9767729,
+                    "stamp": 1767287636,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

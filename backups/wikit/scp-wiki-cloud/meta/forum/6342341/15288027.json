@@ -1,0 +1,123 @@
+{
+    "title": "为什么格式是这样的？",
+    "id": 15288027,
+    "description": "",
+    "last": 1668097208,
+    "lastUser": 7274437,
+    "started": 1665372816,
+    "startedUser": null,
+    "postsNum": 9,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5633717,
+            "title": "点开页面源代码，自取格式",
+            "poster": 7274437,
+            "stamp": 1665372882,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5635701,
+                    "title": "Re: 点开页面源代码，自取格式",
+                    "poster": 7892243,
+                    "stamp": 1665483848,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 5636222,
+                            "title": "Re: 点开页面源代码，自取格式",
+                            "poster": 7274437,
+                            "stamp": 1665535768,
+                            "revisions": [],
+                            "children": [
+                                {
+                                    "id": 5636332,
+                                    "title": "Re: 点开页面源代码，自取格式",
+                                    "poster": 7892243,
+                                    "stamp": 1665546817,
+                                    "lastEdit": 1665546873,
+                                    "lastEditBy": 7892243,
+                                    "revisions": [
+                                        {
+                                            "title": "Re: 点开页面源代码，自取格式",
+                                            "author": 7892243,
+                                            "id": 6860552,
+                                            "stamp": 1665546873
+                                        },
+                                        {
+                                            "title": "Re: 点开页面源代码，自取格式",
+                                            "author": 7892243,
+                                            "id": 6860549,
+                                            "stamp": 1665546817
+                                        }
+                                    ],
+                                    "children": [
+                                        {
+                                            "id": 5637512,
+                                            "title": "Re: 点开页面源代码，自取格式",
+                                            "poster": 7274437,
+                                            "stamp": 1665621984,
+                                            "revisions": [],
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5635654,
+            "title": "",
+            "poster": 7892243,
+            "stamp": 1665478971,
+            "lastEdit": 1665483108,
+            "lastEditBy": 7892243,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 7892243,
+                    "id": 6859739,
+                    "stamp": 1665483108
+                },
+                {
+                    "title": "",
+                    "author": 7892243,
+                    "id": 6859686,
+                    "stamp": 1665478971
+                }
+            ],
+            "children": [
+                {
+                    "id": 5636224,
+                    "title": "",
+                    "poster": 7274437,
+                    "stamp": 1665535892,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 5665198,
+            "title": "",
+            "poster": 8017463,
+            "stamp": 1666358532,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5706806,
+                    "title": "是的",
+                    "poster": 7274437,
+                    "stamp": 1668097208,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

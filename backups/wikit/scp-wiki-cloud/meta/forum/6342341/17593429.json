@@ -1,0 +1,80 @@
+{
+    "title": "区教",
+    "id": 17593429,
+    "description": "",
+    "last": 1772023217,
+    "lastUser": 10224512,
+    "started": 1771859286,
+    "startedUser": null,
+    "postsNum": 4,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7564895,
+            "title": "区",
+            "poster": 8893555,
+            "stamp": 1771859338,
+            "lastEdit": 1771860056,
+            "lastEditBy": 8893555,
+            "revisions": [
+                {
+                    "title": "区",
+                    "author": 8893555,
+                    "id": 9114846,
+                    "stamp": 1771860056
+                },
+                {
+                    "title": "区",
+                    "author": 8893555,
+                    "id": 9114838,
+                    "stamp": 1771859782
+                },
+                {
+                    "title": "区",
+                    "author": 8893555,
+                    "id": 9114834,
+                    "stamp": 1771859677
+                },
+                {
+                    "title": "区",
+                    "author": 8893555,
+                    "id": 9114831,
+                    "stamp": 1771859651
+                },
+                {
+                    "title": "区",
+                    "author": 8893555,
+                    "id": 9114825,
+                    "stamp": 1771859338
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7564905,
+            "title": "",
+            "poster": 9605487,
+            "stamp": 1771859966,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7565877,
+            "title": "",
+            "poster": 9671553,
+            "stamp": 1771907789,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7567886,
+            "title": "",
+            "poster": 10224512,
+            "stamp": 1772023217,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

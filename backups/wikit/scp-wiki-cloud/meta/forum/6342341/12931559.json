@@ -1,0 +1,54 @@
+{
+    "title": "齐梁世界",
+    "id": 12931559,
+    "description": "",
+    "last": 1579265047,
+    "lastUser": 4725766,
+    "started": 1579003473,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4468349,
+            "title": "",
+            "poster": 4764494,
+            "stamp": 1579003561,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4468354,
+            "title": "",
+            "poster": 5202891,
+            "stamp": 1579004133,
+            "lastEdit": 1614072282,
+            "lastEditBy": 5202891,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 5202891,
+                    "id": 5942807,
+                    "stamp": 1614072282
+                },
+                {
+                    "title": "",
+                    "author": 5202891,
+                    "id": 5344626,
+                    "stamp": 1579004133
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 4471428,
+            "title": "",
+            "poster": 4725766,
+            "stamp": 1579265047,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

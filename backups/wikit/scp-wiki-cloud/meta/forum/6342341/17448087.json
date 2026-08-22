@@ -1,0 +1,31 @@
+{
+    "title": "快捷聊天室",
+    "id": 17448087,
+    "description": "",
+    "last": 1763271120,
+    "lastUser": 6335947,
+    "started": 1763213435,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7425095,
+            "title": "？",
+            "poster": 9746831,
+            "stamp": 1763213448,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7426806,
+            "title": "",
+            "poster": 6335947,
+            "stamp": 1763271120,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

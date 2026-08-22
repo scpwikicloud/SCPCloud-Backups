@@ -1,0 +1,56 @@
+{
+    "title": "世纪残卷",
+    "id": 14578379,
+    "description": "",
+    "last": 1659871191,
+    "lastUser": 7892243,
+    "started": 1648300107,
+    "startedUser": null,
+    "postsNum": 5,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5241978,
+            "title": "",
+            "poster": 7887860,
+            "stamp": 1648300148,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5242303,
+            "title": "职员帖：删帖宣告",
+            "poster": 7892243,
+            "stamp": 1648335695,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5242376,
+            "title": "",
+            "poster": 7892243,
+            "stamp": 1648344340,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5520444,
+            "title": "",
+            "poster": 7451591,
+            "stamp": 1659445798,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 5525932,
+                    "title": "",
+                    "poster": 7892243,
+                    "stamp": 1659871191,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

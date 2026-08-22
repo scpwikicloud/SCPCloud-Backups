@@ -1,0 +1,32 @@
+{
+    "title": "自由学术组织",
+    "id": 17437081,
+    "description": "",
+    "last": 1762604800,
+    "lastUser": 9746831,
+    "started": 1762481296,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7408865,
+            "title": "",
+            "poster": 9701445,
+            "stamp": 1762481306,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7416594,
+                    "title": "",
+                    "poster": 9746831,
+                    "stamp": 1762604800,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

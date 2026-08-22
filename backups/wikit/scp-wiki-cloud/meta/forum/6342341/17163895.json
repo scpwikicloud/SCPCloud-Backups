@@ -1,0 +1,52 @@
+{
+    "title": "SCP-CN-XXXX",
+    "id": 17163895,
+    "description": "",
+    "last": 1752214444,
+    "lastUser": 6335947,
+    "started": 1752055323,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7062788,
+            "title": "Re:看下初稿，不行就删",
+            "poster": 7047022,
+            "stamp": 1752056776,
+            "lastEdit": 1752244567,
+            "lastEditBy": 7047022,
+            "revisions": [
+                {
+                    "title": "Re:看下初稿，不行就删",
+                    "author": 7047022,
+                    "id": 8545545,
+                    "stamp": 1752244567
+                },
+                {
+                    "title": "Re:看下初稿，不行就删",
+                    "author": 7047022,
+                    "id": 8542217,
+                    "stamp": 1752056818
+                },
+                {
+                    "title": "Re:看下初稿，不行就删",
+                    "author": 7047022,
+                    "id": 8542214,
+                    "stamp": 1752056776
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7064797,
+            "title": "",
+            "poster": 6335947,
+            "stamp": 1752214444,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

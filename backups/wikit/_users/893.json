@@ -31,7 +31,7 @@
         "wikidot_user_since": 1615556940,
         "account_type": "free",
         "activity": 2,
-        "fetched_at": 1787243267798,
+        "fetched_at": 1787360306828,
         "user_id": 7319069
     },
     "7321333": {
@@ -55,5 +55,17 @@
         "activity": 0,
         "fetched_at": 1787284053586,
         "user_id": 7321659
+    },
+    "7322938": {
+        "full_name": "HeYunjun",
+        "username": "heyunjun",
+        "real_name": "何云军",
+        "gender": "male",
+        "birthday": 980553600000,
+        "wikidot_user_since": 1615786680,
+        "account_type": "free",
+        "activity": 0,
+        "fetched_at": 1787358023863,
+        "user_id": 7322938
     }
 }

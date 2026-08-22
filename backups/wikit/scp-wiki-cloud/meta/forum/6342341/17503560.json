@@ -1,0 +1,55 @@
+{
+    "title": "RICKROLL Component",
+    "id": 17503560,
+    "description": "",
+    "last": 1767156642,
+    "lastUser": 9859827,
+    "started": 1767102709,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7484507,
+            "title": "",
+            "poster": 8393776,
+            "stamp": 1767102745,
+            "lastEdit": 1767102772,
+            "lastEditBy": 8393776,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 8393776,
+                    "id": 9017311,
+                    "stamp": 1767102772
+                },
+                {
+                    "title": "",
+                    "author": 8393776,
+                    "id": 9017309,
+                    "stamp": 1767102745
+                }
+            ],
+            "children": [
+                {
+                    "id": 7484943,
+                    "title": "",
+                    "poster": 9859827,
+                    "stamp": 1767154480,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7484958,
+            "title": "Update Log",
+            "poster": 9859827,
+            "stamp": 1767156642,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

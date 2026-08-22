@@ -1,0 +1,73 @@
+{
+    "title": "一场梦",
+    "id": 17497109,
+    "description": "",
+    "last": 1772162032,
+    "lastUser": 8326735,
+    "started": 1766466842,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7478232,
+            "title": "作者帖",
+            "poster": 9874148,
+            "stamp": 1766467008,
+            "lastEdit": 1766628343,
+            "lastEditBy": 9874148,
+            "revisions": [
+                {
+                    "title": "作者帖",
+                    "author": 9874148,
+                    "id": 9010438,
+                    "stamp": 1766628343
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9874148,
+                    "id": 9008959,
+                    "stamp": 1766468681
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9874148,
+                    "id": 9008953,
+                    "stamp": 1766467685
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9874148,
+                    "id": 9008950,
+                    "stamp": 1766467199
+                },
+                {
+                    "title": "作者帖",
+                    "author": 9874148,
+                    "id": 9008948,
+                    "stamp": 1766467008
+                }
+            ],
+            "children": [
+                {
+                    "id": 7571164,
+                    "title": "Re: 作者帖",
+                    "poster": 8326735,
+                    "stamp": 1772162032,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7478438,
+            "title": "兄弟不错",
+            "poster": 9884343,
+            "stamp": 1766491490,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

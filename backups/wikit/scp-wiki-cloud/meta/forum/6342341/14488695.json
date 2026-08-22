@@ -1,0 +1,46 @@
+{
+    "title": "新时代宗旨",
+    "id": 14488695,
+    "description": "",
+    "last": 1645306042,
+    "lastUser": 6240575,
+    "started": 1644912916,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 5204210,
+            "title": "",
+            "poster": 6120541,
+            "stamp": 1644912955,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 5208800,
+            "title": "",
+            "poster": 6240575,
+            "stamp": 1645306042,
+            "lastEdit": 1645306109,
+            "lastEditBy": 6240575,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 6240575,
+                    "id": 6356014,
+                    "stamp": 1645306109
+                },
+                {
+                    "title": "",
+                    "author": 6240575,
+                    "id": 6356012,
+                    "stamp": 1645306042
+                }
+            ],
+            "children": []
+        }
+    ]
+}

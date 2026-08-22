@@ -1,0 +1,46 @@
+{
+    "title": "学校食堂",
+    "id": 17490598,
+    "description": "",
+    "last": 1765775334,
+    "lastUser": 9854444,
+    "started": 1765729846,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7470080,
+            "title": "",
+            "poster": 9524814,
+            "stamp": 1765730151,
+            "lastEdit": 1765730238,
+            "lastEditBy": 9524814,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9524814,
+                    "id": 8998976,
+                    "stamp": 1765730238
+                },
+                {
+                    "title": "",
+                    "author": 9524814,
+                    "id": 8998972,
+                    "stamp": 1765730151
+                }
+            ],
+            "children": []
+        },
+        {
+            "id": 7470352,
+            "title": "",
+            "poster": 9854444,
+            "stamp": 1765775334,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

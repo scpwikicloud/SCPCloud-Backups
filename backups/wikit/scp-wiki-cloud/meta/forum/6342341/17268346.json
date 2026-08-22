@@ -1,0 +1,95 @@
+{
+    "title": "My History",
+    "id": 17268346,
+    "description": "",
+    "last": 1759397621,
+    "lastUser": 9672533,
+    "started": 1759224735,
+    "startedUser": null,
+    "postsNum": 6,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7226511,
+            "title": "作者帖",
+            "poster": 9672533,
+            "stamp": 1759224793,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7226633,
+            "title": "",
+            "poster": 3383100,
+            "stamp": 1759226367,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7226834,
+            "title": "",
+            "poster": 9731145,
+            "stamp": 1759229109,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7226913,
+                    "title": "",
+                    "poster": 9672533,
+                    "stamp": 1759230022,
+                    "lastEdit": 1759230032,
+                    "lastEditBy": 9672533,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 9672533,
+                            "id": 8733402,
+                            "stamp": 1759230032
+                        },
+                        {
+                            "title": "",
+                            "author": 9672533,
+                            "id": 8733398,
+                            "stamp": 1759230022
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7240765,
+            "title": "",
+            "poster": 9321285,
+            "stamp": 1759396010,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7240845,
+                    "title": "",
+                    "poster": 9672533,
+                    "stamp": 1759397621,
+                    "lastEdit": 1759398546,
+                    "lastEditBy": 9672533,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 9672533,
+                            "id": 8748297,
+                            "stamp": 1759398546
+                        },
+                        {
+                            "title": "",
+                            "author": 9672533,
+                            "id": 8748239,
+                            "stamp": 1759397621
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

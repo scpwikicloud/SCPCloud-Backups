@@ -1,0 +1,46 @@
+{
+    "title": "云小鬼的钻石系列",
+    "id": 13256119,
+    "description": "",
+    "last": 1587549641,
+    "lastUser": 6204559,
+    "started": 1587357895,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 4604955,
+            "title": "致敬",
+            "poster": 6158388,
+            "stamp": 1587357935,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 4608468,
+            "title": "",
+            "poster": 6204559,
+            "stamp": 1587549641,
+            "lastEdit": 1587549671,
+            "lastEditBy": 6204559,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 6204559,
+                    "id": 5533947,
+                    "stamp": 1587549671
+                },
+                {
+                    "title": "",
+                    "author": 6204559,
+                    "id": 5533946,
+                    "stamp": 1587549641
+                }
+            ],
+            "children": []
+        }
+    ]
+}

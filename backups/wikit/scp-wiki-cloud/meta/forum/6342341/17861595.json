@@ -1,0 +1,55 @@
+{
+    "title": "破序者 中心页",
+    "id": 17861595,
+    "description": "",
+    "last": 1780115430,
+    "lastUser": 9863989,
+    "started": 1778305382,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 8012835,
+            "title": "",
+            "poster": 10138896,
+            "stamp": 1778305444,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 8175434,
+            "title": "UV",
+            "poster": 10252500,
+            "stamp": 1779871408,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 8190696,
+                    "title": "Re: 如下",
+                    "poster": 9863989,
+                    "stamp": 1780115430,
+                    "lastEdit": 1780115557,
+                    "lastEditBy": 9863989,
+                    "revisions": [
+                        {
+                            "title": "Re: 如下",
+                            "author": 9863989,
+                            "id": 9771852,
+                            "stamp": 1780115557
+                        },
+                        {
+                            "title": "Re: 如下",
+                            "author": 9863989,
+                            "id": 9771833,
+                            "stamp": 1780115430
+                        }
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

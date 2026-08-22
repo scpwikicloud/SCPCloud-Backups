@@ -1,0 +1,41 @@
+{
+    "title": "唯余长恨",
+    "id": 17250621,
+    "description": "",
+    "last": 1758339737,
+    "lastUser": 9321285,
+    "started": 1758207307,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7201303,
+            "title": "",
+            "poster": 9321285,
+            "stamp": 1758207335,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7201326,
+                    "title": "",
+                    "poster": 9772664,
+                    "stamp": 1758208970,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 7202319,
+                            "title": "",
+                            "poster": 9321285,
+                            "stamp": 1758339737,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

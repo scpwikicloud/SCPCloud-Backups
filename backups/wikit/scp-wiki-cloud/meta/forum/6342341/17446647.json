@@ -1,0 +1,40 @@
+{
+    "title": "你睁开眼，但是… 中心页",
+    "id": 17446647,
+    "description": "",
+    "last": 1763118842,
+    "lastUser": 9884343,
+    "started": 1763114750,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7423614,
+            "title": "",
+            "poster": 9797808,
+            "stamp": 1763116772,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7423643,
+                    "title": "",
+                    "poster": 9884343,
+                    "stamp": 1763118842,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 7423623,
+            "title": "作者帖",
+            "poster": 9884343,
+            "stamp": 1763117581,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

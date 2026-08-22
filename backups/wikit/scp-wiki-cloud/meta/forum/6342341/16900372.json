@@ -1,0 +1,32 @@
+{
+    "title": "SCP-CN-3988",
+    "id": 16900372,
+    "description": "",
+    "last": 1723016445,
+    "lastUser": 6452551,
+    "started": 1723016389,
+    "startedUser": null,
+    "postsNum": 2,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6588807,
+            "title": "",
+            "poster": 8848462,
+            "stamp": 1723016407,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6588808,
+                    "title": "",
+                    "poster": 6452551,
+                    "stamp": 1723016445,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

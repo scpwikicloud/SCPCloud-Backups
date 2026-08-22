@@ -23,7 +23,7 @@
         "wikidot_user_since": 1585054320,
         "account_type": "free",
         "activity": 2,
-        "fetched_at": 1787255013026,
+        "fetched_at": 1787363923032,
         "user_id": 6262690
     },
     "6262717": {
@@ -47,7 +47,7 @@
         "wikidot_user_since": 1585094520,
         "account_type": "free",
         "activity": 4,
-        "fetched_at": 1787248395791,
+        "fetched_at": 1787357069851,
         "user_id": 6264210
     },
     "6264399": {
@@ -97,5 +97,14 @@
         "activity": 0,
         "fetched_at": 1787282588557,
         "user_id": 6265057
+    },
+    "6266435": {
+        "full_name": "Lovsk",
+        "username": "lovsk",
+        "wikidot_user_since": 1585143720,
+        "account_type": "free",
+        "activity": 1,
+        "fetched_at": 1787363232862,
+        "user_id": 6266435
     }
 }

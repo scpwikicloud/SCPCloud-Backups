@@ -1,0 +1,160 @@
+{
+    "title": "我要当管理",
+    "id": 16927994,
+    "description": "",
+    "last": 1726997059,
+    "lastUser": 8049583,
+    "started": 1725021244,
+    "startedUser": null,
+    "postsNum": 12,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 6638702,
+            "title": "",
+            "poster": 8049583,
+            "stamp": 1725021261,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 6638707,
+                    "title": "",
+                    "poster": 7144335,
+                    "stamp": 1725021762,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 6639066,
+            "title": "",
+            "poster": 8979477,
+            "stamp": 1725070645,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6642532,
+            "title": "",
+            "poster": 3429159,
+            "stamp": 1725246562,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 6654723,
+            "title": "职员贴",
+            "poster": 6452551,
+            "stamp": 1726482315,
+            "lastEdit": 1726483601,
+            "lastEditBy": 6452551,
+            "revisions": [
+                {
+                    "title": "职员贴",
+                    "author": 6452551,
+                    "id": 8070584,
+                    "stamp": 1726483601
+                },
+                {
+                    "title": "职员贴",
+                    "author": 6452551,
+                    "id": 8070563,
+                    "stamp": 1726482315
+                }
+            ],
+            "children": [
+                {
+                    "id": 6654915,
+                    "title": "Re: 职员贴",
+                    "poster": 7144335,
+                    "stamp": 1726496822,
+                    "revisions": [],
+                    "children": []
+                },
+                {
+                    "id": 6654922,
+                    "title": "Re: 职员贴",
+                    "poster": 8049583,
+                    "stamp": 1726497029,
+                    "lastEdit": 1726497077,
+                    "lastEditBy": 8049583,
+                    "revisions": [
+                        {
+                            "title": "Re: 职员贴",
+                            "author": 8049583,
+                            "id": 8070795,
+                            "stamp": 1726497077
+                        },
+                        {
+                            "title": "Re: 职员贴",
+                            "author": 8049583,
+                            "id": 8070792,
+                            "stamp": 1726497029
+                        }
+                    ],
+                    "children": []
+                },
+                {
+                    "id": 6655489,
+                    "title": "Re: 职员贴",
+                    "poster": 7144335,
+                    "stamp": 1726572136,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": 6655463,
+            "title": "",
+            "poster": 8049583,
+            "stamp": 1726568152,
+            "lastEdit": 1726568499,
+            "lastEditBy": 8049583,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 8049583,
+                    "id": 8071534,
+                    "stamp": 1726568499
+                },
+                {
+                    "title": "",
+                    "author": 8049583,
+                    "id": 8071526,
+                    "stamp": 1726568152
+                }
+            ],
+            "children": [
+                {
+                    "id": 6655944,
+                    "title": "",
+                    "poster": 7144335,
+                    "stamp": 1726661959,
+                    "revisions": [],
+                    "children": [
+                        {
+                            "id": 6658074,
+                            "title": "",
+                            "poster": 8049583,
+                            "stamp": 1726746790,
+                            "revisions": [],
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6661157,
+            "title": "",
+            "poster": 8049583,
+            "stamp": 1726997059,
+            "revisions": [],
+            "children": []
+        }
+    ]
+}

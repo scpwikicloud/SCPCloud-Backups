@@ -1,0 +1,40 @@
+{
+    "title": "立在设施边上放号",
+    "id": 17239013,
+    "description": "",
+    "last": 1757137760,
+    "lastUser": 9634348,
+    "started": 1757134940,
+    "startedUser": null,
+    "postsNum": 3,
+    "sticky": false,
+    "isLocked": false,
+    "version": 1,
+    "posts": [
+        {
+            "id": 7186110,
+            "title": "作者帖",
+            "poster": 9634348,
+            "stamp": 1757134994,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 7186157,
+            "title": "",
+            "poster": 9670655,
+            "stamp": 1757137180,
+            "revisions": [],
+            "children": [
+                {
+                    "id": 7186170,
+                    "title": "",
+                    "poster": 9634348,
+                    "stamp": 1757137760,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 6,
+            "global_revision": 1546187906,
+            "author": 7277638,
+            "stamp": 1787374327,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 5,
             "global_revision": 1546178410,
             "author": 7277638,
@@ -55,11 +63,15 @@
     "page_id": 1469195265,
     "votings": [
         [
+            7277638,
+            false
+        ],
+        [
             10295896,
             false
         ]
     ],
-    "rating": -1,
+    "rating": -2,
     "forum_thread": 18328412,
     "tags": [
         "dv至上",
@@ -67,6 +79,6 @@
         "绿色邮筒"
     ],
     "title": "关于绿色邮筒的100个不为人知的事实",
-    "sitemap_update": 1787332433000,
+    "sitemap_update": 1787374327000,
     "is_locked": false
 }

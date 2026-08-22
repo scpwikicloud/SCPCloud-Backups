@@ -1,0 +1,71 @@
+{
+    "name": "no-mr-cassie",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 4,
+            "global_revision": 1546192679,
+            "author": 9533373,
+            "stamp": 1787391000,
+            "flags": "A",
+            "commentary": "已新增标签：原创, 故事。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546192671,
+            "author": 9533373,
+            "stamp": 1787390965,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546192664,
+            "author": 9533373,
+            "stamp": 1787390934,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_2026-08-22-17-25-56-321_com.microsoft.emmx.jpg”。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546192662,
+            "author": 9533373,
+            "stamp": 1787390934,
+            "flags": "F",
+            "commentary": "已上传文件 “Screenshot_2026-08-22-17-25-56-321_com.microsoft.emmx.jpg”。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546192653,
+            "author": 9533373,
+            "stamp": 1787390910,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [
+        {
+            "file_id": 11889995,
+            "name": "Screenshot_2026-08-22-17-25-56-321_com.microsoft.emmx.jpg",
+            "url": "http://scp-wiki-cloud.wikidot.com/local--files/no-mr-cassie/Screenshot_2026-08-22-17-25-56-321_com.microsoft.emmx.jpg",
+            "size": "295.63 kB (302723 Bytes)",
+            "size_bytes": 302723,
+            "mime": "image/jpeg",
+            "content": "JPEG image data, Exif standard: , baseline, precision 8, 1080x2400, components 3",
+            "author": 9533373,
+            "stamp": 1787390935,
+            "internal_version": 1
+        }
+    ],
+    "page_id": 1469214717,
+    "rating": 0,
+    "forum_thread": 18329396,
+    "tags": [
+        "原创",
+        "故事"
+    ],
+    "title": "no-mr-cassie",
+    "sitemap_update": 1787391000000,
+    "votings": [],
+    "is_locked": false
+}

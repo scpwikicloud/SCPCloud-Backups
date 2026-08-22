@@ -2,11 +2,11 @@
     "title": "神风大帝中心页",
     "id": 18324833,
     "description": "",
-    "last": 1787099932,
-    "lastUser": 10157706,
+    "last": 1787379754,
+    "lastUser": 9835992,
     "started": 1786808270,
     "startedUser": null,
-    "postsNum": 2,
+    "postsNum": 3,
     "sticky": false,
     "isLocked": false,
     "version": 1,
@@ -27,6 +27,14 @@
                     "children": []
                 }
             ]
+        },
+        {
+            "id": 9042722,
+            "title": "",
+            "poster": 9835992,
+            "stamp": 1787379754,
+            "revisions": [],
+            "children": []
         }
     ]
 }

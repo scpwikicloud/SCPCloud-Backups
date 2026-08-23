@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 10,
+            "global_revision": 1546207531,
+            "author": 9912972,
+            "stamp": 1787451778,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 9,
             "global_revision": 1546178783,
             "author": 9912972,
@@ -87,6 +95,22 @@
     "page_id": 1469195494,
     "votings": [
         [
+            9835992,
+            false
+        ],
+        [
+            7277638,
+            false
+        ],
+        [
+            10255729,
+            false
+        ],
+        [
+            10245449,
+            false
+        ],
+        [
             9767729,
             true
         ],
@@ -126,6 +150,6 @@
         "蛆"
     ],
     "title": "区🐛",
-    "sitemap_update": 1787334429000,
+    "sitemap_update": 1787451778000,
     "is_locked": false
 }

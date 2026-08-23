@@ -3,6 +3,38 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 10,
+            "global_revision": 1546197099,
+            "author": 7277638,
+            "stamp": 1787403126,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1546197054,
+            "author": 7277638,
+            "stamp": 1787403024,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1546196950,
+            "author": 7277638,
+            "stamp": 1787402717,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1546196744,
+            "author": 7277638,
+            "stamp": 1787402047,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 6,
             "global_revision": 1546187906,
             "author": 7277638,
@@ -79,6 +111,6 @@
         "绿色邮筒"
     ],
     "title": "关于绿色邮筒的100个不为人知的事实",
-    "sitemap_update": 1787374327000,
+    "sitemap_update": 1787403126000,
     "is_locked": false
 }

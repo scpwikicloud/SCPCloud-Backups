@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 6,
+            "global_revision": 1546235039,
+            "author": 10157706,
+            "stamp": 1787552025,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 5,
             "global_revision": 1546108552,
             "author": 10157706,
@@ -53,16 +61,6 @@
     ],
     "files": [],
     "page_id": 1469122933,
-    "rating": -3,
-    "forum_thread": 18324833,
-    "tags": [
-        "dv",
-        "goi",
-        "原创",
-        "神风大帝"
-    ],
-    "title": "神风大帝中心页",
-    "sitemap_update": 1787108518000,
     "votings": [
         [
             10466057,
@@ -77,5 +75,15 @@
             false
         ]
     ],
+    "rating": -3,
+    "forum_thread": 18324833,
+    "tags": [
+        "dv",
+        "goi",
+        "原创",
+        "神风大帝"
+    ],
+    "title": "神风大帝中心页",
+    "sitemap_update": 1787552025000,
     "is_locked": false
 }

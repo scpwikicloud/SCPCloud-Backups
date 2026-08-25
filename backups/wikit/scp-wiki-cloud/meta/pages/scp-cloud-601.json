@@ -1,0 +1,52 @@
+{
+    "name": "scp-cloud-601",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1546230794,
+            "author": 10335993,
+            "stamp": 1787537455,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp, uv至上, 传染性, 原创, 声波传染, 实体, 意识, 敌意, 模因, 水果, 生物, 纽约, 美国, 苹果, 蔬菜。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546230703,
+            "author": 10335993,
+            "stamp": 1787537270,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469220137,
+    "rating": 1,
+    "tags": [
+        "keter",
+        "scp",
+        "uv至上",
+        "传染性",
+        "原创",
+        "声波传染",
+        "实体",
+        "意识",
+        "敌意",
+        "模因",
+        "水果",
+        "生物",
+        "纽约",
+        "美国",
+        "苹果",
+        "蔬菜"
+    ],
+    "title": "SCP-CLOUD-601",
+    "sitemap_update": 1787537455000,
+    "votings": [
+        [
+            10245449,
+            true
+        ]
+    ],
+    "is_locked": false
+}

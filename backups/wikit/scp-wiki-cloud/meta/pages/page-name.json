@@ -3,6 +3,62 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 17,
+            "global_revision": 1546241371,
+            "author": 7277638,
+            "stamp": 1787573598,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1546241122,
+            "author": 7277638,
+            "stamp": 1787572879,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1546241065,
+            "author": 7277638,
+            "stamp": 1787572660,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1546241043,
+            "author": 7277638,
+            "stamp": 1787572578,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1546240959,
+            "author": 7277638,
+            "stamp": 1787572336,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1546240824,
+            "author": 7277638,
+            "stamp": 1787571876,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 11,
+            "global_revision": 1546240616,
+            "author": 7277638,
+            "stamp": 1787571371,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 10,
             "global_revision": 1546197099,
             "author": 7277638,
@@ -99,11 +155,19 @@
             false
         ],
         [
+            10245449,
+            false
+        ],
+        [
+            9534743,
+            false
+        ],
+        [
             10295896,
             false
         ]
     ],
-    "rating": -2,
+    "rating": -4,
     "forum_thread": 18328412,
     "tags": [
         "dv至上",
@@ -111,6 +175,6 @@
         "绿色邮筒"
     ],
     "title": "关于绿色邮筒的100个不为人知的事实",
-    "sitemap_update": 1787403126000,
+    "sitemap_update": 1787573598000,
     "is_locked": false
 }

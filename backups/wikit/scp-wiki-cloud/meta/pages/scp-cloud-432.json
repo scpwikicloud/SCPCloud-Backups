@@ -1,0 +1,39 @@
+{
+    "name": "scp-cloud-432",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 1,
+            "global_revision": 1546235370,
+            "author": 10335993,
+            "stamp": 1787552980,
+            "flags": "A",
+            "commentary": "已新增标签：keter, scp, uv至上, 传染, 原创, 建筑性, 真菌, 认知影响。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546235352,
+            "author": 10335993,
+            "stamp": 1787552907,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469221042,
+    "rating": 0,
+    "tags": [
+        "keter",
+        "scp",
+        "uv至上",
+        "传染",
+        "原创",
+        "建筑性",
+        "真菌",
+        "认知影响"
+    ],
+    "title": "SCP-CLOUD-432",
+    "sitemap_update": 1787552980000,
+    "votings": [],
+    "is_locked": false
+}

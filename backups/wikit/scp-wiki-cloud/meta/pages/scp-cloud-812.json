@@ -3,6 +3,62 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 18,
+            "global_revision": 1546246291,
+            "author": 10364668,
+            "stamp": 1787589399,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 17,
+            "global_revision": 1546225719,
+            "author": 10364668,
+            "stamp": 1787507719,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 16,
+            "global_revision": 1546225709,
+            "author": 10364668,
+            "stamp": 1787507676,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 15,
+            "global_revision": 1546225699,
+            "author": 10364668,
+            "stamp": 1787507625,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 14,
+            "global_revision": 1546225688,
+            "author": 10364668,
+            "stamp": 1787507548,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1546225684,
+            "author": 10364668,
+            "stamp": 1787507482,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 12,
+            "global_revision": 1546216809,
+            "author": 10364668,
+            "stamp": 1787478943,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 11,
             "global_revision": 1546202349,
             "author": 10364668,
@@ -159,6 +215,6 @@
         "黄衣弄臣"
     ],
     "title": "SCP-Cloud-812",
-    "sitemap_update": 1787420861000,
+    "sitemap_update": 1787589399000,
     "is_locked": false
 }

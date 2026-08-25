@@ -1,0 +1,51 @@
+{
+    "name": "jeee-newjeee",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1546232144,
+            "author": 10227132,
+            "stamp": 1787541342,
+            "flags": "A",
+            "commentary": "已新增标签：奇术讲义。 移除标签：奇术讲座。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546232132,
+            "author": 10227132,
+            "stamp": 1787541310,
+            "flags": "A",
+            "commentary": "已新增标签：奇术讲座, 搬运。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546232118,
+            "author": 10227132,
+            "stamp": 1787541275,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469220361,
+    "rating": 2,
+    "forum_thread": 18330272,
+    "tags": [
+        "奇术讲义",
+        "搬运"
+    ],
+    "title": "关于近期奇术学领域的新提出概念的统归讲义 & 关于近期奇术学领域的新提出概念的讲义汇总",
+    "sitemap_update": 1787541342000,
+    "votings": [
+        [
+            7277638,
+            true
+        ],
+        [
+            10295896,
+            true
+        ]
+    ],
+    "is_locked": false
+}

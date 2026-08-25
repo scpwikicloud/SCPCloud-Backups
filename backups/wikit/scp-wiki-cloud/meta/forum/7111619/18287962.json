@@ -2,9 +2,11 @@
     "title": "新人报道",
     "id": 18287962,
     "description": "",
+    "last": 1787555813,
+    "lastUser": 9835992,
     "started": 1786154255,
     "startedUser": 10450212,
-    "postsNum": 1,
+    "postsNum": 2,
     "sticky": false,
     "isLocked": false,
     "version": 1,
@@ -14,6 +16,14 @@
             "title": "新人报道",
             "poster": 10450212,
             "stamp": 1786154255,
+            "revisions": [],
+            "children": []
+        },
+        {
+            "id": 9045537,
+            "title": "Re: 新人报道",
+            "poster": 9835992,
+            "stamp": 1787555813,
             "revisions": [],
             "children": []
         }

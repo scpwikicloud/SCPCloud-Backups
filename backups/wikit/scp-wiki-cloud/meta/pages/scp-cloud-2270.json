@@ -1,0 +1,56 @@
+{
+    "name": "scp-cloud-2270",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 2,
+            "global_revision": 1546217838,
+            "author": 10255729,
+            "stamp": 1787482494,
+            "flags": "A",
+            "commentary": "已新增标签：绿色邮筒, 🐛。"
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546217790,
+            "author": 10255729,
+            "stamp": 1787482449,
+            "flags": "A",
+            "commentary": "已新增标签：dv。"
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546214229,
+            "author": 10255729,
+            "stamp": 1787470579,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469217598,
+    "rating": -3,
+    "forum_thread": 18329806,
+    "tags": [
+        "dv",
+        "绿色邮筒",
+        "🐛"
+    ],
+    "title": "SCP-CLOUD-2270",
+    "sitemap_update": 1787482494000,
+    "votings": [
+        [
+            7277638,
+            false
+        ],
+        [
+            7952603,
+            false
+        ],
+        [
+            8285797,
+            false
+        ]
+    ],
+    "is_locked": false
+}

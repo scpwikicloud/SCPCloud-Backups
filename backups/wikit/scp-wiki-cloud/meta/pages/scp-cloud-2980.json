@@ -1,0 +1,135 @@
+{
+    "name": "scp-cloud-2980",
+    "version": 18,
+    "revisions": [
+        {
+            "revision": 10,
+            "global_revision": 1546215389,
+            "author": 8285797,
+            "stamp": 1787474338,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 9,
+            "global_revision": 1546215169,
+            "author": 8285797,
+            "stamp": 1787473654,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 8,
+            "global_revision": 1546215097,
+            "author": 8285797,
+            "stamp": 1787473627,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 7,
+            "global_revision": 1546214544,
+            "author": 8285797,
+            "stamp": 1787471813,
+            "flags": "A",
+            "commentary": "已新增标签：评分教会。 移除标签：评模教会。"
+        },
+        {
+            "revision": 6,
+            "global_revision": 1546214176,
+            "author": 8285797,
+            "stamp": 1787470398,
+            "flags": "A",
+            "commentary": "已新增标签：评模教会。"
+        },
+        {
+            "revision": 5,
+            "global_revision": 1546213494,
+            "author": 8285797,
+            "stamp": 1787468718,
+            "flags": "T",
+            "commentary": ""
+        },
+        {
+            "revision": 4,
+            "global_revision": 1546213309,
+            "author": 8285797,
+            "stamp": 1787468289,
+            "flags": "A",
+            "commentary": "已新增标签：何意味, 短而无物, 题材撞车了, 🐛。"
+        },
+        {
+            "revision": 3,
+            "global_revision": 1546213293,
+            "author": 8285797,
+            "stamp": 1787468241,
+            "flags": "A",
+            "commentary": "已新增标签：dv至上。"
+        },
+        {
+            "revision": 2,
+            "global_revision": 1546213288,
+            "author": 8285797,
+            "stamp": 1787468226,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 1,
+            "global_revision": 1546213279,
+            "author": 8285797,
+            "stamp": 1787468212,
+            "flags": "S T",
+            "commentary": ""
+        },
+        {
+            "revision": 0,
+            "global_revision": 1546213252,
+            "author": 8285797,
+            "stamp": 1787468168,
+            "flags": "N",
+            "commentary": ""
+        }
+    ],
+    "files": [],
+    "page_id": 1469217478,
+    "rating": -6,
+    "forum_thread": 18329794,
+    "tags": [
+        "dv至上",
+        "何意味",
+        "短而无物",
+        "评分教会",
+        "题材撞车了",
+        "🐛"
+    ],
+    "title": "SCP-CLOUD-2980 只是一个评分模块",
+    "sitemap_update": 1787474338000,
+    "votings": [
+        [
+            10157706,
+            false
+        ],
+        [
+            7277638,
+            false
+        ],
+        [
+            10255729,
+            false
+        ],
+        [
+            10466057,
+            false
+        ],
+        [
+            7952603,
+            false
+        ],
+        [
+            8285797,
+            false
+        ]
+    ],
+    "is_locked": false
+}

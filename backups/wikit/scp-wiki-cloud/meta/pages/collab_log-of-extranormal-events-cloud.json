@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 11,
+            "global_revision": 1546259539,
+            "author": 8305255,
+            "stamp": 1787650582,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 9"
+        },
+        {
             "revision": 10,
             "global_revision": 1546245728,
             "author": 10518608,
@@ -127,13 +135,14 @@
             true
         ]
     ],
+    "rating": 8,
     "forum_thread": 15745484,
     "tags": [
         "原创",
         "合作",
         "故事"
     ],
-    "title": "八嘎呀路",
-    "sitemap_update": 1787587287000,
+    "title": "云国分部超常事件记录",
+    "sitemap_update": 1787650582000,
     "is_locked": false
 }

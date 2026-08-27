@@ -2,11 +2,11 @@
     "title": "SCP-CN-2504，但AI翻譯",
     "id": 18328355,
     "description": "",
-    "last": 1787378222,
-    "lastUser": 10335993,
+    "last": 1787751660,
+    "lastUser": 10299126,
     "started": 1787241502,
     "startedUser": null,
-    "postsNum": 5,
+    "postsNum": 7,
     "sticky": false,
     "isLocked": false,
     "version": 1,
@@ -87,6 +87,53 @@
             "stamp": 1787378222,
             "revisions": [],
             "children": []
+        },
+        {
+            "id": 9048765,
+            "title": "",
+            "poster": 9533373,
+            "stamp": 1787750699,
+            "lastEdit": 1787750728,
+            "lastEditBy": 9533373,
+            "revisions": [
+                {
+                    "title": "",
+                    "author": 9533373,
+                    "id": 10663017,
+                    "stamp": 1787750728
+                },
+                {
+                    "title": "",
+                    "author": 9533373,
+                    "id": 10663016,
+                    "stamp": 1787750699
+                }
+            ],
+            "children": [
+                {
+                    "id": 9048786,
+                    "title": "",
+                    "poster": 10299126,
+                    "stamp": 1787751660,
+                    "lastEdit": 1787751680,
+                    "lastEditBy": 10299126,
+                    "revisions": [
+                        {
+                            "title": "",
+                            "author": 10299126,
+                            "id": 10663041,
+                            "stamp": 1787751680
+                        },
+                        {
+                            "title": "",
+                            "author": 10299126,
+                            "id": 10663040,
+                            "stamp": 1787751660
+                        }
+                    ],
+                    "children": []
+                }
+            ]
         }
     ]
 }

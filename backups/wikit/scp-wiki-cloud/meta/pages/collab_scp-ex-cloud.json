@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 34,
+            "global_revision": 1546259531,
+            "author": 6335947,
+            "stamp": 1787650561,
+            "flags": "S T",
+            "commentary": "您已成功地回复本页至修订版本编号 32"
+        },
+        {
             "revision": 33,
             "global_revision": 1546245680,
             "author": 10518608,
@@ -296,7 +304,7 @@
         "中心",
         "管理"
     ],
-    "title": "DrX",
-    "sitemap_update": 1787587051000,
+    "title": "SCP-CLOUD-EX",
+    "sitemap_update": 1787650561000,
     "is_locked": false
 }

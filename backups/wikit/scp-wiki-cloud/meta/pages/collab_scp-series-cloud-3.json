@@ -3,6 +3,14 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 236,
+            "global_revision": 1546347997,
+            "author": 10335993,
+            "stamp": 1787976867,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 235,
             "global_revision": 1546274001,
             "author": 9872412,
@@ -1925,6 +1933,6 @@
         "管理"
     ],
     "title": "SCP-CLOUD系列 III",
-    "sitemap_update": 1787713051000,
+    "sitemap_update": 1787976867000,
     "is_locked": false
 }

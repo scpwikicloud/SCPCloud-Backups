@@ -3,6 +3,22 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 14,
+            "global_revision": 1546337716,
+            "author": 7277638,
+            "stamp": 1787944468,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 13,
+            "global_revision": 1546337707,
+            "author": 7277638,
+            "stamp": 1787944405,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 12,
             "global_revision": 1546170557,
             "author": 7277638,
@@ -115,11 +131,23 @@
             false
         ],
         [
+            9701445,
+            false
+        ],
+        [
+            9765302,
+            false
+        ],
+        [
             10335993,
+            false
+        ],
+        [
+            10453329,
             false
         ]
     ],
-    "rating": -2,
+    "rating": -5,
     "forum_thread": 18327682,
     "tags": [
         "dv至上",
@@ -132,6 +160,6 @@
         "魔怔"
     ],
     "title": "Scp-Cloud-076-mbti魔怔狗",
-    "sitemap_update": 1787308549000,
+    "sitemap_update": 1787944468000,
     "is_locked": false
 }

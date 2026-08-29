@@ -3,6 +3,38 @@
     "version": 18,
     "revisions": [
         {
+            "revision": 23,
+            "global_revision": 1546357085,
+            "author": 7277638,
+            "stamp": 1787995496,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 22,
+            "global_revision": 1546357023,
+            "author": 7277638,
+            "stamp": 1787995405,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 21,
+            "global_revision": 1546356842,
+            "author": 7277638,
+            "stamp": 1787995247,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
+            "revision": 20,
+            "global_revision": 1546333592,
+            "author": 7277638,
+            "stamp": 1787926350,
+            "flags": "S",
+            "commentary": ""
+        },
+        {
             "revision": 19,
             "global_revision": 1546264961,
             "author": 7277638,
@@ -181,9 +213,13 @@
         [
             10295896,
             false
+        ],
+        [
+            10453329,
+            false
         ]
     ],
-    "rating": -4,
+    "rating": -5,
     "forum_thread": 18328412,
     "tags": [
         "dv至上",
@@ -191,6 +227,6 @@
         "绿色邮筒"
     ],
     "title": "关于绿色邮筒的100个不为人知的事实",
-    "sitemap_update": 1787667405000,
+    "sitemap_update": 1787995496000,
     "is_locked": false
 }

@@ -2,11 +2,11 @@
     "title": "SCP-CLOUD-432",
     "id": 18330969,
     "description": "",
-    "last": 1787663377,
-    "lastUser": 10526125,
+    "last": 1787970193,
+    "lastUser": 10335993,
     "started": 1787663355,
     "startedUser": null,
-    "postsNum": 1,
+    "postsNum": 2,
     "sticky": false,
     "isLocked": false,
     "version": 1,
@@ -17,7 +17,16 @@
             "poster": 10526125,
             "stamp": 1787663377,
             "revisions": [],
-            "children": []
+            "children": [
+                {
+                    "id": 9052147,
+                    "title": "",
+                    "poster": 10335993,
+                    "stamp": 1787970193,
+                    "revisions": [],
+                    "children": []
+                }
+            ]
         }
     ]
 }
